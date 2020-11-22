@@ -20,6 +20,7 @@ pip install pandas
 python covid19.py /xxx/xxx/COVID-19 /yyy/yyy/COVID-19-Month-Recovery
 ```
 /xxx/xxx/COVID-19是下载的[COVID-19](https://github.com/CSSEGISandData/COVID-19)仓库数据根目录，默认是当前目录
+
 /yyy/yyy/COVID-19-Month-Recovery是输出数据目录，默认是当前目录
 
 ## 3.字段说明
