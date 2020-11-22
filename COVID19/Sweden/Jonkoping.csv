@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Jonkoping,2020-06-30,3977,169,0,3977,169,0,0.042494342469197886,1.0,0.0,169,
+7,Sweden,Jonkoping,2020-07-31,4685,179,0,4516,10,0,0.0022143489813994687,1.0,0.0,10,0.0
+8,Sweden,Jonkoping,2020-08-31,4949,181,0,4770,2,0,0.0004192872117400419,1.0,0.0,2,0.0
+9,Sweden,Jonkoping,2020-09-30,5375,183,0,5194,2,0,0.0003850596842510589,1.0,0.0,2,0.0
+10,Sweden,Jonkoping,2020-10-31,6636,185,0,6453,2,0,0.0003099333643266698,1.0,0.0,2,0.0
+11,Sweden,Jonkoping,2020-11-21,10317,199,0,10132,14,0,0.0013817607579944729,1.0,0.0,14,0.0

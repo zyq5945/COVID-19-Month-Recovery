@@ -1,0 +1,6 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+7,Netherlands,Groningen,2020-07-31,385,17,0,385,17,0,0.04415584415584416,1.0,0.0,17,
+8,Netherlands,Groningen,2020-08-31,598,19,0,581,2,0,0.0034423407917383822,1.0,0.0,2,0.0
+9,Netherlands,Groningen,2020-09-30,1802,20,0,1783,1,0,0.0005608524957936063,1.0,0.0,1,0.0
+10,Netherlands,Groningen,2020-10-31,6020,31,0,6000,11,0,0.0018333333333333333,1.0,0.0,11,0.0
+11,Netherlands,Groningen,2020-11-21,7649,45,0,7618,14,0,0.0018377526909950119,1.0,0.0,14,0.0

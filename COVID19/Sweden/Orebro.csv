@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Orebro,2020-06-30,2319,162,0,2319,162,0,0.06985769728331177,1.0,0.0,162,
+7,Sweden,Orebro,2020-07-31,2499,171,0,2337,9,0,0.0038510911424903724,1.0,0.0,9,0.0
+8,Sweden,Orebro,2020-08-31,2659,171,0,2488,0,0,0.0,,,0,
+9,Sweden,Orebro,2020-09-30,2991,172,0,2820,1,0,0.0003546099290780142,1.0,0.0,1,
+10,Sweden,Orebro,2020-10-31,4828,173,0,4656,1,0,0.0002147766323024055,1.0,0.0,1,0.0
+11,Sweden,Orebro,2020-11-21,8466,182,0,8293,9,0,0.0010852526226938382,1.0,0.0,9,0.0

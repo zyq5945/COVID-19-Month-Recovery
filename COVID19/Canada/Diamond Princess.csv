@@ -1,0 +1,10 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+3,Canada,Diamond Princess,2020-03-31,0,1,0,0,1,0,,1.0,0.0,1,
+4,Canada,Diamond Princess,2020-04-30,0,1,0,-1,0,0,-0.0,,,0,
+5,Canada,Diamond Princess,2020-05-31,1,1,0,0,0,0,,,,0,
+6,Canada,Diamond Princess,2020-06-30,0,1,0,-1,0,0,-0.0,,,0,
+7,Canada,Diamond Princess,2020-07-31,0,1,0,-1,0,0,-0.0,,,0,
+8,Canada,Diamond Princess,2020-08-31,0,1,0,-1,0,0,-0.0,,,0,
+9,Canada,Diamond Princess,2020-09-30,0,1,0,-1,0,0,-0.0,,,0,
+10,Canada,Diamond Princess,2020-10-31,0,1,0,-1,0,0,-0.0,,,0,
+11,Canada,Diamond Princess,2020-11-21,0,1,0,-1,0,0,-0.0,,,0,

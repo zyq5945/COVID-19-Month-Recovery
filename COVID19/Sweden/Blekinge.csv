@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Blekinge,2020-06-30,444,12,0,444,12,0,0.02702702702702703,1.0,0.0,12,
+7,Sweden,Blekinge,2020-07-31,491,14,0,479,2,0,0.0041753653444676405,1.0,0.0,2,0.0
+8,Sweden,Blekinge,2020-08-31,609,16,0,595,2,0,0.0033613445378151263,1.0,0.0,2,0.0
+9,Sweden,Blekinge,2020-09-30,712,17,0,696,1,0,0.0014367816091954023,1.0,0.0,1,0.0
+10,Sweden,Blekinge,2020-10-31,999,18,0,982,1,0,0.0010183299389002036,1.0,0.0,1,0.0
+11,Sweden,Blekinge,2020-11-21,1653,21,0,1635,3,0,0.001834862385321101,1.0,0.0,3,0.0

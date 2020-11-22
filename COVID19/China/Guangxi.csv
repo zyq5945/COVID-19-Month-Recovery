@@ -1,0 +1,12 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+1,China,Guangxi,2020-01-31,87,,2,87,,2,,,,,
+2,China,Guangxi,2020-02-29,252,2,176,,,174,,,,,
+3,China,Guangxi,2020-03-31,254,2,250,76,0,74,0.9736842105263158,0.0,1.0,74,
+4,China,Guangxi,2020-04-30,254,2,252,2,0,2,1.0,0.0,1.0,2,0.0
+5,China,Guangxi,2020-05-31,254,2,252,0,0,0,,,,0,
+6,China,Guangxi,2020-06-30,254,2,252,0,0,0,,,,0,
+7,China,Guangxi,2020-07-31,255,2,253,1,0,1,1.0,0.0,1.0,1,
+8,China,Guangxi,2020-08-31,255,2,253,0,0,0,,,,0,
+9,China,Guangxi,2020-09-30,259,2,255,4,0,2,0.5,0.0,1.0,2,
+10,China,Guangxi,2020-10-31,260,2,258,3,0,3,1.0,0.0,1.0,3,0.0
+11,China,Guangxi,2020-11-21,263,2,258,3,0,0,0.0,,,0,

@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Halland,2020-06-30,1483,71,0,1483,71,0,0.04787592717464599,1.0,0.0,71,
+7,Sweden,Halland,2020-07-31,1757,79,0,1686,8,0,0.004744958481613286,1.0,0.0,8,0.0
+8,Sweden,Halland,2020-08-31,2137,81,0,2058,2,0,0.0009718172983479105,1.0,0.0,2,0.0
+9,Sweden,Halland,2020-09-30,2576,87,0,2495,6,0,0.002404809619238477,1.0,0.0,6,0.0
+10,Sweden,Halland,2020-10-31,3435,89,0,3348,2,0,0.0005973715651135006,1.0,0.0,2,0.0
+11,Sweden,Halland,2020-11-21,5527,99,0,5438,10,0,0.0018389113644722325,1.0,0.0,10,0.0

@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Uppsala,2020-06-30,3236,226,0,3236,226,0,0.06983930778739184,1.0,0.0,226,
+7,Sweden,Uppsala,2020-07-31,3559,239,0,3333,13,0,0.0039003900390039005,1.0,0.0,13,0.0
+8,Sweden,Uppsala,2020-08-31,3776,242,0,3537,3,0,0.0008481764206955047,1.0,0.0,3,0.0
+9,Sweden,Uppsala,2020-09-30,4072,243,0,3830,1,0,0.0002610966057441253,1.0,0.0,1,0.0
+10,Sweden,Uppsala,2020-10-31,5789,255,0,5546,12,0,0.002163721601153985,1.0,0.0,12,0.0
+11,Sweden,Uppsala,2020-11-21,9521,278,0,9266,23,0,0.0024821929635225554,1.0,0.0,23,0.0

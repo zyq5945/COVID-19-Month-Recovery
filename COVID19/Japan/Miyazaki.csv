@@ -1,0 +1,8 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+5,Japan,Miyazaki,2020-05-31,17,0,17,17,0,17,1.0,0.0,1.0,17,
+6,Japan,Miyazaki,2020-06-30,17,0,17,0,0,0,,,,0,
+7,Japan,Miyazaki,2020-07-31,141,0,20,124,0,3,0.024193548387096774,0.0,1.0,3,
+8,Japan,Miyazaki,2020-08-31,358,1,298,338,1,278,0.8254437869822485,0.0035842293906810036,0.996415770609319,279,-0.0035842293906810374
+9,Japan,Miyazaki,2020-09-30,365,1,343,66,0,45,0.6818181818181818,0.0,1.0,45,0.0035842293906810374
+10,Japan,Miyazaki,2020-10-31,367,1,366,23,0,23,1.0,0.0,1.0,23,0.0
+11,Japan,Miyazaki,2020-11-21,413,1,372,46,0,6,0.13043478260869565,0.0,1.0,6,0.0

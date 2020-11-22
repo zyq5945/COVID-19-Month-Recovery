@@ -1,0 +1,9 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+4,Western Sahara,,2020-04-30,6,0,5,6,0,5,0.8333333333333334,0.0,1.0,5,
+5,Western Sahara,,2020-05-31,9,1,6,4,1,1,0.5,0.5,0.5,2,-0.5
+6,Western Sahara,,2020-06-30,10,1,8,3,0,2,0.6666666666666666,0.0,1.0,2,0.5
+7,Western Sahara,,2020-07-31,10,1,8,1,0,0,0.0,,,0,
+8,Western Sahara,,2020-08-31,10,1,8,1,0,0,0.0,,,0,
+9,Western Sahara,,2020-09-30,10,1,8,1,0,0,0.0,,,0,
+10,Western Sahara,,2020-10-31,10,1,8,1,0,0,0.0,,,0,
+11,Western Sahara,,2020-11-21,10,1,8,1,0,0,0.0,,,0,

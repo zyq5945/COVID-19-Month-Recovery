@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Ostergotland,2020-06-30,3212,224,0,3212,224,0,0.06973848069738481,1.0,0.0,224,
+7,Sweden,Ostergotland,2020-07-31,3515,260,0,3291,36,0,0.010938924339106655,1.0,0.0,36,0.0
+8,Sweden,Ostergotland,2020-08-31,3794,263,0,3534,3,0,0.0008488964346349745,1.0,0.0,3,0.0
+9,Sweden,Ostergotland,2020-09-30,4092,278,0,3829,15,0,0.003917471924784539,1.0,0.0,15,0.0
+10,Sweden,Ostergotland,2020-10-31,5636,251,0,5358,-27,0,-0.005039193729003359,1.0,-0.0,-27,-0.0
+11,Sweden,Ostergotland,2020-11-21,8428,276,0,8177,25,0,0.0030573559985324693,1.0,0.0,25,0.0

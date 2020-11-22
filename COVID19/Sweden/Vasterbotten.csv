@@ -1,0 +1,7 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+6,Sweden,Vasterbotten,2020-06-30,699,31,0,699,31,0,0.044349070100143065,1.0,0.0,31,
+7,Sweden,Vasterbotten,2020-07-31,906,31,0,875,0,0,0.0,,,0,
+8,Sweden,Vasterbotten,2020-08-31,866,31,0,835,0,0,0.0,,,0,
+9,Sweden,Vasterbotten,2020-09-30,1030,31,0,999,0,0,0.0,,,0,
+10,Sweden,Vasterbotten,2020-10-31,1362,31,0,1331,0,0,0.0,,,0,
+11,Sweden,Vasterbotten,2020-11-21,3284,37,0,3253,6,0,0.0018444512757454657,1.0,0.0,6,

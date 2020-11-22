@@ -1,0 +1,9 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+4,US,Diamond Princess,2020-04-30,49,0,0,49,0,0,0.0,,,0,
+5,US,Diamond Princess,2020-05-31,49,0,,49,0,,,,,,
+6,US,Diamond Princess,2020-06-30,49,0,,,0,,,,,,
+7,US,Diamond Princess,2020-07-31,49,0,,,0,,,,,,
+8,US,Diamond Princess,2020-08-31,49,0,,,0,,,,,,
+9,US,Diamond Princess,2020-09-30,49,0,,,0,,,,,,
+10,US,Diamond Princess,2020-10-31,49,0,,,0,,,,,,
+11,US,Diamond Princess,2020-11-21,49,0,,,0,,,,,,

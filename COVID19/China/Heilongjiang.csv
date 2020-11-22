@@ -1,0 +1,12 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+1,China,Heilongjiang,2020-01-31,59,2,,59,2,,,,,,
+2,China,Heilongjiang,2020-02-29,480,13,301,,11,,,,,,
+3,China,Heilongjiang,2020-03-31,484,13,469,170,0,168,0.9882352941176471,0.0,1.0,168,
+4,China,Heilongjiang,2020-04-30,944,13,587,462,0,118,0.2554112554112554,0.0,1.0,118,0.0
+5,China,Heilongjiang,2020-05-31,945,13,932,345,0,345,1.0,0.0,1.0,345,0.0
+6,China,Heilongjiang,2020-06-30,947,13,934,2,0,2,1.0,0.0,1.0,2,0.0
+7,China,Heilongjiang,2020-07-31,947,13,934,0,0,0,,,,0,
+8,China,Heilongjiang,2020-08-31,948,13,935,1,0,1,1.0,0.0,1.0,1,
+9,China,Heilongjiang,2020-09-30,948,13,935,0,0,0,,,,0,
+10,China,Heilongjiang,2020-10-31,949,13,935,1,0,0,0.0,,,0,
+11,China,Heilongjiang,2020-11-21,949,13,936,1,0,1,1.0,0.0,1.0,1,

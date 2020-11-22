@@ -1,0 +1,9 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+4,US,Washington,2020-04-30,14327,814,0,14327,814,0,0.05681580233126265,1.0,0.0,814,
+5,US,Washington,2020-05-31,21702,1118,,20888,304,,,,,,
+6,US,Washington,2020-06-30,32824,1332,,,214,,,,,,
+7,US,Washington,2020-07-31,55803,1564,,,232,,,,,,
+8,US,Washington,2020-08-31,74635,1915,,,351,,,,,,
+9,US,Washington,2020-09-30,87522,2126,,,211,,,,,,
+10,US,Washington,2020-10-31,107501,2366,,,240,,,,,,
+11,US,Washington,2020-11-21,141260,2619,,,253,,,,,,

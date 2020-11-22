@@ -1,0 +1,9 @@
+Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
+4,US,California,2020-04-30,50130,2031,0,50130,2031,0,0.0405146618791143,1.0,0.0,2031,
+5,US,California,2020-05-31,111951,4172,,109920,2141,,,,,,
+6,US,California,2020-06-30,231232,6082,,,1910,,,,,,
+7,US,California,2020-07-31,500556,9214,,,3132,,,,,,
+8,US,California,2020-08-31,712475,13022,,,3808,,,,,,
+9,US,California,2020-09-30,819115,15885,,,2863,,,,,,
+10,US,California,2020-10-31,932143,17659,,,1774,,,,,,
+11,US,California,2020-11-21,1105435,18672,,,1013,,,,,,
