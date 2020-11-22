@@ -1,7 +1,7 @@
 
 ## 1.介绍说明
 
-首先声明下，重新整理分析的是[CSSEGISandData](https://github.com/CSSEGISandData)的[COVID-19](https://github.com/CSSEGISandData/COVID-19)数据，针对的是该数据各地区各月份的康复情况的好坏。
+首先声明下，重新整理分析的是[CSSEGISandData](https://github.com/CSSEGISandData)的[COVID-19](https://github.com/CSSEGISandData/COVID-19)数据，针对的是该数据各地区各月份的康复情况的好坏,。若是你认为数据有误，请向CSSEGISandData联系反馈修改。
 
 
 ## 2.运行脚本Python
