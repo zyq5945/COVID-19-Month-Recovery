@@ -3,4 +3,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Netherlands,Unknown,2020-08-31,615,18,0,597,0,0,0.0,,,0,
 9,Netherlands,Unknown,2020-09-30,1025,18,0,1007,0,0,0.0,,,0,
 10,Netherlands,Unknown,2020-10-31,2383,25,0,2365,7,0,0.002959830866807611,1.0,0.0,7,
-11,Netherlands,Unknown,2020-11-21,2854,26,0,2829,1,0,0.0003534817956875221,1.0,0.0,1,0.0
+11,Netherlands,Unknown,2020-11-22,2885,27,0,2860,2,0,0.0006993006993006993,1.0,0.0,2,0.0
