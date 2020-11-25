@@ -9,4 +9,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,China,Xinjiang,2020-08-31,902,3,865,810,0,776,0.9580246913580247,0.0,1.0,776,0.0
 9,China,Xinjiang,2020-09-30,902,3,899,34,0,34,1.0,0.0,1.0,34,0.0
 10,China,Xinjiang,2020-10-31,956,3,899,54,0,0,0.0,,,0,
-11,China,Xinjiang,2020-11-23,980,3,977,78,0,78,1.0,0.0,1.0,78,
+11,China,Xinjiang,2020-11-24,980,3,977,78,0,78,1.0,0.0,1.0,78,
