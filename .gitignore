@@ -1,3 +1,4 @@
 ﻿## Ignore build results and temporary files.
 
 COVID19.xlsx
+*.xlsx

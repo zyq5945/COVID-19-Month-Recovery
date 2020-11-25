@@ -3,4 +3,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Netherlands,Friesland,2020-08-31,824,69,0,755,0,0,0.0,,,0,
 9,Netherlands,Friesland,2020-09-30,1593,69,0,1524,0,0,0.0,,,0,
 10,Netherlands,Friesland,2020-10-31,5763,86,0,5694,17,0,0.002985598876009835,1.0,0.0,17,
-11,Netherlands,Friesland,2020-11-22,7886,121,0,7800,35,0,0.004487179487179487,1.0,0.0,35,0.0
+11,Netherlands,Friesland,2020-11-23,8008,122,0,7922,36,0,0.0045443069931835394,1.0,0.0,36,0.0

@@ -7,4 +7,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Canada,Newfoundland and Labrador,2020-08-31,269,3,265,7,0,6,0.8571428571428571,0.0,1.0,6,0.0
 9,Canada,Newfoundland and Labrador,2020-09-30,274,3,269,6,0,4,0.6666666666666666,0.0,1.0,4,0.0
 10,Canada,Newfoundland and Labrador,2020-10-31,291,4,284,19,1,15,0.8421052631578947,0.0625,0.9375,16,-0.0625
-11,Canada,Newfoundland and Labrador,2020-11-22,319,4,294,31,0,10,0.3225806451612903,0.0,1.0,10,0.0625
+11,Canada,Newfoundland and Labrador,2020-11-23,321,4,294,33,0,10,0.30303030303030304,0.0,1.0,10,0.0625

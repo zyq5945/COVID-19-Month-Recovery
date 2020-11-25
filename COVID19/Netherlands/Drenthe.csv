@@ -3,4 +3,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Netherlands,Drenthe,2020-08-31,610,41,0,569,0,0,0.0,,,0,
 9,Netherlands,Drenthe,2020-09-30,1201,46,0,1160,5,0,0.004310344827586207,1.0,0.0,5,
 10,Netherlands,Drenthe,2020-10-31,5141,78,0,5095,32,0,0.006280667320902846,1.0,0.0,32,0.0
-11,Netherlands,Drenthe,2020-11-22,7178,103,0,7100,25,0,0.0035211267605633804,1.0,0.0,25,0.0
+11,Netherlands,Drenthe,2020-11-23,7283,104,0,7205,26,0,0.0036086051353226927,1.0,0.0,26,0.0
