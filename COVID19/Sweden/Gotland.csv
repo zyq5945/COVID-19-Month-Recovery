@@ -4,4 +4,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Sweden,Gotland,2020-08-31,318,6,0,312,0,0,0.0,,,0,
 9,Sweden,Gotland,2020-09-30,330,6,0,324,0,0,0.0,,,0,
 10,Sweden,Gotland,2020-10-31,418,7,0,412,1,0,0.0024271844660194173,1.0,0.0,1,
-11,Sweden,Gotland,2020-11-24,1082,7,0,1075,0,0,0.0,,,0,
+11,Sweden,Gotland,2020-11-25,1100,11,0,1093,4,0,0.0036596523330283625,1.0,0.0,4,0.0
