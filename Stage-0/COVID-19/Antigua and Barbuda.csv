@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Antigua and Barbuda,,2020-03-31,7,0,0,7,0,0,0.0,,,0,
+4,Antigua and Barbuda,,2020-04-30,24,3,11,24,3,11,0.5833333333333334,0.21428571428571427,0.7857142857142857,14,
+5,Antigua and Barbuda,,2020-05-31,26,3,19,12,0,8,0.6666666666666666,0.0,1.0,8,0.2142857142857143
+6,Antigua and Barbuda,,2020-06-30,69,3,22,47,0,3,0.06382978723404255,0.0,1.0,3,0.0
+7,Antigua and Barbuda,,2020-07-31,91,3,67,66,0,45,0.6818181818181818,0.0,1.0,45,0.0
+8,Antigua and Barbuda,,2020-08-31,94,3,91,24,0,24,1.0,0.0,1.0,24,0.0
+9,Antigua and Barbuda,,2020-09-30,101,3,92,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
+10,Antigua and Barbuda,,2020-10-31,128,3,117,33,0,25,0.7575757575757576,0.0,1.0,25,0.0
+11,Antigua and Barbuda,,2020-11-28,141,4,130,21,1,13,0.6666666666666666,0.07142857142857142,0.9285714285714286,14,-0.0714285714285714

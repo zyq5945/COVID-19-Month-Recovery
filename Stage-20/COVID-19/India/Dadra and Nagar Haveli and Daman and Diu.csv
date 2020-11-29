@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+8,India,Dadra and Nagar Haveli and Daman and Diu,2020-06-29,203,0,77,203,0,77,0.3793103448275862,0.0,1.0,77,
+9,India,Dadra and Nagar Haveli and Daman and Diu,2020-07-19,605,2,414,528,2,337,0.6420454545454546,0.0058997050147492625,0.9941002949852508,339,-0.005899705014749235
+10,India,Dadra and Nagar Haveli and Daman and Diu,2020-08-08,1456,2,1037,1040,0,623,0.5990384615384615,0.0,1.0,623,0.005899705014749235
+11,India,Dadra and Nagar Haveli and Daman and Diu,2020-08-28,2290,2,1960,1251,0,923,0.7378097521982414,0.0,1.0,923,0.0
+12,India,Dadra and Nagar Haveli and Daman and Diu,2020-09-17,2831,2,2608,869,0,648,0.7456846950517837,0.0,1.0,648,0.0
+13,India,Dadra and Nagar Haveli and Daman and Diu,2020-10-07,3120,2,3010,510,0,402,0.788235294117647,0.0,1.0,402,0.0
+14,India,Dadra and Nagar Haveli and Daman and Diu,2020-10-27,3231,2,3181,219,0,171,0.7808219178082192,0.0,1.0,171,0.0
+15,India,Dadra and Nagar Haveli and Daman and Diu,2020-11-16,3294,2,3273,111,0,92,0.8288288288288288,0.0,1.0,92,0.0
+16,India,Dadra and Nagar Haveli and Daman and Diu,2020-11-28,3330,2,3305,55,0,32,0.5818181818181818,0.0,1.0,32,0.0

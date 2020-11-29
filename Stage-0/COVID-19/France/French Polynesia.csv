@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,France,French Polynesia,2020-03-31,36,0,0,36,0,0,0.0,,,0,
+4,France,French Polynesia,2020-04-30,58,0,50,58,0,50,0.8620689655172413,0.0,1.0,50,
+5,France,French Polynesia,2020-05-31,60,0,60,10,0,10,1.0,0.0,1.0,10,0.0
+6,France,French Polynesia,2020-06-30,62,0,60,2,0,0,0.0,,,0,
+7,France,French Polynesia,2020-07-31,62,0,62,2,0,2,1.0,0.0,1.0,2,
+8,France,French Polynesia,2020-08-31,573,0,205,511,0,143,0.27984344422700586,0.0,1.0,143,0.0
+9,France,French Polynesia,2020-09-30,1852,7,1504,1647,7,1299,0.7929568913175471,0.005359877488514548,0.9946401225114855,1306,-0.0053598774885145195
+10,France,French Polynesia,2020-10-31,7262,29,4842,5751,22,3338,0.584246218049035,0.006547619047619048,0.993452380952381,3360,-0.0011877415591045049
+11,France,French Polynesia,2020-11-28,14096,73,4842,9225,44,0,0.004769647696476965,1.0,0.0,44,-0.993452380952381

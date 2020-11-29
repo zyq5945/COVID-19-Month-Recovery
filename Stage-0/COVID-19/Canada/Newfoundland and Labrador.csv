@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Canada,Newfoundland and Labrador,2020-03-31,152,1,0,152,1,0,0.006578947368421052,1.0,0.0,1,
+4,Canada,Newfoundland and Labrador,2020-04-30,258,3,0,257,2,0,0.007782101167315175,1.0,0.0,2,0.0
+5,Canada,Newfoundland and Labrador,2020-05-31,261,3,255,258,0,255,0.9883720930232558,0.0,1.0,255,1.0
+6,Canada,Newfoundland and Labrador,2020-06-30,261,3,258,3,0,3,1.0,0.0,1.0,3,0.0
+7,Canada,Newfoundland and Labrador,2020-07-31,266,3,259,5,0,1,0.2,0.0,1.0,1,0.0
+8,Canada,Newfoundland and Labrador,2020-08-31,269,3,265,7,0,6,0.8571428571428571,0.0,1.0,6,0.0
+9,Canada,Newfoundland and Labrador,2020-09-30,274,3,269,6,0,4,0.6666666666666666,0.0,1.0,4,0.0
+10,Canada,Newfoundland and Labrador,2020-10-31,291,4,284,19,1,15,0.8421052631578947,0.0625,0.9375,16,-0.0625
+11,Canada,Newfoundland and Labrador,2020-11-28,333,4,297,45,0,13,0.28888888888888886,0.0,1.0,13,0.0625

@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+27,Solomon Islands,,2020-10-17,3,0,0,3,0,0,0.0,,,0,
+28,Solomon Islands,,2020-10-27,8,0,4,8,0,4,0.5,0.0,1.0,4,
+29,Solomon Islands,,2020-11-06,13,0,4,9,0,0,0.0,,,0,
+30,Solomon Islands,,2020-11-16,16,0,5,12,0,1,0.08333333333333333,0.0,1.0,1,
+31,Solomon Islands,,2020-11-26,17,0,5,12,0,0,0.0,,,0,
+32,Solomon Islands,,2020-11-28,17,0,5,12,0,0,0.0,,,0,

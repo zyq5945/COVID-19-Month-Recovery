@@ -1,0 +1,15 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Australia,Tasmania,2020-03-21,16,0,3,16,0,3,0.1875,0.0,1.0,3,
+4,Australia,Tasmania,2020-04-10,122,4,48,119,4,45,0.4117647058823529,0.08163265306122448,0.9183673469387755,49,-0.08163265306122447
+5,Australia,Tasmania,2020-04-30,221,13,153,169,9,105,0.6745562130177515,0.07894736842105263,0.9210526315789473,114,0.0026852846401718145
+6,Australia,Tasmania,2020-05-20,228,13,196,62,0,43,0.6935483870967742,0.0,1.0,43,0.07894736842105265
+7,Australia,Tasmania,2020-06-09,228,13,209,19,0,13,0.6842105263157895,0.0,1.0,13,0.0
+8,Australia,Tasmania,2020-06-29,228,13,215,6,0,6,1.0,0.0,1.0,6,0.0
+9,Australia,Tasmania,2020-07-19,228,13,215,0,0,0,,,,0,
+10,Australia,Tasmania,2020-08-08,229,13,216,1,0,1,1.0,0.0,1.0,1,
+11,Australia,Tasmania,2020-08-28,230,13,216,1,0,0,0.0,,,0,
+12,Australia,Tasmania,2020-09-17,230,13,217,1,0,1,1.0,0.0,1.0,1,
+13,Australia,Tasmania,2020-10-07,230,13,217,0,0,0,,,,0,
+14,Australia,Tasmania,2020-10-27,230,13,217,0,0,0,,,,0,
+15,Australia,Tasmania,2020-11-16,230,13,217,0,0,0,,,,0,
+16,Australia,Tasmania,2020-11-28,230,13,217,0,0,0,,,,0,

@@ -1,0 +1,13 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,US,California,2020-04-30,50130,2031,0,50130,2031,0,0.0405146618791143,1.0,0.0,2031,
+6,US,California,2020-05-20,85997,3497,,83966,1466,,,,,,
+7,US,California,2020-06-09,136641,4745,,,1248,,,,,,
+8,US,California,2020-06-29,223646,5983,,,1238,,,,,,
+9,US,California,2020-07-19,386906,7715,,,1732,,,,,,
+10,US,California,2020-08-08,554388,10307,,,2592,,,,,,
+11,US,California,2020-08-28,697385,12805,,,2498,,,,,,
+12,US,California,2020-09-17,775037,14804,,,1999,,,,,,
+13,US,California,2020-10-07,841928,16338,,,1534,,,,,,
+14,US,California,2020-10-27,914888,17460,,,1122,,,,,,
+15,US,California,2020-11-16,1041690,18288,,,828,,,,,,
+16,US,California,2020-11-28,1200624,19116,,,828,,,,,,

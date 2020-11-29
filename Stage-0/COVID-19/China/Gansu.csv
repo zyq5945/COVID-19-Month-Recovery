@@ -1,0 +1,12 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Gansu,2020-01-31,29,,,29,,,,,,,
+2,China,Gansu,2020-02-29,91,2,82,,,,,,,,
+3,China,Gansu,2020-03-31,138,2,125,54,0,43,0.7962962962962963,0.0,1.0,43,
+4,China,Gansu,2020-04-30,139,2,137,12,0,12,1.0,0.0,1.0,12,0.0
+5,China,Gansu,2020-05-31,139,2,137,0,0,0,,,,0,
+6,China,Gansu,2020-06-30,164,2,146,25,0,9,0.36,0.0,1.0,9,
+7,China,Gansu,2020-07-31,167,2,165,19,0,19,1.0,0.0,1.0,19,0.0
+8,China,Gansu,2020-08-31,169,2,167,2,0,2,1.0,0.0,1.0,2,0.0
+9,China,Gansu,2020-09-30,170,2,168,1,0,1,1.0,0.0,1.0,1,0.0
+10,China,Gansu,2020-10-31,177,2,168,7,0,0,0.0,,,0,
+11,China,Gansu,2020-11-28,182,2,179,12,0,11,0.9166666666666666,0.0,1.0,11,

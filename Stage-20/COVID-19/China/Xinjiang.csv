@@ -1,0 +1,17 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Xinjiang,2020-02-10,49,0,0,49,0,0,0.0,,,0,
+2,China,Xinjiang,2020-03-01,76,3,64,76,3,64,0.881578947368421,0.04477611940298507,0.9552238805970149,67,
+3,China,Xinjiang,2020-03-21,76,3,73,9,0,9,1.0,0.0,1.0,9,0.04477611940298509
+4,China,Xinjiang,2020-04-10,76,3,73,0,0,0,,,,0,
+5,China,Xinjiang,2020-04-30,76,3,73,0,0,0,,,,0,
+6,China,Xinjiang,2020-05-20,76,3,73,0,0,0,,,,0,
+7,China,Xinjiang,2020-06-09,76,3,73,0,0,0,,,,0,
+8,China,Xinjiang,2020-06-29,76,3,73,0,0,0,,,,0,
+9,China,Xinjiang,2020-07-19,77,3,73,1,0,0,0.0,,,0,
+10,China,Xinjiang,2020-08-08,839,3,211,763,0,138,0.18086500655307994,0.0,1.0,138,
+11,China,Xinjiang,2020-08-28,902,3,825,688,0,614,0.8924418604651163,0.0,1.0,614,0.0
+12,China,Xinjiang,2020-09-17,902,3,899,74,0,74,1.0,0.0,1.0,74,0.0
+13,China,Xinjiang,2020-10-07,902,3,899,0,0,0,,,,0,
+14,China,Xinjiang,2020-10-27,924,3,899,22,0,0,0.0,,,0,
+15,China,Xinjiang,2020-11-16,980,3,962,78,0,63,0.8076923076923077,0.0,1.0,63,
+16,China,Xinjiang,2020-11-28,980,3,977,15,0,15,1.0,0.0,1.0,15,0.0

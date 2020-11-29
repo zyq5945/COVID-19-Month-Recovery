@@ -1,0 +1,6 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Netherlands,Gelderland,2020-07-31,6620,684,0,6620,684,0,0.10332326283987915,1.0,0.0,684,
+8,Netherlands,Gelderland,2020-08-31,7451,688,0,6767,4,0,0.0005911038865080538,1.0,0.0,4,0.0
+9,Netherlands,Gelderland,2020-09-30,11741,702,0,11053,14,0,0.001266624445851805,1.0,0.0,14,0.0
+10,Netherlands,Gelderland,2020-10-31,33544,798,0,32842,96,0,0.0029230862919432435,1.0,0.0,96,0.0
+11,Netherlands,Gelderland,2020-11-28,50988,1051,0,50190,253,0,0.005040844789798765,1.0,0.0,253,0.0

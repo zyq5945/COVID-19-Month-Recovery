@@ -1,0 +1,6 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Netherlands,Friesland,2020-07-31,652,69,0,652,69,0,0.1058282208588957,1.0,0.0,69,
+8,Netherlands,Friesland,2020-08-31,824,69,0,755,0,0,0.0,,,0,
+9,Netherlands,Friesland,2020-09-30,1593,69,0,1524,0,0,0.0,,,0,
+10,Netherlands,Friesland,2020-10-31,5763,86,0,5694,17,0,0.002985598876009835,1.0,0.0,17,
+11,Netherlands,Friesland,2020-11-28,8468,130,0,8382,44,0,0.005249343832020997,1.0,0.0,44,0.0

@@ -1,0 +1,6 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Netherlands,Zeeland,2020-07-31,863,69,0,863,69,0,0.07995365005793743,1.0,0.0,69,
+8,Netherlands,Zeeland,2020-08-31,1054,72,0,985,3,0,0.003045685279187817,1.0,0.0,3,0.0
+9,Netherlands,Zeeland,2020-09-30,1377,72,0,1305,0,0,0.0,,,0,
+10,Netherlands,Zeeland,2020-10-31,3491,81,0,3419,9,0,0.0026323486399532025,1.0,0.0,9,
+11,Netherlands,Zeeland,2020-11-28,6141,101,0,6060,20,0,0.0033003300330033004,1.0,0.0,20,0.0

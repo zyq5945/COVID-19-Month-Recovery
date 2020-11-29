@@ -1,0 +1,9 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,US,Puerto Rico,2020-04-30,1539,92,0,1539,92,0,0.05977907732293697,1.0,0.0,92,
+5,US,Puerto Rico,2020-05-31,3776,136,,3684,44,,,,,,
+6,US,Puerto Rico,2020-06-30,7465,153,,,17,,,,,,
+7,US,Puerto Rico,2020-07-31,16781,219,,,66,,,,,,
+8,US,Puerto Rico,2020-08-31,33199,434,,,215,,,,,,
+9,US,Puerto Rico,2020-09-30,48755,661,,,227,,,,,,
+10,US,Puerto Rico,2020-10-31,66128,822,29464,,161,,,,,,
+11,US,Puerto Rico,2020-11-28,51581,1083,42589,21295,261,13125,0.6285982625029349,0.019497982967279247,0.9805020170327208,13386,

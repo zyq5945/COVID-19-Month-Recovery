@@ -1,0 +1,12 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Guizhou,2020-01-31,29,,2,29,,2,,,,,
+2,China,Guizhou,2020-02-29,146,2,112,,,110,,,,,
+3,China,Guizhou,2020-03-31,146,2,144,32,0,32,1.0,0.0,1.0,32,
+4,China,Guizhou,2020-04-30,147,2,145,1,0,1,1.0,0.0,1.0,1,0.0
+5,China,Guizhou,2020-05-31,147,2,145,0,0,0,,,,0,
+6,China,Guizhou,2020-06-30,147,2,145,0,0,0,,,,0,
+7,China,Guizhou,2020-07-31,147,2,145,0,0,0,,,,0,
+8,China,Guizhou,2020-08-31,147,2,145,0,0,0,,,,0,
+9,China,Guizhou,2020-09-30,147,2,145,0,0,0,,,,0,
+10,China,Guizhou,2020-10-31,147,2,145,0,0,0,,,,0,
+11,China,Guizhou,2020-11-28,147,2,145,0,0,0,,,,0,

@@ -1,0 +1,22 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,Australia,South Australia,2020-02-05,2,0,0,2,0,0,0.0,,,0,
+2,Australia,South Australia,2020-02-20,2,0,2,2,0,2,1.0,0.0,1.0,2,
+3,Australia,South Australia,2020-03-06,7,0,2,5,0,0,0.0,,,0,
+4,Australia,South Australia,2020-03-21,67,0,3,65,0,1,0.015384615384615385,0.0,1.0,1,
+5,Australia,South Australia,2020-04-05,407,0,46,404,0,43,0.10643564356435643,0.0,1.0,43,0.0
+6,Australia,South Australia,2020-04-20,435,4,331,389,4,285,0.7429305912596401,0.01384083044982699,0.986159169550173,289,-0.01384083044982698
+7,Australia,South Australia,2020-05-05,438,4,429,103,0,98,0.9514563106796117,0.0,1.0,98,0.01384083044982698
+8,Australia,South Australia,2020-05-20,439,4,435,6,0,6,1.0,0.0,1.0,6,0.0
+9,Australia,South Australia,2020-06-04,440,4,436,1,0,1,1.0,0.0,1.0,1,0.0
+10,Australia,South Australia,2020-06-19,440,4,436,0,0,0,,,,0,
+11,Australia,South Australia,2020-07-04,443,4,436,3,0,0,0.0,,,0,
+12,Australia,South Australia,2020-07-19,444,4,440,4,0,4,1.0,0.0,1.0,4,
+13,Australia,South Australia,2020-08-03,457,4,443,13,0,3,0.23076923076923078,0.0,1.0,3,0.0
+14,Australia,South Australia,2020-08-18,462,4,451,15,0,8,0.5333333333333333,0.0,1.0,8,0.0
+15,Australia,South Australia,2020-09-02,463,4,459,8,0,8,1.0,0.0,1.0,8,0.0
+16,Australia,South Australia,2020-09-17,466,4,462,3,0,3,1.0,0.0,1.0,3,0.0
+17,Australia,South Australia,2020-10-02,470,4,464,4,0,2,0.5,0.0,1.0,2,0.0
+18,Australia,South Australia,2020-10-17,482,4,472,14,0,8,0.5714285714285714,0.0,1.0,8,0.0
+19,Australia,South Australia,2020-11-01,501,4,485,25,0,13,0.52,0.0,1.0,13,0.0
+20,Australia,South Australia,2020-11-16,547,4,506,58,0,21,0.3620689655172414,0.0,1.0,21,0.0
+21,Australia,South Australia,2020-11-28,561,4,540,51,0,34,0.6666666666666666,0.0,1.0,34,0.0

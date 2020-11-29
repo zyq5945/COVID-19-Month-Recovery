@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+6,Sweden,Vastra Gotaland,2020-06-30,15173,745,0,15173,745,0,0.04910037566730376,1.0,0.0,745,
+7,Sweden,Vastra Gotaland,2020-07-31,18205,838,0,17460,93,0,0.0053264604810996565,1.0,0.0,93,0.0
+8,Sweden,Vastra Gotaland,2020-08-31,18815,852,0,17977,14,0,0.0007787728764532459,1.0,0.0,14,0.0
+9,Sweden,Vastra Gotaland,2020-09-30,20247,863,0,19395,11,0,0.0005671564836298015,1.0,0.0,11,0.0
+10,Sweden,Vastra Gotaland,2020-10-31,24896,877,0,24033,14,0,0.0005825323513502268,1.0,0.0,14,0.0
+11,Sweden,Vastra Gotaland,2020-11-28,41444,972,0,40567,95,0,0.002341804915325264,1.0,0.0,95,0.0

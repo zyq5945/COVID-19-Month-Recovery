@@ -1,0 +1,16 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+18,Netherlands,Overijssel,2020-07-19,3143,311,0,3143,311,0,0.09895004772510341,1.0,0.0,311,
+19,Netherlands,Overijssel,2020-07-29,3174,311,0,2863,0,0,0.0,,,0,
+20,Netherlands,Overijssel,2020-08-08,3235,311,0,2924,0,0,0.0,,,0,
+21,Netherlands,Overijssel,2020-08-18,3343,311,0,3032,0,0,0.0,,,0,
+22,Netherlands,Overijssel,2020-08-28,3467,314,0,3156,3,0,0.0009505703422053232,1.0,0.0,3,
+23,Netherlands,Overijssel,2020-09-07,3604,314,0,3290,0,0,0.0,,,0,
+24,Netherlands,Overijssel,2020-09-17,3938,314,0,3624,0,0,0.0,,,0,
+25,Netherlands,Overijssel,2020-09-27,4724,342,0,4410,28,0,0.006349206349206349,1.0,0.0,28,
+26,Netherlands,Overijssel,2020-10-07,6615,348,0,6273,6,0,0.0009564801530368245,1.0,0.0,6,0.0
+27,Netherlands,Overijssel,2020-10-17,10525,363,0,10177,15,0,0.0014739117618158594,1.0,0.0,15,0.0
+28,Netherlands,Overijssel,2020-10-27,16804,387,0,16441,24,0,0.0014597652210936074,1.0,0.0,24,0.0
+29,Netherlands,Overijssel,2020-11-06,22692,433,0,22305,46,0,0.002062317865949339,1.0,0.0,46,0.0
+30,Netherlands,Overijssel,2020-11-16,26530,481,0,26097,48,0,0.0018392918726290379,1.0,0.0,48,0.0
+31,Netherlands,Overijssel,2020-11-26,29986,523,0,29505,42,0,0.0014234875444839859,1.0,0.0,42,0.0
+32,Netherlands,Overijssel,2020-11-28,30692,533,0,30169,10,0,0.0003314660744472803,1.0,0.0,10,0.0

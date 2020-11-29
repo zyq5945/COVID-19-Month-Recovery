@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Sweden,Varmland,2020-06-09,662,44,0,662,44,0,0.06646525679758308,1.0,0.0,44,
+8,Sweden,Varmland,2020-06-29,940,66,0,896,22,0,0.024553571428571428,1.0,0.0,22,0.0
+9,Sweden,Varmland,2020-07-19,1007,71,0,941,5,0,0.005313496280552604,1.0,0.0,5,0.0
+10,Sweden,Varmland,2020-08-08,1067,73,0,996,2,0,0.002008032128514056,1.0,0.0,2,0.0
+11,Sweden,Varmland,2020-08-28,1178,73,0,1105,0,0,0.0,,,0,
+12,Sweden,Varmland,2020-09-17,1237,73,0,1164,0,0,0.0,,,0,
+13,Sweden,Varmland,2020-10-07,1327,73,0,1254,0,0,0.0,,,0,
+14,Sweden,Varmland,2020-10-27,1558,75,0,1485,2,0,0.0013468013468013469,1.0,0.0,2,
+15,Sweden,Varmland,2020-11-16,2365,77,0,2290,2,0,0.0008733624454148472,1.0,0.0,2,0.0
+16,Sweden,Varmland,2020-11-28,3260,84,0,3183,7,0,0.002199183160540371,1.0,0.0,7,0.0

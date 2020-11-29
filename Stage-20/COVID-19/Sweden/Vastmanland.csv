@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Sweden,Vastmanland,2020-06-09,1527,148,0,1527,148,0,0.09692206941715782,1.0,0.0,148,
+8,Sweden,Vastmanland,2020-06-29,2215,161,0,2067,13,0,0.006289308176100629,1.0,0.0,13,0.0
+9,Sweden,Vastmanland,2020-07-19,2556,175,0,2395,14,0,0.005845511482254697,1.0,0.0,14,0.0
+10,Sweden,Vastmanland,2020-08-08,2678,180,0,2503,5,0,0.001997602876548142,1.0,0.0,5,0.0
+11,Sweden,Vastmanland,2020-08-28,2734,183,0,2554,3,0,0.0011746280344557558,1.0,0.0,3,0.0
+12,Sweden,Vastmanland,2020-09-17,2846,183,0,2663,0,0,0.0,,,0,
+13,Sweden,Vastmanland,2020-10-07,3235,183,0,3052,0,0,0.0,,,0,
+14,Sweden,Vastmanland,2020-10-27,3632,184,0,3449,1,0,0.00028993911278631486,1.0,0.0,1,
+15,Sweden,Vastmanland,2020-11-16,5451,186,0,5267,2,0,0.00037972280235428136,1.0,0.0,2,0.0
+16,Sweden,Vastmanland,2020-11-28,8182,190,0,7996,4,0,0.0005002501250625312,1.0,0.0,4,0.0

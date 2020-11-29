@@ -1,0 +1,19 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,France,New Caledonia,2020-03-21,4,0,0,4,0,0,0.0,,,0,
+5,France,New Caledonia,2020-04-05,18,0,1,18,0,1,0.05555555555555555,0.0,1.0,1,
+6,France,New Caledonia,2020-04-20,18,0,15,17,0,14,0.8235294117647058,0.0,1.0,14,0.0
+7,France,New Caledonia,2020-05-05,18,0,17,3,0,2,0.6666666666666666,0.0,1.0,2,0.0
+8,France,New Caledonia,2020-05-20,18,0,18,1,0,1,1.0,0.0,1.0,1,0.0
+9,France,New Caledonia,2020-06-04,20,0,18,2,0,0,0.0,,,0,
+10,France,New Caledonia,2020-06-19,21,0,21,3,0,3,1.0,0.0,1.0,3,
+11,France,New Caledonia,2020-07-04,21,0,21,0,0,0,,,,0,
+12,France,New Caledonia,2020-07-19,22,0,21,1,0,0,0.0,,,0,
+13,France,New Caledonia,2020-08-03,22,0,22,1,0,1,1.0,0.0,1.0,1,
+14,France,New Caledonia,2020-08-18,23,0,22,1,0,0,0.0,,,0,
+15,France,New Caledonia,2020-09-02,23,0,23,1,0,1,1.0,0.0,1.0,1,
+16,France,New Caledonia,2020-09-17,26,0,26,3,0,3,1.0,0.0,1.0,3,0.0
+17,France,New Caledonia,2020-10-02,27,0,27,1,0,1,1.0,0.0,1.0,1,0.0
+18,France,New Caledonia,2020-10-17,27,0,27,0,0,0,,,,0,
+19,France,New Caledonia,2020-11-01,28,0,28,1,0,1,1.0,0.0,1.0,1,
+20,France,New Caledonia,2020-11-16,30,0,28,2,0,0,0.0,,,0,
+21,France,New Caledonia,2020-11-28,32,0,32,4,0,4,1.0,0.0,1.0,4,

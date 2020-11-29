@@ -1,0 +1,14 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,United Kingdom,Turks and Caicos Islands,2020-04-10,8,1,0,8,1,0,0.125,1.0,0.0,1,
+5,United Kingdom,Turks and Caicos Islands,2020-04-30,12,1,5,11,0,5,0.45454545454545453,0.0,1.0,5,1.0
+6,United Kingdom,Turks and Caicos Islands,2020-05-20,12,1,10,6,0,5,0.8333333333333334,0.0,1.0,5,0.0
+7,United Kingdom,Turks and Caicos Islands,2020-06-09,12,1,11,1,0,1,1.0,0.0,1.0,1,0.0
+8,United Kingdom,Turks and Caicos Islands,2020-06-29,41,1,11,29,0,0,0.0,,,0,
+9,United Kingdom,Turks and Caicos Islands,2020-07-19,75,2,22,63,1,11,0.19047619047619047,0.08333333333333333,0.9166666666666666,12,
+10,United Kingdom,Turks and Caicos Islands,2020-08-08,170,2,39,146,0,17,0.11643835616438356,0.0,1.0,17,0.08333333333333337
+11,United Kingdom,Turks and Caicos Islands,2020-08-28,490,3,148,449,1,109,0.24498886414253898,0.00909090909090909,0.990909090909091,110,-0.009090909090909038
+12,United Kingdom,Turks and Caicos Islands,2020-09-17,663,5,565,512,2,417,0.818359375,0.00477326968973747,0.9952267303102625,419,0.00431763940117158
+13,United Kingdom,Turks and Caicos Islands,2020-10-07,695,6,656,125,1,91,0.736,0.010869565217391304,0.9891304347826086,92,-0.006096295527653894
+14,United Kingdom,Turks and Caicos Islands,2020-10-27,703,6,689,41,0,33,0.8048780487804879,0.0,1.0,33,0.010869565217391353
+15,United Kingdom,Turks and Caicos Islands,2020-11-16,720,6,695,25,0,6,0.24,0.0,1.0,6,0.0
+16,United Kingdom,Turks and Caicos Islands,2020-11-28,748,6,706,47,0,11,0.23404255319148937,0.0,1.0,11,0.0

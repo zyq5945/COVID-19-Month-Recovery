@@ -1,0 +1,4 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+30,Belgium,Flemish Brabant,2020-11-16,41274,0,0,41274,0,0,0.0,,,0,
+31,Belgium,Flemish Brabant,2020-11-26,43337,0,0,43337,0,0,0.0,,,0,
+32,Belgium,Flemish Brabant,2020-11-28,43701,0,0,43701,0,0,0.0,,,0,

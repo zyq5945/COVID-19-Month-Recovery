@@ -1,0 +1,3 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,South Korea,,2020-02-10,27,0,3,27,0,3,0.1111111111111111,0.0,1.0,3,
+2,South Korea,,2020-03-01,3736,17,30,3733,17,27,0.011786766675596035,0.38636363636363635,0.6136363636363636,44,-0.38636363636363635

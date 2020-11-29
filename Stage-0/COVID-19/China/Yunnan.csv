@@ -1,0 +1,12 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Yunnan,2020-01-31,83,,1,83,,1,,,,,
+2,China,Yunnan,2020-02-29,174,2,157,,,156,,,,,
+3,China,Yunnan,2020-03-31,182,2,172,23,0,15,0.6521739130434783,0.0,1.0,15,
+4,China,Yunnan,2020-04-30,185,2,181,11,0,9,0.8181818181818182,0.0,1.0,9,0.0
+5,China,Yunnan,2020-05-31,185,2,183,2,0,2,1.0,0.0,1.0,2,0.0
+6,China,Yunnan,2020-06-30,185,2,183,0,0,0,,,,0,
+7,China,Yunnan,2020-07-31,191,2,187,6,0,4,0.6666666666666666,0.0,1.0,4,
+8,China,Yunnan,2020-08-31,199,2,191,10,0,4,0.4,0.0,1.0,4,0.0
+9,China,Yunnan,2020-09-30,209,2,197,16,0,6,0.375,0.0,1.0,6,0.0
+10,China,Yunnan,2020-10-31,213,2,208,14,0,11,0.7857142857142857,0.0,1.0,11,0.0
+11,China,Yunnan,2020-11-28,219,2,210,9,0,2,0.2222222222222222,0.0,1.0,2,0.0

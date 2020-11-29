@@ -1,0 +1,6 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Japan,Iwate,2020-07-31,3,0,0,3,0,0,0.0,,,0,
+8,Japan,Iwate,2020-08-31,19,0,8,19,0,8,0.42105263157894735,0.0,1.0,8,
+9,Japan,Iwate,2020-09-30,23,0,23,15,0,15,1.0,0.0,1.0,15,0.0
+10,Japan,Iwate,2020-10-31,27,0,25,4,0,2,0.5,0.0,1.0,2,0.0
+11,Japan,Iwate,2020-11-28,183,1,85,158,1,60,0.3860759493670886,0.01639344262295082,0.9836065573770492,61,-0.016393442622950838

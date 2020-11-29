@@ -1,0 +1,18 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-04-05,2,0,0,2,0,0,0.0,,,0,
+6,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-04-20,5,0,0,5,0,0,0.0,,,0,
+7,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-05-05,6,0,0,6,0,0,0.0,,,0,
+8,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-05-20,6,0,6,6,0,6,1.0,0.0,1.0,6,
+9,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-06-04,7,0,7,1,0,1,1.0,0.0,1.0,1,0.0
+10,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-06-19,7,0,7,0,0,0,,,,0,
+11,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-07-04,7,0,7,0,0,0,,,,0,
+12,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-07-19,10,0,7,3,0,0,0.0,,,0,
+13,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-08-03,13,0,7,6,0,0,0.0,,,0,
+14,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-08-18,13,0,7,6,0,0,0.0,,,0,
+15,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-09-02,16,0,7,9,0,0,0.0,,,0,
+16,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-09-17,32,1,17,25,1,10,0.44,0.09090909090909091,0.9090909090909091,11,
+17,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-10-02,121,1,32,103,0,15,0.14563106796116504,0.0,1.0,15,0.09090909090909094
+18,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-10-17,150,3,120,117,2,88,0.7692307692307693,0.022222222222222223,0.9777777777777777,90,-0.022222222222222254
+19,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-11-01,153,3,145,30,0,25,0.8333333333333334,0.0,1.0,25,0.022222222222222254
+20,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-11-16,155,3,151,7,0,6,0.8571428571428571,0.0,1.0,6,0.0
+21,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-11-28,161,3,155,7,0,4,0.5714285714285714,0.0,1.0,4,0.0

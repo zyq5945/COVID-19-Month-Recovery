@@ -1,0 +1,13 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,US,Florida,2020-04-30,33690,1268,0,33690,1268,0,0.03763728109231226,1.0,0.0,1268,
+6,US,Florida,2020-05-20,47471,2096,,46203,828,,,,,,
+7,US,Florida,2020-06-09,66000,2765,,,669,,,,,,
+8,US,Florida,2020-06-29,146341,3447,,,682,,,,,,
+9,US,Florida,2020-07-19,350047,4982,,,1535,,,,,,
+10,US,Florida,2020-08-08,526577,8109,,,3127,,,,,,
+11,US,Florida,2020-08-28,615806,10957,,,2848,,,,,,
+12,US,Florida,2020-09-17,674456,13086,,,2129,,,,,,
+13,US,Florida,2020-10-07,722707,14904,,,1818,,,,,,
+14,US,Florida,2020-10-27,786311,16505,,,1601,,,,,,
+15,US,Florida,2020-11-16,889864,17559,,,1054,,,,,,
+16,US,Florida,2020-11-28,985297,18442,,,883,,,,,,

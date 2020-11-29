@@ -1,0 +1,25 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+9,US,Northern Mariana Islands,2020-04-20,14,2,11,14,2,11,0.9285714285714286,0.15384615384615385,0.8461538461538461,13,
+10,US,Northern Mariana Islands,2020-04-30,14,2,12,1,0,1,1.0,0.0,1.0,1,0.15384615384615385
+11,US,Northern Mariana Islands,2020-05-10,16,2,12,2,0,0,0.0,,,0,
+12,US,Northern Mariana Islands,2020-05-20,21,2,13,7,0,1,0.14285714285714285,0.0,1.0,1,
+13,US,Northern Mariana Islands,2020-05-30,22,2,15,7,0,2,0.2857142857142857,0.0,1.0,2,0.0
+14,US,Northern Mariana Islands,2020-06-09,30,2,19,13,0,4,0.3076923076923077,0.0,1.0,4,0.0
+15,US,Northern Mariana Islands,2020-06-19,30,2,19,9,0,0,0.0,,,0,
+16,US,Northern Mariana Islands,2020-06-29,30,2,19,9,0,0,0.0,,,0,
+17,US,Northern Mariana Islands,2020-07-09,31,2,19,10,0,0,0.0,,,0,
+18,US,Northern Mariana Islands,2020-07-19,37,2,29,16,0,10,0.625,0.0,1.0,10,
+19,US,Northern Mariana Islands,2020-07-29,42,2,29,11,0,0,0.0,,,0,
+20,US,Northern Mariana Islands,2020-08-08,48,2,29,17,0,0,0.0,,,0,
+21,US,Northern Mariana Islands,2020-08-18,54,2,29,23,0,0,0.0,,,0,
+22,US,Northern Mariana Islands,2020-08-28,54,2,29,23,0,0,0.0,,,0,
+23,US,Northern Mariana Islands,2020-09-07,59,2,29,28,0,0,0.0,,,0,
+24,US,Northern Mariana Islands,2020-09-17,62,2,29,31,0,0,0.0,,,0,
+25,US,Northern Mariana Islands,2020-09-27,70,2,29,39,0,0,0.0,,,0,
+26,US,Northern Mariana Islands,2020-10-07,75,2,29,44,0,0,0.0,,,0,
+27,US,Northern Mariana Islands,2020-10-17,86,2,29,55,0,0,0.0,,,0,
+28,US,Northern Mariana Islands,2020-10-27,92,2,29,61,0,0,0.0,,,0,
+29,US,Northern Mariana Islands,2020-11-06,98,2,29,67,0,0,0.0,,,0,
+30,US,Northern Mariana Islands,2020-11-16,103,2,29,72,0,0,0.0,,,0,
+31,US,Northern Mariana Islands,2020-11-26,104,2,29,73,0,0,0.0,,,0,
+32,US,Northern Mariana Islands,2020-11-28,104,2,29,73,0,0,0.0,,,0,

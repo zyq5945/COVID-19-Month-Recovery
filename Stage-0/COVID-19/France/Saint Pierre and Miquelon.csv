@@ -1,0 +1,9 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,France,Saint Pierre and Miquelon,2020-04-30,1,0,0,1,0,0,0.0,,,0,
+5,France,Saint Pierre and Miquelon,2020-05-31,1,0,1,1,0,1,1.0,0.0,1.0,1,
+6,France,Saint Pierre and Miquelon,2020-06-30,1,0,1,0,0,0,,,,0,
+7,France,Saint Pierre and Miquelon,2020-07-31,4,0,1,3,0,0,0.0,,,0,
+8,France,Saint Pierre and Miquelon,2020-08-31,5,0,1,4,0,0,0.0,,,0,
+9,France,Saint Pierre and Miquelon,2020-09-30,16,0,6,15,0,5,0.3333333333333333,0.0,1.0,5,
+10,France,Saint Pierre and Miquelon,2020-10-31,16,0,12,10,0,6,0.6,0.0,1.0,6,0.0
+11,France,Saint Pierre and Miquelon,2020-11-28,16,0,12,4,0,0,0.0,,,0,

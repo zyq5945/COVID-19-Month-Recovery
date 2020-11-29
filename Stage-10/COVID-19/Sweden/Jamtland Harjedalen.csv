@@ -1,0 +1,20 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+14,Sweden,Jamtland Harjedalen,2020-06-09,817,34,0,817,34,0,0.0416156670746634,1.0,0.0,34,
+15,Sweden,Jamtland Harjedalen,2020-06-19,951,43,0,917,9,0,0.009814612868047983,1.0,0.0,9,0.0
+16,Sweden,Jamtland Harjedalen,2020-06-29,1032,48,0,989,5,0,0.005055611729019211,1.0,0.0,5,0.0
+17,Sweden,Jamtland Harjedalen,2020-07-09,1071,54,0,1023,6,0,0.005865102639296188,1.0,0.0,6,0.0
+18,Sweden,Jamtland Harjedalen,2020-07-19,1100,59,0,1046,5,0,0.004780114722753346,1.0,0.0,5,0.0
+19,Sweden,Jamtland Harjedalen,2020-07-29,1129,59,0,1070,0,0,0.0,,,0,
+20,Sweden,Jamtland Harjedalen,2020-08-08,1153,59,0,1094,0,0,0.0,,,0,
+21,Sweden,Jamtland Harjedalen,2020-08-18,1171,60,0,1112,1,0,0.0008992805755395684,1.0,0.0,1,
+22,Sweden,Jamtland Harjedalen,2020-08-28,1178,64,0,1118,4,0,0.0035778175313059034,1.0,0.0,4,0.0
+23,Sweden,Jamtland Harjedalen,2020-09-07,1210,64,0,1146,0,0,0.0,,,0,
+24,Sweden,Jamtland Harjedalen,2020-09-17,1221,64,0,1157,0,0,0.0,,,0,
+25,Sweden,Jamtland Harjedalen,2020-09-27,1257,64,0,1193,0,0,0.0,,,0,
+26,Sweden,Jamtland Harjedalen,2020-10-07,1365,64,0,1301,0,0,0.0,,,0,
+27,Sweden,Jamtland Harjedalen,2020-10-17,1512,64,0,1448,0,0,0.0,,,0,
+28,Sweden,Jamtland Harjedalen,2020-10-27,1624,64,0,1560,0,0,0.0,,,0,
+29,Sweden,Jamtland Harjedalen,2020-11-06,1736,64,0,1672,0,0,0.0,,,0,
+30,Sweden,Jamtland Harjedalen,2020-11-16,1993,67,0,1929,3,0,0.0015552099533437014,1.0,0.0,3,
+31,Sweden,Jamtland Harjedalen,2020-11-26,2670,67,0,2603,0,0,0.0,,,0,
+32,Sweden,Jamtland Harjedalen,2020-11-28,2738,67,0,2671,0,0,0.0,,,0,

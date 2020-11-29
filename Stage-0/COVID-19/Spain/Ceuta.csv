@@ -1,0 +1,8 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,Spain,Ceuta,2020-05-31,145,4,163,145,4,163,1.1517241379310346,0.023952095808383235,0.9760479041916168,167,
+6,Spain,Ceuta,2020-06-30,163,4,163,-4,0,0,-0.0,,,0,
+7,Spain,Ceuta,2020-07-31,166,4,163,-1,0,0,-0.0,,,0,
+8,Spain,Ceuta,2020-08-31,275,5,163,108,1,0,0.009259259259259259,1.0,0.0,1,
+9,Spain,Ceuta,2020-09-30,601,10,163,433,5,0,0.011547344110854504,1.0,0.0,5,0.0
+10,Spain,Ceuta,2020-10-31,1571,19,163,1398,9,0,0.006437768240343348,1.0,0.0,9,0.0
+11,Spain,Ceuta,2020-11-28,2782,54,163,2600,35,0,0.013461538461538462,1.0,0.0,35,0.0

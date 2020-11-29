@@ -1,0 +1,4 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+30,Mexico,Unknown,2020-11-16,0,0,754200,0,0,754200,,0.0,1.0,754200,
+31,Mexico,Unknown,2020-11-26,0,0,803581,-754200,0,49381,-0.06547467515247944,0.0,1.0,49381,0.0
+32,Mexico,Unknown,2020-11-28,0,0,803581,-803581,0,0,-0.0,,,0,

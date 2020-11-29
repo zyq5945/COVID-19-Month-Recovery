@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Japan,Yamagata,2020-06-09,69,0,67,69,0,67,0.9710144927536232,0.0,1.0,67,
+8,Japan,Yamagata,2020-06-29,69,0,68,2,0,1,0.5,0.0,1.0,1,0.0
+9,Japan,Yamagata,2020-07-19,75,1,70,7,1,2,0.42857142857142855,0.3333333333333333,0.6666666666666666,3,-0.33333333333333337
+10,Japan,Yamagata,2020-08-08,76,1,75,5,0,5,1.0,0.0,1.0,5,0.33333333333333337
+11,Japan,Yamagata,2020-08-28,77,1,76,1,0,1,1.0,0.0,1.0,1,0.0
+12,Japan,Yamagata,2020-09-17,78,1,76,1,0,0,0.0,,,0,
+13,Japan,Yamagata,2020-10-07,78,1,76,1,0,0,0.0,,,0,
+14,Japan,Yamagata,2020-10-27,86,1,79,9,0,3,0.3333333333333333,0.0,1.0,3,
+15,Japan,Yamagata,2020-11-16,98,1,84,18,0,5,0.2777777777777778,0.0,1.0,5,0.0
+16,Japan,Yamagata,2020-11-28,133,1,97,48,0,13,0.2708333333333333,0.0,1.0,13,0.0

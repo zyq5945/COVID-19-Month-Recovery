@@ -1,0 +1,17 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Qinghai,2020-02-10,18,0,3,18,0,3,0.16666666666666666,0.0,1.0,3,
+2,China,Qinghai,2020-03-01,18,0,18,15,0,15,1.0,0.0,1.0,15,0.0
+3,China,Qinghai,2020-03-21,18,0,18,0,0,0,,,,0,
+4,China,Qinghai,2020-04-10,18,0,18,0,0,0,,,,0,
+5,China,Qinghai,2020-04-30,18,0,18,0,0,0,,,,0,
+6,China,Qinghai,2020-05-20,18,0,18,0,0,0,,,,0,
+7,China,Qinghai,2020-06-09,18,0,18,0,0,0,,,,0,
+8,China,Qinghai,2020-06-29,18,0,18,0,0,0,,,,0,
+9,China,Qinghai,2020-07-19,18,0,18,0,0,0,,,,0,
+10,China,Qinghai,2020-08-08,18,0,18,0,0,0,,,,0,
+11,China,Qinghai,2020-08-28,18,0,18,0,0,0,,,,0,
+12,China,Qinghai,2020-09-17,18,0,18,0,0,0,,,,0,
+13,China,Qinghai,2020-10-07,18,0,18,0,0,0,,,,0,
+14,China,Qinghai,2020-10-27,18,0,18,0,0,0,,,,0,
+15,China,Qinghai,2020-11-16,18,0,18,0,0,0,,,,0,
+16,China,Qinghai,2020-11-28,18,0,18,0,0,0,,,,0,

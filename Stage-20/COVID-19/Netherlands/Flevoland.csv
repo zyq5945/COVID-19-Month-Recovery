@@ -1,0 +1,9 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+9,Netherlands,Flevoland,2020-07-19,981,92,0,981,92,0,0.09378185524974515,1.0,0.0,92,
+10,Netherlands,Flevoland,2020-08-08,1050,93,0,958,1,0,0.0010438413361169101,1.0,0.0,1,0.0
+11,Netherlands,Flevoland,2020-08-28,1291,94,0,1198,1,0,0.0008347245409015025,1.0,0.0,1,0.0
+12,Netherlands,Flevoland,2020-09-17,1683,96,0,1589,2,0,0.0012586532410320957,1.0,0.0,2,0.0
+13,Netherlands,Flevoland,2020-10-07,2715,101,0,2619,5,0,0.0019091256204658267,1.0,0.0,5,0.0
+14,Netherlands,Flevoland,2020-10-27,5595,107,0,5494,6,0,0.0010921004732435385,1.0,0.0,6,0.0
+15,Netherlands,Flevoland,2020-11-16,8757,122,0,8650,15,0,0.0017341040462427746,1.0,0.0,15,0.0
+16,Netherlands,Flevoland,2020-11-28,10883,137,0,10761,15,0,0.0013939224979091162,1.0,0.0,15,0.0

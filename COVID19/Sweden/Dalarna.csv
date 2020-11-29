@@ -1,7 +1,0 @@
-Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
-6,Sweden,Dalarna,2020-06-30,1626,157,0,1626,157,0,0.0965559655596556,1.0,0.0,157,
-7,Sweden,Dalarna,2020-07-31,1955,171,0,1798,14,0,0.00778642936596218,1.0,0.0,14,0.0
-8,Sweden,Dalarna,2020-08-31,2149,174,0,1978,3,0,0.0015166835187057635,1.0,0.0,3,0.0
-9,Sweden,Dalarna,2020-09-30,2543,177,0,2369,3,0,0.001266357112705783,1.0,0.0,3,0.0
-10,Sweden,Dalarna,2020-10-31,3306,185,0,3129,8,0,0.002556727388942154,1.0,0.0,8,0.0
-11,Sweden,Dalarna,2020-11-27,5994,190,0,5809,5,0,0.000860733344809778,1.0,0.0,5,0.0

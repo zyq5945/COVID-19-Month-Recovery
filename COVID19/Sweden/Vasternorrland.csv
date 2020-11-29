@@ -1,7 +1,0 @@
-Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
-6,Sweden,Vasternorrland,2020-06-30,1360,113,0,1360,113,0,0.08308823529411764,1.0,0.0,113,
-7,Sweden,Vasternorrland,2020-07-31,1772,132,0,1659,19,0,0.011452682338758288,1.0,0.0,19,0.0
-8,Sweden,Vasternorrland,2020-08-31,1853,133,0,1721,1,0,0.0005810575246949448,1.0,0.0,1,0.0
-9,Sweden,Vasternorrland,2020-09-30,1919,136,0,1786,3,0,0.0016797312430011197,1.0,0.0,3,0.0
-10,Sweden,Vasternorrland,2020-10-31,2139,137,0,2003,1,0,0.0004992511233150275,1.0,0.0,1,0.0
-11,Sweden,Vasternorrland,2020-11-27,4807,148,0,4670,11,0,0.002355460385438972,1.0,0.0,11,0.0

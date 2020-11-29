@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Saint Vincent and the Grenadines,,2020-03-31,1,0,1,1,0,1,1.0,0.0,1.0,1,
+4,Saint Vincent and the Grenadines,,2020-04-30,16,0,8,15,0,7,0.4666666666666667,0.0,1.0,7,0.0
+5,Saint Vincent and the Grenadines,,2020-05-31,26,0,15,18,0,7,0.3888888888888889,0.0,1.0,7,0.0
+6,Saint Vincent and the Grenadines,,2020-06-30,29,0,29,14,0,14,1.0,0.0,1.0,14,0.0
+7,Saint Vincent and the Grenadines,,2020-07-31,54,0,44,25,0,15,0.6,0.0,1.0,15,0.0
+8,Saint Vincent and the Grenadines,,2020-08-31,60,0,57,16,0,13,0.8125,0.0,1.0,13,0.0
+9,Saint Vincent and the Grenadines,,2020-09-30,64,0,64,7,0,7,1.0,0.0,1.0,7,0.0
+10,Saint Vincent and the Grenadines,,2020-10-31,74,0,70,10,0,6,0.6,0.0,1.0,6,0.0
+11,Saint Vincent and the Grenadines,,2020-11-28,85,0,79,15,0,9,0.6,0.0,1.0,9,0.0

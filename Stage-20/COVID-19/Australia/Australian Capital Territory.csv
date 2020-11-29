@@ -1,0 +1,15 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Australia,Australian Capital Territory,2020-03-21,9,0,0,9,0,0,0.0,,,0,
+4,Australia,Australian Capital Territory,2020-04-10,103,2,59,103,2,59,0.5922330097087378,0.03278688524590164,0.9672131147540983,61,
+5,Australia,Australian Capital Territory,2020-04-30,106,3,103,45,1,44,1.0,0.022222222222222223,0.9777777777777777,45,0.010564663023679421
+6,Australia,Australian Capital Territory,2020-05-20,107,3,104,1,0,1,1.0,0.0,1.0,1,0.022222222222222254
+7,Australia,Australian Capital Territory,2020-06-09,108,3,104,1,0,0,0.0,,,0,
+8,Australia,Australian Capital Territory,2020-06-29,108,3,105,1,0,1,1.0,0.0,1.0,1,
+9,Australia,Australian Capital Territory,2020-07-19,113,3,107,5,0,2,0.4,0.0,1.0,2,0.0
+10,Australia,Australian Capital Territory,2020-08-08,113,3,110,3,0,3,1.0,0.0,1.0,3,0.0
+11,Australia,Australian Capital Territory,2020-08-28,113,3,110,0,0,0,,,,0,
+12,Australia,Australian Capital Territory,2020-09-17,113,3,110,0,0,0,,,,0,
+13,Australia,Australian Capital Territory,2020-10-07,113,3,110,0,0,0,,,,0,
+14,Australia,Australian Capital Territory,2020-10-27,114,3,110,1,0,0,0.0,,,0,
+15,Australia,Australian Capital Territory,2020-11-16,114,3,111,1,0,1,1.0,0.0,1.0,1,
+16,Australia,Australian Capital Territory,2020-11-28,117,3,112,3,0,1,0.3333333333333333,0.0,1.0,1,0.0

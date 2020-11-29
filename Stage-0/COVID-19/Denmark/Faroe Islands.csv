@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Denmark,Faroe Islands,2020-03-31,169,0,74,169,0,74,0.4378698224852071,0.0,1.0,74,
+4,Denmark,Faroe Islands,2020-04-30,187,0,184,113,0,110,0.9734513274336283,0.0,1.0,110,0.0
+5,Denmark,Faroe Islands,2020-05-31,187,0,187,3,0,3,1.0,0.0,1.0,3,0.0
+6,Denmark,Faroe Islands,2020-06-30,187,0,187,0,0,0,,,,0,
+7,Denmark,Faroe Islands,2020-07-31,225,0,189,38,0,2,0.05263157894736842,0.0,1.0,2,
+8,Denmark,Faroe Islands,2020-08-31,411,0,374,222,0,185,0.8333333333333334,0.0,1.0,185,0.0
+9,Denmark,Faroe Islands,2020-09-30,467,0,429,93,0,55,0.5913978494623656,0.0,1.0,55,0.0
+10,Denmark,Faroe Islands,2020-10-31,495,0,481,66,0,52,0.7878787878787878,0.0,1.0,52,0.0
+11,Denmark,Faroe Islands,2020-11-28,502,0,498,21,0,17,0.8095238095238095,0.0,1.0,17,0.0

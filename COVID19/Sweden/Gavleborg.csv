@@ -1,7 +1,0 @@
-Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
-6,Sweden,Gavleborg,2020-06-30,2264,131,0,2264,131,0,0.05786219081272085,1.0,0.0,131,
-7,Sweden,Gavleborg,2020-07-31,3135,160,0,3004,29,0,0.009653794940079893,1.0,0.0,29,0.0
-8,Sweden,Gavleborg,2020-08-31,3199,163,0,3039,3,0,0.0009871668311944718,1.0,0.0,3,0.0
-9,Sweden,Gavleborg,2020-09-30,3379,168,0,3216,5,0,0.001554726368159204,1.0,0.0,5,0.0
-10,Sweden,Gavleborg,2020-10-31,3831,171,0,3663,3,0,0.000819000819000819,1.0,0.0,3,0.0
-11,Sweden,Gavleborg,2020-11-27,6923,189,0,6752,18,0,0.002665876777251185,1.0,0.0,18,0.0

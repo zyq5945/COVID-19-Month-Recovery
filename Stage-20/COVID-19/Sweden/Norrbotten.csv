@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Sweden,Norrbotten,2020-06-09,533,50,0,533,50,0,0.09380863039399624,1.0,0.0,50,
+8,Sweden,Norrbotten,2020-06-29,1233,60,0,1183,10,0,0.0084530853761623,1.0,0.0,10,0.0
+9,Sweden,Norrbotten,2020-07-19,1526,70,0,1466,10,0,0.0068212824010914054,1.0,0.0,10,0.0
+10,Sweden,Norrbotten,2020-08-08,1616,84,0,1546,14,0,0.009055627425614488,1.0,0.0,14,0.0
+11,Sweden,Norrbotten,2020-08-28,1663,88,0,1579,4,0,0.00253324889170361,1.0,0.0,4,0.0
+12,Sweden,Norrbotten,2020-09-17,1682,88,0,1594,0,0,0.0,,,0,
+13,Sweden,Norrbotten,2020-10-07,1815,88,0,1727,0,0,0.0,,,0,
+14,Sweden,Norrbotten,2020-10-27,2112,88,0,2024,0,0,0.0,,,0,
+15,Sweden,Norrbotten,2020-11-16,3188,91,0,3100,3,0,0.000967741935483871,1.0,0.0,3,
+16,Sweden,Norrbotten,2020-11-28,4909,97,0,4818,6,0,0.0012453300124533001,1.0,0.0,6,0.0

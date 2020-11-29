@@ -1,0 +1,8 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,Germany,Unknown,2020-05-31,1575,0,0,1575,0,0,0.0,,,0,
+6,Germany,Unknown,2020-06-30,1005,0,187,1005,0,187,0.18606965174129353,0.0,1.0,187,
+7,Germany,Unknown,2020-07-31,1408,0,0,1221,0,-187,-0.15315315315315314,-0.0,1.0,-187,0.0
+8,Germany,Unknown,2020-08-31,1937,0,0,1937,0,0,0.0,,,0,
+9,Germany,Unknown,2020-09-30,2533,0,0,2533,0,0,0.0,,,0,
+10,Germany,Unknown,2020-10-31,5847,0,0,5847,0,0,0.0,,,0,
+11,Germany,Unknown,2020-11-28,8145,0,0,8145,0,0,0.0,,,0,

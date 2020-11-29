@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Dominica,,2020-03-31,12,0,0,12,0,0,0.0,,,0,
+4,Dominica,,2020-04-30,16,0,13,16,0,13,0.8125,0.0,1.0,13,
+5,Dominica,,2020-05-31,16,0,16,3,0,3,1.0,0.0,1.0,3,0.0
+6,Dominica,,2020-06-30,18,0,18,2,0,2,1.0,0.0,1.0,2,0.0
+7,Dominica,,2020-07-31,18,0,18,0,0,0,,,,0,
+8,Dominica,,2020-08-31,20,0,18,2,0,0,0.0,,,0,
+9,Dominica,,2020-09-30,30,0,24,12,0,6,0.5,0.0,1.0,6,
+10,Dominica,,2020-10-31,50,0,33,26,0,9,0.34615384615384615,0.0,1.0,9,0.0
+11,Dominica,,2020-11-28,85,0,63,52,0,30,0.5769230769230769,0.0,1.0,30,0.0

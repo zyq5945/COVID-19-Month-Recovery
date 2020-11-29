@@ -1,0 +1,13 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,US,Georgia,2020-04-30,26264,1132,0,26264,1132,0,0.043100822418519646,1.0,0.0,1132,
+6,US,Georgia,2020-05-20,39801,1697,,38669,565,,,,,,
+7,US,Georgia,2020-06-09,53249,2285,,,588,,,,,,
+8,US,Georgia,2020-06-29,79417,2784,,,499,,,,,,
+9,US,Georgia,2020-07-19,143129,3174,,,390,,,,,,
+10,US,Georgia,2020-08-08,213427,4186,,,1012,,,,,,
+11,US,Georgia,2020-08-28,265372,5471,,,1285,,,,,,
+12,US,Georgia,2020-09-17,300903,6474,,,1003,,,,,,
+13,US,Georgia,2020-10-07,326142,7259,,,785,,,,,,
+14,US,Georgia,2020-10-27,353372,7844,,,585,,,,,,
+15,US,Georgia,2020-11-16,426236,8967,,,1123,,,,,,
+16,US,Georgia,2020-11-28,467564,9424,,,457,,,,,,

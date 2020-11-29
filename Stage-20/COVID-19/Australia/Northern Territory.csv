@@ -1,0 +1,15 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Australia,Northern Territory,2020-03-21,3,0,0,3,0,0,0.0,,,0,
+4,Australia,Northern Territory,2020-04-10,28,0,2,28,0,2,0.07142857142857142,0.0,1.0,2,
+5,Australia,Northern Territory,2020-04-30,28,0,25,26,0,23,0.8846153846153846,0.0,1.0,23,0.0
+6,Australia,Northern Territory,2020-05-20,29,0,29,4,0,4,1.0,0.0,1.0,4,0.0
+7,Australia,Northern Territory,2020-06-09,29,0,29,0,0,0,,,,0,
+8,Australia,Northern Territory,2020-06-29,29,0,29,0,0,0,,,,0,
+9,Australia,Northern Territory,2020-07-19,31,0,29,2,0,0,0.0,,,0,
+10,Australia,Northern Territory,2020-08-08,33,0,30,4,0,1,0.25,0.0,1.0,1,
+11,Australia,Northern Territory,2020-08-28,33,0,33,3,0,3,1.0,0.0,1.0,3,0.0
+12,Australia,Northern Territory,2020-09-17,33,0,33,0,0,0,,,,0,
+13,Australia,Northern Territory,2020-10-07,33,0,33,0,0,0,,,,0,
+14,Australia,Northern Territory,2020-10-27,33,0,33,0,0,0,,,,0,
+15,Australia,Northern Territory,2020-11-16,46,0,38,13,0,5,0.38461538461538464,0.0,1.0,5,
+16,Australia,Northern Territory,2020-11-28,52,0,46,14,0,8,0.5714285714285714,0.0,1.0,8,0.0

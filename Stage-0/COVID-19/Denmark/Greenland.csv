@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Denmark,Greenland,2020-03-31,10,0,2,10,0,2,0.2,0.0,1.0,2,
+4,Denmark,Greenland,2020-04-30,11,0,11,9,0,9,1.0,0.0,1.0,9,0.0
+5,Denmark,Greenland,2020-05-31,13,0,11,2,0,0,0.0,,,0,
+6,Denmark,Greenland,2020-06-30,13,0,13,2,0,2,1.0,0.0,1.0,2,
+7,Denmark,Greenland,2020-07-31,14,0,13,1,0,0,0.0,,,0,
+8,Denmark,Greenland,2020-08-31,14,0,14,1,0,1,1.0,0.0,1.0,1,
+9,Denmark,Greenland,2020-09-30,14,0,14,0,0,0,,,,0,
+10,Denmark,Greenland,2020-10-31,17,0,16,3,0,2,0.6666666666666666,0.0,1.0,2,
+11,Denmark,Greenland,2020-11-28,18,0,18,2,0,2,1.0,0.0,1.0,2,0.0

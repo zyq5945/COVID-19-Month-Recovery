@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+6,United Kingdom,Wales,2020-06-30,15743,1510,0,15743,1510,0,0.09591564504859303,1.0,0.0,1510,
+7,United Kingdom,Wales,2020-07-31,17258,1560,0,15748,50,0,0.0031750063500127,1.0,0.0,50,0.0
+8,United Kingdom,Wales,2020-08-31,18012,1595,0,16452,35,0,0.0021274009238998297,1.0,0.0,35,0.0
+9,United Kingdom,Wales,2020-09-30,23985,1616,0,22390,21,0,0.0009379187137114783,1.0,0.0,21,0.0
+10,United Kingdom,Wales,2020-10-31,50872,1872,0,49256,256,0,0.0051973363651128795,1.0,0.0,256,0.0
+11,United Kingdom,Wales,2020-11-28,78536,2523,0,76664,651,0,0.008491599707815925,1.0,0.0,651,0.0

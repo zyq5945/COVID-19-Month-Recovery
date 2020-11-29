@@ -1,0 +1,16 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+18,Netherlands,Groningen,2020-07-19,368,17,0,368,17,0,0.04619565217391304,1.0,0.0,17,
+19,Netherlands,Groningen,2020-07-29,380,17,0,363,0,0,0.0,,,0,
+20,Netherlands,Groningen,2020-08-08,425,17,0,408,0,0,0.0,,,0,
+21,Netherlands,Groningen,2020-08-18,520,17,0,503,0,0,0.0,,,0,
+22,Netherlands,Groningen,2020-08-28,584,19,0,567,2,0,0.003527336860670194,1.0,0.0,2,
+23,Netherlands,Groningen,2020-09-07,644,19,0,625,0,0,0.0,,,0,
+24,Netherlands,Groningen,2020-09-17,920,19,0,901,0,0,0.0,,,0,
+25,Netherlands,Groningen,2020-09-27,1546,20,0,1527,1,0,0.0006548788474132286,1.0,0.0,1,
+26,Netherlands,Groningen,2020-10-07,2593,21,0,2573,1,0,0.000388651379712398,1.0,0.0,1,0.0
+27,Netherlands,Groningen,2020-10-17,4122,23,0,4101,2,0,0.000487685930260912,1.0,0.0,2,0.0
+28,Netherlands,Groningen,2020-10-27,5440,27,0,5417,4,0,0.0007384160974709249,1.0,0.0,4,0.0
+29,Netherlands,Groningen,2020-11-06,6497,38,0,6470,11,0,0.0017001545595054096,1.0,0.0,11,0.0
+30,Netherlands,Groningen,2020-11-16,7219,44,0,7181,6,0,0.0008355382258738338,1.0,0.0,6,0.0
+31,Netherlands,Groningen,2020-11-26,8099,48,0,8055,4,0,0.0004965859714463067,1.0,0.0,4,0.0
+32,Netherlands,Groningen,2020-11-28,8320,48,0,8272,0,0,0.0,,,0,

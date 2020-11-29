@@ -1,0 +1,19 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,France,Saint Barthelemy,2020-03-21,3,0,0,3,0,0,0.0,,,0,
+5,France,Saint Barthelemy,2020-04-05,6,0,1,6,0,1,0.16666666666666666,0.0,1.0,1,
+6,France,Saint Barthelemy,2020-04-20,6,0,5,5,0,4,0.8,0.0,1.0,4,0.0
+7,France,Saint Barthelemy,2020-05-05,6,0,6,1,0,1,1.0,0.0,1.0,1,0.0
+8,France,Saint Barthelemy,2020-05-20,6,0,6,0,0,0,,,,0,
+9,France,Saint Barthelemy,2020-06-04,6,0,6,0,0,0,,,,0,
+10,France,Saint Barthelemy,2020-06-19,6,0,6,0,0,0,,,,0,
+11,France,Saint Barthelemy,2020-07-04,6,0,6,0,0,0,,,,0,
+12,France,Saint Barthelemy,2020-07-19,6,0,6,0,0,0,,,,0,
+13,France,Saint Barthelemy,2020-08-03,9,0,6,3,0,0,0.0,,,0,
+14,France,Saint Barthelemy,2020-08-18,16,0,9,10,0,3,0.3,0.0,1.0,3,
+15,France,Saint Barthelemy,2020-09-02,18,0,13,9,0,4,0.4444444444444444,0.0,1.0,4,0.0
+16,France,Saint Barthelemy,2020-09-17,23,0,16,10,0,3,0.3,0.0,1.0,3,0.0
+17,France,Saint Barthelemy,2020-10-02,54,0,37,38,0,21,0.5526315789473685,0.0,1.0,21,0.0
+18,France,Saint Barthelemy,2020-10-17,72,0,55,35,0,18,0.5142857142857142,0.0,1.0,18,0.0
+19,France,Saint Barthelemy,2020-11-01,83,0,67,28,0,12,0.42857142857142855,0.0,1.0,12,0.0
+20,France,Saint Barthelemy,2020-11-16,109,0,83,42,0,16,0.38095238095238093,0.0,1.0,16,0.0
+21,France,Saint Barthelemy,2020-11-28,127,0,94,44,0,11,0.25,0.0,1.0,11,0.0

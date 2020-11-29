@@ -1,0 +1,9 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+9,Netherlands,Noord-Brabant,2020-07-19,9782,1535,0,9782,1535,0,0.15692087507667143,1.0,0.0,1535,
+10,Netherlands,Noord-Brabant,2020-08-08,10558,1541,0,9023,6,0,0.0006649673057741328,1.0,0.0,6,0.0
+11,Netherlands,Noord-Brabant,2020-08-28,11994,1547,0,10453,6,0,0.0005739978953410505,1.0,0.0,6,0.0
+12,Netherlands,Noord-Brabant,2020-09-17,13869,1552,0,12322,5,0,0.0004057782827463074,1.0,0.0,5,0.0
+13,Netherlands,Noord-Brabant,2020-10-07,21417,1574,0,19865,22,0,0.0011074754593506167,1.0,0.0,22,0.0
+14,Netherlands,Noord-Brabant,2020-10-27,46189,1668,0,44615,94,0,0.002106914714782024,1.0,0.0,94,0.0
+15,Netherlands,Noord-Brabant,2020-11-16,71078,1926,0,69410,258,0,0.0037170436536522115,1.0,0.0,258,0.0
+16,Netherlands,Noord-Brabant,2020-11-28,81363,2026,0,79437,100,0,0.001258859221773229,1.0,0.0,100,0.0

@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,United Kingdom,Isle of Man,2020-03-31,60,0,0,60,0,0,0.0,,,0,
+4,United Kingdom,Isle of Man,2020-04-30,315,21,260,315,21,260,0.8920634920634921,0.07473309608540925,0.9252669039145908,281,
+5,United Kingdom,Isle of Man,2020-05-31,336,24,309,55,3,49,0.9454545454545454,0.057692307692307696,0.9423076923076923,52,0.017040788393101525
+6,United Kingdom,Isle of Man,2020-06-30,336,24,312,3,0,3,1.0,0.0,1.0,3,0.05769230769230771
+7,United Kingdom,Isle of Man,2020-07-31,336,24,312,0,0,0,,,,0,
+8,United Kingdom,Isle of Man,2020-08-31,336,24,312,0,0,0,,,,0,
+9,United Kingdom,Isle of Man,2020-09-30,340,24,315,4,0,3,0.75,0.0,1.0,3,
+10,United Kingdom,Isle of Man,2020-10-31,353,24,324,14,0,9,0.6428571428571429,0.0,1.0,9,0.0
+11,United Kingdom,Isle of Man,2020-11-28,369,25,338,21,1,14,0.7142857142857143,0.06666666666666667,0.9333333333333333,15,-0.06666666666666665

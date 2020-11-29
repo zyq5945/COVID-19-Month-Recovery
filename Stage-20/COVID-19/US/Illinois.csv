@@ -1,0 +1,13 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,US,Illinois,2020-04-30,52918,2355,0,52918,2355,0,0.0445028156770853,1.0,0.0,2355,
+6,US,Illinois,2020-05-20,100418,4525,,98063,2170,,,,,,
+7,US,Illinois,2020-06-09,129212,6018,,,1493,,,,,,
+8,US,Illinois,2020-06-29,142461,6902,,,884,,,,,,
+9,US,Illinois,2020-07-19,162750,7488,,,586,,,,,,
+10,US,Illinois,2020-08-08,193998,7840,,,352,,,,,,
+11,US,Illinois,2020-08-28,231186,8206,,,366,,,,,,
+12,US,Illinois,2020-09-17,270294,8624,,,418,,,,,,
+13,US,Illinois,2020-10-07,310335,9127,,,503,,,,,,
+14,US,Illinois,2020-10-27,387687,9838,,,711,,,,,,
+15,US,Illinois,2020-11-16,585248,11204,,,1366,,,,,,
+16,US,Illinois,2020-11-28,712936,12838,,,1634,,,,,,

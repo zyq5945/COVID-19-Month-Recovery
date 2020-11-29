@@ -1,0 +1,6 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Netherlands,Unknown,2020-07-31,511,18,0,511,18,0,0.03522504892367906,1.0,0.0,18,
+8,Netherlands,Unknown,2020-08-31,615,18,0,597,0,0,0.0,,,0,
+9,Netherlands,Unknown,2020-09-30,1025,18,0,1007,0,0,0.0,,,0,
+10,Netherlands,Unknown,2020-10-31,2383,25,0,2365,7,0,0.002959830866807611,1.0,0.0,7,
+11,Netherlands,Unknown,2020-11-28,2969,28,0,2944,3,0,0.0010190217391304348,1.0,0.0,3,0.0

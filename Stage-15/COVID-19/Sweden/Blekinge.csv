@@ -1,0 +1,13 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+10,Sweden,Blekinge,2020-06-19,402,9,0,402,9,0,0.022388059701492536,1.0,0.0,9,
+11,Sweden,Blekinge,2020-07-04,452,14,0,443,5,0,0.011286681715575621,1.0,0.0,5,0.0
+12,Sweden,Blekinge,2020-07-19,478,14,0,464,0,0,0.0,,,0,
+13,Sweden,Blekinge,2020-08-03,494,15,0,480,1,0,0.0020833333333333333,1.0,0.0,1,
+14,Sweden,Blekinge,2020-08-18,575,15,0,560,0,0,0.0,,,0,
+15,Sweden,Blekinge,2020-09-02,610,16,0,595,1,0,0.0016806722689075631,1.0,0.0,1,
+16,Sweden,Blekinge,2020-09-17,621,17,0,605,1,0,0.001652892561983471,1.0,0.0,1,0.0
+17,Sweden,Blekinge,2020-10-02,747,17,0,730,0,0,0.0,,,0,
+18,Sweden,Blekinge,2020-10-17,858,18,0,841,1,0,0.0011890606420927466,1.0,0.0,1,
+19,Sweden,Blekinge,2020-11-01,999,18,0,981,0,0,0.0,,,0,
+20,Sweden,Blekinge,2020-11-16,1345,19,0,1327,1,0,0.0007535795026375283,1.0,0.0,1,
+21,Sweden,Blekinge,2020-11-28,1901,23,0,1882,4,0,0.0021253985122210413,1.0,0.0,4,0.0

@@ -1,0 +1,14 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+9,Russia,Nenets Autonomous Okrug,2020-06-04,75,0,15,75,0,15,0.2,0.0,1.0,15,
+10,Russia,Nenets Autonomous Okrug,2020-06-19,90,0,33,75,0,18,0.24,0.0,1.0,18,0.0
+11,Russia,Nenets Autonomous Okrug,2020-07-04,131,0,40,98,0,7,0.07142857142857142,0.0,1.0,7,0.0
+12,Russia,Nenets Autonomous Okrug,2020-07-19,258,0,46,218,0,6,0.027522935779816515,0.0,1.0,6,0.0
+13,Russia,Nenets Autonomous Okrug,2020-08-03,275,0,88,229,0,42,0.18340611353711792,0.0,1.0,42,0.0
+14,Russia,Nenets Autonomous Okrug,2020-08-18,297,0,104,209,0,16,0.07655502392344497,0.0,1.0,16,0.0
+15,Russia,Nenets Autonomous Okrug,2020-09-02,315,0,114,211,0,10,0.04739336492890995,0.0,1.0,10,0.0
+16,Russia,Nenets Autonomous Okrug,2020-09-17,324,0,114,210,0,0,0.0,,,0,
+17,Russia,Nenets Autonomous Okrug,2020-10-02,335,0,132,221,0,18,0.08144796380090498,0.0,1.0,18,
+18,Russia,Nenets Autonomous Okrug,2020-10-17,380,4,136,248,4,4,0.03225806451612903,0.5,0.5,8,-0.5
+19,Russia,Nenets Autonomous Okrug,2020-11-01,474,0,161,334,-4,25,0.06287425149700598,-0.19047619047619047,1.1904761904761905,21,0.6904761904761905
+20,Russia,Nenets Autonomous Okrug,2020-11-16,582,0,315,421,0,154,0.3657957244655582,0.0,1.0,154,-0.19047619047619047
+21,Russia,Nenets Autonomous Okrug,2020-11-28,647,0,511,332,0,196,0.5903614457831325,0.0,1.0,196,0.0

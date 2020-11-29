@@ -1,8 +1,0 @@
-Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
-5,Peru,Huancavelica,2020-05-31,436,1,0,436,1,0,0.0022935779816513763,1.0,0.0,1,
-6,Peru,Huancavelica,2020-06-30,902,11,0,901,10,0,0.011098779134295227,1.0,0.0,10,0.0
-7,Peru,Huancavelica,2020-07-31,1618,38,0,1607,27,0,0.016801493466085875,1.0,0.0,27,0.0
-8,Peru,Huancavelica,2020-08-31,4639,83,0,4601,45,0,0.009780482503803522,1.0,0.0,45,0.0
-9,Peru,Huancavelica,2020-09-30,6697,111,0,6614,28,0,0.0042334442092530995,1.0,0.0,28,0.0
-10,Peru,Huancavelica,2020-10-31,7245,125,0,7134,14,0,0.0019624334174376226,1.0,0.0,14,0.0
-11,Peru,Huancavelica,2020-11-27,7618,133,0,7493,8,0,0.0010676631522754572,1.0,0.0,8,0.0

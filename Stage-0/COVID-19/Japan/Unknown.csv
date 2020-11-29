@@ -1,0 +1,8 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,Japan,Unknown,2020-05-31,8,0,0,8,0,0,0.0,,,0,
+6,Japan,Unknown,2020-06-30,8,0,0,8,0,0,0.0,,,0,
+7,Japan,Unknown,2020-07-31,8,0,8,8,0,8,1.0,0.0,1.0,8,
+8,Japan,Unknown,2020-08-31,8,0,8,0,0,0,,,,0,
+9,Japan,Unknown,2020-09-30,8,0,8,0,0,0,,,,0,
+10,Japan,Unknown,2020-10-31,8,0,8,0,0,0,,,,0,
+11,Japan,Unknown,2020-11-28,8,0,8,0,0,0,,,,0,

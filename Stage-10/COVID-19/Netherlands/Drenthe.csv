@@ -1,0 +1,16 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+18,Netherlands,Drenthe,2020-07-19,539,41,0,539,41,0,0.07606679035250463,1.0,0.0,41,
+19,Netherlands,Drenthe,2020-07-29,549,41,0,508,0,0,0.0,,,0,
+20,Netherlands,Drenthe,2020-08-08,566,41,0,525,0,0,0.0,,,0,
+21,Netherlands,Drenthe,2020-08-18,586,41,0,545,0,0,0.0,,,0,
+22,Netherlands,Drenthe,2020-08-28,606,41,0,565,0,0,0.0,,,0,
+23,Netherlands,Drenthe,2020-09-07,626,41,0,585,0,0,0.0,,,0,
+24,Netherlands,Drenthe,2020-09-17,688,41,0,647,0,0,0.0,,,0,
+25,Netherlands,Drenthe,2020-09-27,1030,45,0,989,4,0,0.004044489383215369,1.0,0.0,4,
+26,Netherlands,Drenthe,2020-10-07,1613,58,0,1568,13,0,0.008290816326530613,1.0,0.0,13,0.0
+27,Netherlands,Drenthe,2020-10-17,3125,67,0,3067,9,0,0.0029344636452559502,1.0,0.0,9,0.0
+28,Netherlands,Drenthe,2020-10-27,4673,76,0,4606,9,0,0.0019539730785931393,1.0,0.0,9,0.0
+29,Netherlands,Drenthe,2020-11-06,5771,86,0,5695,10,0,0.001755926251097454,1.0,0.0,10,0.0
+30,Netherlands,Drenthe,2020-11-16,6606,98,0,6520,12,0,0.0018404907975460123,1.0,0.0,12,0.0
+31,Netherlands,Drenthe,2020-11-26,7515,109,0,7417,11,0,0.001483079412161251,1.0,0.0,11,0.0
+32,Netherlands,Drenthe,2020-11-28,7682,112,0,7573,3,0,0.0003961441964875215,1.0,0.0,3,0.0

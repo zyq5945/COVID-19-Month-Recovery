@@ -1,8 +1,0 @@
-Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
-5,Peru,Apurimac,2020-05-31,194,3,0,194,3,0,0.015463917525773196,1.0,0.0,3,
-6,Peru,Apurimac,2020-06-30,557,19,0,554,16,0,0.02888086642599278,1.0,0.0,16,0.0
-7,Peru,Apurimac,2020-07-31,880,38,0,861,19,0,0.022067363530778164,1.0,0.0,19,0.0
-8,Peru,Apurimac,2020-08-31,2799,64,0,2761,26,0,0.009416877942774357,1.0,0.0,26,0.0
-9,Peru,Apurimac,2020-09-30,4756,91,0,4692,27,0,0.005754475703324808,1.0,0.0,27,0.0
-10,Peru,Apurimac,2020-10-31,5750,112,0,5659,21,0,0.0037109029863933557,1.0,0.0,21,0.0
-11,Peru,Apurimac,2020-11-27,6417,136,0,6305,24,0,0.0038065027755749404,1.0,0.0,24,0.0

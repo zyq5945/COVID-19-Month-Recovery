@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+6,Sweden,Sormland,2020-06-30,2080,243,0,2080,243,0,0.11682692307692308,1.0,0.0,243,
+7,Sweden,Sormland,2020-07-31,2394,253,0,2151,10,0,0.004649000464900047,1.0,0.0,10,0.0
+8,Sweden,Sormland,2020-08-31,2429,253,0,2176,0,0,0.0,,,0,
+9,Sweden,Sormland,2020-09-30,2521,254,0,2268,1,0,0.0004409171075837742,1.0,0.0,1,
+10,Sweden,Sormland,2020-10-31,3071,255,0,2817,1,0,0.0003549875754348598,1.0,0.0,1,0.0
+11,Sweden,Sormland,2020-11-28,5795,270,0,5540,15,0,0.002707581227436823,1.0,0.0,15,0.0

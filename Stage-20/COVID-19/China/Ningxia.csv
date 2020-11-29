@@ -1,0 +1,17 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Ningxia,2020-02-10,49,0,13,49,0,13,0.2653061224489796,0.0,1.0,13,
+2,China,Ningxia,2020-03-01,73,0,69,60,0,56,0.9333333333333333,0.0,1.0,56,0.0
+3,China,Ningxia,2020-03-21,75,0,75,6,0,6,1.0,0.0,1.0,6,0.0
+4,China,Ningxia,2020-04-10,75,0,75,0,0,0,,,,0,
+5,China,Ningxia,2020-04-30,75,0,75,0,0,0,,,,0,
+6,China,Ningxia,2020-05-20,75,0,75,0,0,0,,,,0,
+7,China,Ningxia,2020-06-09,75,0,75,0,0,0,,,,0,
+8,China,Ningxia,2020-06-29,75,0,75,0,0,0,,,,0,
+9,China,Ningxia,2020-07-19,75,0,75,0,0,0,,,,0,
+10,China,Ningxia,2020-08-08,75,0,75,0,0,0,,,,0,
+11,China,Ningxia,2020-08-28,75,0,75,0,0,0,,,,0,
+12,China,Ningxia,2020-09-17,75,0,75,0,0,0,,,,0,
+13,China,Ningxia,2020-10-07,75,0,75,0,0,0,,,,0,
+14,China,Ningxia,2020-10-27,75,0,75,0,0,0,,,,0,
+15,China,Ningxia,2020-11-16,75,0,75,0,0,0,,,,0,
+16,China,Ningxia,2020-11-28,75,0,75,0,0,0,,,,0,

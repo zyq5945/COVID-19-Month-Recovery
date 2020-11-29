@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+6,Sweden,Gotland,2020-06-30,160,7,0,160,7,0,0.04375,1.0,0.0,7,
+7,Sweden,Gotland,2020-07-31,248,6,0,241,-1,0,-0.004149377593360996,1.0,-0.0,-1,-0.0
+8,Sweden,Gotland,2020-08-31,318,6,0,312,0,0,0.0,,,0,
+9,Sweden,Gotland,2020-09-30,330,6,0,324,0,0,0.0,,,0,
+10,Sweden,Gotland,2020-10-31,418,7,0,412,1,0,0.0024271844660194173,1.0,0.0,1,
+11,Sweden,Gotland,2020-11-28,1198,12,0,1191,5,0,0.0041981528127623844,1.0,0.0,5,0.0

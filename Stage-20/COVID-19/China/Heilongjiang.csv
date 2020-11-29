@@ -1,0 +1,17 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Heilongjiang,2020-02-10,331,7,30,331,7,30,0.11178247734138973,0.1891891891891892,0.8108108108108109,37,
+2,China,Heilongjiang,2020-03-01,480,13,342,443,6,312,0.7178329571106095,0.018867924528301886,0.9811320754716981,318,0.17032126466088726
+3,China,Heilongjiang,2020-03-21,484,13,463,129,0,121,0.937984496124031,0.0,1.0,121,0.018867924528301883
+4,China,Heilongjiang,2020-04-10,638,13,470,162,0,7,0.043209876543209874,0.0,1.0,7,0.0
+5,China,Heilongjiang,2020-04-30,944,13,587,461,0,117,0.25379609544468545,0.0,1.0,117,0.0
+6,China,Heilongjiang,2020-05-20,945,13,932,345,0,345,1.0,0.0,1.0,345,0.0
+7,China,Heilongjiang,2020-06-09,947,13,934,2,0,2,1.0,0.0,1.0,2,0.0
+8,China,Heilongjiang,2020-06-29,947,13,934,0,0,0,,,,0,
+9,China,Heilongjiang,2020-07-19,947,13,934,0,0,0,,,,0,
+10,China,Heilongjiang,2020-08-08,947,13,934,0,0,0,,,,0,
+11,China,Heilongjiang,2020-08-28,948,13,934,1,0,0,0.0,,,0,
+12,China,Heilongjiang,2020-09-17,948,13,935,1,0,1,1.0,0.0,1.0,1,
+13,China,Heilongjiang,2020-10-07,948,13,935,0,0,0,,,,0,
+14,China,Heilongjiang,2020-10-27,949,13,935,1,0,0,0.0,,,0,
+15,China,Heilongjiang,2020-11-16,949,13,936,1,0,1,1.0,0.0,1.0,1,
+16,China,Heilongjiang,2020-11-28,949,13,936,0,0,0,,,,0,

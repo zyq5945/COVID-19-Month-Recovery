@@ -1,0 +1,15 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,United Kingdom,Montserrat,2020-03-21,1,0,0,1,0,0,0.0,,,0,
+4,United Kingdom,Montserrat,2020-04-10,9,0,0,9,0,0,0.0,,,0,
+5,United Kingdom,Montserrat,2020-04-30,11,1,2,11,1,2,0.2727272727272727,0.3333333333333333,0.6666666666666666,3,
+6,United Kingdom,Montserrat,2020-05-20,11,1,10,8,0,8,1.0,0.0,1.0,8,0.33333333333333337
+7,United Kingdom,Montserrat,2020-06-09,11,1,10,0,0,0,,,,0,
+8,United Kingdom,Montserrat,2020-06-29,11,1,10,0,0,0,,,,0,
+9,United Kingdom,Montserrat,2020-07-19,12,1,10,1,0,0,0.0,,,0,
+10,United Kingdom,Montserrat,2020-08-08,13,1,12,2,0,2,1.0,0.0,1.0,2,
+11,United Kingdom,Montserrat,2020-08-28,13,1,12,0,0,0,,,,0,
+12,United Kingdom,Montserrat,2020-09-17,13,1,12,0,0,0,,,,0,
+13,United Kingdom,Montserrat,2020-10-07,13,1,12,0,0,0,,,,0,
+14,United Kingdom,Montserrat,2020-10-27,13,1,12,0,0,0,,,,0,
+15,United Kingdom,Montserrat,2020-11-16,13,1,12,0,0,0,,,,0,
+16,United Kingdom,Montserrat,2020-11-28,13,1,12,0,0,0,,,,0,

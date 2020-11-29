@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Japan,Port Quarantine,2020-06-09,231,0,163,231,0,163,0.7056277056277056,0.0,1.0,163,
+8,Japan,Port Quarantine,2020-06-29,315,1,189,152,1,26,0.17763157894736842,0.037037037037037035,0.9629629629629629,27,-0.03703703703703709
+9,Japan,Port Quarantine,2020-07-19,462,1,219,272,0,30,0.11029411764705882,0.0,1.0,30,0.03703703703703709
+10,Japan,Port Quarantine,2020-08-08,670,1,238,450,0,19,0.042222222222222223,0.0,1.0,19,0.0
+11,Japan,Port Quarantine,2020-08-28,770,1,514,531,0,276,0.519774011299435,0.0,1.0,276,0.0
+12,Japan,Port Quarantine,2020-09-17,876,1,514,361,0,0,0.0,,,0,
+13,Japan,Port Quarantine,2020-10-07,1020,1,514,505,0,0,0.0,,,0,
+14,Japan,Port Quarantine,2020-10-27,1150,1,514,635,0,0,0.0,,,0,
+15,Japan,Port Quarantine,2020-11-16,1358,1,514,843,0,0,0.0,,,0,
+16,Japan,Port Quarantine,2020-11-28,1506,1,1346,991,0,832,0.8395560040363269,0.0,1.0,832,

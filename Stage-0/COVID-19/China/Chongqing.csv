@@ -1,0 +1,12 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,China,Chongqing,2020-01-31,211,,1,211,,1,,,,,
+2,China,Chongqing,2020-02-29,576,6,438,,,437,,,,,
+3,China,Chongqing,2020-03-31,579,6,570,135,0,132,0.9777777777777777,0.0,1.0,132,
+4,China,Chongqing,2020-04-30,579,6,573,3,0,3,1.0,0.0,1.0,3,0.0
+5,China,Chongqing,2020-05-31,579,6,573,0,0,0,,,,0,
+6,China,Chongqing,2020-06-30,582,6,573,3,0,0,0.0,,,0,
+7,China,Chongqing,2020-07-31,583,6,577,4,0,4,1.0,0.0,1.0,4,
+8,China,Chongqing,2020-08-31,583,6,577,0,0,0,,,,0,
+9,China,Chongqing,2020-09-30,584,6,578,1,0,1,1.0,0.0,1.0,1,
+10,China,Chongqing,2020-10-31,589,6,579,5,0,1,0.2,0.0,1.0,1,0.0
+11,China,Chongqing,2020-11-28,590,6,583,5,0,4,0.8,0.0,1.0,4,0.0

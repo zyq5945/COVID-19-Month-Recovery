@@ -1,9 +1,0 @@
-Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_Deaths,Month_Recovered,Month_Treated%,Month_Deaths%,Month_Recovered%,Month_Treated,Recovered_Change
-4,US,Puerto Rico,2020-04-30,1539,92,0,1539,92,0,0.05977907732293697,1.0,0.0,92,
-5,US,Puerto Rico,2020-05-31,3776,136,,3684,44,,,,,,
-6,US,Puerto Rico,2020-06-30,7465,153,,,17,,,,,,
-7,US,Puerto Rico,2020-07-31,16781,219,,,66,,,,,,
-8,US,Puerto Rico,2020-08-31,33199,434,,,215,,,,,,
-9,US,Puerto Rico,2020-09-30,48755,661,,,227,,,,,,
-10,US,Puerto Rico,2020-10-31,66128,822,29464,,161,,,,,,
-11,US,Puerto Rico,2020-11-27,50678,1076,41768,20392,254,12304,0.6158297371518242,0.020226150660933268,0.9797738493390667,12558,

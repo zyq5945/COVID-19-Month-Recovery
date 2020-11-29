@@ -1,0 +1,20 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+14,Russia,Chukotka Autonomous Okrug,2020-06-09,110,1,68,110,1,68,0.6272727272727273,0.014492753623188406,0.9855072463768116,69,
+15,Russia,Chukotka Autonomous Okrug,2020-06-19,130,1,98,61,0,30,0.4918032786885246,0.0,1.0,30,0.01449275362318836
+16,Russia,Chukotka Autonomous Okrug,2020-06-29,138,1,125,39,0,27,0.6923076923076923,0.0,1.0,27,0.0
+17,Russia,Chukotka Autonomous Okrug,2020-07-09,143,1,137,17,0,12,0.7058823529411765,0.0,1.0,12,0.0
+18,Russia,Chukotka Autonomous Okrug,2020-07-19,146,1,143,8,0,6,0.75,0.0,1.0,6,0.0
+19,Russia,Chukotka Autonomous Okrug,2020-07-29,152,1,148,8,0,5,0.625,0.0,1.0,5,0.0
+20,Russia,Chukotka Autonomous Okrug,2020-08-08,160,1,149,11,0,1,0.09090909090909091,0.0,1.0,1,0.0
+21,Russia,Chukotka Autonomous Okrug,2020-08-18,164,1,154,14,0,5,0.35714285714285715,0.0,1.0,5,0.0
+22,Russia,Chukotka Autonomous Okrug,2020-08-28,171,2,161,16,1,7,0.5,0.125,0.875,8,-0.125
+23,Russia,Chukotka Autonomous Okrug,2020-09-07,174,2,167,11,0,6,0.5454545454545454,0.0,1.0,6,0.125
+24,Russia,Chukotka Autonomous Okrug,2020-09-17,180,2,170,11,0,3,0.2727272727272727,0.0,1.0,3,0.0
+25,Russia,Chukotka Autonomous Okrug,2020-09-27,190,2,177,18,0,7,0.3888888888888889,0.0,1.0,7,0.0
+26,Russia,Chukotka Autonomous Okrug,2020-10-07,202,2,185,23,0,8,0.34782608695652173,0.0,1.0,8,0.0
+27,Russia,Chukotka Autonomous Okrug,2020-10-17,220,2,194,33,0,9,0.2727272727272727,0.0,1.0,9,0.0
+28,Russia,Chukotka Autonomous Okrug,2020-10-27,233,2,208,37,0,14,0.3783783783783784,0.0,1.0,14,0.0
+29,Russia,Chukotka Autonomous Okrug,2020-11-06,259,2,223,49,0,15,0.30612244897959184,0.0,1.0,15,0.0
+30,Russia,Chukotka Autonomous Okrug,2020-11-16,291,3,240,66,1,17,0.2727272727272727,0.05555555555555555,0.9444444444444444,18,-0.05555555555555558
+31,Russia,Chukotka Autonomous Okrug,2020-11-26,368,3,321,125,0,81,0.648,0.0,1.0,81,0.05555555555555558
+32,Russia,Chukotka Autonomous Okrug,2020-11-28,386,3,329,62,0,8,0.12903225806451613,0.0,1.0,8,0.0

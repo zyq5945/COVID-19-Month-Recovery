@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Canada,Northwest Territories,2020-03-31,1,0,0,1,0,0,0.0,,,0,
+4,Canada,Northwest Territories,2020-04-30,5,0,0,5,0,0,0.0,,,0,
+5,Canada,Northwest Territories,2020-05-31,5,0,5,5,0,5,1.0,0.0,1.0,5,
+6,Canada,Northwest Territories,2020-06-30,5,0,5,0,0,0,,,,0,
+7,Canada,Northwest Territories,2020-07-31,5,0,5,0,0,0,,,,0,
+8,Canada,Northwest Territories,2020-08-31,5,0,5,0,0,0,,,,0,
+9,Canada,Northwest Territories,2020-09-30,5,0,5,0,0,0,,,,0,
+10,Canada,Northwest Territories,2020-10-31,10,0,8,5,0,3,0.6,0.0,1.0,3,
+11,Canada,Northwest Territories,2020-11-28,15,0,15,7,0,7,1.0,0.0,1.0,7,0.0

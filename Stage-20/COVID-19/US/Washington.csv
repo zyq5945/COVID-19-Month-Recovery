@@ -1,0 +1,13 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+5,US,Washington,2020-04-30,14327,814,0,14327,814,0,0.05681580233126265,1.0,0.0,814,
+6,US,Washington,2020-05-20,18971,1037,,18157,223,,,,,,
+7,US,Washington,2020-06-09,24354,1176,,,139,,,,,,
+8,US,Washington,2020-06-29,32253,1320,,,144,,,,,,
+9,US,Washington,2020-07-19,46946,1447,,,127,,,,,,
+10,US,Washington,2020-08-08,62523,1688,,,241,,,,,,
+11,US,Washington,2020-08-28,73301,1905,,,217,,,,,,
+12,US,Washington,2020-09-17,81198,2031,,,126,,,,,,
+13,US,Washington,2020-10-07,91208,2177,,,146,,,,,,
+14,US,Washington,2020-10-27,104027,2337,,,160,,,,,,
+15,US,Washington,2020-11-16,131532,2548,,,211,,,,,,
+16,US,Washington,2020-11-28,160634,2703,,,155,,,,,,

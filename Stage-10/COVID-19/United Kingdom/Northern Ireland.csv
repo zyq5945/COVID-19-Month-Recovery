@@ -1,0 +1,19 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+15,United Kingdom,Northern Ireland,2020-06-19,4866,543,0,4866,543,0,0.11159062885326756,1.0,0.0,543,
+16,United Kingdom,Northern Ireland,2020-06-29,4880,550,0,4337,7,0,0.0016140189070786258,1.0,0.0,7,0.0
+17,United Kingdom,Northern Ireland,2020-07-09,4894,554,0,4344,4,0,0.0009208103130755065,1.0,0.0,4,0.0
+18,United Kingdom,Northern Ireland,2020-07-19,5834,556,0,5280,2,0,0.0003787878787878788,1.0,0.0,2,0.0
+19,United Kingdom,Northern Ireland,2020-07-29,5930,556,0,5374,0,0,0.0,,,0,
+20,United Kingdom,Northern Ireland,2020-08-08,6064,556,0,5508,0,0,0.0,,,0,
+21,United Kingdom,Northern Ireland,2020-08-18,6471,559,0,5915,3,0,0.0005071851225697379,1.0,0.0,3,
+22,United Kingdom,Northern Ireland,2020-08-28,7049,560,0,6490,1,0,0.00015408320493066256,1.0,0.0,1,0.0
+23,United Kingdom,Northern Ireland,2020-09-07,7868,565,0,7308,5,0,0.0006841817186644773,1.0,0.0,5,0.0
+24,United Kingdom,Northern Ireland,2020-09-17,8780,573,0,8215,8,0,0.0009738283627510651,1.0,0.0,8,0.0
+25,United Kingdom,Northern Ireland,2020-09-27,10729,578,0,10156,5,0,0.0004923198109491926,1.0,0.0,5,0.0
+26,United Kingdom,Northern Ireland,2020-10-07,16187,586,0,15609,8,0,0.0005125248254212314,1.0,0.0,8,0.0
+27,United Kingdom,Northern Ireland,2020-10-17,26208,610,0,25622,24,0,0.0009366950277105613,1.0,0.0,24,0.0
+28,United Kingdom,Northern Ireland,2020-10-27,35554,671,0,34944,61,0,0.0017456501831501832,1.0,0.0,61,0.0
+29,United Kingdom,Northern Ireland,2020-11-06,41969,760,0,41298,89,0,0.0021550680420359338,1.0,0.0,89,0.0
+30,United Kingdom,Northern Ireland,2020-11-16,47162,869,0,46402,109,0,0.002349036679453472,1.0,0.0,109,0.0
+31,United Kingdom,Northern Ireland,2020-11-26,51118,962,0,50249,93,0,0.0018507831001611972,1.0,0.0,93,0.0
+32,United Kingdom,Northern Ireland,2020-11-28,51824,983,0,50862,21,0,0.00041288191577208916,1.0,0.0,21,0.0

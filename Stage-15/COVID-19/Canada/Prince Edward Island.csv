@@ -1,0 +1,19 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,Canada,Prince Edward Island,2020-03-21,2,0,0,2,0,0,0.0,,,0,
+5,Canada,Prince Edward Island,2020-04-05,22,0,0,22,0,0,0.0,,,0,
+6,Canada,Prince Edward Island,2020-04-20,26,0,0,26,0,0,0.0,,,0,
+7,Canada,Prince Edward Island,2020-05-05,27,0,0,27,0,0,0.0,,,0,
+8,Canada,Prince Edward Island,2020-05-20,27,0,27,27,0,27,1.0,0.0,1.0,27,
+9,Canada,Prince Edward Island,2020-06-04,27,0,27,0,0,0,,,,0,
+10,Canada,Prince Edward Island,2020-06-19,27,0,27,0,0,0,,,,0,
+11,Canada,Prince Edward Island,2020-07-04,30,0,27,3,0,0,0.0,,,0,
+12,Canada,Prince Edward Island,2020-07-19,36,0,29,9,0,2,0.2222222222222222,0.0,1.0,2,
+13,Canada,Prince Edward Island,2020-08-03,36,0,36,7,0,7,1.0,0.0,1.0,7,0.0
+14,Canada,Prince Edward Island,2020-08-18,44,0,40,8,0,4,0.5,0.0,1.0,4,0.0
+15,Canada,Prince Edward Island,2020-09-02,44,0,44,4,0,4,1.0,0.0,1.0,4,0.0
+16,Canada,Prince Edward Island,2020-09-17,57,0,56,13,0,12,0.9230769230769231,0.0,1.0,12,0.0
+17,Canada,Prince Edward Island,2020-10-02,59,0,57,3,0,1,0.3333333333333333,0.0,1.0,1,0.0
+18,Canada,Prince Edward Island,2020-10-17,63,0,60,6,0,3,0.5,0.0,1.0,3,0.0
+19,Canada,Prince Edward Island,2020-11-01,64,0,64,4,0,4,1.0,0.0,1.0,4,0.0
+20,Canada,Prince Edward Island,2020-11-16,68,0,64,4,0,0,0.0,,,0,
+21,Canada,Prince Edward Island,2020-11-28,72,0,68,8,0,4,0.5,0.0,1.0,4,

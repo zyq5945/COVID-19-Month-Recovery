@@ -1,0 +1,9 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+4,United Kingdom,Falkland Islands (Malvinas),2020-04-30,13,0,11,13,0,11,0.8461538461538461,0.0,1.0,11,
+5,United Kingdom,Falkland Islands (Malvinas),2020-05-31,13,0,13,2,0,2,1.0,0.0,1.0,2,0.0
+6,United Kingdom,Falkland Islands (Malvinas),2020-06-30,13,0,13,0,0,0,,,,0,
+7,United Kingdom,Falkland Islands (Malvinas),2020-07-31,13,0,13,0,0,0,,,,0,
+8,United Kingdom,Falkland Islands (Malvinas),2020-08-31,13,0,13,0,0,0,,,,0,
+9,United Kingdom,Falkland Islands (Malvinas),2020-09-30,13,0,13,0,0,0,,,,0,
+10,United Kingdom,Falkland Islands (Malvinas),2020-10-31,13,0,13,0,0,0,,,,0,
+11,United Kingdom,Falkland Islands (Malvinas),2020-11-28,16,0,13,3,0,0,0.0,,,0,

@@ -92,10 +92,10 @@ def write_csv(file, datas):
     path = os.path.join(os.path.dirname(file),
                         os.path.splitext(os.path.basename(file))[0])
 
-    columns = ['Index', 'Region', 'Subregion', 'Month', 'Confirmed', 'Deaths', 'Recovered',
-               'Month_Confirmed', 'Month_Deaths', 'Month_Recovered',
-               'Month_Treated%', 'Month_Deaths%', 'Month_Recovered%',
-               'Month_Treated', 'Recovered_Change']
+    columns = ['Index', 'Region', 'Subregion', 'Stage', 'Confirmed', 'Deaths', 'Recovered',
+               'Stage_Confirmed', 'Stage_Deaths', 'Stage_Recovered',
+               'Stage_Treated%', 'Stage_Deaths%', 'Stage_Recovered%',
+               'Stage_Treated', 'Recovered_Change']
 
     pd.DataFrame(datas).to_csv(file, index=False, columns=columns)
     groups = groupby(datas, lambda x: '%s%s%s.csv' % (x['Region'], '' if x['Subregion'] == '' else '/', x['Subregion']))
@@ -118,19 +118,19 @@ def get_csv_files(path):
 
 
 def fill_data(last, current):
-    last.setdefault('Month_Treated', '')
-    last.setdefault('Month_Recovered%', '')
+    last.setdefault('Stage_Treated', '')
+    last.setdefault('Stage_Recovered%', '')
 
-    current['Month_Confirmed'] = data_dec(current['Confirmed'], last['Treated'])
-    current['Month_Deaths'] = data_dec(current['Deaths'], last['Deaths'])
-    current['Month_Recovered'] = data_dec(current['Recovered'], last['Recovered'])
-    current['Month_Treated'] = data_dec(current['Treated'], last['Treated'])
+    current['Stage_Confirmed'] = data_dec(current['Confirmed'], last['Treated'])
+    current['Stage_Deaths'] = data_dec(current['Deaths'], last['Deaths'])
+    current['Stage_Recovered'] = data_dec(current['Recovered'], last['Recovered'])
+    current['Stage_Treated'] = data_dec(current['Treated'], last['Treated'])
 
-    current['Month_Treated%'] = data_div(current['Month_Treated'], current['Month_Confirmed'])
-    current['Month_Deaths%'] = data_div(current['Month_Deaths'], current['Month_Treated'])
-    current['Month_Recovered%'] = data_div(current['Month_Recovered'], current['Month_Treated'])
+    current['Stage_Treated%'] = data_div(current['Stage_Treated'], current['Stage_Confirmed'])
+    current['Stage_Deaths%'] = data_div(current['Stage_Deaths'], current['Stage_Treated'])
+    current['Stage_Recovered%'] = data_div(current['Stage_Recovered'], current['Stage_Treated'])
 
-    current['Recovered_Change'] = data_dec_flt(current['Month_Recovered%'], last['Month_Recovered%'])
+    current['Recovered_Change'] = data_dec_flt(current['Stage_Recovered%'], last['Stage_Recovered%'])
     return current
 
 
@@ -138,7 +138,7 @@ def make_data(key, index, names, file, is_global):
     datas = read_data(file, names, is_global)
 
     for item in datas:
-        item['Month'] = key
+        item['Stage'] = key
         item['Index'] = index
         item['Confirmed'] = data_fmt(item['Confirmed'])
         item['Deaths'] = data_fmt(item['Deaths'])
@@ -147,17 +147,30 @@ def make_data(key, index, names, file, is_global):
     return datas
 
 
-def get_all_data(root_global, root_usa, names):
+def get_data_indexs(files, step):
+    if step > 0:
+        size = len(files)
+        list = [i for i in range(step - 1, size, step)]
+        last = list[-1]
+        offset = size - 1
+        if last < offset:
+            list.append(offset)
+    else:
+        groups = groupby(files, lambda x: '%04d-%02d' % (x.tm_year, x.tm_mon))
+        list = [files.index(max(group)) for _, group in groups]
+
+    return list
+
+
+def get_all_data(root_global, root_usa, names, step):
     files = get_csv_files(root_global)
     files = [time.strptime(x.split('.')[0], '%m-%d-%Y') for x in files]
     files.sort()
 
-    groups = groupby(files, lambda x: '%d-%02d' % (x.tm_year, x.tm_mon))
-
     datas = []
     index = 1
-    for _, group in groups:
-        tm = max(group)
+    for i in get_data_indexs(files, step):
+        tm = files[i]
         key = '%04d-%02d-%02d' % (tm.tm_year, tm.tm_mon, tm.tm_mday)
         file = '%02d-%02d-%04d.csv' % (tm.tm_mon, tm.tm_mday, tm.tm_year)
         list = make_data(key, index, names, os.path.join(root_global, file), True)
@@ -179,9 +192,10 @@ def get_all_data(root_global, root_usa, names):
 def main():
     argv = sys.argv
     argn = len(argv)
-
     root = './' if argn < 2 else argv[1]
     out_dir = './' if argn < 3 else argv[2]
+    step = 0 if argn < 4 else int(argv[3])
+
     root_global = os.path.join(root, 'csse_covid_19_data/csse_covid_19_daily_reports')
     root_usa = os.path.join(root, 'csse_covid_19_data/csse_covid_19_daily_reports_us')
 
@@ -198,8 +212,8 @@ def main():
              'Province/State': 'Subregion',
              'Province_State': 'Subregion'}
 
-    datas = get_all_data(root_global, root_usa, names)
-    write_csv(os.path.join(out_dir, 'COVID19.csv'), datas)
+    datas = get_all_data(root_global, root_usa, names, step)
+    write_csv(os.path.join(out_dir, 'COVID-19.csv'), datas)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,4 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+30,Belgium,East Flanders,2020-11-16,48637,0,0,48637,0,0,0.0,,,0,
+31,Belgium,East Flanders,2020-11-26,52849,0,0,52849,0,0,0.0,,,0,
+32,Belgium,East Flanders,2020-11-28,53563,0,0,53563,0,0,0.0,,,0,
