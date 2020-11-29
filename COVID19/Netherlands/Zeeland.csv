@@ -3,4 +3,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Netherlands,Zeeland,2020-08-31,1054,72,0,985,3,0,0.003045685279187817,1.0,0.0,3,0.0
 9,Netherlands,Zeeland,2020-09-30,1377,72,0,1305,0,0,0.0,,,0,
 10,Netherlands,Zeeland,2020-10-31,3491,81,0,3419,9,0,0.0026323486399532025,1.0,0.0,9,
-11,Netherlands,Zeeland,2020-11-26,5976,101,0,5895,20,0,0.0033927056827820186,1.0,0.0,20,0.0
+11,Netherlands,Zeeland,2020-11-27,6077,101,0,5996,20,0,0.00333555703802535,1.0,0.0,20,0.0

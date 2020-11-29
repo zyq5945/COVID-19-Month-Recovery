@@ -5,4 +5,4 @@ Index,Region,Subregion,Month,Confirmed,Deaths,Recovered,Month_Confirmed,Month_De
 8,Japan,Shimane,2020-08-31,137,0,133,111,0,107,0.963963963963964,0.0,1.0,107,0.0
 9,Japan,Shimane,2020-09-30,140,0,137,7,0,4,0.5714285714285714,0.0,1.0,4,0.0
 10,Japan,Shimane,2020-10-31,141,0,140,4,0,3,0.75,0.0,1.0,3,0.0
-11,Japan,Shimane,2020-11-26,144,0,141,4,0,1,0.25,0.0,1.0,1,0.0
+11,Japan,Shimane,2020-11-27,146,0,140,6,0,0,0.0,,,0,
