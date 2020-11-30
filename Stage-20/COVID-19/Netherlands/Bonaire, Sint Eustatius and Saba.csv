@@ -11,4 +11,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 13,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-10-07,141,2,67,123,1,50,0.4146341463414634,0.0196078431372549,0.9803921568627451,51,0.071301247771836
 14,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-10-27,150,3,126,81,1,59,0.7407407407407407,0.016666666666666666,0.9833333333333333,60,0.002941176470588225
 15,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-11-16,155,3,151,26,0,25,0.9615384615384616,0.0,1.0,25,0.01666666666666672
-16,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-11-28,161,3,155,7,0,4,0.5714285714285714,0.0,1.0,4,0.0
+16,Netherlands,"Bonaire, Sint Eustatius and Saba",2020-11-29,162,3,157,8,0,6,0.75,0.0,1.0,6,0.0

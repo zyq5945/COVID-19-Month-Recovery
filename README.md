@@ -5,10 +5,10 @@
 
 
 ## 2.文件目录
-* Stage-0：以月份为一阶段进行划分的COVID19的康复情况
-* Stage-10：以10天间隔为一阶段进行划分的COVID19的康复情况
-* Stage-15：以15天间隔为一阶段进行划分的COVID19的康复情况
-* Stage-20：以20天间隔为一阶段进行划分的COVID19的康复情况
+* Stage-0：以月份为一阶段进行划分的COVID-19的康复情况
+* Stage-10：以10天间隔为一阶段进行划分的COVID-19的康复情况
+* Stage-15：以15天间隔为一阶段进行划分的COVID-19的康复情况
+* Stage-20：以20天间隔为一阶段进行划分的COVID-19的康复情况
 
 注：本仓库的数据不定期更新，需要最新数据或者其他阶段划分的请自行运行脚本
 
@@ -25,7 +25,7 @@ pip install pandas
 ### 3.2 运行命令
 
 ```
-python covid19.py /xxx/xxx/COVID-19 /yyy/yyy/COVID-19-Stage-Recovery Step
+python COVID-19.py /xxx/xxx/COVID-19 /yyy/yyy/COVID-19-Stage-Recovery Step
 ```
 *  /xxx/xxx/COVID-19: 下载的[COVID-19](https://github.com/CSSEGISandData/COVID-19)仓库数据根目录，默认是当前目录
 * /yyy/yyy/COVID-19-Stage-Recovery: 输出数据目录，默认是当前目录
@@ -63,4 +63,4 @@ python covid19.py /xxx/xxx/COVID-19 /yyy/yyy/COVID-19-Stage-Recovery Step
 * 阶段的康复率变化波动大的地区与天气温度相关性越能对应上
 * 康复情况越差的地区越可能是处于寒冷的地区，反之则不一定成立
 * 康复情况好的地区很多都是处于天气温度较高地区
-
+* 当以间隔天数较小进行阶段划分时，同一地区出现较多较大的阶段的康复率的概率是在天气温度较好的时间
