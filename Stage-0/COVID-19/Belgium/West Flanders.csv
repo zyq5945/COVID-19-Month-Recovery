@@ -1,0 +1,3 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+11,Belgium,West Flanders,2020-11-30,44392,0,0,44392,0,0,0.0,,,0,
+12,Belgium,West Flanders,2020-12-01,44668,0,0,44668,0,0,0.0,,,0,
