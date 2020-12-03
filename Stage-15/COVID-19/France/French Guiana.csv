@@ -17,3 +17,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 19,France,French Guiana,2020-11-01,10536,70,9995,485,1,13,0.0288659793814433,0.07142857142857142,0.9285714285714286,14,-0.06566488266776449
 20,France,French Guiana,2020-11-16,10876,70,9995,811,0,0,0.0,,,0,
 21,France,French Guiana,2020-12-01,11240,70,9995,1175,0,0,0.0,,,0,
+22,France,French Guiana,2020-12-02,11283,70,9995,1218,0,0,0.0,,,0,

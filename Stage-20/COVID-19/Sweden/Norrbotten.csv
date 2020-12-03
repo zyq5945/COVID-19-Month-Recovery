@@ -8,4 +8,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 13,Sweden,Norrbotten,2020-10-07,1815,88,0,1727,0,0,0.0,,,0,
 14,Sweden,Norrbotten,2020-10-27,2112,88,0,2024,0,0,0.0,,,0,
 15,Sweden,Norrbotten,2020-11-16,3188,91,0,3100,3,0,0.000967741935483871,1.0,0.0,3,
-16,Sweden,Norrbotten,2020-12-01,5243,101,0,5152,10,0,0.0019409937888198758,1.0,0.0,10,0.0
+16,Sweden,Norrbotten,2020-12-02,5288,104,0,5197,13,0,0.0025014431402732348,1.0,0.0,13,0.0

@@ -12,3 +12,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 19,Russia,Nenets Autonomous Okrug,2020-11-01,474,0,161,334,-4,25,0.06287425149700598,-0.19047619047619047,1.1904761904761905,21,0.6904761904761905
 20,Russia,Nenets Autonomous Okrug,2020-11-16,582,0,315,421,0,154,0.3657957244655582,0.0,1.0,154,-0.19047619047619047
 21,Russia,Nenets Autonomous Okrug,2020-12-01,658,0,557,343,0,242,0.7055393586005831,0.0,1.0,242,0.0
+22,Russia,Nenets Autonomous Okrug,2020-12-02,659,0,557,102,0,0,0.0,,,0,

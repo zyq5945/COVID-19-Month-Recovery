@@ -16,3 +16,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 19,Canada,Nunavut,2020-11-01,0,0,0,0,0,0,,,,0,
 20,Canada,Nunavut,2020-11-16,24,0,0,24,0,0,0.0,,,0,
 21,Canada,Nunavut,2020-12-01,182,0,89,182,0,89,0.489010989010989,0.0,1.0,89,
+22,Canada,Nunavut,2020-12-02,193,0,113,104,0,24,0.23076923076923078,0.0,1.0,24,0.0

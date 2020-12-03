@@ -12,3 +12,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 19,Japan,Miyazaki,2020-11-01,367,1,366,1,0,1,1.0,0.0,1.0,1,0.0
 20,Japan,Miyazaki,2020-11-16,374,1,370,7,0,4,0.5714285714285714,0.0,1.0,4,0.0
 21,Japan,Miyazaki,2020-12-01,512,1,408,141,0,38,0.2695035460992908,0.0,1.0,38,0.0
+22,Japan,Miyazaki,2020-12-02,520,1,421,111,0,13,0.11711711711711711,0.0,1.0,13,0.0
