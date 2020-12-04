@@ -8,4 +8,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 13,Sweden,Gotland,2020-10-07,347,6,0,341,0,0,0.0,,,0,
 14,Sweden,Gotland,2020-10-27,408,6,0,402,0,0,0.0,,,0,
 15,Sweden,Gotland,2020-11-16,777,7,0,771,1,0,0.0012970168612191958,1.0,0.0,1,
-16,Sweden,Gotland,2020-12-02,1407,14,0,1400,7,0,0.005,1.0,0.0,7,0.0
+16,Sweden,Gotland,2020-12-03,1442,14,0,1435,7,0,0.004878048780487805,1.0,0.0,7,0.0
