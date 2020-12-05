@@ -18,4 +18,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,Japan,Nagasaki,2020-11-06,249,3,241,7,0,2,0.2857142857142857,0.0,1.0,2,0.0
 30,Japan,Nagasaki,2020-11-16,251,3,242,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
 31,Japan,Nagasaki,2020-11-26,265,3,245,20,0,3,0.15,0.0,1.0,3,0.0
-32,Japan,Nagasaki,2020-12-03,273,3,253,25,0,8,0.32,0.0,1.0,8,0.0
+32,Japan,Nagasaki,2020-12-04,273,3,255,25,0,10,0.4,0.0,1.0,10,0.0

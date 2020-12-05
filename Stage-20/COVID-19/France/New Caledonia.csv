@@ -12,4 +12,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 13,France,New Caledonia,2020-10-07,27,0,27,1,0,1,1.0,0.0,1.0,1,0.0
 14,France,New Caledonia,2020-10-27,27,0,27,0,0,0,,,,0,
 15,France,New Caledonia,2020-11-16,30,0,28,3,0,1,0.3333333333333333,0.0,1.0,1,
-16,France,New Caledonia,2020-12-03,34,0,32,6,0,4,0.6666666666666666,0.0,1.0,4,0.0
+16,France,New Caledonia,2020-12-04,35,0,32,7,0,4,0.5714285714285714,0.0,1.0,4,0.0

@@ -14,4 +14,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 13,China,Xinjiang,2020-10-07,902,3,899,0,0,0,,,,0,
 14,China,Xinjiang,2020-10-27,924,3,899,22,0,0,0.0,,,0,
 15,China,Xinjiang,2020-11-16,980,3,962,78,0,63,0.8076923076923077,0.0,1.0,63,
-16,China,Xinjiang,2020-12-03,980,3,977,15,0,15,1.0,0.0,1.0,15,0.0
+16,China,Xinjiang,2020-12-04,980,3,977,15,0,15,1.0,0.0,1.0,15,0.0
