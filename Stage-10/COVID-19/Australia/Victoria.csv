@@ -30,4 +30,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,Australia,Victoria,2020-11-06,20345,819,19518,156,0,148,0.9487179487179487,0.0,1.0,148,0.03488372093023251
 30,Australia,Victoria,2020-11-16,20345,819,19523,8,0,5,0.625,0.0,1.0,5,0.0
 31,Australia,Victoria,2020-11-26,20345,819,19526,3,0,3,1.0,0.0,1.0,3,0.0
-32,Australia,Victoria,2020-12-04,20345,820,19525,0,1,-1,,,,0,
+32,Australia,Victoria,2020-12-05,20345,820,19525,0,1,-1,,,,0,

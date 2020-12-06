@@ -29,4 +29,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,Australia,South Australia,2020-11-06,512,4,490,29,0,11,0.3793103448275862,0.0,1.0,11,0.0
 30,Australia,South Australia,2020-11-16,547,4,506,53,0,16,0.3018867924528302,0.0,1.0,16,0.0
 31,Australia,South Australia,2020-11-26,559,4,533,49,0,27,0.5510204081632653,0.0,1.0,27,0.0
-32,Australia,South Australia,2020-12-04,562,4,551,25,0,18,0.72,0.0,1.0,18,0.0
+32,Australia,South Australia,2020-12-05,562,4,553,25,0,20,0.8,0.0,1.0,20,0.0
