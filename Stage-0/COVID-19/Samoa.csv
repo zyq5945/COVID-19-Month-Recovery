@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Samoa,,2020-03-31,0,0,0,0,0,0,,,,0,
+4,Samoa,,2020-04-30,0,0,0,0,0,0,,,,0,
+5,Samoa,,2020-05-31,0,0,0,0,0,0,,,,0,
+6,Samoa,,2020-06-30,0,0,0,0,0,0,,,,0,
+7,Samoa,,2020-07-31,0,0,0,0,0,0,,,,0,
+8,Samoa,,2020-08-31,0,0,0,0,0,0,,,,0,
+9,Samoa,,2020-09-30,0,0,0,0,0,0,,,,0,
+10,Samoa,,2020-10-31,0,0,0,0,0,0,,,,0,
+11,Samoa,,2020-11-30,2,0,0,2,0,0,0.0,,,0,
+12,Samoa,,2020-12-07,2,0,2,2,0,2,1.0,0.0,1.0,2,

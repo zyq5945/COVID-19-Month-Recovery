@@ -7,3 +7,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 14,Netherlands,Overijssel,2020-10-27,16804,387,0,16456,39,0,0.0023699562469615947,1.0,0.0,39,0.0
 15,Netherlands,Overijssel,2020-11-16,26530,481,0,26143,94,0,0.003595608767165207,1.0,0.0,94,0.0
 16,Netherlands,Overijssel,2020-12-06,33816,556,0,33335,75,0,0.0022498875056247186,1.0,0.0,75,0.0
+17,Netherlands,Overijssel,2020-12-07,34453,556,0,33897,0,0,0.0,,,0,

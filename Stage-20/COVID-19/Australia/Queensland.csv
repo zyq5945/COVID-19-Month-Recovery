@@ -15,3 +15,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 14,Australia,Queensland,2020-10-27,1169,6,1157,14,0,8,0.5714285714285714,0.0,1.0,8,0.0
 15,Australia,Queensland,2020-11-16,1186,6,1171,23,0,14,0.6086956521739131,0.0,1.0,14,0.0
 16,Australia,Queensland,2020-12-06,1215,6,1191,38,0,20,0.5263157894736842,0.0,1.0,20,0.0
+17,Australia,Queensland,2020-12-07,1221,6,1191,24,0,0,0.0,,,0,

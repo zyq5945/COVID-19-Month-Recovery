@@ -31,3 +31,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 30,China,Liaoning,2020-11-16,288,2,280,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
 31,China,Liaoning,2020-11-26,289,2,286,7,0,6,0.8571428571428571,0.0,1.0,6,0.0
 32,China,Liaoning,2020-12-06,289,2,287,1,0,1,1.0,0.0,1.0,1,0.0
+33,China,Liaoning,2020-12-07,289,2,287,0,0,0,,,,0,

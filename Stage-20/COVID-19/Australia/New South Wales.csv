@@ -15,3 +15,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 14,Australia,New South Wales,2020-10-27,4406,53,3147,1220,0,14,0.011475409836065573,0.0,1.0,14,0.0071428571428571175
 15,Australia,New South Wales,2020-11-16,4502,53,3166,1302,0,19,0.014592933947772658,0.0,1.0,19,0.0
 16,Australia,New South Wales,2020-12-06,4614,53,3186,1395,0,20,0.014336917562724014,0.0,1.0,20,0.0
+17,Australia,New South Wales,2020-12-07,4620,53,3186,1381,0,0,0.0,,,0,
