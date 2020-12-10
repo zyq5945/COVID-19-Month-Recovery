@@ -4,4 +4,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 9,Netherlands,Unknown,2020-09-30,1025,18,0,1007,0,0,0.0,,,0,
 10,Netherlands,Unknown,2020-10-31,2383,25,0,2365,7,0,0.002959830866807611,1.0,0.0,7,
 11,Netherlands,Unknown,2020-11-30,2984,27,0,2959,2,0,0.0006759040216289286,1.0,0.0,2,0.0
-12,Netherlands,Unknown,2020-12-08,3113,29,0,3086,2,0,0.0006480881399870382,1.0,0.0,2,0.0
+12,Netherlands,Unknown,2020-12-09,3124,30,0,3097,3,0,0.0009686793671294801,1.0,0.0,3,0.0
