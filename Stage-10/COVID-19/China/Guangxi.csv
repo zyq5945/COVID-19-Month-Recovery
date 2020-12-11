@@ -31,4 +31,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 30,China,Guangxi,2020-11-16,260,2,258,0,0,0,,,,0,
 31,China,Guangxi,2020-11-26,263,2,258,3,0,0,0.0,,,0,
 32,China,Guangxi,2020-12-06,263,2,260,3,0,2,0.6666666666666666,0.0,1.0,2,
-33,China,Guangxi,2020-12-09,264,2,261,2,0,1,0.5,0.0,1.0,1,0.0
+33,China,Guangxi,2020-12-10,264,2,261,2,0,1,0.5,0.0,1.0,1,0.0
