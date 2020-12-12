@@ -196,3 +196,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 322,Japan,Port Quarantine,2020-12-08,1629,1,1463,174,0,9,0.05172413793103448,0.0,1.0,9,0.0
 323,Japan,Port Quarantine,2020-12-09,1637,1,1483,173,0,20,0.11560693641618497,0.0,1.0,20,0.0
 324,Japan,Port Quarantine,2020-12-10,1644,1,1497,160,0,14,0.0875,0.0,1.0,14,0.0
+325,Japan,Port Quarantine,2020-12-11,1653,1,1508,155,0,11,0.07096774193548387,0.0,1.0,11,0.0

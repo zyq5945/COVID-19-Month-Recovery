@@ -146,3 +146,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 322,Netherlands,Drenthe,2020-12-08,8447,116,0,8331,0,0,0.0,,,0,
 323,Netherlands,Drenthe,2020-12-09,8562,116,0,8446,0,0,0.0,,,0,
 324,Netherlands,Drenthe,2020-12-10,8698,116,0,8582,0,0,0.0,,,0,
+325,Netherlands,Drenthe,2020-12-11,8829,117,0,8713,1,0,0.0001147710317915758,1.0,0.0,1,

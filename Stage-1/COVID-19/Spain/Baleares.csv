@@ -210,3 +210,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 322,Spain,Baleares,2020-12-08,25941,425,1533,23983,0,0,0.0,,,0,
 323,Spain,Baleares,2020-12-09,26348,425,1533,24390,0,0,0.0,,,0,
 324,Spain,Baleares,2020-12-10,26574,426,1533,24616,1,0,4.062398440038999e-05,1.0,0.0,1,
+325,Spain,Baleares,2020-12-11,26888,427,1533,24929,1,0,4.011392354286173e-05,1.0,0.0,1,0.0

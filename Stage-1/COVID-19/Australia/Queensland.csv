@@ -315,3 +315,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 322,Australia,Queensland,2020-12-08,1221,6,1191,24,0,0,0.0,,,0,
 323,Australia,Queensland,2020-12-09,1225,6,1196,28,0,5,0.17857142857142858,0.0,1.0,5,
 324,Australia,Queensland,2020-12-10,1224,6,1197,22,0,1,0.045454545454545456,0.0,1.0,1,0.0
+325,Australia,Queensland,2020-12-11,1226,6,1199,23,0,2,0.08695652173913043,0.0,1.0,2,0.0

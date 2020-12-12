@@ -192,3 +192,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 322,Russia,Jewish Autonomous Okrug,2020-12-08,3190,51,2153,996,0,10,0.010040160642570281,0.0,1.0,10,0.0
 323,Russia,Jewish Autonomous Okrug,2020-12-09,3219,52,2168,1015,1,15,0.015763546798029555,0.0625,0.9375,16,-0.0625
 324,Russia,Jewish Autonomous Okrug,2020-12-10,3247,53,2183,1027,1,15,0.01557935735150925,0.0625,0.9375,16,0.0
+325,Russia,Jewish Autonomous Okrug,2020-12-11,3276,53,2194,1040,0,11,0.010576923076923078,0.0,1.0,11,0.0625
