@@ -1,0 +1,8 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Canada,"Toronto, ON",2020-02-05,2,0,0,2,0,0,0.0,,,0,
+4,Canada,"Toronto, ON",2020-02-10,2,0,0,2,0,0,0.0,,,0,
+5,Canada,"Toronto, ON",2020-02-15,2,0,0,2,0,0,0.0,,,0,
+6,Canada,"Toronto, ON",2020-02-20,2,0,0,2,0,0,0.0,,,0,
+7,Canada,"Toronto, ON",2020-02-25,3,0,2,3,0,2,0.6666666666666666,0.0,1.0,2,
+8,Canada,"Toronto, ON",2020-03-01,14,0,2,12,0,0,0.0,,,0,
+9,Canada,"Toronto, ON",2020-03-06,24,0,2,22,0,0,0.0,,,0,

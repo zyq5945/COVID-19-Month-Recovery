@@ -1,0 +1,5 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+24,Brazil,Unknown,2020-05-20,0,0,116683,0,0,116683,,0.0,1.0,116683,
+25,Brazil,Unknown,2020-05-25,0,0,153833,-116683,0,37150,-0.3183839976688978,0.0,1.0,37150,0.0
+26,Brazil,Unknown,2020-05-30,0,0,200892,-153833,0,47059,-0.30590965527552605,0.0,1.0,47059,0.0
+27,Brazil,Unknown,2020-06-04,0,0,254963,-200892,0,54071,-0.2691545706150568,0.0,1.0,54071,0.0

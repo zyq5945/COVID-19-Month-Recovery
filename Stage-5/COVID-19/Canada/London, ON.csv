@@ -1,0 +1,8 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+3,Canada,"London, ON",2020-02-05,1,0,0,1,0,0,0.0,,,0,
+4,Canada,"London, ON",2020-02-10,1,0,0,1,0,0,0.0,,,0,
+5,Canada,"London, ON",2020-02-15,1,0,1,1,0,1,1.0,0.0,1.0,1,
+6,Canada,"London, ON",2020-02-20,1,0,1,0,0,0,,,,0,
+7,Canada,"London, ON",2020-02-25,1,0,1,0,0,0,,,,0,
+8,Canada,"London, ON",2020-03-01,1,0,1,0,0,0,,,,0,
+9,Canada,"London, ON",2020-03-06,1,0,1,0,0,0,,,,0,

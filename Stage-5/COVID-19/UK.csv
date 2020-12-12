@@ -1,0 +1,9 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+2,UK,,2020-01-31,2,,,2,,,,,,,
+3,UK,,2020-02-05,2,0,0,,,,,,,,
+4,UK,,2020-02-10,8,0,0,8,0,0,0.0,,,0,
+5,UK,,2020-02-15,9,0,1,9,0,1,0.1111111111111111,0.0,1.0,1,
+6,UK,,2020-02-20,9,0,8,8,0,7,0.875,0.0,1.0,7,0.0
+7,UK,,2020-02-25,13,0,8,5,0,0,0.0,,,0,
+8,UK,,2020-03-01,36,0,8,28,0,0,0.0,,,0,
+9,UK,,2020-03-06,163,2,8,155,2,0,0.012903225806451613,1.0,0.0,2,

@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+60,Belgium,Antwerp,2020-11-16,62503,0,0,62503,0,0,0.0,,,0,
+61,Belgium,Antwerp,2020-11-21,65043,0,0,65043,0,0,0.0,,,0,
+62,Belgium,Antwerp,2020-11-26,66488,0,0,66488,0,0,0.0,,,0,
+63,Belgium,Antwerp,2020-12-01,68099,0,0,68099,0,0,0.0,,,0,
+64,Belgium,Antwerp,2020-12-06,70046,0,0,70046,0,0,0.0,,,0,
+65,Belgium,Antwerp,2020-12-10,71368,0,0,71368,0,0,0.0,,,0,

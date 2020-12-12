@@ -1,0 +1,14 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+50,Cruise Ship,Diamond Princess,2020-03-11,696,7,325,696,7,325,0.47701149425287354,0.02108433734939759,0.9789156626506024,332,
+51,Cruise Ship,Diamond Princess,2020-03-12,696,7,325,364,0,0,0.0,,,0,
+52,Cruise Ship,Diamond Princess,2020-03-13,696,7,325,364,0,0,0.0,,,0,
+53,Cruise Ship,Diamond Princess,2020-03-14,696,7,325,364,0,0,0.0,,,0,
+54,Cruise Ship,Diamond Princess,2020-03-15,696,7,325,364,0,0,0.0,,,0,
+55,Cruise Ship,Diamond Princess,2020-03-16,696,7,325,364,0,0,0.0,,,0,
+56,Cruise Ship,Diamond Princess,2020-03-17,696,7,325,364,0,0,0.0,,,0,
+57,Cruise Ship,Diamond Princess,2020-03-18,712,7,325,380,0,0,0.0,,,0,
+58,Cruise Ship,Diamond Princess,2020-03-19,712,7,325,380,0,0,0.0,,,0,
+59,Cruise Ship,Diamond Princess,2020-03-20,712,7,325,380,0,0,0.0,,,0,
+60,Cruise Ship,Diamond Princess,2020-03-21,712,8,325,380,1,0,0.002631578947368421,1.0,0.0,1,
+61,Cruise Ship,Diamond Princess,2020-03-22,712,8,567,379,0,242,0.6385224274406333,0.0,1.0,242,1.0
+62,Cruise Ship,Diamond Princess,2020-03-23,712,8,567,137,0,0,0.0,,,0,

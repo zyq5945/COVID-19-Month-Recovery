@@ -1,0 +1,7 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+60,Belgium,Liege,2020-11-16,87365,0,0,87365,0,0,0.0,,,0,
+61,Belgium,Liege,2020-11-21,89792,0,0,89792,0,0,0.0,,,0,
+62,Belgium,Liege,2020-11-26,90962,0,0,90962,0,0,0.0,,,0,
+63,Belgium,Liege,2020-12-01,91816,0,0,91816,0,0,0.0,,,0,
+64,Belgium,Liege,2020-12-06,92817,0,0,92817,0,0,0.0,,,0,
+65,Belgium,Liege,2020-12-10,93467,0,0,93467,0,0,0.0,,,0,

@@ -1,0 +1,10 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,Macau,,2020-01-26,5,,,5,,,,,,,
+2,Macau,,2020-01-31,7,,,,,,,,,,
+3,Macau,,2020-02-05,10,0,0,,,,,,,,
+4,Macau,,2020-02-10,10,0,1,10,0,1,0.1,0.0,1.0,1,
+5,Macau,,2020-02-15,10,0,3,9,0,2,0.2222222222222222,0.0,1.0,2,0.0
+6,Macau,,2020-02-20,10,0,6,7,0,3,0.42857142857142855,0.0,1.0,3,0.0
+7,Macau,,2020-02-25,10,0,7,4,0,1,0.25,0.0,1.0,1,0.0
+8,Macau,,2020-03-01,10,0,8,3,0,1,0.3333333333333333,0.0,1.0,1,0.0
+9,Macau,,2020-03-06,10,0,10,2,0,2,1.0,0.0,1.0,2,0.0

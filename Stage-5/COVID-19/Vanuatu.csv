@@ -1,0 +1,8 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+59,Vanuatu,,2020-11-11,1,0,0,1,0,0,0.0,,,0,
+60,Vanuatu,,2020-11-16,1,0,0,1,0,0,0.0,,,0,
+61,Vanuatu,,2020-11-21,1,0,0,1,0,0,0.0,,,0,
+62,Vanuatu,,2020-11-26,1,0,0,1,0,0,0.0,,,0,
+63,Vanuatu,,2020-12-01,1,0,0,1,0,0,0.0,,,0,
+64,Vanuatu,,2020-12-06,1,0,1,1,0,1,1.0,0.0,1.0,1,
+65,Vanuatu,,2020-12-10,1,0,1,0,0,0,,,,0,

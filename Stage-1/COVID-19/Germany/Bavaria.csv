@@ -1,0 +1,5 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+7,Germany,Bavaria,2020-01-28,4,,,4,,,,,,,
+8,Germany,Bavaria,2020-01-29,4,,,,,,,,,,
+9,Germany,Bavaria,2020-01-30,4,,,,,,,,,,
+10,Germany,Bavaria,2020-01-31,5,,,,,,,,,,

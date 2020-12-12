@@ -1,0 +1,4 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+10,French Guiana,,2020-03-11,5,0,0,5,0,0,0.0,,,0,
+11,French Guiana,,2020-03-16,11,0,0,11,0,0,0.0,,,0,
+12,French Guiana,,2020-03-21,18,0,6,18,0,6,0.3333333333333333,0.0,1.0,6,
