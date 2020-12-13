@@ -5,4 +5,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 9,Sweden,Vasterbotten,2020-09-30,1030,31,0,999,0,0,0.0,,,0,
 10,Sweden,Vasterbotten,2020-10-31,1362,31,0,1331,0,0,0.0,,,0,
 11,Sweden,Vasterbotten,2020-11-30,4145,49,0,4114,18,0,0.004375303840544483,1.0,0.0,18,
-12,Sweden,Vasterbotten,2020-12-11,5804,60,0,5755,11,0,0.0019113814074717638,1.0,0.0,11,0.0
+12,Sweden,Vasterbotten,2020-12-12,5804,60,0,5755,11,0,0.0019113814074717638,1.0,0.0,11,0.0

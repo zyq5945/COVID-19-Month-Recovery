@@ -197,3 +197,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 323,Peru,Apurimac,2020-12-09,6781,143,0,6642,4,0,0.0006022282445046673,1.0,0.0,4,
 324,Peru,Apurimac,2020-12-10,6834,145,0,6691,2,0,0.00029890898221491554,1.0,0.0,2,0.0
 325,Peru,Apurimac,2020-12-11,6834,145,0,6689,0,0,0.0,,,0,
+326,Peru,Apurimac,2020-12-12,6866,145,0,6721,0,0,0.0,,,0,

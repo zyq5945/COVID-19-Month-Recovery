@@ -54,3 +54,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,France,Guadeloupe,2020-12-01,8427,149,2242,6036,0,0,0.0,,,0,
 64,France,Guadeloupe,2020-12-06,8427,149,2242,6036,0,0,0.0,,,0,
 65,France,Guadeloupe,2020-12-11,8472,151,2242,6081,2,0,0.000328893274132544,1.0,0.0,2,
+66,France,Guadeloupe,2020-12-12,8472,151,2242,6079,0,0,0.0,,,0,

@@ -37,3 +37,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,Sweden,Vasterbotten,2020-12-01,4508,52,0,4459,3,0,0.0006727965911639381,1.0,0.0,3,0.0
 64,Sweden,Vasterbotten,2020-12-06,5025,53,0,4973,1,0,0.00020108586366378444,1.0,0.0,1,0.0
 65,Sweden,Vasterbotten,2020-12-11,5804,60,0,5751,7,0,0.0012171796209354895,1.0,0.0,7,0.0
+66,Sweden,Vasterbotten,2020-12-12,5804,60,0,5744,0,0,0.0,,,0,

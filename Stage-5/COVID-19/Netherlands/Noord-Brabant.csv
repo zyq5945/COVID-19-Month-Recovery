@@ -29,3 +29,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,Netherlands,Noord-Brabant,2020-12-01,83734,2050,0,81723,39,0,0.0004772218347344077,1.0,0.0,39,0.0
 64,Netherlands,Noord-Brabant,2020-12-06,88647,2086,0,86597,36,0,0.0004157187893345035,1.0,0.0,36,0.0
 65,Netherlands,Noord-Brabant,2020-12-11,94581,2136,0,92495,50,0,0.000540569760527596,1.0,0.0,50,0.0
+66,Netherlands,Noord-Brabant,2020-12-12,96028,2143,0,93892,7,0,7.455374259787841e-05,1.0,0.0,7,0.0

@@ -53,3 +53,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,United Kingdom,Bermuda,2020-12-01,262,9,214,47,0,8,0.1702127659574468,0.0,1.0,8,0.0
 64,United Kingdom,Bermuda,2020-12-06,288,9,216,65,0,2,0.03076923076923077,0.0,1.0,2,0.0
 65,United Kingdom,Bermuda,2020-12-11,391,9,233,166,0,17,0.10240963855421686,0.0,1.0,17,0.0
+66,United Kingdom,Bermuda,2020-12-12,391,9,233,149,0,0,0.0,,,0,

@@ -64,3 +64,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,China,Jiangsu,2020-12-01,680,0,672,8,0,0,0.0,,,0,
 64,China,Jiangsu,2020-12-06,680,0,674,8,0,2,0.25,0.0,1.0,2,
 65,China,Jiangsu,2020-12-11,683,0,675,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
+66,China,Jiangsu,2020-12-12,684,0,675,9,0,0,0.0,,,0,

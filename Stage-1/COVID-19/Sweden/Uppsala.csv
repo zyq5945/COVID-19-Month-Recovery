@@ -189,3 +189,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 323,Sweden,Uppsala,2020-12-09,13235,323,0,12912,0,0,0.0,,,0,
 324,Sweden,Uppsala,2020-12-10,13560,323,0,13237,0,0,0.0,,,0,
 325,Sweden,Uppsala,2020-12-11,13868,328,0,13545,5,0,0.00036913990402362494,1.0,0.0,5,
+326,Sweden,Uppsala,2020-12-12,13868,328,0,13540,0,0,0.0,,,0,
