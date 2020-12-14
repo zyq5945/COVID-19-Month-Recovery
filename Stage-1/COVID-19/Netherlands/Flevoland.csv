@@ -148,3 +148,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 324,Netherlands,Flevoland,2020-12-10,13134,149,0,12986,1,0,7.700600646850454e-05,1.0,0.0,1,0.0
 325,Netherlands,Flevoland,2020-12-11,13222,149,0,13073,0,0,0.0,,,0,
 326,Netherlands,Flevoland,2020-12-12,13515,149,0,13366,0,0,0.0,,,0,
+327,Netherlands,Flevoland,2020-12-13,13826,150,0,13677,1,0,7.311544929443592e-05,1.0,0.0,1,

@@ -325,3 +325,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 324,China,Shaanxi,2020-12-10,502,3,480,19,0,0,0.0,,,0,
 325,China,Shaanxi,2020-12-11,502,3,481,19,0,1,0.05263157894736842,0.0,1.0,1,
 326,China,Shaanxi,2020-12-12,502,3,481,18,0,0,0.0,,,0,
+327,China,Shaanxi,2020-12-13,502,3,482,18,0,1,0.05555555555555555,0.0,1.0,1,
