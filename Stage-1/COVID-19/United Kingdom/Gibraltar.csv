@@ -277,3 +277,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 325,United Kingdom,Gibraltar,2020-12-11,1070,5,1022,50,0,7,0.14,0.0,1.0,7,0.0
 326,United Kingdom,Gibraltar,2020-12-12,1072,5,1028,45,0,6,0.13333333333333333,0.0,1.0,6,0.0
 327,United Kingdom,Gibraltar,2020-12-13,1075,5,1032,42,0,4,0.09523809523809523,0.0,1.0,4,0.0
+328,United Kingdom,Gibraltar,2020-12-14,1082,6,1036,45,1,4,0.1111111111111111,0.2,0.8,5,-0.19999999999999996

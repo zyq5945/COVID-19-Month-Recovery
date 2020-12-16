@@ -271,3 +271,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 325,France,Reunion,2020-12-11,8431,41,8037,661,0,308,0.4659606656580938,0.0,1.0,308,
 326,France,Reunion,2020-12-12,8431,41,8037,353,0,0,0.0,,,0,
 327,France,Reunion,2020-12-13,8431,41,8037,353,0,0,0.0,,,0,
+328,France,Reunion,2020-12-14,8534,42,8037,456,1,0,0.0021929824561403508,1.0,0.0,1,

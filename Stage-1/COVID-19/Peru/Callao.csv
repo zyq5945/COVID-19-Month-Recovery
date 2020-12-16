@@ -199,3 +199,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 325,Peru,Callao,2020-12-11,41653,1928,0,39725,0,0,0.0,,,0,
 326,Peru,Callao,2020-12-12,41760,1932,0,39832,4,0,0.0001004217714400482,1.0,0.0,4,
 327,Peru,Callao,2020-12-13,41760,1932,0,39828,0,0,0.0,,,0,
+328,Peru,Callao,2020-12-14,41932,1935,0,40000,3,0,7.5e-05,1.0,0.0,3,

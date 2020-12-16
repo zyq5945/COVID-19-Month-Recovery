@@ -213,3 +213,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 325,Spain,Cantabria,2020-12-11,16532,340,2287,13906,1,0,7.191140514885661e-05,1.0,0.0,1,0.0
 326,Spain,Cantabria,2020-12-12,16532,340,2287,13905,0,0,0.0,,,0,
 327,Spain,Cantabria,2020-12-13,16532,340,2287,13905,0,0,0.0,,,0,
+328,Spain,Cantabria,2020-12-14,16743,345,2287,14116,5,0,0.0003542079909322754,1.0,0.0,5,

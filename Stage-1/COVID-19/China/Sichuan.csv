@@ -326,3 +326,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 325,China,Sichuan,2020-12-11,826,3,790,36,0,3,0.08333333333333333,0.0,1.0,3,0.0
 326,China,Sichuan,2020-12-12,829,3,792,36,0,2,0.05555555555555555,0.0,1.0,2,0.0
 327,China,Sichuan,2020-12-13,832,3,792,37,0,0,0.0,,,0,
+328,China,Sichuan,2020-12-14,838,3,794,43,0,2,0.046511627906976744,0.0,1.0,2,

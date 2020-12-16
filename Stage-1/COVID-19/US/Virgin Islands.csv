@@ -245,3 +245,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 325,US,Virgin Islands,2020-12-11,1791,23,1544,224,0,0,0.0,,,0,
 326,US,Virgin Islands,2020-12-12,1791,23,1589,224,0,45,0.20089285714285715,0.0,1.0,45,
 327,US,Virgin Islands,2020-12-13,1791,23,1589,179,0,0,0.0,,,0,
+328,US,Virgin Islands,2020-12-14,1807,23,1605,195,0,16,0.08205128205128205,0.0,1.0,16,
