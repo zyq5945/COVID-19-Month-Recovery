@@ -192,3 +192,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 326,Sweden,Vastmanland,2020-12-12,10823,230,0,10593,0,0,0.0,,,0,
 327,Sweden,Vastmanland,2020-12-13,10823,230,0,10593,0,0,0.0,,,0,
 328,Sweden,Vastmanland,2020-12-14,10823,230,0,10593,0,0,0.0,,,0,
+329,Sweden,Vastmanland,2020-12-15,11305,231,0,11075,1,0,9.029345372460496e-05,1.0,0.0,1,

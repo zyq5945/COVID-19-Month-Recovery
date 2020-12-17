@@ -319,3 +319,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 326,Australia,Queensland,2020-12-12,1226,6,1202,21,0,3,0.14285714285714285,0.0,1.0,3,0.0
 327,Australia,Queensland,2020-12-13,1227,6,1203,19,0,1,0.05263157894736842,0.0,1.0,1,0.0
 328,Australia,Queensland,2020-12-14,1228,6,1204,19,0,1,0.05263157894736842,0.0,1.0,1,0.0
+329,Australia,Queensland,2020-12-15,1229,6,1204,19,0,0,0.0,,,0,

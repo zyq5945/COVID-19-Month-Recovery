@@ -64,4 +64,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,China,Yunnan,2020-12-01,219,2,210,7,0,0,0.0,,,0,
 64,China,Yunnan,2020-12-06,221,2,210,9,0,0,0.0,,,0,
 65,China,Yunnan,2020-12-11,223,2,210,11,0,0,0.0,,,0,
-66,China,Yunnan,2020-12-14,224,2,210,12,0,0,0.0,,,0,
+66,China,Yunnan,2020-12-15,226,2,211,14,0,1,0.07142857142857142,0.0,1.0,1,

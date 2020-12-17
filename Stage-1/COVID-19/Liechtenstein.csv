@@ -285,3 +285,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 326,Liechtenstein,,2020-12-12,1482,20,1296,166,0,0,0.0,,,0,
 327,Liechtenstein,,2020-12-13,1514,20,1296,198,0,0,0.0,,,0,
 328,Liechtenstein,,2020-12-14,1566,20,1351,250,0,55,0.22,0.0,1.0,55,
+329,Liechtenstein,,2020-12-15,1579,21,1366,208,1,15,0.07692307692307693,0.0625,0.9375,16,-0.0625

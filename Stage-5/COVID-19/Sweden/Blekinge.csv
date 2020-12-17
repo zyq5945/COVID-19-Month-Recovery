@@ -37,4 +37,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 63,Sweden,Blekinge,2020-12-01,2079,23,0,2056,0,0,0.0,,,0,
 64,Sweden,Blekinge,2020-12-06,2329,23,0,2306,0,0,0.0,,,0,
 65,Sweden,Blekinge,2020-12-11,2864,26,0,2841,3,0,0.0010559662090813093,1.0,0.0,3,
-66,Sweden,Blekinge,2020-12-14,2864,26,0,2838,0,0,0.0,,,0,
+66,Sweden,Blekinge,2020-12-15,3101,29,0,3075,3,0,0.000975609756097561,1.0,0.0,3,0.0
