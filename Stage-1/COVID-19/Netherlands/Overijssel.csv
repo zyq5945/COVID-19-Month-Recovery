@@ -151,3 +151,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,Netherlands,Overijssel,2020-12-13,37940,575,0,37365,0,0,0.0,,,0,
 328,Netherlands,Overijssel,2020-12-14,38452,575,0,37877,0,0,0.0,,,0,
 329,Netherlands,Overijssel,2020-12-15,39051,581,0,38476,6,0,0.00015594136604636657,1.0,0.0,6,
+330,Netherlands,Overijssel,2020-12-16,39878,585,0,39297,4,0,0.00010178894063160038,1.0,0.0,4,0.0

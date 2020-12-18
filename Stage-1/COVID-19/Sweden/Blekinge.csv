@@ -193,3 +193,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,Sweden,Blekinge,2020-12-13,2864,26,0,2838,0,0,0.0,,,0,
 328,Sweden,Blekinge,2020-12-14,2864,26,0,2838,0,0,0.0,,,0,
 329,Sweden,Blekinge,2020-12-15,3101,29,0,3075,3,0,0.000975609756097561,1.0,0.0,3,
+330,Sweden,Blekinge,2020-12-16,3261,32,0,3232,3,0,0.0009282178217821782,1.0,0.0,3,0.0

@@ -277,3 +277,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,France,French Polynesia,2020-12-13,15618,91,4842,10685,0,0,0.0,,,0,
 328,France,French Polynesia,2020-12-14,15747,96,4842,10814,5,0,0.00046236360273719255,1.0,0.0,5,
 329,France,French Polynesia,2020-12-15,15870,97,4842,10932,1,0,9.147457006952067e-05,1.0,0.0,1,0.0
+330,France,French Polynesia,2020-12-16,15974,98,4842,11035,1,0,9.062075215224287e-05,1.0,0.0,1,0.0

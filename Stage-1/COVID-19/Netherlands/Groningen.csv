@@ -151,3 +151,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,Netherlands,Groningen,2020-12-13,10502,58,0,10444,0,0,0.0,,,0,
 328,Netherlands,Groningen,2020-12-14,10740,58,0,10682,0,0,0.0,,,0,
 329,Netherlands,Groningen,2020-12-15,10893,58,0,10835,0,0,0.0,,,0,
+330,Netherlands,Groningen,2020-12-16,11179,60,0,11121,2,0,0.0001798399424512184,1.0,0.0,2,

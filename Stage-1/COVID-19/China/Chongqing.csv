@@ -328,3 +328,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,China,Chongqing,2020-12-13,590,6,583,1,0,0,0.0,,,0,
 328,China,Chongqing,2020-12-14,590,6,583,1,0,0,0.0,,,0,
 329,China,Chongqing,2020-12-15,590,6,583,1,0,0,0.0,,,0,
+330,China,Chongqing,2020-12-16,590,6,584,1,0,1,1.0,0.0,1.0,1,

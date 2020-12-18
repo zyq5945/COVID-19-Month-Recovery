@@ -193,3 +193,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,Sweden,Stockholm,2020-12-13,93383,2936,0,90447,0,0,0.0,,,0,
 328,Sweden,Stockholm,2020-12-14,93383,2936,0,90447,0,0,0.0,,,0,
 329,Sweden,Stockholm,2020-12-15,98479,2979,0,95543,43,0,0.0004500591356771297,1.0,0.0,43,
+330,Sweden,Stockholm,2020-12-16,100515,2983,0,97536,4,0,4.101049868766404e-05,1.0,0.0,4,0.0

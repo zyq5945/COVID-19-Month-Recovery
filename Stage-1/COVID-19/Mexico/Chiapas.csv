@@ -209,3 +209,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,Mexico,Chiapas,2020-12-13,7942,1177,0,6765,0,0,0.0,,,0,
 328,Mexico,Chiapas,2020-12-14,7963,1177,0,6786,0,0,0.0,,,0,
 329,Mexico,Chiapas,2020-12-15,7977,1179,0,6800,2,0,0.0002941176470588235,1.0,0.0,2,
+330,Mexico,Chiapas,2020-12-16,7985,1181,0,6806,2,0,0.0002938583602703497,1.0,0.0,2,0.0

@@ -328,3 +328,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,China,Hubei,2020-12-13,68149,4512,63636,1,0,0,0.0,,,0,
 328,China,Hubei,2020-12-14,68149,4512,63636,1,0,0,0.0,,,0,
 329,China,Hubei,2020-12-15,68149,4512,63637,1,0,1,1.0,0.0,1.0,1,
+330,China,Hubei,2020-12-16,68149,4512,63637,0,0,0,,,,0,

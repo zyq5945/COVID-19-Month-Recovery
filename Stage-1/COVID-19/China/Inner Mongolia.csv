@@ -328,3 +328,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,China,Inner Mongolia,2020-12-13,338,1,313,24,0,0,0.0,,,0,
 328,China,Inner Mongolia,2020-12-14,342,1,314,28,0,1,0.03571428571428571,0.0,1.0,1,
 329,China,Inner Mongolia,2020-12-15,342,1,315,27,0,1,0.037037037037037035,0.0,1.0,1,0.0
+330,China,Inner Mongolia,2020-12-16,342,1,322,26,0,7,0.2692307692307692,0.0,1.0,7,0.0

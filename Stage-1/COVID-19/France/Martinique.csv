@@ -268,3 +268,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 327,France,Martinique,2020-12-13,5553,41,98,5414,0,0,0.0,,,0,
 328,France,Martinique,2020-12-14,5553,41,98,5414,0,0,0.0,,,0,
 329,France,Martinique,2020-12-15,5601,42,98,5462,1,0,0.0001830831197363603,1.0,0.0,1,
+330,France,Martinique,2020-12-16,5601,42,98,5461,0,0,0.0,,,0,

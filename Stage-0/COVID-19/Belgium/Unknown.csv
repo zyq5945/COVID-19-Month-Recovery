@@ -1,3 +1,3 @@
 Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
 11,Belgium,Unknown,2020-11-30,9536,16645,0,9536,16645,0,1.7454907718120805,1.0,0.0,16645,
-12,Belgium,Unknown,2020-12-15,10060,18178,0,-6585,1533,0,-0.23280182232346242,1.0,0.0,1533,0.0
+12,Belgium,Unknown,2020-12-16,10111,18278,0,-6534,1633,0,-0.24992347719620447,1.0,0.0,1633,0.0
