@@ -202,3 +202,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Peru,San Martin,2020-12-14,24870,785,0,24087,2,0,8.303234109685722e-05,1.0,0.0,2,
 329,Peru,San Martin,2020-12-15,24886,786,0,24101,1,0,4.1492054271606986e-05,1.0,0.0,1,0.0
 330,Peru,San Martin,2020-12-16,24886,786,0,24100,0,0,0.0,,,0,
+331,Peru,San Martin,2020-12-17,25028,786,0,24242,0,0,0.0,,,0,
+332,Peru,San Martin,2020-12-18,25028,786,0,24242,0,0,0.0,,,0,

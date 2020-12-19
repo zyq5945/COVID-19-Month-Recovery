@@ -32,3 +32,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 31,China,Hubei,2020-11-26,68148,4512,63629,9,0,2,0.2222222222222222,0.0,1.0,2,
 32,China,Hubei,2020-12-06,68149,4512,63633,8,0,4,0.5,0.0,1.0,4,0.0
 33,China,Hubei,2020-12-16,68149,4512,63637,4,0,4,1.0,0.0,1.0,4,0.0
+34,China,Hubei,2020-12-18,68149,4512,63637,0,0,0,,,,0,

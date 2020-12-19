@@ -152,3 +152,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Netherlands,Friesland,2020-12-14,10735,145,0,10590,0,0,0.0,,,0,
 329,Netherlands,Friesland,2020-12-15,10850,146,0,10705,1,0,9.341429238673517e-05,1.0,0.0,1,
 330,Netherlands,Friesland,2020-12-16,11070,147,0,10924,1,0,9.154155986818015e-05,1.0,0.0,1,0.0
+331,Netherlands,Friesland,2020-12-17,11329,148,0,11182,1,0,8.942944017170452e-05,1.0,0.0,1,0.0
+332,Netherlands,Friesland,2020-12-18,11541,148,0,11393,0,0,0.0,,,0,

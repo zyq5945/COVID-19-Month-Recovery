@@ -13,3 +13,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 20,Japan,Yamaguchi,2020-11-16,267,2,214,58,0,7,0.1206896551724138,0.0,1.0,7,0.0
 21,Japan,Yamaguchi,2020-12-01,392,2,303,176,0,89,0.5056818181818182,0.0,1.0,89,0.0
 22,Japan,Yamaguchi,2020-12-16,441,2,388,136,0,85,0.625,0.0,1.0,85,0.0
+23,Japan,Yamaguchi,2020-12-18,453,2,394,63,0,6,0.09523809523809523,0.0,1.0,6,0.0

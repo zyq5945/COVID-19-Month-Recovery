@@ -280,3 +280,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,United Kingdom,Channel Islands,2020-12-14,2132,48,1317,793,0,26,0.03278688524590164,0.0,1.0,26,0.0
 329,United Kingdom,Channel Islands,2020-12-15,2192,48,1339,827,0,22,0.026602176541717048,0.0,1.0,22,0.0
 330,United Kingdom,Channel Islands,2020-12-16,2292,48,1339,905,0,0,0.0,,,0,
+331,United Kingdom,Channel Islands,2020-12-17,2389,48,1339,1002,0,0,0.0,,,0,
+332,United Kingdom,Channel Islands,2020-12-18,2389,49,1470,1002,1,131,0.1317365269461078,0.007575757575757576,0.9924242424242424,132,

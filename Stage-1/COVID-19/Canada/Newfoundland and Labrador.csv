@@ -276,3 +276,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Canada,Newfoundland and Labrador,2020-12-14,358,4,332,22,0,0,0.0,,,0,
 329,Canada,Newfoundland and Labrador,2020-12-15,359,4,335,23,0,3,0.13043478260869565,0.0,1.0,3,
 330,Canada,Newfoundland and Labrador,2020-12-16,364,4,337,25,0,2,0.08,0.0,1.0,2,0.0
+331,Canada,Newfoundland and Labrador,2020-12-17,367,4,339,26,0,2,0.07692307692307693,0.0,1.0,2,0.0
+332,Canada,Newfoundland and Labrador,2020-12-18,372,4,341,29,0,2,0.06896551724137931,0.0,1.0,2,0.0

@@ -329,3 +329,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,China,Liaoning,2020-12-14,289,2,287,0,0,0,,,,0,
 329,China,Liaoning,2020-12-15,289,2,287,0,0,0,,,,0,
 330,China,Liaoning,2020-12-16,289,2,287,0,0,0,,,,0,
+331,China,Liaoning,2020-12-17,289,2,287,0,0,0,,,,0,
+332,China,Liaoning,2020-12-18,290,2,287,1,0,0,0.0,,,0,

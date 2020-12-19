@@ -198,3 +198,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Russia,Chukotka Autonomous Okrug,2020-12-14,443,4,394,45,0,0,0.0,,,0,
 329,Russia,Chukotka Autonomous Okrug,2020-12-15,455,4,397,57,0,3,0.05263157894736842,0.0,1.0,3,
 330,Russia,Chukotka Autonomous Okrug,2020-12-16,462,4,409,61,0,12,0.19672131147540983,0.0,1.0,12,0.0
+331,Russia,Chukotka Autonomous Okrug,2020-12-17,471,4,412,58,0,3,0.05172413793103448,0.0,1.0,3,0.0
+332,Russia,Chukotka Autonomous Okrug,2020-12-18,477,4,427,61,0,15,0.2459016393442623,0.0,1.0,15,0.0

@@ -321,3 +321,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Australia,Queensland,2020-12-14,1228,6,1204,19,0,1,0.05263157894736842,0.0,1.0,1,0.0
 329,Australia,Queensland,2020-12-15,1229,6,1204,19,0,0,0.0,,,0,
 330,Australia,Queensland,2020-12-16,1230,6,1209,20,0,5,0.25,0.0,1.0,5,
+331,Australia,Queensland,2020-12-17,1233,6,1213,18,0,4,0.2222222222222222,0.0,1.0,4,0.0
+332,Australia,Queensland,2020-12-18,1232,6,1214,13,0,1,0.07692307692307693,0.0,1.0,1,0.0

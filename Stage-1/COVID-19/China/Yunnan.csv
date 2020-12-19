@@ -329,3 +329,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,China,Yunnan,2020-12-14,224,2,210,12,0,0,0.0,,,0,
 329,China,Yunnan,2020-12-15,226,2,211,14,0,1,0.07142857142857142,0.0,1.0,1,
 330,China,Yunnan,2020-12-16,226,2,211,13,0,0,0.0,,,0,
+331,China,Yunnan,2020-12-17,227,2,211,14,0,0,0.0,,,0,
+332,China,Yunnan,2020-12-18,227,2,211,14,0,0,0.0,,,0,

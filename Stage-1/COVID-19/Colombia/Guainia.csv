@@ -201,3 +201,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Colombia,Guainia,2020-12-14,1218,19,1192,9,0,2,0.2222222222222222,0.0,1.0,2,
 329,Colombia,Guainia,2020-12-15,1218,19,1193,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
 330,Colombia,Guainia,2020-12-16,1222,19,1194,10,0,1,0.1,0.0,1.0,1,0.0
+331,Colombia,Guainia,2020-12-17,1222,19,1194,9,0,0,0.0,,,0,
+332,Colombia,Guainia,2020-12-18,1223,19,1195,10,0,1,0.1,0.0,1.0,1,

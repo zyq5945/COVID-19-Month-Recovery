@@ -194,3 +194,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 328,Sweden,Vastra Gotaland,2020-12-14,51634,1082,0,50552,0,0,0.0,,,0,
 329,Sweden,Vastra Gotaland,2020-12-15,55373,1085,0,54291,3,0,5.525777753218766e-05,1.0,0.0,3,
 330,Sweden,Vastra Gotaland,2020-12-16,55995,1120,0,54910,35,0,0.0006374066654525587,1.0,0.0,35,0.0
+331,Sweden,Vastra Gotaland,2020-12-17,56682,1120,0,55562,0,0,0.0,,,0,
+332,Sweden,Vastra Gotaland,2020-12-18,58876,1143,0,57756,23,0,0.0003982270240321352,1.0,0.0,23,
