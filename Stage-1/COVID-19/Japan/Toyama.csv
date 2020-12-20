@@ -204,3 +204,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 330,Japan,Toyama,2020-12-16,481,26,433,23,0,1,0.043478260869565216,0.0,1.0,1,
 331,Japan,Toyama,2020-12-17,485,26,435,26,0,2,0.07692307692307693,0.0,1.0,2,0.0
 332,Japan,Toyama,2020-12-18,488,26,435,27,0,0,0.0,,,0,
+333,Japan,Toyama,2020-12-19,493,26,437,32,0,2,0.0625,0.0,1.0,2,

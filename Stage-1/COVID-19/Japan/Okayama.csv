@@ -204,3 +204,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 330,Japan,Okayama,2020-12-16,873,12,562,300,1,0,0.0033333333333333335,1.0,0.0,1,
 331,Japan,Okayama,2020-12-17,902,12,562,328,0,0,0.0,,,0,
 332,Japan,Okayama,2020-12-18,911,12,562,337,0,0,0.0,,,0,
+333,Japan,Okayama,2020-12-19,1024,12,642,450,0,80,0.17777777777777778,0.0,1.0,80,

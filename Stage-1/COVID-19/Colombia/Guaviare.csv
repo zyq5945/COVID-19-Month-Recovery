@@ -193,3 +193,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 330,Colombia,Guaviare,2020-12-16,1895,35,1841,24,0,5,0.20833333333333334,0.0,1.0,5,0.0
 331,Colombia,Guaviare,2020-12-17,1900,35,1842,24,0,1,0.041666666666666664,0.0,1.0,1,0.0
 332,Colombia,Guaviare,2020-12-18,1900,35,1846,23,0,4,0.17391304347826086,0.0,1.0,4,0.0
+333,Colombia,Guaviare,2020-12-19,1906,36,1845,25,1,-1,0.0,,,0,

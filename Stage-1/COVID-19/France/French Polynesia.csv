@@ -280,3 +280,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 330,France,French Polynesia,2020-12-16,15974,98,4842,11035,1,0,9.062075215224287e-05,1.0,0.0,1,0.0
 331,France,French Polynesia,2020-12-17,16118,101,4842,11178,3,0,0.00026838432635534085,1.0,0.0,3,0.0
 332,France,French Polynesia,2020-12-18,16182,103,4842,11239,2,0,0.0001779517750689563,1.0,0.0,2,0.0
+333,France,French Polynesia,2020-12-19,16182,103,4842,11237,0,0,0.0,,,0,
