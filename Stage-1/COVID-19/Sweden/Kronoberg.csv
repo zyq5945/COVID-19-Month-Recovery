@@ -197,3 +197,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 331,Sweden,Kronoberg,2020-12-17,7004,168,0,6840,4,0,0.0005847953216374269,1.0,0.0,4,
 332,Sweden,Kronoberg,2020-12-18,7160,169,0,6992,1,0,0.00014302059496567506,1.0,0.0,1,0.0
 333,Sweden,Kronoberg,2020-12-19,7160,169,0,6991,0,0,0.0,,,0,
+334,Sweden,Kronoberg,2020-12-20,7160,169,0,6991,0,0,0.0,,,0,

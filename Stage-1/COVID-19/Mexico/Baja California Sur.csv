@@ -213,3 +213,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 331,Mexico,Baja California Sur,2020-12-17,16143,736,0,15426,19,0,0.001231686762608583,1.0,0.0,19,0.0
 332,Mexico,Baja California Sur,2020-12-18,16259,738,0,15523,2,0,0.0001288410745345616,1.0,0.0,2,0.0
 333,Mexico,Baja California Sur,2020-12-19,16342,743,0,15604,5,0,0.0003204306588054345,1.0,0.0,5,0.0
+334,Mexico,Baja California Sur,2020-12-20,16377,743,0,15634,0,0,0.0,,,0,
