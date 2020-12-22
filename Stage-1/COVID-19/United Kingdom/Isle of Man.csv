@@ -275,3 +275,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 332,United Kingdom,Isle of Man,2020-12-18,373,25,344,4,0,0,0.0,,,0,
 333,United Kingdom,Isle of Man,2020-12-19,373,25,344,4,0,0,0.0,,,0,
 334,United Kingdom,Isle of Man,2020-12-20,373,25,345,4,0,1,0.25,0.0,1.0,1,
+335,United Kingdom,Isle of Man,2020-12-21,374,25,346,4,0,1,0.25,0.0,1.0,1,0.0

@@ -328,3 +328,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 332,Australia,Victoria,2020-12-18,20354,820,19524,10,0,0,0.0,,,0,
 333,Australia,Victoria,2020-12-19,20356,820,19524,12,0,0,0.0,,,0,
 334,Australia,Victoria,2020-12-20,20357,820,19524,13,0,0,0.0,,,0,
+335,Australia,Victoria,2020-12-21,20360,820,19526,16,0,2,0.125,0.0,1.0,2,

@@ -206,3 +206,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 332,Japan,Yamagata,2020-12-18,302,2,177,129,0,6,0.046511627906976744,0.0,1.0,6,0.05555555555555558
 333,Japan,Yamagata,2020-12-19,314,3,192,135,1,15,0.11851851851851852,0.0625,0.9375,16,-0.0625
 334,Japan,Yamagata,2020-12-20,324,3,192,129,0,0,0.0,,,0,
+335,Japan,Yamagata,2020-12-21,330,3,192,135,0,0,0.0,,,0,

@@ -27,4 +27,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 31,Canada,Northwest Territories,2020-11-26,15,0,15,5,0,5,1.0,0.0,1.0,5,
 32,Canada,Northwest Territories,2020-12-06,15,0,15,0,0,0,,,,0,
 33,Canada,Northwest Territories,2020-12-16,22,0,15,7,0,0,0.0,,,0,
-34,Canada,Northwest Territories,2020-12-20,24,0,15,9,0,0,0.0,,,0,
+34,Canada,Northwest Territories,2020-12-21,24,0,21,9,0,6,0.6666666666666666,0.0,1.0,6,

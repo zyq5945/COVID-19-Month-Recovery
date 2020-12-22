@@ -57,4 +57,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 64,Australia,Northern Territory,2020-12-06,59,0,46,13,0,0,0.0,,,0,
 65,Australia,Northern Territory,2020-12-11,62,0,52,16,0,6,0.375,0.0,1.0,6,
 66,Australia,Northern Territory,2020-12-16,68,0,59,16,0,7,0.4375,0.0,1.0,7,0.0
-67,Australia,Northern Territory,2020-12-20,71,0,59,12,0,0,0.0,,,0,
+67,Australia,Northern Territory,2020-12-21,71,0,62,12,0,3,0.25,0.0,1.0,3,0.0
