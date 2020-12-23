@@ -215,3 +215,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 333,Mexico,Campeche,2020-12-19,7073,951,0,6125,3,0,0.0004897959183673469,1.0,0.0,3,
 334,Mexico,Campeche,2020-12-20,7084,951,0,6133,0,0,0.0,,,0,
 335,Mexico,Campeche,2020-12-21,7100,951,0,6149,0,0,0.0,,,0,
+336,Mexico,Campeche,2020-12-22,7118,958,0,6167,7,0,0.0011350737797956867,1.0,0.0,7,

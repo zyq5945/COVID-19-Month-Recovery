@@ -13,4 +13,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 20,Japan,Shimane,2020-11-16,141,0,141,0,0,0,,,,0,
 21,Japan,Shimane,2020-12-01,148,0,141,7,0,0,0.0,,,0,
 22,Japan,Shimane,2020-12-16,174,0,155,33,0,14,0.42424242424242425,0.0,1.0,14,
-23,Japan,Shimane,2020-12-21,181,0,163,26,0,8,0.3076923076923077,0.0,1.0,8,0.0
+23,Japan,Shimane,2020-12-22,181,0,162,26,0,7,0.2692307692307692,0.0,1.0,7,0.0

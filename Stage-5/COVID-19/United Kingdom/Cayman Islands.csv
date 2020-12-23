@@ -56,3 +56,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 65,United Kingdom,Cayman Islands,2020-12-11,298,2,267,39,0,10,0.2564102564102564,0.0,1.0,10,0.0
 66,United Kingdom,Cayman Islands,2020-12-16,308,2,281,39,0,14,0.358974358974359,0.0,1.0,14,0.0
 67,United Kingdom,Cayman Islands,2020-12-21,316,2,288,33,0,7,0.21212121212121213,0.0,1.0,7,0.0
+68,United Kingdom,Cayman Islands,2020-12-22,316,2,288,26,0,0,0.0,,,0,

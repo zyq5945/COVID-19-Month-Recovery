@@ -56,3 +56,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 65,France,French Polynesia,2020-12-11,15618,91,4842,10697,12,0,0.0011218098532298775,1.0,0.0,12,0.0
 66,France,French Polynesia,2020-12-16,15974,98,4842,11041,7,0,0.0006340005434290372,1.0,0.0,7,0.0
 67,France,French Polynesia,2020-12-21,16345,106,4842,11405,8,0,0.0007014467338886454,1.0,0.0,8,0.0
+68,France,French Polynesia,2020-12-22,16410,106,4842,11462,0,0,0.0,,,0,

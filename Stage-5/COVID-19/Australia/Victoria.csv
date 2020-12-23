@@ -65,3 +65,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 65,Australia,Victoria,2020-12-11,20350,820,19525,5,0,0,0.0,,,0,
 66,Australia,Victoria,2020-12-16,20351,820,19525,6,0,0,0.0,,,0,
 67,Australia,Victoria,2020-12-21,20360,820,19526,15,0,1,0.06666666666666667,0.0,1.0,1,
+68,Australia,Victoria,2020-12-22,20361,820,19527,15,0,1,0.06666666666666667,0.0,1.0,1,0.0

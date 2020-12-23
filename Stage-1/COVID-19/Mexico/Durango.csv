@@ -215,3 +215,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 333,Mexico,Durango,2020-12-19,24012,1453,0,22563,4,0,0.00017728138988609671,1.0,0.0,4,0.0
 334,Mexico,Durango,2020-12-20,24161,1453,0,22708,0,0,0.0,,,0,
 335,Mexico,Durango,2020-12-21,24172,1453,0,22719,0,0,0.0,,,0,
+336,Mexico,Durango,2020-12-22,24301,1468,0,22848,15,0,0.0006565126050420169,1.0,0.0,15,

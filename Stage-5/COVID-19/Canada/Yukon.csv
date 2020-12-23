@@ -54,3 +54,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 65,Canada,Yukon,2020-12-11,58,1,54,16,0,13,0.8125,0.0,1.0,13,0.0
 66,Canada,Yukon,2020-12-16,59,1,57,4,0,3,0.75,0.0,1.0,3,0.0
 67,Canada,Yukon,2020-12-21,59,1,57,1,0,0,0.0,,,0,
+68,Canada,Yukon,2020-12-22,59,1,58,1,0,1,1.0,0.0,1.0,1,
