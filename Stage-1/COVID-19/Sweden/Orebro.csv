@@ -200,3 +200,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 334,Sweden,Orebro,2020-12-20,11862,206,0,11656,0,0,0.0,,,0,
 335,Sweden,Orebro,2020-12-21,11862,206,0,11656,0,0,0.0,,,0,
 336,Sweden,Orebro,2020-12-22,12328,209,0,12122,3,0,0.0002474839135456195,1.0,0.0,3,
+337,Sweden,Orebro,2020-12-23,12448,210,0,12239,1,0,8.170602173380178e-05,1.0,0.0,1,0.0

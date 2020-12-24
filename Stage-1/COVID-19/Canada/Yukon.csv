@@ -271,3 +271,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 334,Canada,Yukon,2020-12-20,59,1,57,1,0,0,0.0,,,0,
 335,Canada,Yukon,2020-12-21,59,1,57,1,0,0,0.0,,,0,
 336,Canada,Yukon,2020-12-22,59,1,58,1,0,1,1.0,0.0,1.0,1,
+337,Canada,Yukon,2020-12-23,59,1,58,0,0,0,,,,0,

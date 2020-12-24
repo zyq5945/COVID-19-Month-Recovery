@@ -10,4 +10,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 9,China,Inner Mongolia,2020-09-30,266,1,259,8,0,2,0.25,0.0,1.0,2,0.0
 10,China,Inner Mongolia,2020-10-31,291,1,270,31,0,11,0.3548387096774194,0.0,1.0,11,0.0
 11,China,Inner Mongolia,2020-11-30,327,1,305,56,0,35,0.625,0.0,1.0,35,0.0
-12,China,Inner Mongolia,2020-12-22,352,1,331,46,0,26,0.5652173913043478,0.0,1.0,26,0.0
+12,China,Inner Mongolia,2020-12-23,352,1,335,46,0,30,0.6521739130434783,0.0,1.0,30,0.0

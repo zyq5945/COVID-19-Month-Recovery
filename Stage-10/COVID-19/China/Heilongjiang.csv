@@ -32,4 +32,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 31,China,Heilongjiang,2020-11-26,949,13,936,0,0,0,,,,0,
 32,China,Heilongjiang,2020-12-06,949,13,936,0,0,0,,,,0,
 33,China,Heilongjiang,2020-12-16,960,13,936,11,0,0,0.0,,,0,
-34,China,Heilongjiang,2020-12-22,961,13,936,12,0,0,0.0,,,0,
+34,China,Heilongjiang,2020-12-23,961,13,937,12,0,1,0.08333333333333333,0.0,1.0,1,

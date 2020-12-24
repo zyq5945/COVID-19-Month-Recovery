@@ -335,3 +335,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 334,China,Beijing,2020-12-20,961,9,940,12,0,0,0.0,,,0,
 335,China,Beijing,2020-12-21,961,9,940,12,0,0,0.0,,,0,
 336,China,Beijing,2020-12-22,961,9,941,12,0,1,0.08333333333333333,0.0,1.0,1,
+337,China,Beijing,2020-12-23,961,9,941,11,0,0,0.0,,,0,

@@ -200,3 +200,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 334,Sweden,Halland,2020-12-20,9567,126,0,9441,0,0,0.0,,,0,
 335,Sweden,Halland,2020-12-21,9567,126,0,9441,0,0,0.0,,,0,
 336,Sweden,Halland,2020-12-22,10180,126,0,10054,0,0,0.0,,,0,
+337,Sweden,Halland,2020-12-23,10430,134,0,10304,8,0,0.0007763975155279503,1.0,0.0,8,

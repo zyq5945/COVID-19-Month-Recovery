@@ -216,3 +216,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 334,Mexico,Morelos,2020-12-20,8992,1374,0,7618,0,0,0.0,,,0,
 335,Mexico,Morelos,2020-12-21,8997,1374,0,7623,0,0,0.0,,,0,
 336,Mexico,Morelos,2020-12-22,9050,1380,0,7676,6,0,0.000781657113079729,1.0,0.0,6,
+337,Mexico,Morelos,2020-12-23,9147,1387,0,7767,7,0,0.0009012488734389082,1.0,0.0,7,0.0
