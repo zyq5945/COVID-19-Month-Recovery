@@ -207,3 +207,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 335,Colombia,Vichada,2020-12-21,1107,14,1074,19,0,0,0.0,,,0,
 336,Colombia,Vichada,2020-12-22,1110,14,1080,22,0,6,0.2727272727272727,0.0,1.0,6,
 337,Colombia,Vichada,2020-12-23,1133,14,1084,39,0,4,0.10256410256410256,0.0,1.0,4,0.0
+338,Colombia,Vichada,2020-12-24,1133,14,1104,35,0,20,0.5714285714285714,0.0,1.0,20,0.0
