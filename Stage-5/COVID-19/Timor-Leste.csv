@@ -54,4 +54,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 65,Timor-Leste,,2020-12-11,31,0,30,1,0,0,0.0,,,0,
 66,Timor-Leste,,2020-12-16,31,0,30,1,0,0,0.0,,,0,
 67,Timor-Leste,,2020-12-21,31,0,31,1,0,1,1.0,0.0,1.0,1,
-68,Timor-Leste,,2020-12-24,41,0,31,10,0,0,0.0,,,0,
+68,Timor-Leste,,2020-12-25,41,0,32,10,0,1,0.1,0.0,1.0,1,0.0
