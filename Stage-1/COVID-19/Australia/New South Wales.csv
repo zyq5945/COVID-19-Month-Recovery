@@ -333,3 +333,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 337,Australia,New South Wales,2020-12-23,4823,53,3192,1578,0,0,0.0,,,0,
 338,Australia,New South Wales,2020-12-24,4832,53,3192,1587,0,0,0.0,,,0,
 339,Australia,New South Wales,2020-12-25,4847,53,3192,1602,0,0,0.0,,,0,
+340,Australia,New South Wales,2020-12-26,4858,53,3194,1613,0,2,0.0012399256044637321,0.0,1.0,2,

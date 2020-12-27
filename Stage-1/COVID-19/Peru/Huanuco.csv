@@ -211,3 +211,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 337,Peru,Huanuco,2020-12-23,20089,482,0,19608,1,0,5.0999592003263974e-05,1.0,0.0,1,0.0
 338,Peru,Huanuco,2020-12-24,20089,482,0,19607,0,0,0.0,,,0,
 339,Peru,Huanuco,2020-12-25,20241,482,0,19759,0,0,0.0,,,0,
+340,Peru,Huanuco,2020-12-26,20288,485,0,19806,3,0,0.0001514692517418964,1.0,0.0,3,

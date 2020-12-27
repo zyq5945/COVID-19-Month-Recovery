@@ -66,4 +66,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 65,China,Beijing,2020-12-11,952,9,939,4,0,0,0.0,,,0,
 66,China,Beijing,2020-12-16,957,9,940,9,0,1,0.1111111111111111,0.0,1.0,1,
 67,China,Beijing,2020-12-21,961,9,940,12,0,0,0.0,,,0,
-68,China,Beijing,2020-12-25,963,9,941,14,0,1,0.07142857142857142,0.0,1.0,1,
+68,China,Beijing,2020-12-26,971,9,941,22,0,1,0.045454545454545456,0.0,1.0,1,
