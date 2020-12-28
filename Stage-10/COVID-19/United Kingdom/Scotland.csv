@@ -19,3 +19,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 32,United Kingdom,Scotland,2020-12-06,100106,3916,0,96467,277,0,0.0028714482672831123,1.0,0.0,277,0.0
 33,United Kingdom,Scotland,2020-12-16,108438,4173,0,104522,257,0,0.0024588124988040795,1.0,0.0,257,0.0
 34,United Kingdom,Scotland,2020-12-26,119184,4416,0,115011,243,0,0.002112841380389702,1.0,0.0,243,0.0
+35,United Kingdom,Scotland,2020-12-27,119924,4416,0,115508,0,0,0.0,,,0,

@@ -212,3 +212,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 338,Japan,Yamaguchi,2020-12-24,494,3,411,83,0,3,0.03614457831325301,0.0,1.0,3,
 339,Japan,Yamaguchi,2020-12-25,503,3,411,89,0,0,0.0,,,0,
 340,Japan,Yamaguchi,2020-12-26,516,3,413,102,0,2,0.0196078431372549,0.0,1.0,2,
+341,Japan,Yamaguchi,2020-12-27,524,3,416,108,0,3,0.027777777777777776,0.0,1.0,3,0.0

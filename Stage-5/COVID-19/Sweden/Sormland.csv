@@ -40,3 +40,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 66,Sweden,Sormland,2020-12-16,7449,292,0,7163,6,0,0.0008376378612313277,1.0,0.0,6,0.0
 67,Sweden,Sormland,2020-12-21,7741,298,0,7449,6,0,0.0008054772452678212,1.0,0.0,6,0.0
 68,Sweden,Sormland,2020-12-26,8227,304,0,7929,6,0,0.0007567158531971245,1.0,0.0,6,0.0
+69,Sweden,Sormland,2020-12-27,8227,304,0,7923,0,0,0.0,,,0,

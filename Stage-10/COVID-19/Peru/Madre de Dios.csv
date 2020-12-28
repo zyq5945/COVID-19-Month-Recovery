@@ -21,3 +21,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 32,Peru,Madre de Dios,2020-12-06,9289,151,0,9138,0,0,0.0,,,0,
 33,Peru,Madre de Dios,2020-12-16,9369,151,0,9218,0,0,0.0,,,0,
 34,Peru,Madre de Dios,2020-12-26,9553,154,0,9402,3,0,0.0003190810465858328,1.0,0.0,3,
+35,Peru,Madre de Dios,2020-12-27,9553,154,0,9399,0,0,0.0,,,0,
