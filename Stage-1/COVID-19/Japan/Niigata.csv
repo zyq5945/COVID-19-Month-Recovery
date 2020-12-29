@@ -213,3 +213,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 339,Japan,Niigata,2020-12-25,486,3,396,93,0,6,0.06451612903225806,0.0,1.0,6,0.0
 340,Japan,Niigata,2020-12-26,503,3,405,104,0,9,0.08653846153846154,0.0,1.0,9,0.0
 341,Japan,Niigata,2020-12-27,505,3,405,97,0,0,0.0,,,0,
+342,Japan,Niigata,2020-12-28,505,3,410,97,0,5,0.05154639175257732,0.0,1.0,5,

@@ -332,3 +332,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 339,Australia,Queensland,2020-12-25,1241,6,1217,19,0,1,0.05263157894736842,0.0,1.0,1,
 340,Australia,Queensland,2020-12-26,1241,6,1217,18,0,0,0.0,,,0,
 341,Australia,Queensland,2020-12-27,1246,6,1217,23,0,0,0.0,,,0,
+342,Australia,Queensland,2020-12-28,1248,6,1218,25,0,1,0.04,0.0,1.0,1,

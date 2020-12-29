@@ -213,3 +213,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 339,Peru,Cajamarca,2020-12-25,24912,603,0,24313,4,0,0.0001645210381277506,1.0,0.0,4,
 340,Peru,Cajamarca,2020-12-26,24930,603,0,24327,0,0,0.0,,,0,
 341,Peru,Cajamarca,2020-12-27,24930,603,0,24327,0,0,0.0,,,0,
+342,Peru,Cajamarca,2020-12-28,24963,605,0,24360,2,0,8.210180623973728e-05,1.0,0.0,2,
