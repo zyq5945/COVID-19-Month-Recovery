@@ -341,3 +341,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 340,China,Tianjin,2020-12-26,304,3,298,3,0,0,0.0,,,0,
 341,China,Tianjin,2020-12-27,305,3,299,4,0,1,0.25,0.0,1.0,1,
 342,China,Tianjin,2020-12-28,306,3,300,4,0,1,0.25,0.0,1.0,1,0.0
+343,China,Tianjin,2020-12-29,309,3,300,6,0,0,0.0,,,0,
