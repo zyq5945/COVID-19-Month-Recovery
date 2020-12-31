@@ -279,3 +279,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 341,Canada,Nunavut,2020-12-27,265,1,255,9,0,0,0.0,,,0,
 342,Canada,Nunavut,2020-12-28,266,1,256,10,0,1,0.1,0.0,1.0,1,
 343,Canada,Nunavut,2020-12-29,266,1,259,9,0,3,0.3333333333333333,0.0,1.0,3,0.0
+344,Canada,Nunavut,2020-12-30,266,1,262,6,0,3,0.5,0.0,1.0,3,0.0

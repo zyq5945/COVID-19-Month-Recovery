@@ -223,3 +223,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 341,Mexico,Aguascalientes,2020-12-27,16638,1331,0,15308,1,0,6.532532009406845e-05,1.0,0.0,1,
 342,Mexico,Aguascalientes,2020-12-28,16742,1331,0,15411,0,0,0.0,,,0,
 343,Mexico,Aguascalientes,2020-12-29,16805,1349,0,15474,18,0,0.0011632415664986429,1.0,0.0,18,
+344,Mexico,Aguascalientes,2020-12-30,16869,1364,0,15520,15,0,0.0009664948453608248,1.0,0.0,15,0.0

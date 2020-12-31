@@ -67,4 +67,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 66,China,Heilongjiang,2020-12-16,960,13,936,11,0,0,0.0,,,0,
 67,China,Heilongjiang,2020-12-21,961,13,936,12,0,0,0.0,,,0,
 68,China,Heilongjiang,2020-12-26,961,13,939,12,0,3,0.25,0.0,1.0,3,
-69,China,Heilongjiang,2020-12-29,962,13,941,10,0,2,0.2,0.0,1.0,2,0.0
+69,China,Heilongjiang,2020-12-30,964,13,942,12,0,3,0.25,0.0,1.0,3,0.0

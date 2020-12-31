@@ -342,3 +342,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 341,China,Fujian,2020-12-27,508,1,486,21,0,0,0.0,,,0,
 342,China,Fujian,2020-12-28,509,1,486,22,0,0,0.0,,,0,
 343,China,Fujian,2020-12-29,511,1,486,24,0,0,0.0,,,0,
+344,China,Fujian,2020-12-30,512,1,487,25,0,1,0.04,0.0,1.0,1,

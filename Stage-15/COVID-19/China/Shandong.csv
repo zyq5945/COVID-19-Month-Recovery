@@ -21,4 +21,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 20,China,Shandong,2020-11-16,848,7,841,6,0,6,1.0,0.0,1.0,6,0.0
 21,China,Shandong,2020-12-01,854,7,841,6,0,0,0.0,,,0,
 22,China,Shandong,2020-12-16,859,7,841,11,0,0,0.0,,,0,
-23,China,Shandong,2020-12-29,862,7,846,14,0,5,0.35714285714285715,0.0,1.0,5,
+23,China,Shandong,2020-12-30,862,7,846,14,0,5,0.35714285714285715,0.0,1.0,5,
