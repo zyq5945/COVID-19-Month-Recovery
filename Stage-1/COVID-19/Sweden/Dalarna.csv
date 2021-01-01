@@ -208,3 +208,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 342,Sweden,Dalarna,2020-12-28,9597,219,0,9378,0,0,0.0,,,0,
 343,Sweden,Dalarna,2020-12-29,10300,224,0,10081,5,0,0.0004959825414145422,1.0,0.0,5,
 344,Sweden,Dalarna,2020-12-30,10603,225,0,10379,1,0,9.634839579920994e-05,1.0,0.0,1,0.0
+345,Sweden,Dalarna,2020-12-31,10603,225,0,10378,0,0,0.0,,,0,

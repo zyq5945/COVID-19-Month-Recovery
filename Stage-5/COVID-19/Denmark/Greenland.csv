@@ -56,4 +56,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 66,Denmark,Greenland,2020-12-16,19,0,18,1,0,0,0.0,,,0,
 67,Denmark,Greenland,2020-12-21,25,0,19,7,0,1,0.14285714285714285,0.0,1.0,1,
 68,Denmark,Greenland,2020-12-26,26,0,19,7,0,0,0.0,,,0,
-69,Denmark,Greenland,2020-12-30,27,0,20,8,0,1,0.125,0.0,1.0,1,
+69,Denmark,Greenland,2020-12-31,27,0,21,8,0,2,0.25,0.0,1.0,2,
