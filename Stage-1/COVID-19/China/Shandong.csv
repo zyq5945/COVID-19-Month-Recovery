@@ -344,3 +344,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,China,Shandong,2020-12-29,862,7,846,11,0,2,0.18181818181818182,0.0,1.0,2,
 344,China,Shandong,2020-12-30,862,7,846,9,0,0,0.0,,,0,
 345,China,Shandong,2020-12-31,862,7,847,9,0,1,0.1111111111111111,0.0,1.0,1,
+346,China,Shandong,2021-01-01,863,7,847,9,0,0,0.0,,,0,

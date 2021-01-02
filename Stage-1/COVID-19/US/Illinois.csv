@@ -263,3 +263,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,US,Illinois,2020-12-29,948006,17596,,,126,,,,,,
 344,US,Illinois,2020-12-30,955380,17811,,,215,,,,,,
 345,US,Illinois,2020-12-31,963389,17978,,,167,,,,,,
+346,US,Illinois,2021-01-01,963389,17978,,,0,,,,,,

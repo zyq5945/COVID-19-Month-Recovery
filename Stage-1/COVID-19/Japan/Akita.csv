@@ -217,3 +217,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,Japan,Akita,2020-12-29,132,1,94,37,0,0,0.0,,,0,
 344,Japan,Akita,2020-12-30,136,1,94,41,0,0,0.0,,,0,
 345,Japan,Akita,2020-12-31,140,1,99,45,0,5,0.1111111111111111,0.0,1.0,5,
+346,Japan,Akita,2021-01-01,143,1,100,43,0,1,0.023255813953488372,0.0,1.0,1,0.0

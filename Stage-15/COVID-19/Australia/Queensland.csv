@@ -22,3 +22,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 21,Australia,Queensland,2020-12-01,1205,6,1186,28,0,15,0.5357142857142857,0.0,1.0,15,0.0
 22,Australia,Queensland,2020-12-16,1230,6,1209,38,0,23,0.6052631578947368,0.0,1.0,23,0.0
 23,Australia,Queensland,2020-12-31,1253,6,1218,38,0,9,0.23684210526315788,0.0,1.0,9,0.0
+24,Australia,Queensland,2021-01-01,1255,6,1224,31,0,6,0.1935483870967742,0.0,1.0,6,0.0

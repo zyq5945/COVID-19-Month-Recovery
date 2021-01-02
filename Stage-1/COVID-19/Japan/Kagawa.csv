@@ -217,3 +217,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,Japan,Kagawa,2020-12-29,296,3,196,97,0,0,0.0,,,0,
 344,Japan,Kagawa,2020-12-30,301,3,199,102,0,3,0.029411764705882353,0.0,1.0,3,
 345,Japan,Kagawa,2020-12-31,304,3,203,102,0,4,0.0392156862745098,0.0,1.0,4,0.0
+346,Japan,Kagawa,2021-01-01,306,3,206,100,0,3,0.03,0.0,1.0,3,0.0

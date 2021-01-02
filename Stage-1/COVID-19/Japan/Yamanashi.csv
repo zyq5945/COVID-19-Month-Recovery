@@ -217,3 +217,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,Japan,Yamanashi,2020-12-29,547,11,465,83,0,12,0.14457831325301204,0.0,1.0,12,
 344,Japan,Yamanashi,2020-12-30,560,11,465,84,0,0,0.0,,,0,
 345,Japan,Yamanashi,2020-12-31,568,11,465,92,0,0,0.0,,,0,
+346,Japan,Yamanashi,2021-01-01,576,11,482,100,0,17,0.17,0.0,1.0,17,

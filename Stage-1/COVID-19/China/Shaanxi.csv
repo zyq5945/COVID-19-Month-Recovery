@@ -344,3 +344,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,China,Shaanxi,2020-12-29,505,3,489,15,0,2,0.13333333333333333,0.0,1.0,2,
 344,China,Shaanxi,2020-12-30,506,3,489,14,0,0,0.0,,,0,
 345,China,Shaanxi,2020-12-31,507,3,490,15,0,1,0.06666666666666667,0.0,1.0,1,
+346,China,Shaanxi,2021-01-01,508,3,490,15,0,0,0.0,,,0,

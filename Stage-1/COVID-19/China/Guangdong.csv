@@ -344,3 +344,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 343,China,Guangdong,2020-12-29,2041,8,2008,25,0,0,0.0,,,0,
 344,China,Guangdong,2020-12-30,2044,8,2008,28,0,0,0.0,,,0,
 345,China,Guangdong,2020-12-31,2046,8,2010,30,0,2,0.06666666666666667,0.0,1.0,2,
+346,China,Guangdong,2021-01-01,2046,8,2011,28,0,1,0.03571428571428571,0.0,1.0,1,0.0

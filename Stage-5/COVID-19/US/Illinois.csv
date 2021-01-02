@@ -52,3 +52,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 67,US,Illinois,2020-12-21,905069,16527,,,750,,,,,,
 68,US,Illinois,2020-12-26,934142,17224,,,697,,,,,,
 69,US,Illinois,2020-12-31,963389,17978,,,754,,,,,,
+70,US,Illinois,2021-01-01,963389,17978,,,0,,,,,,
