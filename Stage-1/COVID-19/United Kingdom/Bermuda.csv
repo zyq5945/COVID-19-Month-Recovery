@@ -288,3 +288,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 344,United Kingdom,Bermuda,2020-12-30,595,10,421,164,0,0,0.0,,,0,
 345,United Kingdom,Bermuda,2020-12-31,604,10,445,173,0,24,0.13872832369942195,0.0,1.0,24,
 346,United Kingdom,Bermuda,2021-01-01,604,10,445,149,0,0,0.0,,,0,
+347,United Kingdom,Bermuda,2021-01-02,622,10,478,167,0,33,0.19760479041916168,0.0,1.0,33,

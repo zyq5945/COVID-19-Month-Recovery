@@ -11,4 +11,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 10,China,Hebei,2020-10-31,373,6,359,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 11,China,Hebei,2020-11-30,373,6,366,8,0,7,0.875,0.0,1.0,7,0.0
 12,China,Hebei,2020-12-31,373,6,367,1,0,1,1.0,0.0,1.0,1,0.0
-13,China,Hebei,2021-01-01,373,6,367,0,0,0,,,,0,
+13,China,Hebei,2021-01-02,374,6,367,1,0,0,0.0,,,0,

@@ -345,3 +345,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 344,China,Heilongjiang,2020-12-30,964,13,942,10,0,1,0.1,0.0,1.0,1,0.0
 345,China,Heilongjiang,2020-12-31,964,13,942,9,0,0,0.0,,,0,
 346,China,Heilongjiang,2021-01-01,964,13,942,9,0,0,0.0,,,0,
+347,China,Heilongjiang,2021-01-02,968,13,945,13,0,3,0.23076923076923078,0.0,1.0,3,

@@ -218,3 +218,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 344,Colombia,Amazonas,2020-12-30,3245,125,3088,36,0,4,0.1111111111111111,0.0,1.0,4,
 345,Colombia,Amazonas,2020-12-31,3245,125,3097,32,0,9,0.28125,0.0,1.0,9,0.0
 346,Colombia,Amazonas,2021-01-01,3249,125,3102,27,0,5,0.18518518518518517,0.0,1.0,5,0.0
+347,Colombia,Amazonas,2021-01-02,3259,125,3105,32,0,3,0.09375,0.0,1.0,3,0.0

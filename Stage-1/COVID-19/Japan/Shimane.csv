@@ -218,3 +218,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 344,Japan,Shimane,2020-12-30,211,0,177,36,0,2,0.05555555555555555,0.0,1.0,2,
 345,Japan,Shimane,2020-12-31,213,0,177,36,0,0,0.0,,,0,
 346,Japan,Shimane,2021-01-01,217,0,178,40,0,1,0.025,0.0,1.0,1,
+347,Japan,Shimane,2021-01-02,217,0,181,39,0,3,0.07692307692307693,0.0,1.0,3,0.0
