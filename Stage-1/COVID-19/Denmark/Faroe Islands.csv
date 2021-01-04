@@ -297,3 +297,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,Denmark,Faroe Islands,2020-12-31,610,0,547,69,0,6,0.08695652173913043,0.0,1.0,6,0.0
 346,Denmark,Faroe Islands,2021-01-01,610,0,551,63,0,4,0.06349206349206349,0.0,1.0,4,0.0
 347,Denmark,Faroe Islands,2021-01-02,614,0,558,63,0,7,0.1111111111111111,0.0,1.0,7,0.0
+348,Denmark,Faroe Islands,2021-01-03,620,0,564,62,0,6,0.0967741935483871,0.0,1.0,6,0.0

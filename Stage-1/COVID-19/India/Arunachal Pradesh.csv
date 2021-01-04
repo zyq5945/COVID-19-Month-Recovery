@@ -206,3 +206,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,India,Arunachal Pradesh,2020-12-31,16711,56,16549,106,0,0,0.0,,,0,
 346,India,Arunachal Pradesh,2021-01-01,16719,56,16564,114,0,15,0.13157894736842105,0.0,1.0,15,
 347,India,Arunachal Pradesh,2021-01-02,16727,56,16576,107,0,12,0.11214953271028037,0.0,1.0,12,0.0
+348,India,Arunachal Pradesh,2021-01-03,16732,56,16583,100,0,7,0.07,0.0,1.0,7,0.0

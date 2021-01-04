@@ -219,3 +219,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,Peru,Loreto,2020-12-31,26403,1007,0,25396,0,0,0.0,,,0,
 346,Peru,Loreto,2021-01-01,26403,1007,0,25396,0,0,0.0,,,0,
 347,Peru,Loreto,2021-01-02,26403,1007,0,25396,0,0,0.0,,,0,
+348,Peru,Loreto,2021-01-03,26404,1008,0,25397,1,0,3.937472929873607e-05,1.0,0.0,1,

@@ -169,3 +169,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,Netherlands,Zeeland,2020-12-31,10462,127,0,10338,3,0,0.0002901915264074289,1.0,0.0,3,0.0
 346,Netherlands,Zeeland,2021-01-01,10629,129,0,10502,2,0,0.00019043991620643687,1.0,0.0,2,0.0
 347,Netherlands,Zeeland,2021-01-02,10796,129,0,10667,0,0,0.0,,,0,
+348,Netherlands,Zeeland,2021-01-03,10943,130,0,10814,1,0,9.24727205474385e-05,1.0,0.0,1,

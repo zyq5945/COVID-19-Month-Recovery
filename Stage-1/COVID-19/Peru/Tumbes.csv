@@ -219,3 +219,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,Peru,Tumbes,2020-12-31,9477,346,0,9134,3,0,0.00032844317932997593,1.0,0.0,3,
 346,Peru,Tumbes,2021-01-01,9477,346,0,9131,0,0,0.0,,,0,
 347,Peru,Tumbes,2021-01-02,9477,346,0,9131,0,0,0.0,,,0,
+348,Peru,Tumbes,2021-01-03,9485,347,0,9139,1,0,0.000109421162052741,1.0,0.0,1,

@@ -346,3 +346,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,China,Hebei,2020-12-31,373,6,367,0,0,0,,,,0,
 346,China,Hebei,2021-01-01,373,6,367,0,0,0,,,,0,
 347,China,Hebei,2021-01-02,374,6,367,1,0,0,0.0,,,0,
+348,China,Hebei,2021-01-03,378,6,367,5,0,0,0.0,,,0,

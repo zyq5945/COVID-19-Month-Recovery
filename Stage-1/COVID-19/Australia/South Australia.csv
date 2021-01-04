@@ -336,3 +336,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 345,Australia,South Australia,2020-12-31,580,4,565,11,0,0,0.0,,,0,
 346,Australia,South Australia,2021-01-01,580,4,566,11,0,1,0.09090909090909091,0.0,1.0,1,
 347,Australia,South Australia,2021-01-02,580,4,566,10,0,0,0.0,,,0,
+348,Australia,South Australia,2021-01-03,583,4,566,13,0,0,0.0,,,0,
