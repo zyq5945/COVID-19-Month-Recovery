@@ -347,3 +347,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 346,China,Shaanxi,2021-01-01,508,3,490,15,0,0,0.0,,,0,
 347,China,Shaanxi,2021-01-02,510,3,490,17,0,0,0.0,,,0,
 348,China,Shaanxi,2021-01-03,516,3,490,23,0,0,0.0,,,0,
+349,China,Shaanxi,2021-01-04,516,3,491,23,0,1,0.043478260869565216,0.0,1.0,1,

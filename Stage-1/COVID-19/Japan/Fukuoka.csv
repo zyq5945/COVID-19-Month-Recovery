@@ -220,3 +220,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 346,Japan,Fukuoka,2021-01-01,9121,114,7272,1814,0,79,0.043550165380374865,0.0,1.0,79,0.0
 347,Japan,Fukuoka,2021-01-02,9245,114,7272,1859,0,0,0.0,,,0,
 348,Japan,Fukuoka,2021-01-03,9350,115,7272,1964,1,0,0.0005091649694501018,1.0,0.0,1,
+349,Japan,Fukuoka,2021-01-04,9478,115,7272,2091,0,0,0.0,,,0,

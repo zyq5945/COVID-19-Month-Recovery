@@ -220,3 +220,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 346,Japan,Niigata,2021-01-01,545,3,436,116,0,10,0.08620689655172414,0.0,1.0,10,0.0
 347,Japan,Niigata,2021-01-02,555,3,436,116,0,0,0.0,,,0,
 348,Japan,Niigata,2021-01-03,569,3,438,130,0,2,0.015384615384615385,0.0,1.0,2,
+349,Japan,Niigata,2021-01-04,572,3,445,131,0,7,0.05343511450381679,0.0,1.0,7,0.0

@@ -347,3 +347,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 346,China,Guangdong,2021-01-01,2046,8,2011,28,0,1,0.03571428571428571,0.0,1.0,1,0.0
 347,China,Guangdong,2021-01-02,2051,8,2012,32,0,1,0.03125,0.0,1.0,1,0.0
 348,China,Guangdong,2021-01-03,2053,8,2012,33,0,0,0.0,,,0,
+349,China,Guangdong,2021-01-04,2057,8,2014,37,0,2,0.05405405405405406,0.0,1.0,2,
