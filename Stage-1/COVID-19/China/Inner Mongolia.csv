@@ -348,3 +348,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 347,China,Inner Mongolia,2021-01-02,365,1,341,24,0,1,0.041666666666666664,0.0,1.0,1,
 348,China,Inner Mongolia,2021-01-03,366,1,345,24,0,4,0.16666666666666666,0.0,1.0,4,0.0
 349,China,Inner Mongolia,2021-01-04,366,1,345,20,0,0,0.0,,,0,
+350,China,Inner Mongolia,2021-01-05,366,1,345,20,0,0,0.0,,,0,

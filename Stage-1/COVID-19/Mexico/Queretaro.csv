@@ -229,3 +229,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 347,Mexico,Queretaro,2021-01-02,32750,1890,0,30860,0,0,0.0,,,0,
 348,Mexico,Queretaro,2021-01-03,32927,1890,0,31037,0,0,0.0,,,0,
 349,Mexico,Queretaro,2021-01-04,33158,1944,0,31268,54,0,0.0017270052449788922,1.0,0.0,54,
+350,Mexico,Queretaro,2021-01-05,33557,2012,0,31613,68,0,0.002151013823427071,1.0,0.0,68,0.0

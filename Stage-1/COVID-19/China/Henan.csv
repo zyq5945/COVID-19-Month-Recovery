@@ -348,3 +348,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 347,China,Henan,2021-01-02,1299,22,1270,7,0,0,0.0,,,0,
 348,China,Henan,2021-01-03,1299,22,1270,7,0,0,0.0,,,0,
 349,China,Henan,2021-01-04,1300,22,1270,8,0,0,0.0,,,0,
+350,China,Henan,2021-01-05,1300,22,1271,8,0,1,0.125,0.0,1.0,1,
