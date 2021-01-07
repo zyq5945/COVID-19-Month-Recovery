@@ -42,3 +42,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 68,Sweden,Ostergotland,2020-12-26,12453,358,0,12104,9,0,0.0007435558493060145,1.0,0.0,9,0.0
 69,Sweden,Ostergotland,2020-12-31,13869,360,0,13511,2,0,0.00014802753312116054,1.0,0.0,2,0.0
 70,Sweden,Ostergotland,2021-01-05,15121,381,0,14761,21,0,0.0014226678409321862,1.0,0.0,21,0.0
+71,Sweden,Ostergotland,2021-01-06,15121,381,0,14740,0,0,0.0,,,0,

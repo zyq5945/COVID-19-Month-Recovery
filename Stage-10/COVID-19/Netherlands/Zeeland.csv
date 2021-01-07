@@ -17,3 +17,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 33,Netherlands,Zeeland,2020-12-16,7884,109,0,7780,5,0,0.0006426735218508997,1.0,0.0,5,0.0
 34,Netherlands,Zeeland,2020-12-26,9822,118,0,9713,9,0,0.000926593225573973,1.0,0.0,9,0.0
 35,Netherlands,Zeeland,2021-01-05,11134,132,0,11016,14,0,0.001270878721859114,1.0,0.0,14,0.0
+36,Netherlands,Zeeland,2021-01-06,11247,132,0,11115,0,0,0.0,,,0,
