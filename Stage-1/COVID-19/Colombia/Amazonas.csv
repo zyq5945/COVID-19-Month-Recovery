@@ -223,3 +223,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 349,Colombia,Amazonas,2021-01-04,3280,125,3125,41,0,11,0.2682926829268293,0.0,1.0,11,0.0
 350,Colombia,Amazonas,2021-01-05,3291,125,3126,41,0,1,0.024390243902439025,0.0,1.0,1,0.0
 351,Colombia,Amazonas,2021-01-06,3288,126,3127,37,1,1,0.05405405405405406,0.5,0.5,2,-0.5
+352,Colombia,Amazonas,2021-01-07,3293,127,3136,40,1,9,0.25,0.1,0.9,10,0.4

@@ -350,3 +350,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 349,China,Tianjin,2021-01-04,315,3,300,12,0,0,0.0,,,0,
 350,China,Tianjin,2021-01-05,316,3,301,13,0,1,0.07692307692307693,0.0,1.0,1,
 351,China,Tianjin,2021-01-06,316,3,301,12,0,0,0.0,,,0,
+352,China,Tianjin,2021-01-07,316,3,302,12,0,1,0.08333333333333333,0.0,1.0,1,
