@@ -220,3 +220,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 350,Russia,Nenets Autonomous Okrug,2021-01-05,807,0,704,103,0,0,0.0,,,0,
 351,Russia,Nenets Autonomous Okrug,2021-01-06,808,0,705,104,0,1,0.009615384615384616,0.0,1.0,1,
 352,Russia,Nenets Autonomous Okrug,2021-01-07,811,0,710,106,0,5,0.04716981132075472,0.0,1.0,5,0.0
+353,Russia,Nenets Autonomous Okrug,2021-01-08,812,0,713,102,0,3,0.029411764705882353,0.0,1.0,3,0.0

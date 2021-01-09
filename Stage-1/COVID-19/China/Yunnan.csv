@@ -351,3 +351,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 350,China,Yunnan,2021-01-05,230,2,216,12,0,0,0.0,,,0,
 351,China,Yunnan,2021-01-06,230,2,216,12,0,0,0.0,,,0,
 352,China,Yunnan,2021-01-07,230,2,218,12,0,2,0.16666666666666666,0.0,1.0,2,
+353,China,Yunnan,2021-01-08,230,2,219,10,0,1,0.1,0.0,1.0,1,0.0
