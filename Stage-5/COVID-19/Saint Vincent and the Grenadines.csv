@@ -59,4 +59,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 68,Saint Vincent and the Grenadines,,2020-12-26,109,0,87,24,0,2,0.08333333333333333,0.0,1.0,2,0.0
 69,Saint Vincent and the Grenadines,,2020-12-31,121,0,98,34,0,11,0.3235294117647059,0.0,1.0,11,0.0
 70,Saint Vincent and the Grenadines,,2021-01-05,133,0,100,35,0,2,0.05714285714285714,0.0,1.0,2,0.0
-71,Saint Vincent and the Grenadines,,2021-01-10,149,0,100,49,0,0,0.0,,,0,
+71,Saint Vincent and the Grenadines,,2021-01-10,249,0,100,149,0,0,0.0,,,0,
+72,Saint Vincent and the Grenadines,,2021-01-11,249,0,106,149,0,6,0.040268456375838924,0.0,1.0,6,

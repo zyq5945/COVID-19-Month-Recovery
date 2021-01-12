@@ -190,8 +190,8 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 308,Mexico,Baja California Sur,2020-11-24,14047,660,0,13392,5,0,0.0003733572281959379,1.0,0.0,5,0.0
 309,Mexico,Baja California Sur,2020-11-25,14104,660,0,13444,0,0,0.0,,,0,
 310,Mexico,Baja California Sur,2020-11-26,14156,662,0,13496,2,0,0.00014819205690574984,1.0,0.0,2,
-311,Mexico,Baja California Sur,2020-11-27,14156,662,0,13494,0,0,0.0,,,0,
-312,Mexico,Baja California Sur,2020-11-28,14344,665,0,13682,3,0,0.0002192661891536325,1.0,0.0,3,
+311,Mexico,Baja California Sur,2020-11-27,14255,663,0,13593,1,0,7.356727727506805e-05,1.0,0.0,1,0.0
+312,Mexico,Baja California Sur,2020-11-28,14344,665,0,13681,2,0,0.00014618814414151012,1.0,0.0,2,0.0
 313,Mexico,Baja California Sur,2020-11-29,14393,667,0,13728,2,0,0.0001456876456876457,1.0,0.0,2,0.0
 314,Mexico,Baja California Sur,2020-11-30,14504,667,0,13837,0,0,0.0,,,0,
 315,Mexico,Baja California Sur,2020-12-01,14563,669,0,13896,2,0,0.00014392630972941855,1.0,0.0,2,
@@ -235,3 +235,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 353,Mexico,Baja California Sur,2021-01-08,18822,799,0,18026,3,0,0.00016642627316098969,1.0,0.0,3,0.0
 354,Mexico,Baja California Sur,2021-01-09,19030,805,0,18231,6,0,0.0003291097581043278,1.0,0.0,6,0.0
 355,Mexico,Baja California Sur,2021-01-10,19268,805,0,18463,0,0,0.0,,,0,
+356,Mexico,Baja California Sur,2021-01-11,19422,805,0,18617,0,0,0.0,,,0,
