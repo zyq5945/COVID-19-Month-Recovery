@@ -355,3 +355,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 354,China,Fujian,2021-01-09,526,1,497,30,0,2,0.06666666666666667,0.0,1.0,2,
 355,China,Fujian,2021-01-10,527,1,497,29,0,0,0.0,,,0,
 356,China,Fujian,2021-01-11,528,1,498,30,0,1,0.03333333333333333,0.0,1.0,1,
+357,China,Fujian,2021-01-12,529,1,499,30,0,1,0.03333333333333333,0.0,1.0,1,0.0

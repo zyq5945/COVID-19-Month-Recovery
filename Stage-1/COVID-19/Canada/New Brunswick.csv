@@ -306,3 +306,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 354,Canada,New Brunswick,2021-01-09,765,9,584,174,0,2,0.011494252873563218,0.0,1.0,2,0.0
 355,Canada,New Brunswick,2021-01-10,779,9,585,186,0,1,0.005376344086021506,0.0,1.0,1,0.0
 356,Canada,New Brunswick,2021-01-11,800,9,586,206,0,1,0.0048543689320388345,0.0,1.0,1,0.0
+357,Canada,New Brunswick,2021-01-12,817,11,586,222,2,0,0.009009009009009009,1.0,0.0,2,-1.0

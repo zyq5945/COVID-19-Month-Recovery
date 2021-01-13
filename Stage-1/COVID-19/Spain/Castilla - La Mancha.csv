@@ -242,3 +242,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 354,Spain,Castilla - La Mancha,2021-01-09,107656,4117,6392,97147,0,0,0.0,,,0,
 355,Spain,Castilla - La Mancha,2021-01-10,107656,4117,6392,97147,0,0,0.0,,,0,
 356,Spain,Castilla - La Mancha,2021-01-11,110614,4131,6392,100105,14,0,0.0001398531541881025,1.0,0.0,14,
+357,Spain,Castilla - La Mancha,2021-01-12,112158,4139,6392,101635,8,0,7.871304176710779e-05,1.0,0.0,8,0.0

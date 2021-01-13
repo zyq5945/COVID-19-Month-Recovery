@@ -228,3 +228,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 354,Peru,Huanuco,2021-01-09,20888,505,0,20383,0,0,0.0,,,0,
 355,Peru,Huanuco,2021-01-10,20888,505,0,20383,0,0,0.0,,,0,
 356,Peru,Huanuco,2021-01-11,21025,518,0,20520,13,0,0.0006335282651072125,1.0,0.0,13,
+357,Peru,Huanuco,2021-01-12,21217,520,0,20699,2,0,9.662302526692111e-05,1.0,0.0,2,0.0

@@ -22,4 +22,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 21,China,Heilongjiang,2020-12-01,949,13,936,0,0,0,,,,0,
 22,China,Heilongjiang,2020-12-16,960,13,936,11,0,0,0.0,,,0,
 23,China,Heilongjiang,2020-12-31,964,13,942,15,0,6,0.4,0.0,1.0,6,
-24,China,Heilongjiang,2021-01-11,972,13,949,17,0,7,0.4117647058823529,0.0,1.0,7,0.0
+24,China,Heilongjiang,2021-01-12,988,13,950,33,0,8,0.24242424242424243,0.0,1.0,8,0.0

@@ -70,4 +70,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 69,China,Liaoning,2020-12-31,351,2,287,62,0,0,0.0,,,0,
 70,China,Liaoning,2021-01-05,373,2,294,84,0,7,0.08333333333333333,0.0,1.0,7,
 71,China,Liaoning,2021-01-10,393,2,314,97,0,20,0.20618556701030927,0.0,1.0,20,0.0
-72,China,Liaoning,2021-01-11,396,2,322,80,0,8,0.1,0.0,1.0,8,0.0
+72,China,Liaoning,2021-01-12,396,2,336,80,0,22,0.275,0.0,1.0,22,0.0
