@@ -229,3 +229,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 355,Japan,Tokushima,2021-01-10,229,10,188,31,0,0,0.0,,,0,
 356,Japan,Tokushima,2021-01-11,230,10,188,32,0,0,0.0,,,0,
 357,Japan,Tokushima,2021-01-12,268,10,188,70,0,0,0.0,,,0,
+358,Japan,Tokushima,2021-01-13,268,10,189,70,0,1,0.014285714285714285,0.0,1.0,1,
