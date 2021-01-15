@@ -1,7 +1,6 @@
 Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
 1,China,Hebei,2020-01-22,1,,,1,,,,,,,
-2,China,Hebei,2020-01-23,1,1,,,,,,,,,
-3,China,Hebei,2020-01-24,2,1,,,0,,,,,,
+3,China,Hebei,2020-01-24,2,1,,,,,,,,,
 4,China,Hebei,2020-01-25,8,1,,,0,,,,,,
 5,China,Hebei,2020-01-26,13,1,,,0,,,,,,
 6,China,Hebei,2020-01-27,18,1,,,0,,,,,,
@@ -357,3 +356,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 356,China,Hebei,2021-01-11,680,6,367,307,0,0,0.0,,,0,
 357,China,Hebei,2021-01-12,770,6,367,397,0,0,0.0,,,0,
 358,China,Hebei,2021-01-13,851,7,379,478,1,12,0.027196652719665274,0.07692307692307693,0.9230769230769231,13,
+359,China,Hebei,2021-01-14,941,7,379,555,0,0,0.0,,,0,

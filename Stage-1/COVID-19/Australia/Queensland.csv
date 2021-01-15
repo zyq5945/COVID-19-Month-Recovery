@@ -349,3 +349,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 356,Australia,Queensland,2021-01-11,1281,6,1243,32,0,0,0.0,,,0,
 357,Australia,Queensland,2021-01-12,1283,6,1245,34,0,2,0.058823529411764705,0.0,1.0,2,
 358,Australia,Queensland,2021-01-13,1287,6,1245,36,0,0,0.0,,,0,
+359,Australia,Queensland,2021-01-14,1290,6,1247,39,0,2,0.05128205128205128,0.0,1.0,2,

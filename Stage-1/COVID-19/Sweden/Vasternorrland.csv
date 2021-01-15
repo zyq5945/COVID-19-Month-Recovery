@@ -222,3 +222,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 356,Sweden,Vasternorrland,2021-01-11,11250,255,0,10995,0,0,0.0,,,0,
 357,Sweden,Vasternorrland,2021-01-12,11529,260,0,11274,5,0,0.0004434983147064041,1.0,0.0,5,
 358,Sweden,Vasternorrland,2021-01-13,11785,288,0,11525,28,0,0.0024295010845986984,1.0,0.0,28,0.0
+359,Sweden,Vasternorrland,2021-01-14,11845,289,0,11557,1,0,8.652764558276369e-05,1.0,0.0,1,0.0

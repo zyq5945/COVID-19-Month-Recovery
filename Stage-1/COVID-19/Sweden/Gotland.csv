@@ -222,3 +222,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 356,Sweden,Gotland,2021-01-11,2380,34,0,2346,0,0,0.0,,,0,
 357,Sweden,Gotland,2021-01-12,2446,36,0,2412,2,0,0.0008291873963515755,1.0,0.0,2,
 358,Sweden,Gotland,2021-01-13,2470,36,0,2434,0,0,0.0,,,0,
+359,Sweden,Gotland,2021-01-14,2483,37,0,2447,1,0,0.0004086636697997548,1.0,0.0,1,
