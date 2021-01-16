@@ -231,3 +231,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 357,Peru,San Martin,2021-01-12,26126,806,0,25320,0,0,0.0,,,0,
 358,Peru,San Martin,2021-01-13,26163,806,0,25357,0,0,0.0,,,0,
 359,Peru,San Martin,2021-01-14,26163,806,0,25357,0,0,0.0,,,0,
+360,Peru,San Martin,2021-01-15,26350,807,0,25544,1,0,3.914813654870028e-05,1.0,0.0,1,

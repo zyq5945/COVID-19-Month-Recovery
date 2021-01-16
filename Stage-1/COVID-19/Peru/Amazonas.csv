@@ -231,3 +231,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 357,Peru,Amazonas,2021-01-12,18691,256,0,18435,0,0,0.0,,,0,
 358,Peru,Amazonas,2021-01-13,18697,256,0,18441,0,0,0.0,,,0,
 359,Peru,Amazonas,2021-01-14,18697,256,0,18441,0,0,0.0,,,0,
+360,Peru,Amazonas,2021-01-15,18878,257,0,18622,1,0,5.369992482010525e-05,1.0,0.0,1,

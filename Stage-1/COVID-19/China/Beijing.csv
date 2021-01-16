@@ -358,3 +358,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 357,China,Beijing,2021-01-12,998,9,951,38,0,0,0.0,,,0,
 358,China,Beijing,2021-01-13,999,9,951,39,0,0,0.0,,,0,
 359,China,Beijing,2021-01-14,999,9,955,39,0,4,0.10256410256410256,0.0,1.0,4,
+360,China,Beijing,2021-01-15,1001,9,957,37,0,2,0.05405405405405406,0.0,1.0,2,0.0
