@@ -11,3 +11,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 16,Sweden,Varmland,2020-12-06,3770,92,0,3693,15,0,0.004061738424045491,1.0,0.0,15,0.0
 17,Sweden,Varmland,2020-12-26,5453,116,0,5361,24,0,0.004476776720761052,1.0,0.0,24,0.0
 18,Sweden,Varmland,2021-01-15,7094,140,0,6978,24,0,0.0034393809114359416,1.0,0.0,24,0.0
+19,Sweden,Varmland,2021-01-16,7094,140,0,6954,0,0,0.0,,,0,

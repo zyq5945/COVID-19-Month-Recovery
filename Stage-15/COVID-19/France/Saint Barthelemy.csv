@@ -20,3 +20,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 22,France,Saint Barthelemy,2020-12-16,162,1,127,56,0,22,0.39285714285714285,0.0,1.0,22,0.04347826086956519
 23,France,Saint Barthelemy,2020-12-31,190,1,172,62,0,45,0.7258064516129032,0.0,1.0,45,0.0
 24,France,Saint Barthelemy,2021-01-15,251,1,172,78,0,0,0.0,,,0,
+25,France,Saint Barthelemy,2021-01-16,251,1,172,78,0,0,0.0,,,0,

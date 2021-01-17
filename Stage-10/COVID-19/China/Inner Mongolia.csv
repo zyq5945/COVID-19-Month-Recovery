@@ -35,3 +35,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 34,China,Inner Mongolia,2020-12-26,352,1,336,29,0,14,0.4827586206896552,0.0,1.0,14,0.0
 35,China,Inner Mongolia,2021-01-05,366,1,345,29,0,9,0.3103448275862069,0.0,1.0,9,0.0
 36,China,Inner Mongolia,2021-01-15,366,1,350,20,0,5,0.25,0.0,1.0,5,0.0
+37,China,Inner Mongolia,2021-01-16,366,1,350,15,0,0,0.0,,,0,

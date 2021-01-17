@@ -71,3 +71,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 70,China,Hebei,2021-01-05,412,6,367,39,0,0,0.0,,,0,
 71,China,Hebei,2021-01-10,640,6,367,267,0,0,0.0,,,0,
 72,China,Hebei,2021-01-15,1031,7,379,658,1,12,0.019756838905775075,0.07692307692307693,0.9230769230769231,13,
+73,China,Hebei,2021-01-16,1103,7,379,717,0,0,0.0,,,0,

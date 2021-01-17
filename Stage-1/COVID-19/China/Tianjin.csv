@@ -359,3 +359,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 358,China,Tianjin,2021-01-13,324,3,305,17,0,1,0.058823529411764705,0.0,1.0,1,
 359,China,Tianjin,2021-01-14,324,3,305,16,0,0,0.0,,,0,
 360,China,Tianjin,2021-01-15,327,3,305,19,0,0,0.0,,,0,
+361,China,Tianjin,2021-01-16,328,3,306,20,0,1,0.05,0.0,1.0,1,
