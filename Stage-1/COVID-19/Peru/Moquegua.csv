@@ -233,3 +233,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 359,Peru,Moquegua,2021-01-14,16487,337,0,16150,0,0,0.0,,,0,
 360,Peru,Moquegua,2021-01-15,16805,346,0,16468,9,0,0.0005465144522710712,1.0,0.0,9,
 361,Peru,Moquegua,2021-01-16,16805,346,0,16459,0,0,0.0,,,0,
+362,Peru,Moquegua,2021-01-17,16885,347,0,16539,1,0,6.046314771146986e-05,1.0,0.0,1,
