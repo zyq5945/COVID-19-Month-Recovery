@@ -361,3 +361,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 360,China,Shandong,2021-01-15,864,7,855,2,0,0,0.0,,,0,
 361,China,Shandong,2021-01-16,865,7,855,3,0,0,0.0,,,0,
 362,China,Shandong,2021-01-17,865,7,856,3,0,1,0.3333333333333333,0.0,1.0,1,
+363,China,Shandong,2021-01-18,865,7,856,2,0,0,0.0,,,0,
