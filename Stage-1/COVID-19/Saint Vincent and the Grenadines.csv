@@ -310,3 +310,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 361,Saint Vincent and the Grenadines,,2021-01-16,450,1,110,339,0,0,0.0,,,0,
 362,Saint Vincent and the Grenadines,,2021-01-17,478,1,111,367,0,1,0.0027247956403269754,0.0,1.0,1,
 363,Saint Vincent and the Grenadines,,2021-01-18,494,1,118,382,0,7,0.01832460732984293,0.0,1.0,7,0.0
+364,Saint Vincent and the Grenadines,,2021-01-19,602,2,119,483,1,1,0.004140786749482402,0.5,0.5,2,-0.5

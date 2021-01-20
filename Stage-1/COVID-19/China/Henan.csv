@@ -362,3 +362,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 361,China,Henan,2021-01-16,1303,22,1273,8,0,0,0.0,,,0,
 362,China,Henan,2021-01-17,1303,22,1273,8,0,0,0.0,,,0,
 363,China,Henan,2021-01-18,1303,22,1275,8,0,2,0.25,0.0,1.0,2,
+364,China,Henan,2021-01-19,1303,22,1276,6,0,1,0.16666666666666666,0.0,1.0,1,0.0

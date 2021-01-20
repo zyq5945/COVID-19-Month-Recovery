@@ -361,3 +361,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 361,China,Hebei,2021-01-16,1103,7,379,717,0,0,0.0,,,0,
 362,China,Hebei,2021-01-17,1157,7,379,771,0,0,0.0,,,0,
 363,China,Hebei,2021-01-18,1192,7,383,806,0,4,0.004962779156327543,0.0,1.0,4,
+364,China,Hebei,2021-01-19,1211,7,384,821,0,1,0.001218026796589525,0.0,1.0,1,0.0
