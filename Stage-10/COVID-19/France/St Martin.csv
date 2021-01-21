@@ -31,4 +31,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 34,France,St Martin,2020-12-26,961,12,855,274,0,180,0.656934306569343,0.0,1.0,180,0.0
 35,France,St Martin,2021-01-05,995,12,855,128,0,0,0.0,,,0,
 36,France,St Martin,2021-01-15,1076,12,855,209,0,0,0.0,,,0,
-37,France,St Martin,2021-01-19,1076,12,855,209,0,0,0.0,,,0,
+37,France,St Martin,2021-01-20,1146,12,1006,279,0,151,0.5412186379928315,0.0,1.0,151,

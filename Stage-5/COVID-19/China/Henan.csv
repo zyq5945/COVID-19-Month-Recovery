@@ -71,4 +71,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 70,China,Henan,2021-01-05,1300,22,1271,8,0,1,0.125,0.0,1.0,1,
 71,China,Henan,2021-01-10,1301,22,1273,8,0,2,0.25,0.0,1.0,2,0.0
 72,China,Henan,2021-01-15,1303,22,1273,8,0,0,0.0,,,0,
-73,China,Henan,2021-01-19,1303,22,1276,8,0,3,0.375,0.0,1.0,3,
+73,China,Henan,2021-01-20,1303,22,1276,8,0,3,0.375,0.0,1.0,3,
