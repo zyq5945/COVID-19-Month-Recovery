@@ -283,3 +283,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,US,Oregon,2021-01-18,133851,1803,5870,126181,3,0,2.3775370301392443e-05,1.0,0.0,3,0.0
 364,US,Oregon,2021-01-19,134468,1808,,126795,5,,,,,,
 365,US,Oregon,2021-01-20,135142,1832,,,24,,,,,,
+366,US,Oregon,2021-01-21,135973,1843,,,11,,,,,,

@@ -283,3 +283,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,US,Virgin Islands,2021-01-18,2260,24,2120,116,0,0,0.0,,,0,
 364,US,Virgin Islands,2021-01-19,2283,24,2120,139,0,0,0.0,,,0,
 365,US,Virgin Islands,2021-01-20,2305,24,2159,161,0,39,0.2422360248447205,0.0,1.0,39,
+366,US,Virgin Islands,2021-01-21,2305,24,2166,122,0,7,0.05737704918032787,0.0,1.0,7,0.0

@@ -69,6 +69,9 @@ def read_data(file, names, is_global):
         return []
 
     df = pd.read_csv(file)
+    if df.shape[1] < 5:
+        return []
+
     df = df.rename(columns=lambda x: x if x not in names else names[x])
 
     df = df[['Region', 'Subregion', 'Confirmed', 'Deaths', 'Recovered']]
