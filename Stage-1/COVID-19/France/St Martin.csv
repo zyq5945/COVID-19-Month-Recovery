@@ -315,3 +315,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,France,St Martin,2021-01-18,1076,12,855,209,0,0,0.0,,,0,
 364,France,St Martin,2021-01-19,1076,12,855,209,0,0,0.0,,,0,
 365,France,St Martin,2021-01-20,1146,12,1006,279,0,151,0.5412186379928315,0.0,1.0,151,
+366,France,St Martin,2021-01-21,1146,12,1006,128,0,0,0.0,,,0,
+367,France,St Martin,2021-01-22,1146,12,1006,128,0,0,0.0,,,0,

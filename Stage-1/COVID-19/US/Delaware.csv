@@ -284,3 +284,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 364,US,Delaware,2021-01-19,71311,1021,18851,51444,5,0,9.719306430293134e-05,1.0,0.0,5,
 365,US,Delaware,2021-01-20,71775,1026,18851,51903,5,0,9.633354526713292e-05,1.0,0.0,5,0.0
 366,US,Delaware,2021-01-21,72523,1027,,52646,1,,,,,,
+367,US,Delaware,2021-01-22,73233,1027,,,0,,,,,,

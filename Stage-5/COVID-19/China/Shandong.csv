@@ -72,3 +72,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 71,China,Shandong,2021-01-10,864,7,852,9,0,4,0.4444444444444444,0.0,1.0,4,0.0
 72,China,Shandong,2021-01-15,864,7,855,5,0,3,0.6,0.0,1.0,3,0.0
 73,China,Shandong,2021-01-20,866,7,856,4,0,1,0.25,0.0,1.0,1,0.0
+74,China,Shandong,2021-01-22,866,7,856,3,0,0,0.0,,,0,

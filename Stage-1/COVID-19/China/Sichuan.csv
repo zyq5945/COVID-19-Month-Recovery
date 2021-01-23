@@ -364,3 +364,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,China,Sichuan,2021-01-18,863,3,852,13,0,5,0.38461538461538464,0.0,1.0,5,
 364,China,Sichuan,2021-01-19,865,3,852,10,0,0,0.0,,,0,
 365,China,Sichuan,2021-01-20,865,3,852,10,0,0,0.0,,,0,
+366,China,Sichuan,2021-01-21,865,3,852,10,0,0,0.0,,,0,
+367,China,Sichuan,2021-01-22,866,3,852,11,0,0,0.0,,,0,

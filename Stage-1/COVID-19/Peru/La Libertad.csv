@@ -237,3 +237,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,Peru,La Libertad,2021-01-18,38662,2540,0,36122,0,0,0.0,,,0,
 364,Peru,La Libertad,2021-01-19,38662,2540,0,36122,0,0,0.0,,,0,
 365,Peru,La Libertad,2021-01-20,38819,2552,0,36279,12,0,0.0003307698668651286,1.0,0.0,12,
+366,Peru,La Libertad,2021-01-21,38819,2552,0,36267,0,0,0.0,,,0,
+367,Peru,La Libertad,2021-01-22,39028,2570,0,36476,18,0,0.0004934751617501919,1.0,0.0,18,

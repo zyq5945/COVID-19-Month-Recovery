@@ -69,7 +69,8 @@ def read_data(file, names, is_global):
         return []
 
     df = pd.read_csv(file)
-    if df.shape[1] < 5:
+    if len(df.columns) < 5:
+        print('read csv file error:%s' % file)
         return []
 
     df = df.rename(columns=lambda x: x if x not in names else names[x])

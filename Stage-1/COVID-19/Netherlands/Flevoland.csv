@@ -187,3 +187,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,Netherlands,Flevoland,2021-01-18,22547,178,0,22370,1,0,4.470272686633885e-05,1.0,0.0,1,
 364,Netherlands,Flevoland,2021-01-19,22655,182,0,22477,4,0,0.00017795969212973262,1.0,0.0,4,0.0
 365,Netherlands,Flevoland,2021-01-20,22755,182,0,22573,0,0,0.0,,,0,
+366,Netherlands,Flevoland,2021-01-21,22884,184,0,22702,2,0,8.809796493700995e-05,1.0,0.0,2,
+367,Netherlands,Flevoland,2021-01-22,22959,185,0,22775,1,0,4.3907793633369924e-05,1.0,0.0,1,0.0

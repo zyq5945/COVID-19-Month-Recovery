@@ -364,3 +364,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 363,China,Heilongjiang,2021-01-18,1143,13,953,177,0,0,0.0,,,0,
 364,China,Heilongjiang,2021-01-19,1159,13,954,193,0,1,0.0051813471502590676,0.0,1.0,1,
 365,China,Heilongjiang,2021-01-20,1227,13,955,260,0,1,0.0038461538461538464,0.0,1.0,1,0.0
+366,China,Heilongjiang,2021-01-21,1274,13,955,306,0,0,0.0,,,0,
+367,China,Heilongjiang,2021-01-22,1330,13,957,362,0,2,0.0055248618784530384,0.0,1.0,2,

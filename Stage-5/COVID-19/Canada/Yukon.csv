@@ -60,3 +60,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 71,Canada,Yukon,2021-01-10,70,1,59,10,0,0,0.0,,,0,
 72,Canada,Yukon,2021-01-15,70,1,67,10,0,8,0.8,0.0,1.0,8,
 73,Canada,Yukon,2021-01-20,70,1,69,2,0,2,1.0,0.0,1.0,2,0.0
+74,Canada,Yukon,2021-01-22,70,1,69,0,0,0,,,,0,
