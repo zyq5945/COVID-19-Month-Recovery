@@ -239,3 +239,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 365,Japan,Yamaguchi,2021-01-20,987,6,740,242,1,0,0.004132231404958678,1.0,0.0,1,-1.0
 366,Japan,Yamaguchi,2021-01-21,996,6,740,250,0,0,0.0,,,0,
 367,Japan,Yamaguchi,2021-01-22,1026,6,740,280,0,0,0.0,,,0,
+368,Japan,Yamaguchi,2021-01-23,1083,8,701,337,2,-39,-0.10979228486646884,-0.05405405405405406,1.054054054054054,-37,

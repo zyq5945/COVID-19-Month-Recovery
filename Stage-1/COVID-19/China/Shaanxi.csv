@@ -366,3 +366,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 365,China,Shaanxi,2021-01-20,533,3,504,27,0,1,0.037037037037037035,0.0,1.0,1,0.0
 366,China,Shaanxi,2021-01-21,533,3,504,26,0,0,0.0,,,0,
 367,China,Shaanxi,2021-01-22,533,3,505,26,0,1,0.038461538461538464,0.0,1.0,1,
+368,China,Shaanxi,2021-01-23,534,3,505,26,0,0,0.0,,,0,

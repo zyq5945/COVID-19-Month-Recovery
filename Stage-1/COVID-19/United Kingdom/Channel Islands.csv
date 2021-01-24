@@ -317,3 +317,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 365,United Kingdom,Channel Islands,2021-01-20,3398,78,3107,213,0,0,0.0,,,0,
 366,United Kingdom,Channel Islands,2021-01-21,3407,78,3148,222,0,41,0.18468468468468469,0.0,1.0,41,
 367,United Kingdom,Channel Islands,2021-01-22,3414,78,3148,188,0,0,0.0,,,0,
+368,United Kingdom,Channel Islands,2021-01-23,3430,79,3186,204,1,38,0.19117647058823528,0.02564102564102564,0.9743589743589743,39,

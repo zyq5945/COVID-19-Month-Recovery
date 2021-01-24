@@ -366,3 +366,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 365,China,Zhejiang,2021-01-20,1316,1,1298,17,0,0,0.0,,,0,
 366,China,Zhejiang,2021-01-21,1316,1,1298,17,0,0,0.0,,,0,
 367,China,Zhejiang,2021-01-22,1316,1,1305,17,0,7,0.4117647058823529,0.0,1.0,7,
+368,China,Zhejiang,2021-01-23,1316,1,1305,10,0,0,0.0,,,0,

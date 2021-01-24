@@ -285,3 +285,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 365,US,Alaska,2021-01-20,52393,253,7165,44998,23,0,0.0005111338281701409,1.0,0.0,23,0.0
 366,US,Alaska,2021-01-21,52605,254,,45187,1,,,,,,
 367,US,Alaska,2021-01-22,52901,254,,,0,,,,,,
+368,US,Alaska,2021-01-23,53150,259,,,5,,,,,,

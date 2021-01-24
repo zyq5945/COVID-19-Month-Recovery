@@ -366,3 +366,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 365,China,Fujian,2021-01-20,533,1,513,19,0,0,0.0,,,0,
 366,China,Fujian,2021-01-21,534,1,513,20,0,0,0.0,,,0,
 367,China,Fujian,2021-01-22,534,1,515,20,0,2,0.1,0.0,1.0,2,
+368,China,Fujian,2021-01-23,534,1,516,18,0,1,0.05555555555555555,0.0,1.0,1,0.0
