@@ -304,3 +304,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 366,Canada,Nunavut,2021-01-21,266,1,265,0,0,0,,,,0,
 367,Canada,Nunavut,2021-01-22,267,1,265,1,0,0,0.0,,,0,
 368,Canada,Nunavut,2021-01-23,267,1,264,1,0,-1,-1.0,-0.0,1.0,-1,
+369,Canada,Nunavut,2021-01-24,280,1,264,15,0,0,0.0,,,0,

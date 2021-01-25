@@ -367,3 +367,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 366,China,Shanghai,2021-01-21,1624,7,1513,104,0,0,0.0,,,0,
 367,China,Shanghai,2021-01-22,1635,7,1518,115,0,5,0.043478260869565216,0.0,1.0,5,
 368,China,Shanghai,2021-01-23,1641,7,1523,116,0,5,0.04310344827586207,0.0,1.0,5,0.0
+369,China,Shanghai,2021-01-24,1644,7,1532,114,0,9,0.07894736842105263,0.0,1.0,9,0.0

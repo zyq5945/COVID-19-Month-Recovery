@@ -190,3 +190,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 366,Netherlands,Utrecht,2021-01-21,75937,987,0,74950,0,0,0.0,,,0,
 367,Netherlands,Utrecht,2021-01-22,76304,990,0,75317,3,0,3.98316449141628e-05,1.0,0.0,3,
 368,Netherlands,Utrecht,2021-01-23,76693,992,0,75703,2,0,2.641903227084792e-05,1.0,0.0,2,0.0
+369,Netherlands,Utrecht,2021-01-24,77003,994,0,76011,2,0,2.631198116062149e-05,1.0,0.0,2,0.0

@@ -248,3 +248,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 366,Mexico,Aguascalientes,2021-01-21,19217,1543,0,17687,13,0,0.0007350031096285408,1.0,0.0,13,0.0
 367,Mexico,Aguascalientes,2021-01-22,19445,1558,0,17902,15,0,0.0008378952072394146,1.0,0.0,15,0.0
 368,Mexico,Aguascalientes,2021-01-23,19782,1592,0,18224,34,0,0.0018656716417910447,1.0,0.0,34,0.0
+369,Mexico,Aguascalientes,2021-01-24,19857,1592,0,18265,0,0,0.0,,,0,
