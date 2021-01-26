@@ -255,3 +255,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 367,Spain,Canarias,2021-01-22,32971,494,1537,30941,1,0,3.231957596716331e-05,1.0,0.0,1,0.0
 368,Spain,Canarias,2021-01-23,32971,494,1537,30940,0,0,0.0,,,0,
 369,Spain,Canarias,2021-01-24,32971,494,1537,30940,0,0,0.0,,,0,
+370,Spain,Canarias,2021-01-25,33785,513,1537,31754,19,0,0.0005983498141966366,1.0,0.0,19,

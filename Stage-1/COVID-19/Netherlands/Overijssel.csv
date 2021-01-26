@@ -191,3 +191,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 367,Netherlands,Overijssel,2021-01-22,66831,901,0,65932,2,0,3.0334283807559303e-05,1.0,0.0,2,0.0
 368,Netherlands,Overijssel,2021-01-23,67254,908,0,66353,7,0,0.00010549636037556704,1.0,0.0,7,0.0
 369,Netherlands,Overijssel,2021-01-24,67665,909,0,66757,1,0,1.4979702503108287e-05,1.0,0.0,1,0.0
+370,Netherlands,Overijssel,2021-01-25,68017,909,0,67108,0,0,0.0,,,0,
