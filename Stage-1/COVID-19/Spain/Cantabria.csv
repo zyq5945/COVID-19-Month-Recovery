@@ -256,3 +256,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 368,Spain,Cantabria,2021-01-23,21127,436,2287,18404,0,0,0.0,,,0,
 369,Spain,Cantabria,2021-01-24,21127,436,2287,18404,0,0,0.0,,,0,
 370,Spain,Cantabria,2021-01-25,21691,447,2287,18968,11,0,0.000579924082665542,1.0,0.0,11,
+371,Spain,Cantabria,2021-01-26,21862,448,2287,19128,1,0,5.2279381012128815e-05,1.0,0.0,1,0.0

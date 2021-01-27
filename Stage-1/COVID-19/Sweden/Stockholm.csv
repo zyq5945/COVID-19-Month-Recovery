@@ -234,3 +234,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 368,Sweden,Stockholm,2021-01-23,133990,3591,0,130399,0,0,0.0,,,0,
 369,Sweden,Stockholm,2021-01-24,133990,3591,0,130399,0,0,0.0,,,0,
 370,Sweden,Stockholm,2021-01-25,133990,3591,0,130399,0,0,0.0,,,0,
+371,Sweden,Stockholm,2021-01-26,135257,3647,0,131666,56,0,0.0004253186092081479,1.0,0.0,56,

@@ -36,3 +36,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 35,China,Jiangsu,2021-01-05,685,0,684,3,0,2,0.6666666666666666,0.0,1.0,2,0.0
 36,China,Jiangsu,2021-01-15,688,0,684,4,0,0,0.0,,,0,
 37,China,Jiangsu,2021-01-25,691,0,685,7,0,1,0.14285714285714285,0.0,1.0,1,
+38,China,Jiangsu,2021-01-26,692,0,685,7,0,0,0.0,,,0,

@@ -63,3 +63,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 72,Canada,Prince Edward Island,2021-01-15,103,0,95,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 73,Canada,Prince Edward Island,2021-01-20,110,0,103,15,0,8,0.5333333333333333,0.0,1.0,8,0.0
 74,Canada,Prince Edward Island,2021-01-25,110,0,103,7,0,0,0.0,,,0,
+75,Canada,Prince Edward Island,2021-01-26,110,0,104,7,0,1,0.14285714285714285,0.0,1.0,1,

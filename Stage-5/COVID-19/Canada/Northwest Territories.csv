@@ -62,3 +62,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 72,Canada,Northwest Territories,2021-01-15,25,0,24,1,0,0,0.0,,,0,
 73,Canada,Northwest Territories,2021-01-20,31,0,24,7,0,0,0.0,,,0,
 74,Canada,Northwest Territories,2021-01-25,31,0,25,7,0,1,0.14285714285714285,0.0,1.0,1,
+75,Canada,Northwest Territories,2021-01-26,31,0,26,6,0,1,0.16666666666666666,0.0,1.0,1,0.0
