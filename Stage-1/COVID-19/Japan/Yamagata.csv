@@ -243,3 +243,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 369,Japan,Yamagata,2021-01-24,458,13,412,34,0,1,0.029411764705882353,0.0,1.0,1,0.0
 370,Japan,Yamagata,2021-01-25,463,13,412,38,0,0,0.0,,,0,
 371,Japan,Yamagata,2021-01-26,473,13,416,48,0,4,0.08333333333333333,0.0,1.0,4,
+372,Japan,Yamagata,2021-01-27,480,13,418,51,0,2,0.0392156862745098,0.0,1.0,2,0.0

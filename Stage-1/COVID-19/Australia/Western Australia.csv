@@ -332,3 +332,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 369,Australia,Western Australia,2021-01-24,894,9,873,12,0,0,0.0,,,0,
 370,Australia,Western Australia,2021-01-25,895,9,873,13,0,0,0.0,,,0,
 371,Australia,Western Australia,2021-01-26,897,9,873,15,0,0,0.0,,,0,
+372,Australia,Western Australia,2021-01-27,898,9,875,16,0,2,0.125,0.0,1.0,2,

@@ -235,3 +235,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 369,Sweden,Norrbotten,2021-01-24,9567,171,0,9396,0,0,0.0,,,0,
 370,Sweden,Norrbotten,2021-01-25,9567,171,0,9396,0,0,0.0,,,0,
 371,Sweden,Norrbotten,2021-01-26,9810,172,0,9639,1,0,0.00010374520178441747,1.0,0.0,1,
+372,Sweden,Norrbotten,2021-01-27,9889,183,0,9717,11,0,0.0011320366368220644,1.0,0.0,11,0.0

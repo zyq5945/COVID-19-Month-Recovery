@@ -243,3 +243,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 369,Colombia,San Andres y Providencia,2021-01-24,2584,42,2502,43,0,3,0.06976744186046512,0.0,1.0,3,
 370,Colombia,San Andres y Providencia,2021-01-25,2586,42,2503,42,0,1,0.023809523809523808,0.0,1.0,1,0.0
 371,Colombia,San Andres y Providencia,2021-01-26,2586,42,2503,41,0,0,0.0,,,0,
+372,Colombia,San Andres y Providencia,2021-01-27,2605,42,2523,60,0,20,0.3333333333333333,0.0,1.0,20,
