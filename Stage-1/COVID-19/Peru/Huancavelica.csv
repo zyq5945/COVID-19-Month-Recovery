@@ -244,3 +244,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 370,Peru,Huancavelica,2021-01-25,8224,167,0,8057,0,0,0.0,,,0,
 371,Peru,Huancavelica,2021-01-26,8255,169,0,8088,2,0,0.0002472799208704253,1.0,0.0,2,
 372,Peru,Huancavelica,2021-01-27,8255,169,0,8086,0,0,0.0,,,0,
+373,Peru,Huancavelica,2021-01-28,8294,174,0,8125,5,0,0.0006153846153846154,1.0,0.0,5,

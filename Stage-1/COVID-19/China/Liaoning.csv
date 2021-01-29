@@ -371,3 +371,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 370,China,Liaoning,2021-01-25,397,2,379,16,0,0,0.0,,,0,
 371,China,Liaoning,2021-01-26,397,2,380,16,0,1,0.0625,0.0,1.0,1,
 372,China,Liaoning,2021-01-27,397,2,381,15,0,1,0.06666666666666667,0.0,1.0,1,0.0
+373,China,Liaoning,2021-01-28,397,2,382,14,0,1,0.07142857142857142,0.0,1.0,1,0.0
