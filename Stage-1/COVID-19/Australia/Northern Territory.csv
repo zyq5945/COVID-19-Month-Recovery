@@ -330,3 +330,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 371,Australia,Northern Territory,2021-01-26,98,0,90,8,0,0,0.0,,,0,
 372,Australia,Northern Territory,2021-01-27,98,0,93,8,0,3,0.375,0.0,1.0,3,
 373,Australia,Northern Territory,2021-01-28,98,0,94,5,0,1,0.2,0.0,1.0,1,0.0
+374,Australia,Northern Territory,2021-01-29,98,0,93,4,0,-1,-0.25,-0.0,1.0,-1,0.0
