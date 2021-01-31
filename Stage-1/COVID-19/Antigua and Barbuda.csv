@@ -322,3 +322,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 372,Antigua and Barbuda,,2021-01-27,215,6,174,39,0,4,0.10256410256410256,0.0,1.0,4,
 373,Antigua and Barbuda,,2021-01-28,215,6,174,35,0,0,0.0,,,0,
 374,Antigua and Barbuda,,2021-01-29,218,6,175,38,0,1,0.02631578947368421,0.0,1.0,1,
+375,Antigua and Barbuda,,2021-01-30,218,7,175,37,1,0,0.02702702702702703,1.0,0.0,1,-1.0
