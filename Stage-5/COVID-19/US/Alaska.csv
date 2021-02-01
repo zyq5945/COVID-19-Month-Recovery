@@ -58,3 +58,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 73,US,Alaska,2021-01-20,52393,253,7165,44999,24,0,0.0005333451854485655,1.0,0.0,24,0.0
 74,US,Alaska,2021-01-25,53399,259,,45981,6,,,,,,
 75,US,Alaska,2021-01-30,54216,262,,,3,,,,,,
+76,US,Alaska,2021-01-31,54351,262,,,0,,,,,,

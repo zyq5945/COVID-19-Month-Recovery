@@ -15,3 +15,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 23,Sweden,Gotland,2020-12-31,2202,28,0,2182,8,0,0.0036663611365719525,1.0,0.0,8,0.0
 24,Sweden,Gotland,2021-01-15,2503,37,0,2475,9,0,0.0036363636363636364,1.0,0.0,9,0.0
 25,Sweden,Gotland,2021-01-30,2602,42,0,2565,5,0,0.001949317738791423,1.0,0.0,5,0.0
+26,Sweden,Gotland,2021-01-31,2602,42,0,2560,0,0,0.0,,,0,

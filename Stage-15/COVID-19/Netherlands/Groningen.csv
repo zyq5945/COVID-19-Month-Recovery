@@ -13,3 +13,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 23,Netherlands,Groningen,2020-12-31,15022,90,0,14962,30,0,0.002005079534821548,1.0,0.0,30,0.0
 24,Netherlands,Groningen,2021-01-15,19638,134,0,19548,44,0,0.0022508696541845715,1.0,0.0,44,0.0
 25,Netherlands,Groningen,2021-01-30,22061,157,0,21927,23,0,0.001048935102841246,1.0,0.0,23,0.0
+26,Netherlands,Groningen,2021-01-31,22163,157,0,22006,0,0,0.0,,,0,
