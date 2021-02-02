@@ -248,3 +248,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 374,Japan,Yamanashi,2021-01-29,901,14,831,66,0,10,0.15151515151515152,0.0,1.0,10,0.0
 375,Japan,Yamanashi,2021-01-30,901,15,840,56,1,9,0.17857142857142858,0.1,0.9,10,-0.09999999999999998
 376,Japan,Yamanashi,2021-01-31,902,15,840,47,0,0,0.0,,,0,
+377,Japan,Yamanashi,2021-02-01,902,15,840,47,0,0,0.0,,,0,

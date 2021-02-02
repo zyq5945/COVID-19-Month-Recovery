@@ -244,3 +244,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 374,Russia,Chukotka Autonomous Okrug,2021-01-29,623,4,562,60,0,3,0.05,0.0,1.0,3,0.0
 375,Russia,Chukotka Autonomous Okrug,2021-01-30,633,4,574,67,0,12,0.1791044776119403,0.0,1.0,12,0.0
 376,Russia,Chukotka Autonomous Okrug,2021-01-31,633,4,574,55,0,0,0.0,,,0,
+377,Russia,Chukotka Autonomous Okrug,2021-02-01,633,4,575,55,0,1,0.01818181818181818,0.0,1.0,1,
