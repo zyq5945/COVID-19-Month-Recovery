@@ -236,3 +236,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 375,India,Arunachal Pradesh,2021-01-30,16828,56,16758,14,0,0,0.0,,,0,
 376,India,Arunachal Pradesh,2021-01-31,16828,56,16759,14,0,1,0.07142857142857142,0.0,1.0,1,
 377,India,Arunachal Pradesh,2021-02-01,16828,56,16762,13,0,3,0.23076923076923078,0.0,1.0,3,0.0
+378,India,Arunachal Pradesh,2021-02-02,16829,56,16762,11,0,0,0.0,,,0,

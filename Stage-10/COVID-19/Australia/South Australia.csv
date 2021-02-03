@@ -35,4 +35,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 35,Australia,South Australia,2021-01-05,582,4,567,16,0,5,0.3125,0.0,1.0,5,0.0
 36,Australia,South Australia,2021-01-15,593,4,577,22,0,10,0.45454545454545453,0.0,1.0,10,0.0
 37,Australia,South Australia,2021-01-25,596,4,592,15,0,15,1.0,0.0,1.0,15,0.0
-38,Australia,South Australia,2021-02-01,597,4,592,1,0,0,0.0,,,0,
+38,Australia,South Australia,2021-02-02,601,4,592,5,0,0,0.0,,,0,

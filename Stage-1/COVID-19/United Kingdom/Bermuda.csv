@@ -319,3 +319,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 375,United Kingdom,Bermuda,2021-01-30,691,12,653,29,0,3,0.10344827586206896,0.0,1.0,3,
 376,United Kingdom,Bermuda,2021-01-31,691,12,653,26,0,0,0.0,,,0,
 377,United Kingdom,Bermuda,2021-02-01,691,12,653,26,0,0,0.0,,,0,
+378,United Kingdom,Bermuda,2021-02-02,692,12,668,27,0,15,0.5555555555555556,0.0,1.0,15,

@@ -376,3 +376,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 375,China,Anhui,2021-01-30,994,6,987,1,0,0,0.0,,,0,
 376,China,Anhui,2021-01-31,994,6,987,1,0,0,0.0,,,0,
 377,China,Anhui,2021-02-01,994,6,987,1,0,0,0.0,,,0,
+378,China,Anhui,2021-02-02,994,6,988,1,0,1,1.0,0.0,1.0,1,

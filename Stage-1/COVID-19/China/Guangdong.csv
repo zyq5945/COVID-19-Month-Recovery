@@ -376,3 +376,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 375,China,Guangdong,2021-01-30,2124,8,2065,56,0,5,0.08928571428571429,0.0,1.0,5,
 376,China,Guangdong,2021-01-31,2125,8,2074,52,0,9,0.17307692307692307,0.0,1.0,9,0.0
 377,China,Guangdong,2021-02-01,2127,8,2077,45,0,3,0.06666666666666667,0.0,1.0,3,0.0
+378,China,Guangdong,2021-02-02,2129,8,2077,44,0,0,0.0,,,0,

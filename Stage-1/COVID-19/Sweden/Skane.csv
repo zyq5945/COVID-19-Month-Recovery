@@ -241,3 +241,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 375,Sweden,Skane,2021-01-30,96713,1279,0,95434,0,0,0.0,,,0,
 376,Sweden,Skane,2021-01-31,96713,1279,0,95434,0,0,0.0,,,0,
 377,Sweden,Skane,2021-02-01,96713,1279,0,95434,0,0,0.0,,,0,
+378,Sweden,Skane,2021-02-02,98903,1377,0,97624,98,0,0.0010038515119232976,1.0,0.0,98,

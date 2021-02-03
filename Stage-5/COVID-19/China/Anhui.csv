@@ -74,4 +74,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 73,China,Anhui,2021-01-20,993,6,987,0,0,0,,,,0,
 74,China,Anhui,2021-01-25,994,6,987,1,0,0,0.0,,,0,
 75,China,Anhui,2021-01-30,994,6,987,1,0,0,0.0,,,0,
-76,China,Anhui,2021-02-01,994,6,987,1,0,0,0.0,,,0,
+76,China,Anhui,2021-02-02,994,6,988,1,0,1,1.0,0.0,1.0,1,
