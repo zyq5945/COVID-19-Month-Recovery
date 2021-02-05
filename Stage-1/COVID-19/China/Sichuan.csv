@@ -377,3 +377,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,China,Sichuan,2021-01-31,870,3,855,12,0,0,0.0,,,0,
 377,China,Sichuan,2021-02-01,871,3,857,13,0,2,0.15384615384615385,0.0,1.0,2,
 378,China,Sichuan,2021-02-02,873,3,857,13,0,0,0.0,,,0,
+379,China,Sichuan,2021-02-03,873,3,857,13,0,0,0.0,,,0,
+380,China,Sichuan,2021-02-04,873,3,857,13,0,0,0.0,,,0,

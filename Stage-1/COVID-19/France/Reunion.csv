@@ -322,3 +322,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,France,Reunion,2021-01-31,9996,46,9518,432,0,0,0.0,,,0,
 377,France,Reunion,2021-02-01,9996,46,9528,432,0,10,0.023148148148148147,0.0,1.0,10,
 378,France,Reunion,2021-02-02,10194,46,9528,620,0,0,0.0,,,0,
+379,France,Reunion,2021-02-03,10194,46,9528,620,0,0,0.0,,,0,
+380,France,Reunion,2021-02-04,10330,47,9528,756,1,0,0.0013227513227513227,1.0,0.0,1,

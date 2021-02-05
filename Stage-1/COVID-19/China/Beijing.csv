@@ -377,3 +377,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,China,Beijing,2021-01-31,1038,9,977,52,0,0,0.0,,,0,
 377,China,Beijing,2021-02-01,1039,9,977,53,0,0,0.0,,,0,
 378,China,Beijing,2021-02-02,1039,9,977,53,0,0,0.0,,,0,
+379,China,Beijing,2021-02-03,1044,9,978,58,0,1,0.017241379310344827,0.0,1.0,1,
+380,China,Beijing,2021-02-04,1044,9,980,57,0,2,0.03508771929824561,0.0,1.0,2,0.0

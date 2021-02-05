@@ -242,3 +242,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,Sweden,Vasterbotten,2021-01-31,10323,115,0,10208,0,0,0.0,,,0,
 377,Sweden,Vasterbotten,2021-02-01,10323,115,0,10208,0,0,0.0,,,0,
 378,Sweden,Vasterbotten,2021-02-02,10498,117,0,10383,2,0,0.00019262255610131947,1.0,0.0,2,
+379,Sweden,Vasterbotten,2021-02-03,10685,117,0,10568,0,0,0.0,,,0,
+380,Sweden,Vasterbotten,2021-02-04,10823,119,0,10706,2,0,0.00018681113394358303,1.0,0.0,2,

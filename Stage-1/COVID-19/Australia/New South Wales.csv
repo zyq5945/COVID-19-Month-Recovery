@@ -372,3 +372,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,Australia,New South Wales,2021-01-31,5110,54,3256,1801,0,1,0.000555247084952804,0.0,1.0,1,0.0
 377,Australia,New South Wales,2021-02-01,5112,54,3256,1802,0,0,0.0,,,0,
 378,Australia,New South Wales,2021-02-02,5114,54,3256,1804,0,0,0.0,,,0,
+379,Australia,New South Wales,2021-02-03,5117,54,3257,1807,0,1,0.0005534034311012728,0.0,1.0,1,
+380,Australia,New South Wales,2021-02-04,5117,54,3258,1806,0,1,0.0005537098560354374,0.0,1.0,1,0.0

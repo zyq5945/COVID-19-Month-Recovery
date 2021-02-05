@@ -324,3 +324,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,Canada,Newfoundland and Labrador,2021-01-31,408,4,388,16,0,0,0.0,,,0,
 377,Canada,Newfoundland and Labrador,2021-02-01,408,4,388,16,0,0,0.0,,,0,
 378,Canada,Newfoundland and Labrador,2021-02-02,408,4,388,16,0,0,0.0,,,0,
+379,Canada,Newfoundland and Labrador,2021-02-03,410,4,389,18,0,1,0.05555555555555555,0.0,1.0,1,
+380,Canada,Newfoundland and Labrador,2021-02-04,411,4,390,18,0,1,0.05555555555555555,0.0,1.0,1,0.0

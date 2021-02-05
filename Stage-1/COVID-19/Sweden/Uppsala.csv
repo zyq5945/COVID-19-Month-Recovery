@@ -242,3 +242,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,Sweden,Uppsala,2021-01-31,21478,447,0,21031,0,0,0.0,,,0,
 377,Sweden,Uppsala,2021-02-01,21478,447,0,21031,0,0,0.0,,,0,
 378,Sweden,Uppsala,2021-02-02,21708,457,0,21261,10,0,0.0004703447627110672,1.0,0.0,10,
+379,Sweden,Uppsala,2021-02-03,21838,457,0,21381,0,0,0.0,,,0,
+380,Sweden,Uppsala,2021-02-04,21922,457,0,21465,0,0,0.0,,,0,

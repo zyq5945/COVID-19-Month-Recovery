@@ -377,3 +377,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,China,Chongqing,2021-01-31,591,6,584,1,0,0,0.0,,,0,
 377,China,Chongqing,2021-02-01,591,6,584,1,0,0,0.0,,,0,
 378,China,Chongqing,2021-02-02,591,6,584,1,0,0,0.0,,,0,
+379,China,Chongqing,2021-02-03,591,6,585,1,0,1,1.0,0.0,1.0,1,
+380,China,Chongqing,2021-02-04,591,6,585,0,0,0,,,,0,

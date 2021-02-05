@@ -242,3 +242,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 376,Sweden,Vastmanland,2021-01-31,16665,299,0,16366,0,0,0.0,,,0,
 377,Sweden,Vastmanland,2021-02-01,16665,299,0,16366,0,0,0.0,,,0,
 378,Sweden,Vastmanland,2021-02-02,16900,299,0,16601,0,0,0.0,,,0,
+379,Sweden,Vastmanland,2021-02-03,16977,309,0,16678,10,0,0.000599592277251469,1.0,0.0,10,
+380,Sweden,Vastmanland,2021-02-04,17077,309,0,16768,0,0,0.0,,,0,
