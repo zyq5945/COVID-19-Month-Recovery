@@ -260,3 +260,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 378,Mexico,Colima,2021-02-02,9530,931,0,8599,0,0,0.0,,,0,
 379,Mexico,Colima,2021-02-03,9569,936,0,8638,5,0,0.0005788376939106274,1.0,0.0,5,
 380,Mexico,Colima,2021-02-04,9569,936,0,8633,0,0,0.0,,,0,
+381,Mexico,Colima,2021-02-05,9619,957,0,8683,21,0,0.0024185189450650697,1.0,0.0,21,

@@ -12,3 +12,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 17,Russia,Chukotka Autonomous Okrug,2020-12-26,527,4,456,155,0,88,0.567741935483871,0.0,1.0,88,0.007751937984496138
 18,Russia,Chukotka Autonomous Okrug,2021-01-15,578,4,512,118,0,56,0.4745762711864407,0.0,1.0,56,0.0
 19,Russia,Chukotka Autonomous Okrug,2021-02-04,646,4,583,130,0,71,0.5461538461538461,0.0,1.0,71,0.0
+20,Russia,Chukotka Autonomous Okrug,2021-02-05,649,4,586,62,0,3,0.04838709677419355,0.0,1.0,3,0.0

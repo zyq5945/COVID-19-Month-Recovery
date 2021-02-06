@@ -75,3 +75,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 74,China,Gansu,2021-01-25,183,2,180,1,0,0,0.0,,,0,
 75,China,Gansu,2021-01-30,187,2,180,5,0,0,0.0,,,0,
 76,China,Gansu,2021-02-04,187,2,185,5,0,5,1.0,0.0,1.0,5,
+77,China,Gansu,2021-02-05,187,2,185,0,0,0,,,,0,

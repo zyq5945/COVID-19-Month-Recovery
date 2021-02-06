@@ -260,3 +260,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 378,Mexico,Durango,2021-02-02,28891,1873,0,27018,0,0,0.0,,,0,
 379,Mexico,Durango,2021-02-03,28947,1902,0,27074,29,0,0.001071138361527665,1.0,0.0,29,
 380,Mexico,Durango,2021-02-04,28947,1902,0,27045,0,0,0.0,,,0,
+381,Mexico,Durango,2021-02-05,29290,1920,0,27388,18,0,0.0006572221410836862,1.0,0.0,18,

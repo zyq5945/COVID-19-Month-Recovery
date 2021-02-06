@@ -33,3 +33,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 36,France,Saint Barthelemy,2021-01-15,251,1,172,78,0,0,0.0,,,0,
 37,France,Saint Barthelemy,2021-01-25,300,1,204,127,0,32,0.25196850393700787,0.0,1.0,32,
 38,France,Saint Barthelemy,2021-02-04,360,1,247,155,0,43,0.27741935483870966,0.0,1.0,43,0.0
+39,France,Saint Barthelemy,2021-02-05,360,1,247,112,0,0,0.0,,,0,

@@ -75,3 +75,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 74,China,Jiangsu,2021-01-25,691,0,685,7,0,1,0.14285714285714285,0.0,1.0,1,
 75,China,Jiangsu,2021-01-30,694,0,686,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 76,China,Jiangsu,2021-02-04,699,0,687,13,0,1,0.07692307692307693,0.0,1.0,1,0.0
+77,China,Jiangsu,2021-02-05,699,0,687,12,0,0,0.0,,,0,

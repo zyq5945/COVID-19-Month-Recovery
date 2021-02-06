@@ -13,3 +13,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 17,Spain,Melilla,2020-12-26,4411,43,125,4243,0,0,0.0,,,0,
 18,Spain,Melilla,2021-01-15,5053,48,125,4885,5,0,0.0010235414534288639,1.0,0.0,5,
 19,Spain,Melilla,2021-02-04,6263,54,125,6090,6,0,0.0009852216748768472,1.0,0.0,6,0.0
+20,Spain,Melilla,2021-02-05,6315,54,125,6136,0,0,0.0,,,0,

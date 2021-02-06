@@ -13,4 +13,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 16,US,California,2020-12-06,1383556,19939,,,1633,,,,,,
 17,US,California,2020-12-26,2144654,24225,,,4286,,,,,,
 18,US,California,2021-01-15,2948054,33002,,,8777,,,,,,
-19,US,California,2021-02-04,3380390,42984,,,9982,,,,,,
+19,US,California,2021-02-04,3382932,43120,,,10118,,,,,,
+20,US,California,2021-02-05,3394301,43538,,,418,,,,,,

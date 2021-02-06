@@ -75,3 +75,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 74,China,Shanxi,2021-01-25,237,0,225,13,0,1,0.07692307692307693,0.0,1.0,1,
 75,China,Shanxi,2021-01-30,238,0,227,13,0,2,0.15384615384615385,0.0,1.0,2,0.0
 76,China,Shanxi,2021-02-04,239,0,227,12,0,0,0.0,,,0,
+77,China,Shanxi,2021-02-05,239,0,228,12,0,1,0.08333333333333333,0.0,1.0,1,

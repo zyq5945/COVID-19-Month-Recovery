@@ -65,3 +65,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 74,France,French Polynesia,2021-01-25,17912,129,4842,12943,2,0,0.00015452368075407556,1.0,0.0,2,0.0
 75,France,French Polynesia,2021-01-30,18060,131,4842,13089,2,0,0.00015280006112002446,1.0,0.0,2,0.0
 76,France,French Polynesia,2021-02-04,18165,133,4842,13192,2,0,0.00015160703456640388,1.0,0.0,2,0.0
+77,France,French Polynesia,2021-02-05,18185,133,4842,13210,0,0,0.0,,,0,

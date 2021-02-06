@@ -326,3 +326,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 378,France,Mayotte,2021-02-02,8588,61,2964,5563,0,0,0.0,,,0,
 379,France,Mayotte,2021-02-03,9003,61,2964,5978,0,0,0.0,,,0,
 380,France,Mayotte,2021-02-04,9292,62,2964,6267,1,0,0.00015956598053295037,1.0,0.0,1,
+381,France,Mayotte,2021-02-05,9546,63,2964,6520,1,0,0.00015337423312883436,1.0,0.0,1,0.0
