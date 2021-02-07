@@ -380,3 +380,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 379,China,Fujian,2021-02-03,544,1,526,18,0,1,0.05555555555555555,0.0,1.0,1,
 380,China,Fujian,2021-02-04,545,1,527,18,0,1,0.05555555555555555,0.0,1.0,1,0.0
 381,China,Fujian,2021-02-05,545,1,527,17,0,0,0.0,,,0,
+382,China,Fujian,2021-02-06,545,1,529,17,0,2,0.11764705882352941,0.0,1.0,2,

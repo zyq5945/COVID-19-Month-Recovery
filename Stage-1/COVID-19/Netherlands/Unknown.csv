@@ -203,3 +203,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 379,Netherlands,Unknown,2021-02-03,1549,12,0,1539,2,0,0.001299545159194282,1.0,0.0,2,
 380,Netherlands,Unknown,2021-02-04,1556,12,0,1544,0,0,0.0,,,0,
 381,Netherlands,Unknown,2021-02-05,1540,11,0,1528,-1,0,-0.0006544502617801048,1.0,-0.0,-1,
+382,Netherlands,Unknown,2021-02-06,1545,11,0,1534,0,0,0.0,,,0,
