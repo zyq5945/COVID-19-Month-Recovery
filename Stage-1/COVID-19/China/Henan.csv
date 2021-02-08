@@ -381,3 +381,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 380,China,Henan,2021-02-04,1303,22,1280,1,0,0,0.0,,,0,
 381,China,Henan,2021-02-05,1303,22,1280,1,0,0,0.0,,,0,
 382,China,Henan,2021-02-06,1303,22,1280,1,0,0,0.0,,,0,
+383,China,Henan,2021-02-07,1303,22,1281,1,0,1,1.0,0.0,1.0,1,

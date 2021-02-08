@@ -262,3 +262,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 380,Mexico,Baja California Sur,2021-02-04,23706,963,0,22743,0,0,0.0,,,0,
 381,Mexico,Baja California Sur,2021-02-05,24083,1011,0,23120,48,0,0.0020761245674740486,1.0,0.0,48,
 382,Mexico,Baja California Sur,2021-02-06,24323,1026,0,23312,15,0,0.0006434454358270419,1.0,0.0,15,0.0
+383,Mexico,Baja California Sur,2021-02-07,24456,1027,0,23430,1,0,4.268032437046522e-05,1.0,0.0,1,0.0

@@ -254,3 +254,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 380,Japan,Okayama,2021-02-04,2376,24,2013,339,0,0,0.0,,,0,
 381,Japan,Okayama,2021-02-05,2380,25,2013,343,1,0,0.0029154518950437317,1.0,0.0,1,
 382,Japan,Okayama,2021-02-06,2390,25,2199,352,0,186,0.5284090909090909,0.0,1.0,186,1.0
+383,Japan,Okayama,2021-02-07,2406,25,2199,182,0,0,0.0,,,0,

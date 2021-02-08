@@ -381,3 +381,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 380,China,Shaanxi,2021-02-04,541,3,516,23,0,1,0.043478260869565216,0.0,1.0,1,0.0
 381,China,Shaanxi,2021-02-05,542,3,516,23,0,0,0.0,,,0,
 382,China,Shaanxi,2021-02-06,542,3,516,23,0,0,0.0,,,0,
+383,China,Shaanxi,2021-02-07,542,3,517,23,0,1,0.043478260869565216,0.0,1.0,1,

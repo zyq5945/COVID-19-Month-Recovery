@@ -254,3 +254,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 380,Japan,Kagoshima,2021-02-04,1643,21,1444,178,0,0,0.0,,,0,
 381,Japan,Kagoshima,2021-02-05,1652,21,1485,187,0,41,0.2192513368983957,0.0,1.0,41,
 382,Japan,Kagoshima,2021-02-06,1656,21,1485,150,0,0,0.0,,,0,
+383,Japan,Kagoshima,2021-02-07,1659,21,1541,153,0,56,0.3660130718954248,0.0,1.0,56,

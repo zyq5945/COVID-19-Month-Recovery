@@ -253,3 +253,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 380,Colombia,Guainia,2021-02-04,1285,22,1252,12,0,1,0.08333333333333333,0.0,1.0,1,0.0
 381,Colombia,Guainia,2021-02-05,1286,22,1254,12,0,2,0.16666666666666666,0.0,1.0,2,0.0
 382,Colombia,Guainia,2021-02-06,1289,22,1256,13,0,2,0.15384615384615385,0.0,1.0,2,0.0
+383,Colombia,Guainia,2021-02-07,1289,22,1256,11,0,0,0.0,,,0,
