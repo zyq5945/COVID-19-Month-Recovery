@@ -374,3 +374,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 381,Australia,Queensland,2021-02-05,1311,6,1294,12,0,1,0.08333333333333333,0.0,1.0,1,0.0
 382,Australia,Queensland,2021-02-06,1312,6,1295,12,0,1,0.08333333333333333,0.0,1.0,1,0.0
 383,Australia,Queensland,2021-02-07,1314,6,1297,13,0,2,0.15384615384615385,0.0,1.0,2,0.0
+384,Australia,Queensland,2021-02-08,1315,6,1297,12,0,0,0.0,,,0,

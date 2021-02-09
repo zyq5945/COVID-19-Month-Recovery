@@ -319,3 +319,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 381,Canada,Nunavut,2021-02-05,296,1,281,14,0,0,0.0,,,0,
 382,Canada,Nunavut,2021-02-06,299,1,283,17,0,2,0.11764705882352941,0.0,1.0,2,
 383,Canada,Nunavut,2021-02-07,299,1,284,15,0,1,0.06666666666666667,0.0,1.0,1,0.0
+384,Canada,Nunavut,2021-02-08,299,1,293,14,0,9,0.6428571428571429,0.0,1.0,9,0.0

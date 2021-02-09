@@ -325,3 +325,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 381,France,New Caledonia,2021-02-05,47,0,47,0,0,0,,,,0,
 382,France,New Caledonia,2021-02-06,49,0,47,2,0,0,0.0,,,0,
 383,France,New Caledonia,2021-02-07,49,0,47,2,0,0,0.0,,,0,
+384,France,New Caledonia,2021-02-08,50,0,48,3,0,1,0.3333333333333333,0.0,1.0,1,
