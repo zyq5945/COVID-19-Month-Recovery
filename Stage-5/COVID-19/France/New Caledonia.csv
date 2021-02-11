@@ -65,3 +65,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 75,France,New Caledonia,2021-01-30,47,0,47,4,0,4,1.0,0.0,1.0,4,
 76,France,New Caledonia,2021-02-04,47,0,47,0,0,0,,,,0,
 77,France,New Caledonia,2021-02-09,50,0,48,3,0,1,0.3333333333333333,0.0,1.0,1,
+78,France,New Caledonia,2021-02-10,50,0,48,2,0,0,0.0,,,0,

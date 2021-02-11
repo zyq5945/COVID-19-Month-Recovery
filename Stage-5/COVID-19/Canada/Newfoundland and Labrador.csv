@@ -66,3 +66,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 75,Canada,Newfoundland and Labrador,2021-01-30,408,4,388,18,0,2,0.1111111111111111,0.0,1.0,2,0.0
 76,Canada,Newfoundland and Labrador,2021-02-04,411,4,390,19,0,2,0.10526315789473684,0.0,1.0,2,0.0
 77,Canada,Newfoundland and Labrador,2021-02-09,457,4,393,63,0,3,0.047619047619047616,0.0,1.0,3,0.0
+78,Canada,Newfoundland and Labrador,2021-02-10,510,4,393,113,0,0,0.0,,,0,

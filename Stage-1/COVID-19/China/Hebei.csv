@@ -383,3 +383,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 383,China,Hebei,2021-02-07,1316,7,1117,192,0,0,0.0,,,0,
 384,China,Hebei,2021-02-08,1316,7,1119,192,0,2,0.010416666666666666,0.0,1.0,2,
 385,China,Hebei,2021-02-09,1316,7,1119,190,0,0,0.0,,,0,
+386,China,Hebei,2021-02-10,1316,7,1127,190,0,8,0.042105263157894736,0.0,1.0,8,

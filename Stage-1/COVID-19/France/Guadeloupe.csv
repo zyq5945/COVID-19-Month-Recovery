@@ -330,3 +330,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 383,France,Guadeloupe,2021-02-07,9156,158,2242,6756,0,0,0.0,,,0,
 384,France,Guadeloupe,2021-02-08,9156,158,2242,6756,0,0,0.0,,,0,
 385,France,Guadeloupe,2021-02-09,9302,159,2242,6902,1,0,0.0001448855404230658,1.0,0.0,1,
+386,France,Guadeloupe,2021-02-10,9302,159,2242,6901,0,0,0.0,,,0,

@@ -384,3 +384,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 383,China,Inner Mongolia,2021-02-07,366,1,360,7,0,2,0.2857142857142857,0.0,1.0,2,0.0
 384,China,Inner Mongolia,2021-02-08,366,1,362,5,0,2,0.4,0.0,1.0,2,0.0
 385,China,Inner Mongolia,2021-02-09,366,1,365,3,0,3,1.0,0.0,1.0,3,0.0
+386,China,Inner Mongolia,2021-02-10,366,1,365,0,0,0,,,,0,

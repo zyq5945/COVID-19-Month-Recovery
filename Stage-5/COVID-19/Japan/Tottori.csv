@@ -51,3 +51,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 75,Japan,Tottori,2021-01-30,199,2,161,48,0,12,0.25,0.0,1.0,12,0.0
 76,Japan,Tottori,2021-02-04,207,2,175,44,0,14,0.3181818181818182,0.0,1.0,14,0.0
 77,Japan,Tottori,2021-02-09,208,2,183,31,0,8,0.25806451612903225,0.0,1.0,8,0.0
+78,Japan,Tottori,2021-02-10,208,2,183,23,0,0,0.0,,,0,
