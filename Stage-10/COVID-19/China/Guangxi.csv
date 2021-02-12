@@ -37,4 +37,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 36,China,Guangxi,2021-01-15,266,2,261,3,0,0,0.0,,,0,
 37,China,Guangxi,2021-01-25,267,2,262,4,0,1,0.25,0.0,1.0,1,
 38,China,Guangxi,2021-02-04,267,2,263,3,0,1,0.3333333333333333,0.0,1.0,1,0.0
-39,China,Guangxi,2021-02-10,267,2,265,2,0,2,1.0,0.0,1.0,2,0.0
+39,China,Guangxi,2021-02-11,267,2,265,2,0,2,1.0,0.0,1.0,2,0.0

@@ -385,3 +385,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 384,China,Guangxi,2021-02-08,267,2,264,1,0,0,0.0,,,0,
 385,China,Guangxi,2021-02-09,267,2,264,1,0,0,0.0,,,0,
 386,China,Guangxi,2021-02-10,267,2,265,1,0,1,1.0,0.0,1.0,1,
+387,China,Guangxi,2021-02-11,267,2,265,0,0,0,,,,0,

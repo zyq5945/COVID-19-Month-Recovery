@@ -385,3 +385,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 384,China,Tianjin,2021-02-08,346,3,328,15,0,0,0.0,,,0,
 385,China,Tianjin,2021-02-09,347,3,328,16,0,0,0.0,,,0,
 386,China,Tianjin,2021-02-10,347,3,329,16,0,1,0.0625,0.0,1.0,1,
+387,China,Tianjin,2021-02-11,347,3,329,15,0,0,0.0,,,0,

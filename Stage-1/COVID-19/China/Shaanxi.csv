@@ -385,3 +385,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 384,China,Shaanxi,2021-02-08,542,3,519,22,0,2,0.09090909090909091,0.0,1.0,2,0.0
 385,China,Shaanxi,2021-02-09,543,3,524,21,0,5,0.23809523809523808,0.0,1.0,5,0.0
 386,China,Shaanxi,2021-02-10,543,3,529,16,0,5,0.3125,0.0,1.0,5,0.0
+387,China,Shaanxi,2021-02-11,543,3,529,11,0,0,0.0,,,0,

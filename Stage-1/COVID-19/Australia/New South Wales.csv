@@ -380,3 +380,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 384,Australia,New South Wales,2021-02-08,5125,54,3260,1812,0,1,0.0005518763796909492,0.0,1.0,1,
 385,Australia,New South Wales,2021-02-09,5129,54,3261,1815,0,1,0.0005509641873278236,0.0,1.0,1,0.0
 386,Australia,New South Wales,2021-02-10,5132,54,3262,1817,0,1,0.000550357732526142,0.0,1.0,1,0.0
+387,Australia,New South Wales,2021-02-11,5134,54,3262,1818,0,0,0.0,,,0,
