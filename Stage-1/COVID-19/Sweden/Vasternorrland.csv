@@ -251,3 +251,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 385,Sweden,Vasternorrland,2021-02-09,13726,375,0,13352,1,0,7.489514679448772e-05,1.0,0.0,1,
 386,Sweden,Vasternorrland,2021-02-10,13885,385,0,13510,10,0,0.0007401924500370096,1.0,0.0,10,0.0
 387,Sweden,Vasternorrland,2021-02-11,13965,385,0,13580,0,0,0.0,,,0,
+388,Sweden,Vasternorrland,2021-02-12,14034,387,0,13649,2,0,0.0001465308813832515,1.0,0.0,2,

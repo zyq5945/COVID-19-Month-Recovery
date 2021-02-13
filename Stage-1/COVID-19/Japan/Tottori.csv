@@ -259,3 +259,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 385,Japan,Tottori,2021-02-09,208,2,183,23,0,0,0.0,,,0,
 386,Japan,Tottori,2021-02-10,208,2,183,23,0,0,0.0,,,0,
 387,Japan,Tottori,2021-02-11,208,2,184,23,0,1,0.043478260869565216,0.0,1.0,1,
+388,Japan,Tottori,2021-02-12,208,2,185,22,0,1,0.045454545454545456,0.0,1.0,1,0.0

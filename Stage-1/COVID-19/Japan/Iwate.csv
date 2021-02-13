@@ -208,3 +208,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 385,Japan,Iwate,2021-02-09,516,29,464,24,0,1,0.041666666666666664,0.0,1.0,1,0.0
 386,Japan,Iwate,2021-02-10,518,29,465,25,0,1,0.04,0.0,1.0,1,0.0
 387,Japan,Iwate,2021-02-11,519,29,468,25,0,3,0.12,0.0,1.0,3,0.0
+388,Japan,Iwate,2021-02-12,519,29,468,22,0,0,0.0,,,0,
