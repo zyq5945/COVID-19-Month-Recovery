@@ -382,3 +382,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 386,Australia,Victoria,2021-02-10,20460,820,19623,18,0,1,0.05555555555555555,0.0,1.0,1,0.0
 387,Australia,Victoria,2021-02-11,20465,820,19626,22,0,3,0.13636363636363635,0.0,1.0,3,0.0
 388,Australia,Victoria,2021-02-12,20466,820,19626,20,0,0,0.0,,,0,
+389,Australia,Victoria,2021-02-13,20469,820,19628,23,0,2,0.08695652173913043,0.0,1.0,2,
