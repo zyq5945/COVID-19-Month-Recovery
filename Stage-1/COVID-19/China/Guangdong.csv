@@ -388,3 +388,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 387,China,Guangdong,2021-02-11,2154,8,2097,49,0,0,0.0,,,0,
 388,China,Guangdong,2021-02-12,2157,8,2098,52,0,1,0.019230769230769232,0.0,1.0,1,
 389,China,Guangdong,2021-02-13,2159,8,2101,53,0,3,0.05660377358490566,0.0,1.0,3,0.0
+390,China,Guangdong,2021-02-14,2163,8,2105,54,0,4,0.07407407407407407,0.0,1.0,4,0.0
