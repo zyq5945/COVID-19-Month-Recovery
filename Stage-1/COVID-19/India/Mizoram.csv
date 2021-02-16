@@ -249,3 +249,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 388,India,Mizoram,2021-02-12,4392,9,4363,22,0,2,0.09090909090909091,0.0,1.0,2,0.0
 389,India,Mizoram,2021-02-13,4392,9,4363,20,0,0,0.0,,,0,
 390,India,Mizoram,2021-02-14,4392,9,4366,20,0,3,0.15,0.0,1.0,3,
+391,India,Mizoram,2021-02-15,4395,10,4367,20,1,1,0.1,0.5,0.5,2,-0.5

@@ -305,7 +305,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 370,United Kingdom,Anguilla,2021-01-25,15,0,15,0,0,0,,,,0,
 371,United Kingdom,Anguilla,2021-01-26,16,0,15,1,0,0,0.0,,,0,
 372,United Kingdom,Anguilla,2021-01-27,16,0,15,1,0,0,0.0,,,0,
-373,United Kingdom,Anguilla,2021-01-28,16,0,15,1,0,0,0.0,,,0,
 374,United Kingdom,Anguilla,2021-01-29,16,0,15,1,0,0,0.0,,,0,
 375,United Kingdom,Anguilla,2021-01-30,16,0,15,1,0,0,0.0,,,0,
 376,United Kingdom,Anguilla,2021-01-31,16,0,15,1,0,0,0.0,,,0,
@@ -323,3 +322,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 388,United Kingdom,Anguilla,2021-02-12,18,0,16,2,0,0,0.0,,,0,
 389,United Kingdom,Anguilla,2021-02-13,18,0,16,2,0,0,0.0,,,0,
 390,United Kingdom,Anguilla,2021-02-14,18,0,16,2,0,0,0.0,,,0,
+391,United Kingdom,Anguilla,2021-02-15,18,0,16,2,0,0,0.0,,,0,

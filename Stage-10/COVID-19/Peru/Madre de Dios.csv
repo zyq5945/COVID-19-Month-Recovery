@@ -26,3 +26,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 37,Peru,Madre de Dios,2021-01-25,9686,164,0,9524,2,0,0.00020999580008399833,1.0,0.0,2,0.0
 38,Peru,Madre de Dios,2021-02-04,9791,167,0,9627,3,0,0.0003116235587410408,1.0,0.0,3,0.0
 39,Peru,Madre de Dios,2021-02-14,9929,170,0,9762,3,0,0.00030731407498463427,1.0,0.0,3,0.0
+40,Peru,Madre de Dios,2021-02-15,9932,170,0,9762,0,0,0.0,,,0,

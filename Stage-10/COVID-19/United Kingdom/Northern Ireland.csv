@@ -24,3 +24,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 37,United Kingdom,Northern Ireland,2021-01-25,100741,1747,0,99182,188,0,0.0018955052328043394,1.0,0.0,188,0.0
 38,United Kingdom,Northern Ireland,2021-02-04,105637,1899,0,103890,152,0,0.0014630859562999327,1.0,0.0,152,0.0
 39,United Kingdom,Northern Ireland,2021-02-14,108913,1996,0,107014,97,0,0.0009064234586128918,1.0,0.0,97,0.0
+40,United Kingdom,Northern Ireland,2021-02-15,109147,2000,0,107151,4,0,3.7330496215620944e-05,1.0,0.0,4,0.0

@@ -270,3 +270,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 388,Mexico,Aguascalientes,2021-02-12,22115,1880,0,20257,22,0,0.0010860443303549391,1.0,0.0,22,0.0
 389,Mexico,Aguascalientes,2021-02-13,22192,1893,0,20312,13,0,0.0006400157542339503,1.0,0.0,13,0.0
 390,Mexico,Aguascalientes,2021-02-14,22202,1893,0,20309,0,0,0.0,,,0,
+391,Mexico,Aguascalientes,2021-02-15,22212,1894,0,20319,1,0,4.9215020424233474e-05,1.0,0.0,1,

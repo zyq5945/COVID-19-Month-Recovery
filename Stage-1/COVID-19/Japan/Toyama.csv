@@ -262,3 +262,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 388,Japan,Toyama,2021-02-12,890,27,839,24,0,0,0.0,,,0,
 389,Japan,Toyama,2021-02-13,890,27,840,24,0,1,0.041666666666666664,0.0,1.0,1,
 390,Japan,Toyama,2021-02-14,891,27,840,24,0,0,0.0,,,0,
+391,Japan,Toyama,2021-02-15,895,27,842,28,0,2,0.07142857142857142,0.0,1.0,2,
