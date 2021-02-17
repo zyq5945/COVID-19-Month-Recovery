@@ -76,4 +76,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 76,Australia,Queensland,2021-02-04,1309,6,1293,8,0,-2,-0.25,-0.0,1.0,-2,0.0
 77,Australia,Queensland,2021-02-09,1316,6,1299,17,0,6,0.35294117647058826,0.0,1.0,6,0.0
 78,Australia,Queensland,2021-02-14,1320,6,1305,15,0,6,0.4,0.0,1.0,6,0.0
-79,Australia,Queensland,2021-02-15,1320,6,1305,9,0,0,0.0,,,0,
+79,Australia,Queensland,2021-02-16,1320,6,1306,9,0,1,0.1111111111111111,0.0,1.0,1,0.0

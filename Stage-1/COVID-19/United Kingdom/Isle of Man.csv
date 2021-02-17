@@ -313,7 +313,8 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 370,United Kingdom,Isle of Man,2021-01-25,432,25,364,43,0,0,0.0,,,0,
 371,United Kingdom,Isle of Man,2021-01-26,432,25,364,43,0,0,0.0,,,0,
 372,United Kingdom,Isle of Man,2021-01-27,432,25,377,43,0,13,0.3023255813953488,0.0,1.0,13,
-374,United Kingdom,Isle of Man,2021-01-29,434,25,380,32,0,3,0.09375,0.0,1.0,3,0.0
+373,United Kingdom,Isle of Man,2021-01-28,432,25,379,30,0,2,0.06666666666666667,0.0,1.0,2,0.0
+374,United Kingdom,Isle of Man,2021-01-29,434,25,380,30,0,1,0.03333333333333333,0.0,1.0,1,0.0
 375,United Kingdom,Isle of Man,2021-01-30,434,25,383,29,0,3,0.10344827586206896,0.0,1.0,3,0.0
 376,United Kingdom,Isle of Man,2021-01-31,434,25,383,26,0,0,0.0,,,0,
 377,United Kingdom,Isle of Man,2021-02-01,434,25,398,26,0,15,0.5769230769230769,0.0,1.0,15,
@@ -331,3 +332,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 389,United Kingdom,Isle of Man,2021-02-13,436,25,408,4,0,1,0.25,0.0,1.0,1,
 390,United Kingdom,Isle of Man,2021-02-14,436,25,408,3,0,0,0.0,,,0,
 391,United Kingdom,Isle of Man,2021-02-15,436,25,408,3,0,0,0.0,,,0,
+392,United Kingdom,Isle of Man,2021-02-16,437,25,408,4,0,0,0.0,,,0,

@@ -213,3 +213,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 389,Netherlands,Friesland,2021-02-13,23674,333,0,23343,2,0,8.567879021548216e-05,1.0,0.0,2,0.0
 390,Netherlands,Friesland,2021-02-14,23825,333,0,23492,0,0,0.0,,,0,
 391,Netherlands,Friesland,2021-02-15,23997,333,0,23664,0,0,0.0,,,0,
+392,Netherlands,Friesland,2021-02-16,24115,337,0,23782,4,0,0.00016819443276427552,1.0,0.0,4,
