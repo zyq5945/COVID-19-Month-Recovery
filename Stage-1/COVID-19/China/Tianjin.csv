@@ -393,3 +393,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 392,China,Tianjin,2021-02-16,349,3,333,15,0,2,0.13333333333333333,0.0,1.0,2,
 393,China,Tianjin,2021-02-17,349,3,334,13,0,1,0.07692307692307693,0.0,1.0,1,0.0
 394,China,Tianjin,2021-02-18,351,3,334,14,0,0,0.0,,,0,
+395,China,Tianjin,2021-02-19,351,3,335,14,0,1,0.07142857142857142,0.0,1.0,1,

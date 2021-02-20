@@ -266,3 +266,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 392,Peru,Cajamarca,2021-02-16,30787,749,0,30038,0,0,0.0,,,0,
 393,Peru,Cajamarca,2021-02-17,30909,753,0,30160,4,0,0.0001326259946949602,1.0,0.0,4,
 394,Peru,Cajamarca,2021-02-18,31035,757,0,30282,4,0,0.00013209167162010435,1.0,0.0,4,0.0
+395,Peru,Cajamarca,2021-02-19,31035,757,0,30278,0,0,0.0,,,0,
