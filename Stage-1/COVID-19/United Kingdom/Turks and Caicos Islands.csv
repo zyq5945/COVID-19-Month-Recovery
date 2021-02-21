@@ -328,3 +328,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 393,United Kingdom,Turks and Caicos Islands,2021-02-17,1909,13,1596,345,0,45,0.13043478260869565,0.0,1.0,45,
 394,United Kingdom,Turks and Caicos Islands,2021-02-18,1928,13,1628,319,0,32,0.10031347962382445,0.0,1.0,32,0.0
 395,United Kingdom,Turks and Caicos Islands,2021-02-19,1984,13,1690,343,0,62,0.18075801749271136,0.0,1.0,62,0.0
+396,United Kingdom,Turks and Caicos Islands,2021-02-20,2028,14,1721,325,1,31,0.09846153846153846,0.03125,0.96875,32,-0.03125

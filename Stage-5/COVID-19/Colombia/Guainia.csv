@@ -53,3 +53,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 77,Colombia,Guainia,2021-02-09,1290,22,1259,16,0,7,0.4375,0.0,1.0,7,0.06666666666666665
 78,Colombia,Guainia,2021-02-14,1297,22,1269,16,0,10,0.625,0.0,1.0,10,0.0
 79,Colombia,Guainia,2021-02-19,1299,22,1272,8,0,3,0.375,0.0,1.0,3,0.0
+80,Colombia,Guainia,2021-02-20,1301,22,1272,7,0,0,0.0,,,0,

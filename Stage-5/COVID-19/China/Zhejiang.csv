@@ -78,3 +78,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 77,China,Zhejiang,2021-02-09,1320,1,1305,14,0,0,0.0,,,0,
 78,China,Zhejiang,2021-02-14,1320,1,1306,14,0,1,0.07142857142857142,0.0,1.0,1,
 79,China,Zhejiang,2021-02-19,1320,1,1310,13,0,4,0.3076923076923077,0.0,1.0,4,0.0
+80,China,Zhejiang,2021-02-20,1320,1,1310,9,0,0,0.0,,,0,

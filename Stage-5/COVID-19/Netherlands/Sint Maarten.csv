@@ -67,3 +67,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 77,Netherlands,Sint Maarten,2021-02-09,1952,27,1817,170,0,62,0.36470588235294116,0.0,1.0,62,0.0
 78,Netherlands,Sint Maarten,2021-02-14,1998,27,1913,154,0,96,0.6233766233766234,0.0,1.0,96,0.0
 79,Netherlands,Sint Maarten,2021-02-19,2033,27,1955,93,0,42,0.45161290322580644,0.0,1.0,42,0.0
+80,Netherlands,Sint Maarten,2021-02-20,2033,27,1955,51,0,0,0.0,,,0,
