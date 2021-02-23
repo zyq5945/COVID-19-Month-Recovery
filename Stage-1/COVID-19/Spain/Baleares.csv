@@ -283,3 +283,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 395,Spain,Baleares,2021-02-19,55559,680,1533,53349,3,0,5.623348141483439e-05,1.0,0.0,3,0.0
 396,Spain,Baleares,2021-02-20,55559,680,1533,53346,0,0,0.0,,,0,
 397,Spain,Baleares,2021-02-21,55559,680,1533,53346,0,0,0.0,,,0,
+398,Spain,Baleares,2021-02-22,55751,681,1533,53538,1,0,1.867832193955695e-05,1.0,0.0,1,

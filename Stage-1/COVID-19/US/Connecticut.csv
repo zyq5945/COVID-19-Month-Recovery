@@ -315,3 +315,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 395,US,Connecticut,2021-02-19,273101,7523,9800,255805,27,0,0.00010554914876566134,1.0,0.0,27,0.0
 396,US,Connecticut,2021-02-20,273101,7523,9800,255778,0,0,0.0,,,0,
 397,US,Connecticut,2021-02-21,273101,7523,9800,255778,0,0,0.0,,,0,
+398,US,Connecticut,2021-02-22,275334,7562,,258011,39,,,,,,
