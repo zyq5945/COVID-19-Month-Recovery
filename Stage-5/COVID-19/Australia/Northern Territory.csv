@@ -70,4 +70,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 77,Australia,Northern Territory,2021-02-09,102,0,98,4,0,0,0.0,,,0,
 78,Australia,Northern Territory,2021-02-14,103,0,98,5,0,0,0.0,,,0,
 79,Australia,Northern Territory,2021-02-19,104,0,101,6,0,3,0.5,0.0,1.0,3,
-80,Australia,Northern Territory,2021-02-22,104,0,101,3,0,0,0.0,,,0,
+80,Australia,Northern Territory,2021-02-23,104,0,102,3,0,1,0.3333333333333333,0.0,1.0,1,0.0

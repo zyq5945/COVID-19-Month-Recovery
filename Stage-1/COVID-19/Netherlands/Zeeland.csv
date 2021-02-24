@@ -220,3 +220,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 396,Netherlands,Zeeland,2021-02-20,15831,170,0,15661,0,0,0.0,,,0,
 397,Netherlands,Zeeland,2021-02-21,15910,170,0,15740,0,0,0.0,,,0,
 398,Netherlands,Zeeland,2021-02-22,15987,171,0,15817,1,0,6.322311437061389e-05,1.0,0.0,1,
+399,Netherlands,Zeeland,2021-02-23,16069,176,0,15898,5,0,0.000314504969178513,1.0,0.0,5,0.0
