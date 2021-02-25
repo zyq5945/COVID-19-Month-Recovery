@@ -398,3 +398,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 397,China,Fujian,2021-02-21,549,1,541,8,0,1,0.125,0.0,1.0,1,
 398,China,Fujian,2021-02-22,549,1,544,7,0,3,0.42857142857142855,0.0,1.0,3,0.0
 399,China,Fujian,2021-02-23,549,1,544,4,0,0,0.0,,,0,
+400,China,Fujian,2021-02-24,549,1,546,4,0,2,0.5,0.0,1.0,2,

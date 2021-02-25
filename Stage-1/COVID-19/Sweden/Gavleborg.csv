@@ -263,3 +263,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 397,Sweden,Gavleborg,2021-02-21,20286,487,0,19799,0,0,0.0,,,0,
 398,Sweden,Gavleborg,2021-02-22,20286,487,0,19799,0,0,0.0,,,0,
 399,Sweden,Gavleborg,2021-02-23,20679,489,0,20192,2,0,9.904912836767037e-05,1.0,0.0,2,
+400,Sweden,Gavleborg,2021-02-24,20867,492,0,20378,3,0,0.00014721758759446462,1.0,0.0,3,0.0

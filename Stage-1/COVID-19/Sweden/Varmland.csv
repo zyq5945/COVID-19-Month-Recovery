@@ -263,3 +263,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 397,Sweden,Varmland,2021-02-21,8700,163,0,8537,0,0,0.0,,,0,
 398,Sweden,Varmland,2021-02-22,8700,163,0,8537,0,0,0.0,,,0,
 399,Sweden,Varmland,2021-02-23,8874,164,0,8711,1,0,0.00011479738261967628,1.0,0.0,1,
+400,Sweden,Varmland,2021-02-24,8982,165,0,8818,1,0,0.00011340440009072352,1.0,0.0,1,0.0

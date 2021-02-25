@@ -22,4 +22,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 24,Denmark,Faroe Islands,2021-01-15,648,1,626,101,1,79,0.7920792079207921,0.0125,0.9875,80,-0.012499999999999956
 25,Denmark,Faroe Islands,2021-01-30,654,1,648,27,0,22,0.8148148148148148,0.0,1.0,22,0.012499999999999956
 26,Denmark,Faroe Islands,2021-02-14,657,1,653,8,0,5,0.625,0.0,1.0,5,0.0
-27,Denmark,Faroe Islands,2021-02-23,658,1,655,4,0,2,0.5,0.0,1.0,2,0.0
+27,Denmark,Faroe Islands,2021-02-24,658,1,656,4,0,3,0.75,0.0,1.0,3,0.0

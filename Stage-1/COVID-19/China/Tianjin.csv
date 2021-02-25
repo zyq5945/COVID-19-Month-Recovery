@@ -398,3 +398,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 397,China,Tianjin,2021-02-21,352,3,335,14,0,0,0.0,,,0,
 398,China,Tianjin,2021-02-22,352,3,335,14,0,0,0.0,,,0,
 399,China,Tianjin,2021-02-23,353,3,336,15,0,1,0.06666666666666667,0.0,1.0,1,
+400,China,Tianjin,2021-02-24,354,3,337,15,0,1,0.06666666666666667,0.0,1.0,1,0.0
