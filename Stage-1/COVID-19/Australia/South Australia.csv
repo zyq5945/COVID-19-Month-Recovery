@@ -389,3 +389,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 398,Australia,South Australia,2021-02-22,612,4,604,5,0,1,0.2,0.0,1.0,1,0.0
 399,Australia,South Australia,2021-02-23,613,4,605,5,0,1,0.2,0.0,1.0,1,0.0
 400,Australia,South Australia,2021-02-24,613,4,606,4,0,1,0.25,0.0,1.0,1,0.0
+401,Australia,South Australia,2021-02-25,613,4,606,3,0,0,0.0,,,0,

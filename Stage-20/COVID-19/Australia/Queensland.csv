@@ -19,3 +19,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 18,Australia,Queensland,2021-01-15,1291,6,1248,68,0,31,0.45588235294117646,0.0,1.0,31,0.0
 19,Australia,Queensland,2021-02-04,1309,6,1293,55,0,45,0.8181818181818182,0.0,1.0,45,0.0
 20,Australia,Queensland,2021-02-24,1324,6,1309,25,0,16,0.64,0.0,1.0,16,0.0
+21,Australia,Queensland,2021-02-25,1328,6,1310,13,0,1,0.07692307692307693,0.0,1.0,1,0.0

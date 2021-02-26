@@ -399,3 +399,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 398,China,Heilongjiang,2021-02-22,1610,13,1587,13,0,3,0.23076923076923078,0.0,1.0,3,0.0
 399,China,Heilongjiang,2021-02-23,1610,13,1590,10,0,3,0.3,0.0,1.0,3,0.0
 400,China,Heilongjiang,2021-02-24,1610,13,1593,7,0,3,0.42857142857142855,0.0,1.0,3,0.0
+401,China,Heilongjiang,2021-02-25,1610,13,1593,4,0,0,0.0,,,0,

@@ -272,3 +272,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 398,Peru,Huancavelica,2021-02-22,9428,209,0,9219,0,0,0.0,,,0,
 399,Peru,Huancavelica,2021-02-23,9446,209,0,9237,0,0,0.0,,,0,
 400,Peru,Huancavelica,2021-02-24,9479,212,0,9270,3,0,0.00032362459546925567,1.0,0.0,3,
+401,Peru,Huancavelica,2021-02-25,9506,215,0,9294,3,0,0.00032278889606197545,1.0,0.0,3,0.0
