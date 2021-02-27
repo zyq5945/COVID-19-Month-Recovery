@@ -265,3 +265,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 399,Sweden,Halland,2021-02-23,22745,262,0,22483,0,0,0.0,,,0,
 400,Sweden,Halland,2021-02-24,23069,269,0,22807,7,0,0.0003069233130179331,1.0,0.0,7,
 401,Sweden,Halland,2021-02-25,23398,269,0,23129,0,0,0.0,,,0,
+402,Sweden,Halland,2021-02-26,23637,271,0,23368,2,0,8.558712769599452e-05,1.0,0.0,2,
