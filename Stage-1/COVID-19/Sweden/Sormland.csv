@@ -266,3 +266,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 400,Sweden,Sormland,2021-02-24,12955,397,0,12559,1,0,7.962417389919579e-05,1.0,0.0,1,0.0
 401,Sweden,Sormland,2021-02-25,13086,397,0,12689,0,0,0.0,,,0,
 402,Sweden,Sormland,2021-02-26,13207,401,0,12810,4,0,0.000312256049960968,1.0,0.0,4,
+403,Sweden,Sormland,2021-02-27,13207,401,0,12806,0,0,0.0,,,0,

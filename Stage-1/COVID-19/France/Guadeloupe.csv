@@ -347,3 +347,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 400,France,Guadeloupe,2021-02-24,9610,163,2242,7205,0,0,0.0,,,0,
 401,France,Guadeloupe,2021-02-25,9610,163,2242,7205,0,0,0.0,,,0,
 402,France,Guadeloupe,2021-02-26,9610,163,2242,7205,0,0,0.0,,,0,
+403,France,Guadeloupe,2021-02-27,9968,164,2242,7563,1,0,0.0001322226629644321,1.0,0.0,1,
