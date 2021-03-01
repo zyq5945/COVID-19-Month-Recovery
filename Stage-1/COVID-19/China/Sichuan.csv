@@ -402,3 +402,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 401,China,Sichuan,2021-02-25,890,3,871,17,0,1,0.058823529411764705,0.0,1.0,1,0.0
 402,China,Sichuan,2021-02-26,891,3,872,17,0,1,0.058823529411764705,0.0,1.0,1,0.0
 403,China,Sichuan,2021-02-27,891,3,872,16,0,0,0.0,,,0,
+404,China,Sichuan,2021-02-28,900,3,872,25,0,0,0.0,,,0,

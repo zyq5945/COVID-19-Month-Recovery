@@ -283,3 +283,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 401,Chile,Unknown,2021-02-25,69,1,69,18,0,19,1.0555555555555556,0.0,1.0,19,
 402,Chile,Unknown,2021-02-26,70,1,70,0,0,1,,0.0,1.0,1,0.0
 403,Chile,Unknown,2021-02-27,65,1,65,-6,0,-5,0.8333333333333334,-0.0,1.0,-5,0.0
+404,Chile,Unknown,2021-02-28,67,1,67,1,0,2,2.0,0.0,1.0,2,0.0

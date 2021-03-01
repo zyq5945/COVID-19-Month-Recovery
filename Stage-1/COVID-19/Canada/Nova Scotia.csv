@@ -345,3 +345,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 401,Canada,Nova Scotia,2021-02-25,1624,65,1532,29,0,2,0.06896551724137931,0.0,1.0,2,0.0
 402,Canada,Nova Scotia,2021-02-26,1634,65,1534,37,0,2,0.05405405405405406,0.0,1.0,2,0.0
 403,Canada,Nova Scotia,2021-02-27,1638,65,1534,39,0,0,0.0,,,0,
+404,Canada,Nova Scotia,2021-02-28,1641,65,1538,42,0,4,0.09523809523809523,0.0,1.0,4,
