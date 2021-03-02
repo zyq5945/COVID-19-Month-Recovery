@@ -398,3 +398,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 402,Australia,Victoria,2021-02-26,20481,820,19646,17,0,2,0.11764705882352941,0.0,1.0,2,0.0
 403,Australia,Victoria,2021-02-27,20481,820,19646,15,0,0,0.0,,,0,
 404,Australia,Victoria,2021-02-28,20481,820,19650,15,0,4,0.26666666666666666,0.0,1.0,4,
+405,Australia,Victoria,2021-03-01,20481,820,19651,11,0,1,0.09090909090909091,0.0,1.0,1,0.0

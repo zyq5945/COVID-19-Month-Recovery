@@ -39,4 +39,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 38,China,Zhejiang,2021-02-04,1316,1,1305,10,0,0,0.0,,,0,
 39,China,Zhejiang,2021-02-14,1320,1,1306,14,0,1,0.07142857142857142,0.0,1.0,1,
 40,China,Zhejiang,2021-02-24,1321,1,1310,14,0,4,0.2857142857142857,0.0,1.0,4,0.0
-41,China,Zhejiang,2021-02-28,1321,1,1314,10,0,4,0.4,0.0,1.0,4,0.0
+41,China,Zhejiang,2021-03-01,1321,1,1314,10,0,4,0.4,0.0,1.0,4,0.0

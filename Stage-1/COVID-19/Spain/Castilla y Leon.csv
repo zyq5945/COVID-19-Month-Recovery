@@ -290,3 +290,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 402,Spain,Castilla y Leon,2021-02-26,205587,6320,8716,190568,17,0,8.920700222492759e-05,1.0,0.0,17,0.0
 403,Spain,Castilla y Leon,2021-02-27,205587,6320,8716,190551,0,0,0.0,,,0,
 404,Spain,Castilla y Leon,2021-02-28,205587,6320,8716,190551,0,0,0.0,,,0,
+405,Spain,Castilla y Leon,2021-03-01,206184,6345,8716,191148,25,0,0.0001307887082260866,1.0,0.0,25,

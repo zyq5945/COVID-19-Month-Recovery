@@ -290,3 +290,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 402,Spain,Canarias,2021-02-26,40477,589,1537,38352,1,0,2.6074259491030454e-05,1.0,0.0,1,0.0
 403,Spain,Canarias,2021-02-27,40477,589,1537,38351,0,0,0.0,,,0,
 404,Spain,Canarias,2021-02-28,40477,589,1537,38351,0,0,0.0,,,0,
+405,Spain,Canarias,2021-03-01,40887,596,1537,38761,7,0,0.0001805938959263177,1.0,0.0,7,
