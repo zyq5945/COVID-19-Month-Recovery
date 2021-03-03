@@ -404,3 +404,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,China,Beijing,2021-02-27,1047,9,1022,16,0,0,0.0,,,0,
 404,China,Beijing,2021-02-28,1049,9,1022,18,0,0,0.0,,,0,
 405,China,Beijing,2021-03-01,1049,9,1024,18,0,2,0.1111111111111111,0.0,1.0,2,
+406,China,Beijing,2021-03-02,1049,9,1026,16,0,2,0.125,0.0,1.0,2,0.0

@@ -55,3 +55,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 79,Colombia,Vichada,2021-02-19,1343,21,1315,14,0,7,0.5,0.0,1.0,7,0.0
 80,Colombia,Vichada,2021-02-24,1362,21,1331,26,0,16,0.6153846153846154,0.0,1.0,16,0.0
 81,Colombia,Vichada,2021-03-01,1369,22,1332,17,1,1,0.11764705882352941,0.5,0.5,2,-0.5
+82,Colombia,Vichada,2021-03-02,1377,22,1336,23,0,4,0.17391304347826086,0.0,1.0,4,0.5

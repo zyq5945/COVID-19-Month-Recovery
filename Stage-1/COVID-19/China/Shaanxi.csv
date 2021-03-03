@@ -404,3 +404,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,China,Shaanxi,2021-02-27,551,3,540,12,0,4,0.3333333333333333,0.0,1.0,4,
 404,China,Shaanxi,2021-02-28,551,3,540,8,0,0,0.0,,,0,
 405,China,Shaanxi,2021-03-01,552,3,541,9,0,1,0.1111111111111111,0.0,1.0,1,
+406,China,Shaanxi,2021-03-02,553,3,542,9,0,1,0.1111111111111111,0.0,1.0,1,0.0

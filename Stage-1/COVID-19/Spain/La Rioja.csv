@@ -291,3 +291,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,Spain,La Rioja,2021-02-27,27422,725,3107,23590,0,0,0.0,,,0,
 404,Spain,La Rioja,2021-02-28,27422,725,3107,23590,0,0,0.0,,,0,
 405,Spain,La Rioja,2021-03-01,27463,725,3107,23631,0,0,0.0,,,0,
+406,Spain,La Rioja,2021-03-02,27480,726,3107,23648,1,0,4.228687415426252e-05,1.0,0.0,1,

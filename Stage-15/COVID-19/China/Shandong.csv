@@ -26,3 +26,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 25,China,Shandong,2021-01-30,866,7,857,4,0,2,0.5,0.0,1.0,2,0.0
 26,China,Shandong,2021-02-14,867,7,859,3,0,2,0.6666666666666666,0.0,1.0,2,0.0
 27,China,Shandong,2021-03-01,869,7,860,3,0,1,0.3333333333333333,0.0,1.0,1,0.0
+28,China,Shandong,2021-03-02,869,7,860,2,0,0,0.0,,,0,

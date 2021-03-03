@@ -404,3 +404,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,China,Guangdong,2021-02-27,2206,8,2155,43,0,0,0.0,,,0,
 404,China,Guangdong,2021-02-28,2212,8,2158,49,0,3,0.061224489795918366,0.0,1.0,3,
 405,China,Guangdong,2021-03-01,2215,8,2159,49,0,1,0.02040816326530612,0.0,1.0,1,0.0
+406,China,Guangdong,2021-03-02,2218,8,2162,51,0,3,0.058823529411764705,0.0,1.0,3,0.0

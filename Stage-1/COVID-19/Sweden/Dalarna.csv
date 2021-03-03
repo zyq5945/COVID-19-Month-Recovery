@@ -269,3 +269,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,Sweden,Dalarna,2021-02-27,14749,304,0,14445,0,0,0.0,,,0,
 404,Sweden,Dalarna,2021-02-28,14749,304,0,14445,0,0,0.0,,,0,
 405,Sweden,Dalarna,2021-03-01,14749,304,0,14445,0,0,0.0,,,0,
+406,Sweden,Dalarna,2021-03-02,14928,305,0,14624,1,0,6.838074398249453e-05,1.0,0.0,1,

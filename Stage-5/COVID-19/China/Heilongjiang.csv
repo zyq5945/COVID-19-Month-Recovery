@@ -80,3 +80,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 79,China,Heilongjiang,2021-02-19,1610,13,1576,93,0,72,0.7741935483870968,0.0,1.0,72,0.0
 80,China,Heilongjiang,2021-02-24,1610,13,1593,21,0,17,0.8095238095238095,0.0,1.0,17,0.0
 81,China,Heilongjiang,2021-03-01,1610,13,1597,4,0,4,1.0,0.0,1.0,4,0.0
+82,China,Heilongjiang,2021-03-02,1610,13,1597,0,0,0,,,,0,

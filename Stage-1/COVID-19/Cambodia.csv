@@ -399,3 +399,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,Cambodia,,2021-02-27,805,0,477,328,0,0,0.0,,,0,
 404,Cambodia,,2021-02-28,820,0,477,343,0,0,0.0,,,0,
 405,Cambodia,,2021-03-01,844,0,478,367,0,1,0.0027247956403269754,0.0,1.0,1,
+406,Cambodia,,2021-03-02,878,0,482,400,0,4,0.01,0.0,1.0,4,0.0

@@ -53,3 +53,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 79,Sweden,Vasternorrland,2021-02-19,14450,393,0,14063,6,0,0.00042665149683566804,1.0,0.0,6,0.0
 80,Sweden,Vasternorrland,2021-02-24,14704,400,0,14311,7,0,0.0004891342324086367,1.0,0.0,7,0.0
 81,Sweden,Vasternorrland,2021-03-01,14841,404,0,14441,4,0,0.0002769891281767191,1.0,0.0,4,0.0
+82,Sweden,Vasternorrland,2021-03-02,14969,404,0,14565,0,0,0.0,,,0,

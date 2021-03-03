@@ -277,3 +277,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 403,Peru,Arequipa,2021-02-27,60207,1997,0,58215,5,0,8.58885167053165e-05,1.0,0.0,5,0.0
 404,Peru,Arequipa,2021-02-28,60207,1997,0,58210,0,0,0.0,,,0,
 405,Peru,Arequipa,2021-03-01,60207,1997,0,58210,0,0,0.0,,,0,
+406,Peru,Arequipa,2021-03-02,60867,2018,0,58870,21,0,0.000356718192627824,1.0,0.0,21,

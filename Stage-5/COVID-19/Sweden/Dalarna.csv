@@ -53,3 +53,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 79,Sweden,Dalarna,2021-02-19,14292,303,0,13990,1,0,7.14796283059328e-05,1.0,0.0,1,0.0
 80,Sweden,Dalarna,2021-02-24,14575,304,0,14272,1,0,7.006726457399103e-05,1.0,0.0,1,0.0
 81,Sweden,Dalarna,2021-03-01,14749,304,0,14445,0,0,0.0,,,0,
+82,Sweden,Dalarna,2021-03-02,14928,305,0,14624,1,0,6.838074398249453e-05,1.0,0.0,1,
