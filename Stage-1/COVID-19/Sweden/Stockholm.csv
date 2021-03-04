@@ -270,3 +270,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,Sweden,Stockholm,2021-02-28,155151,3866,0,151285,0,0,0.0,,,0,
 405,Sweden,Stockholm,2021-03-01,155151,3866,0,151285,0,0,0.0,,,0,
 406,Sweden,Stockholm,2021-03-02,158176,3880,0,154310,14,0,9.072645972393234e-05,1.0,0.0,14,
+407,Sweden,Stockholm,2021-03-03,159634,3902,0,155754,22,0,0.0001412483788538336,1.0,0.0,22,0.0

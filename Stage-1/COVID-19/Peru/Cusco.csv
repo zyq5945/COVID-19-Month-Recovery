@@ -278,3 +278,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,Peru,Cusco,2021-02-28,34834,737,0,34097,0,0,0.0,,,0,
 405,Peru,Cusco,2021-03-01,34834,737,0,34097,0,0,0.0,,,0,
 406,Peru,Cusco,2021-03-02,35671,756,0,34934,19,0,0.0005438827503291922,1.0,0.0,19,
+407,Peru,Cusco,2021-03-03,35671,756,0,34915,0,0,0.0,,,0,

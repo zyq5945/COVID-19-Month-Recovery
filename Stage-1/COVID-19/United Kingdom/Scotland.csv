@@ -264,3 +264,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,United Kingdom,Scotland,2021-02-28,202084,7131,0,194955,2,0,1.025877766664102e-05,1.0,0.0,2,0.0
 405,United Kingdom,Scotland,2021-03-01,202470,7131,0,195339,0,0,0.0,,,0,
 406,United Kingdom,Scotland,2021-03-02,203012,7164,0,195881,33,0,0.00016846963207253383,1.0,0.0,33,
+407,United Kingdom,Scotland,2021-03-03,203555,7371,0,196391,207,0,0.0010540197870574518,1.0,0.0,207,0.0

@@ -278,3 +278,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,Peru,Pasco,2021-02-28,9366,232,0,9134,0,0,0.0,,,0,
 405,Peru,Pasco,2021-03-01,9366,232,0,9134,0,0,0.0,,,0,
 406,Peru,Pasco,2021-03-02,9468,241,0,9236,9,0,0.0009744478129060199,1.0,0.0,9,
+407,Peru,Pasco,2021-03-03,9468,241,0,9227,0,0,0.0,,,0,

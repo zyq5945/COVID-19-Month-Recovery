@@ -270,3 +270,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,Sweden,Gotland,2021-02-28,2687,45,0,2642,0,0,0.0,,,0,
 405,Sweden,Gotland,2021-03-01,2687,45,0,2642,0,0,0.0,,,0,
 406,Sweden,Gotland,2021-03-02,2708,46,0,2663,1,0,0.0003755163349605708,1.0,0.0,1,
+407,Sweden,Gotland,2021-03-03,2717,46,0,2671,0,0,0.0,,,0,

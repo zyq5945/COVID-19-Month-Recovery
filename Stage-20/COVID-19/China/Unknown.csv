@@ -1,3 +1,3 @@
 Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
 20,China,Unknown,2021-02-24,0,0,6,0,0,6,,0.0,1.0,6,
-21,China,Unknown,2021-03-02,0,0,3,-6,0,-3,0.5,-0.0,1.0,-3,0.0
+21,China,Unknown,2021-03-03,0,0,3,-6,0,-3,0.5,-0.0,1.0,-3,0.0

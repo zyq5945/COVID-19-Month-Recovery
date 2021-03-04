@@ -267,3 +267,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,Colombia,Guaviare,2021-02-28,2246,40,2190,16,0,0,0.0,,,0,
 405,Colombia,Guaviare,2021-03-01,2249,40,2190,19,0,0,0.0,,,0,
 406,Colombia,Guaviare,2021-03-02,2252,40,2193,22,0,3,0.13636363636363635,0.0,1.0,3,
+407,Colombia,Guaviare,2021-03-03,2252,40,2199,19,0,6,0.3157894736842105,0.0,1.0,6,0.0

@@ -227,3 +227,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 404,Japan,Iwate,2021-02-28,554,30,510,18,0,4,0.2222222222222222,0.0,1.0,4,0.0
 405,Japan,Iwate,2021-03-01,554,30,510,14,0,0,0.0,,,0,
 406,Japan,Iwate,2021-03-02,554,30,516,14,0,6,0.42857142857142855,0.0,1.0,6,
+407,Japan,Iwate,2021-03-03,554,30,517,8,0,1,0.125,0.0,1.0,1,0.0
