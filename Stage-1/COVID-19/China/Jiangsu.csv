@@ -406,3 +406,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 405,China,Jiangsu,2021-03-01,704,0,699,6,0,1,0.16666666666666666,0.0,1.0,1,
 406,China,Jiangsu,2021-03-02,704,0,700,5,0,1,0.2,0.0,1.0,1,0.0
 407,China,Jiangsu,2021-03-03,704,0,700,4,0,0,0.0,,,0,
+408,China,Jiangsu,2021-03-04,704,0,701,4,0,1,0.25,0.0,1.0,1,
