@@ -280,3 +280,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 406,Japan,Kochi,2021-03-02,884,17,866,1,0,0,0.0,,,0,
 407,Japan,Kochi,2021-03-03,884,17,866,1,0,0,0.0,,,0,
 408,Japan,Kochi,2021-03-04,893,17,866,10,0,0,0.0,,,0,
+409,Japan,Kochi,2021-03-05,898,18,866,15,1,0,0.06666666666666667,1.0,0.0,1,

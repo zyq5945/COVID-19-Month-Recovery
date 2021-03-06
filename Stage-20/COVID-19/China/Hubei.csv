@@ -19,4 +19,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 18,China,Hubei,2021-01-15,68149,4512,63637,0,0,0,,,,0,
 19,China,Hubei,2021-02-04,68150,4512,63638,1,0,1,1.0,0.0,1.0,1,
 20,China,Hubei,2021-02-24,68151,4512,63638,1,0,0,0.0,,,0,
-21,China,Hubei,2021-03-04,68151,4512,63639,1,0,1,1.0,0.0,1.0,1,
+21,China,Hubei,2021-03-05,68151,4512,63639,1,0,1,1.0,0.0,1.0,1,
