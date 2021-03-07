@@ -277,3 +277,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 407,Russia,Chukotka Autonomous Okrug,2021-03-03,695,5,648,42,0,0,0.0,,,0,
 408,Russia,Chukotka Autonomous Okrug,2021-03-04,696,5,652,43,0,4,0.09302325581395349,0.0,1.0,4,
 409,Russia,Chukotka Autonomous Okrug,2021-03-05,698,5,656,41,0,4,0.0975609756097561,0.0,1.0,4,0.0
+410,Russia,Chukotka Autonomous Okrug,2021-03-06,700,5,660,39,0,4,0.10256410256410256,0.0,1.0,4,0.0

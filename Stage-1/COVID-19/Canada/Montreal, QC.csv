@@ -1,0 +1,11 @@
+Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+38,Canada," Montreal, QC",2020-02-28,1,0,0,1,0,0,0.0,,,0,
+39,Canada," Montreal, QC",2020-02-29,1,0,0,1,0,0,0.0,,,0,
+40,Canada," Montreal, QC",2020-03-01,1,0,0,1,0,0,0.0,,,0,
+41,Canada," Montreal, QC",2020-03-02,1,0,0,1,0,0,0.0,,,0,
+42,Canada," Montreal, QC",2020-03-03,1,0,0,1,0,0,0.0,,,0,
+43,Canada," Montreal, QC",2020-03-04,1,0,0,1,0,0,0.0,,,0,
+44,Canada," Montreal, QC",2020-03-05,2,0,0,2,0,0,0.0,,,0,
+45,Canada," Montreal, QC",2020-03-06,2,0,0,2,0,0,0.0,,,0,
+46,Canada," Montreal, QC",2020-03-07,3,0,0,3,0,0,0.0,,,0,
+47,Canada," Montreal, QC",2020-03-08,4,0,0,4,0,0,0.0,,,0,

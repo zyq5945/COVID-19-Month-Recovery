@@ -408,3 +408,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 407,China,Sichuan,2021-03-03,910,3,876,32,0,1,0.03125,0.0,1.0,1,0.0
 408,China,Sichuan,2021-03-04,910,3,877,31,0,1,0.03225806451612903,0.0,1.0,1,0.0
 409,China,Sichuan,2021-03-05,911,3,878,31,0,1,0.03225806451612903,0.0,1.0,1,0.0
+410,China,Sichuan,2021-03-06,918,3,878,37,0,0,0.0,,,0,

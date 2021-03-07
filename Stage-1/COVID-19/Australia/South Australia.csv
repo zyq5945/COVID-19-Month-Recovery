@@ -398,3 +398,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 407,Australia,South Australia,2021-03-03,618,4,610,4,0,0,0.0,,,0,
 408,Australia,South Australia,2021-03-04,618,4,610,4,0,0,0.0,,,0,
 409,Australia,South Australia,2021-03-05,618,4,610,4,0,0,0.0,,,0,
+410,Australia,South Australia,2021-03-06,618,4,611,4,0,1,0.25,0.0,1.0,1,

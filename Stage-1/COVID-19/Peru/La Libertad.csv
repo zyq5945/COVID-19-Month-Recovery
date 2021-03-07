@@ -281,3 +281,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 407,Peru,La Libertad,2021-03-03,45988,2858,0,43130,0,0,0.0,,,0,
 408,Peru,La Libertad,2021-03-04,46229,2863,0,43371,5,0,0.00011528440663115907,1.0,0.0,5,
 409,Peru,La Libertad,2021-03-05,46229,2863,0,43366,0,0,0.0,,,0,
+410,Peru,La Libertad,2021-03-06,46700,2879,0,43837,16,0,0.0003649884800510984,1.0,0.0,16,

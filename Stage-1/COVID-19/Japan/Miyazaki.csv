@@ -281,3 +281,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 407,Japan,Miyazaki,2021-03-03,1949,20,1905,33,0,9,0.2727272727272727,0.0,1.0,9,
 408,Japan,Miyazaki,2021-03-04,1949,20,1905,24,0,0,0.0,,,0,
 409,Japan,Miyazaki,2021-03-05,1949,20,1930,24,0,25,1.0416666666666667,0.0,1.0,25,
+410,Japan,Miyazaki,2021-03-06,1949,20,1930,-1,0,0,-0.0,,,0,
