@@ -409,3 +409,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 408,China,Beijing,2021-03-04,1049,9,1029,13,0,2,0.15384615384615385,0.0,1.0,2,0.0
 409,China,Beijing,2021-03-05,1049,9,1029,11,0,0,0.0,,,0,
 410,China,Beijing,2021-03-06,1049,9,1032,11,0,3,0.2727272727272727,0.0,1.0,3,
+411,China,Beijing,2021-03-07,1049,9,1033,8,0,1,0.125,0.0,1.0,1,0.0

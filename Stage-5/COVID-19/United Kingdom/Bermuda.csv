@@ -70,3 +70,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 80,United Kingdom,Bermuda,2021-02-24,703,12,681,12,0,2,0.16666666666666666,0.0,1.0,2,0.0
 81,United Kingdom,Bermuda,2021-03-01,707,12,682,14,0,1,0.07142857142857142,0.0,1.0,1,0.0
 82,United Kingdom,Bermuda,2021-03-06,722,12,688,28,0,6,0.21428571428571427,0.0,1.0,6,0.0
+83,United Kingdom,Bermuda,2021-03-07,722,12,688,22,0,0,0.0,,,0,

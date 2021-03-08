@@ -56,3 +56,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 80,Japan,Kochi,2021-02-24,884,17,863,20,0,16,0.8,0.0,1.0,16,0.0
 81,Japan,Kochi,2021-03-01,884,17,866,4,0,3,0.75,0.0,1.0,3,0.0
 82,Japan,Kochi,2021-03-06,899,18,866,16,1,0,0.0625,1.0,0.0,1,-1.0
+83,Japan,Kochi,2021-03-07,900,18,866,16,0,0,0.0,,,0,
