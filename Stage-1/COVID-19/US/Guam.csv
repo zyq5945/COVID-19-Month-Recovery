@@ -329,3 +329,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 409,US,Guam,2021-03-05,7748,133,7590,27,2,0,0.07407407407407407,1.0,0.0,2,-1.0
 410,US,Guam,2021-03-06,7749,133,7590,26,0,0,0.0,,,0,
 411,US,Guam,2021-03-07,7749,133,,26,0,,,,,,
+412,US,Guam,2021-03-08,7751,133,,,0,,,,,,

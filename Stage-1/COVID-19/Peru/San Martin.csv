@@ -283,3 +283,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 409,Peru,San Martin,2021-03-05,30001,895,0,29106,0,0,0.0,,,0,
 410,Peru,San Martin,2021-03-06,30214,899,0,29319,4,0,0.00013643030116988983,1.0,0.0,4,
 411,Peru,San Martin,2021-03-07,30214,899,0,29315,0,0,0.0,,,0,
+412,Peru,San Martin,2021-03-08,30408,906,0,29509,7,0,0.00023721576468196143,1.0,0.0,7,

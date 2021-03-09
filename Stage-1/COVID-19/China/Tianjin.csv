@@ -410,3 +410,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 409,China,Tianjin,2021-03-05,361,3,341,19,0,2,0.10526315789473684,0.0,1.0,2,
 410,China,Tianjin,2021-03-06,361,3,343,17,0,2,0.11764705882352941,0.0,1.0,2,0.0
 411,China,Tianjin,2021-03-07,361,3,343,15,0,0,0.0,,,0,
+412,China,Tianjin,2021-03-08,361,3,343,15,0,0,0.0,,,0,
