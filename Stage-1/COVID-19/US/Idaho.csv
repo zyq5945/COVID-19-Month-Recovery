@@ -330,3 +330,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 410,US,Idaho,2021-03-06,172931,1879,95524,75531,3,0,3.971879096000318e-05,1.0,0.0,3,-1.0
 411,US,Idaho,2021-03-07,172931,1879,,75528,0,,,,,,
 412,US,Idaho,2021-03-08,173309,1890,,,11,,,,,,
+413,US,Idaho,2021-03-09,173790,1892,,,2,,,,,,

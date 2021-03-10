@@ -298,3 +298,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 410,Spain,C. Valenciana,2021-03-06,381068,6791,9970,364307,0,0,0.0,,,0,
 411,Spain,C. Valenciana,2021-03-07,381068,6791,9970,364307,0,0,0.0,,,0,
 412,Spain,C. Valenciana,2021-03-08,381728,6820,9970,364967,29,0,7.945923878049249e-05,1.0,0.0,29,
+413,Spain,C. Valenciana,2021-03-09,382062,6881,9970,365272,61,0,0.00016699883922118312,1.0,0.0,61,0.0

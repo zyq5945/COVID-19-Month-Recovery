@@ -330,3 +330,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 410,US,Maryland,2021-03-06,386610,7941,9701,368979,11,0,2.9811994720566753e-05,1.0,0.0,11,-0.5555555555555556
 411,US,Maryland,2021-03-07,387319,7955,,369677,14,,,,,,
 412,US,Maryland,2021-03-08,388035,7963,,,8,,,,,,
+413,US,Maryland,2021-03-09,388666,7988,,,25,,,,,,

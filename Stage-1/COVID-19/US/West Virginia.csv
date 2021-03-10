@@ -330,3 +330,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 410,US,West Virginia,2021-03-06,133290,2323,124502,6470,5,0,0.0007727975270479134,1.0,0.0,5,-0.9804772234273319
 411,US,West Virginia,2021-03-07,133445,2325,,6620,2,,,,,,
 412,US,West Virginia,2021-03-08,133627,2325,,,0,,,,,,
+413,US,West Virginia,2021-03-09,133856,2326,,,1,,,,,,

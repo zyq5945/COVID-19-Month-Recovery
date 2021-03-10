@@ -330,3 +330,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 410,US,Alabama,2021-03-06,499411,10149,295690,193599,27,0,0.00013946353028683,1.0,0.0,27,0.0
 411,US,Alabama,2021-03-07,499819,10148,,193980,-1,,,,,,
 412,US,Alabama,2021-03-08,500092,10148,,,0,,,,,,
+413,US,Alabama,2021-03-09,500616,10186,,,38,,,,,,
