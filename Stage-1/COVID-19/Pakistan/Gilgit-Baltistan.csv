@@ -272,3 +272,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 411,Pakistan,Gilgit-Baltistan,2021-03-07,4959,102,4853,4,0,0,0.0,,,0,
 412,Pakistan,Gilgit-Baltistan,2021-03-08,4959,102,4853,4,0,0,0.0,,,0,
 413,Pakistan,Gilgit-Baltistan,2021-03-09,4959,103,4853,4,1,0,0.25,1.0,0.0,1,
+414,Pakistan,Gilgit-Baltistan,2021-03-10,4959,104,4855,3,1,2,1.0,0.3333333333333333,0.6666666666666666,3,0.6666666666666666

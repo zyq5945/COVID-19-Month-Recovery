@@ -285,3 +285,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 411,Peru,Cajamarca,2021-03-07,34113,809,0,33304,0,0,0.0,,,0,
 412,Peru,Cajamarca,2021-03-08,34659,818,0,33850,9,0,0.0002658788774002954,1.0,0.0,9,
 413,Peru,Cajamarca,2021-03-09,34659,818,0,33841,0,0,0.0,,,0,
+414,Peru,Cajamarca,2021-03-10,34903,821,0,34085,3,0,8.80152559777028e-05,1.0,0.0,3,

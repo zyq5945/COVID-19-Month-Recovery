@@ -412,3 +412,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 411,China,Hunan,2021-03-07,1037,4,1028,5,0,0,0.0,,,0,
 412,China,Hunan,2021-03-08,1037,4,1028,5,0,0,0.0,,,0,
 413,China,Hunan,2021-03-09,1037,4,1028,5,0,0,0.0,,,0,
+414,China,Hunan,2021-03-10,1037,4,1029,5,0,1,0.2,0.0,1.0,1,

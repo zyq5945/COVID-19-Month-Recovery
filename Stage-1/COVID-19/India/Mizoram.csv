@@ -272,3 +272,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 411,India,Mizoram,2021-03-07,4428,10,4410,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 412,India,Mizoram,2021-03-08,4432,10,4412,12,0,2,0.16666666666666666,0.0,1.0,2,0.0
 413,India,Mizoram,2021-03-09,4434,10,4415,12,0,3,0.25,0.0,1.0,3,0.0
+414,India,Mizoram,2021-03-10,4434,10,4415,9,0,0,0.0,,,0,
