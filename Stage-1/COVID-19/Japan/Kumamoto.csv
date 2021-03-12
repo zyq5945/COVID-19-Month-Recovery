@@ -286,3 +286,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 412,Japan,Kumamoto,2021-03-08,3459,74,3347,38,0,0,0.0,,,0,
 413,Japan,Kumamoto,2021-03-09,3464,74,3357,43,0,10,0.23255813953488372,0.0,1.0,10,
 414,Japan,Kumamoto,2021-03-10,3469,74,3361,38,0,4,0.10526315789473684,0.0,1.0,4,0.0
+415,Japan,Kumamoto,2021-03-11,3469,74,3365,34,0,4,0.11764705882352941,0.0,1.0,4,0.0

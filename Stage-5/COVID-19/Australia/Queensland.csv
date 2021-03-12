@@ -80,4 +80,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 80,Australia,Queensland,2021-02-24,1324,6,1309,9,0,0,0.0,,,0,
 81,Australia,Queensland,2021-03-01,1335,6,1313,20,0,4,0.2,0.0,1.0,4,
 82,Australia,Queensland,2021-03-06,1349,6,1316,30,0,3,0.1,0.0,1.0,3,0.0
-83,Australia,Queensland,2021-03-10,1373,6,1321,51,0,5,0.09803921568627451,0.0,1.0,5,0.0
+83,Australia,Queensland,2021-03-11,1375,6,1324,53,0,8,0.1509433962264151,0.0,1.0,8,0.0
