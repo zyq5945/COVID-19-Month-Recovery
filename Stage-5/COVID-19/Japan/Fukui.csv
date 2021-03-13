@@ -57,3 +57,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 81,Japan,Fukui,2021-03-01,545,25,516,17,0,13,0.7647058823529411,0.0,1.0,13,0.0
 82,Japan,Fukui,2021-03-06,545,25,517,4,0,1,0.25,0.0,1.0,1,0.0
 83,Japan,Fukui,2021-03-11,546,25,519,4,0,2,0.5,0.0,1.0,2,0.0
+84,Japan,Fukui,2021-03-12,546,25,519,2,0,0,0.0,,,0,

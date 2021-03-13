@@ -287,3 +287,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 413,Peru,Lambayeque,2021-03-09,38950,2168,0,36782,0,0,0.0,,,0,
 414,Peru,Lambayeque,2021-03-10,39130,2170,0,36962,2,0,5.410962610248363e-05,1.0,0.0,2,
 415,Peru,Lambayeque,2021-03-11,39213,2173,0,37043,3,0,8.098696109926301e-05,1.0,0.0,3,0.0
+416,Peru,Lambayeque,2021-03-12,39352,2175,0,37179,2,0,5.379380833266091e-05,1.0,0.0,2,0.0

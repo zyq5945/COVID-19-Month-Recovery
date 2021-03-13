@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 413,China,Guangdong,2021-03-09,2236,8,2186,46,0,4,0.08695652173913043,0.0,1.0,4,0.0
 414,China,Guangdong,2021-03-10,2238,8,2185,44,0,-1,-0.022727272727272728,-0.0,1.0,-1,0.0
 415,China,Guangdong,2021-03-11,2240,8,2189,47,0,4,0.0851063829787234,0.0,1.0,4,0.0
+416,China,Guangdong,2021-03-12,2243,8,2189,46,0,0,0.0,,,0,

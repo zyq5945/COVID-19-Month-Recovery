@@ -55,3 +55,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 81,Sweden,Blekinge,2021-03-01,7945,114,0,7831,0,0,0.0,,,0,
 82,Sweden,Blekinge,2021-03-06,8094,116,0,7980,2,0,0.0002506265664160401,1.0,0.0,2,
 83,Sweden,Blekinge,2021-03-11,8237,117,0,8121,1,0,0.00012313754463735992,1.0,0.0,1,0.0
+84,Sweden,Blekinge,2021-03-12,8269,117,0,8152,0,0,0.0,,,0,
