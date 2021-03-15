@@ -408,3 +408,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 415,Australia,Queensland,2021-03-11,1375,6,1324,48,0,3,0.0625,0.0,1.0,3,
 416,Australia,Queensland,2021-03-12,1379,6,1325,49,0,1,0.02040816326530612,0.0,1.0,1,0.0
 417,Australia,Queensland,2021-03-13,1380,6,1328,49,0,3,0.061224489795918366,0.0,1.0,3,0.0
+418,Australia,Queensland,2021-03-14,1386,6,1328,52,0,0,0.0,,,0,
