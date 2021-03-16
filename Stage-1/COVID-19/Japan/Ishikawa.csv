@@ -290,3 +290,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 416,Japan,Ishikawa,2021-03-12,1882,63,1784,43,0,8,0.18604651162790697,0.0,1.0,8,0.0
 417,Japan,Ishikawa,2021-03-13,1886,63,1792,39,0,8,0.20512820512820512,0.0,1.0,8,0.0
 418,Japan,Ishikawa,2021-03-14,1889,63,1796,34,0,4,0.11764705882352941,0.0,1.0,4,0.0
+419,Japan,Ishikawa,2021-03-15,1889,63,1796,30,0,0,0.0,,,0,

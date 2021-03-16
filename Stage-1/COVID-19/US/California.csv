@@ -335,4 +335,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 415,US,California,2021-03-11,3614852,55160,,,270,,,,,,
 416,US,California,2021-03-12,3618777,55517,,,357,,,,,,
 417,US,California,2021-03-13,3620890,56426,,,909,,,,,,
-418,US,California,2021-03-14,3622510,56565,,,139,,,,,,
+418,US,California,2021-03-14,3623063,56573,,,147,,,,,,
+419,US,California,2021-03-15,3625142,56674,,,101,,,,,,
