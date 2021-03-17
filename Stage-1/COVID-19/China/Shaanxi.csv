@@ -418,3 +418,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 417,China,Shaanxi,2021-03-13,560,3,548,11,0,2,0.18181818181818182,0.0,1.0,2,
 418,China,Shaanxi,2021-03-14,561,3,548,10,0,0,0.0,,,0,
 419,China,Shaanxi,2021-03-15,561,3,548,10,0,0,0.0,,,0,
+420,China,Shaanxi,2021-03-16,561,3,549,10,0,1,0.1,0.0,1.0,1,
