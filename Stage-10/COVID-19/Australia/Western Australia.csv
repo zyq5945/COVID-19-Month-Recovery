@@ -38,3 +38,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 40,Australia,Western Australia,2021-02-24,913,9,901,8,0,5,0.625,0.0,1.0,5,0.0
 41,Australia,Western Australia,2021-03-06,916,9,903,6,0,2,0.3333333333333333,0.0,1.0,2,0.0
 42,Australia,Western Australia,2021-03-16,927,9,907,15,0,4,0.26666666666666666,0.0,1.0,4,0.0
+43,Australia,Western Australia,2021-03-17,927,9,908,11,0,1,0.09090909090909091,0.0,1.0,1,0.0

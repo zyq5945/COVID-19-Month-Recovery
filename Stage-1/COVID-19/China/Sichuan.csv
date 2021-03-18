@@ -419,3 +419,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 418,China,Sichuan,2021-03-14,929,3,891,38,0,3,0.07894736842105263,0.0,1.0,3,0.0
 419,China,Sichuan,2021-03-15,935,3,891,41,0,0,0.0,,,0,
 420,China,Sichuan,2021-03-16,937,3,892,43,0,1,0.023255813953488372,0.0,1.0,1,
+421,China,Sichuan,2021-03-17,937,3,895,42,0,3,0.07142857142857142,0.0,1.0,3,0.0

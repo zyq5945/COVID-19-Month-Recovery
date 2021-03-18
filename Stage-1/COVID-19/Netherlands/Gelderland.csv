@@ -242,3 +242,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 418,Netherlands,Gelderland,2021-03-14,128684,1850,0,126834,0,0,0.0,,,0,
 419,Netherlands,Gelderland,2021-03-15,129192,1852,0,127342,2,0,1.5705737305837823e-05,1.0,0.0,2,
 420,Netherlands,Gelderland,2021-03-16,129740,1854,0,127888,2,0,1.5638683848367322e-05,1.0,0.0,2,0.0
+421,Netherlands,Gelderland,2021-03-17,130386,1856,0,128532,2,0,1.556032738928827e-05,1.0,0.0,2,0.0
