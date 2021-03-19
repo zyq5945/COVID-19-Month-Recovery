@@ -293,3 +293,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 419,Peru,Moquegua,2021-03-15,20746,473,0,20273,0,0,0.0,,,0,
 420,Peru,Moquegua,2021-03-16,20746,473,0,20273,0,0,0.0,,,0,
 421,Peru,Moquegua,2021-03-17,20870,478,0,20397,5,0,0.0002451340883463254,1.0,0.0,5,
+422,Peru,Moquegua,2021-03-18,20935,480,0,20457,2,0,9.776604585227551e-05,1.0,0.0,2,0.0

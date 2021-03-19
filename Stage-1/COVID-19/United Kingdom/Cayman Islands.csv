@@ -366,3 +366,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 419,United Kingdom,Cayman Islands,2021-03-15,474,2,437,42,0,7,0.16666666666666666,0.0,1.0,7,
 420,United Kingdom,Cayman Islands,2021-03-16,474,2,441,35,0,4,0.11428571428571428,0.0,1.0,4,0.0
 421,United Kingdom,Cayman Islands,2021-03-17,474,2,441,31,0,0,0.0,,,0,
+422,United Kingdom,Cayman Islands,2021-03-18,475,2,442,32,0,1,0.03125,0.0,1.0,1,

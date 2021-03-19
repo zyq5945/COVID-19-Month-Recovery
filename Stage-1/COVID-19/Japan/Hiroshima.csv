@@ -293,3 +293,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 419,Japan,Hiroshima,2021-03-15,5067,101,4924,42,0,0,0.0,,,0,
 420,Japan,Hiroshima,2021-03-16,5068,101,4926,43,0,2,0.046511627906976744,0.0,1.0,2,
 421,Japan,Hiroshima,2021-03-17,5070,101,4927,43,0,1,0.023255813953488372,0.0,1.0,1,0.0
+422,Japan,Hiroshima,2021-03-18,5071,101,4928,43,0,1,0.023255813953488372,0.0,1.0,1,0.0
