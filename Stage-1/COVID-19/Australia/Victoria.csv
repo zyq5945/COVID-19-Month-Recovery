@@ -417,3 +417,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 421,Australia,Victoria,2021-03-17,20483,820,19662,1,0,0,0.0,,,0,
 422,Australia,Victoria,2021-03-18,20483,820,19662,1,0,0,0.0,,,0,
 423,Australia,Victoria,2021-03-19,20483,820,19662,1,0,0,0.0,,,0,
+424,Australia,Victoria,2021-03-20,20483,820,19663,1,0,1,1.0,0.0,1.0,1,
