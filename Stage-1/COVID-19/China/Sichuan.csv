@@ -423,3 +423,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 422,China,Sichuan,2021-03-18,937,3,900,39,0,5,0.1282051282051282,0.0,1.0,5,0.0
 423,China,Sichuan,2021-03-19,937,3,903,34,0,3,0.08823529411764706,0.0,1.0,3,0.0
 424,China,Sichuan,2021-03-20,937,3,903,31,0,0,0.0,,,0,
+425,China,Sichuan,2021-03-21,937,3,904,31,0,1,0.03225806451612903,0.0,1.0,1,

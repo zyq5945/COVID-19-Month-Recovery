@@ -423,3 +423,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 422,China,Shanghai,2021-03-18,1848,7,1801,41,0,1,0.024390243902439025,0.0,1.0,1,0.0
 423,China,Shanghai,2021-03-19,1848,7,1801,40,0,0,0.0,,,0,
 424,China,Shanghai,2021-03-20,1852,7,1805,44,0,4,0.09090909090909091,0.0,1.0,4,
+425,China,Shanghai,2021-03-21,1855,7,1808,43,0,3,0.06976744186046512,0.0,1.0,3,0.0
