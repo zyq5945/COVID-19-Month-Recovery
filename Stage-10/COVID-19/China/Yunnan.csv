@@ -41,4 +41,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 40,China,Yunnan,2021-02-24,231,2,229,1,0,1,1.0,0.0,1.0,1,
 41,China,Yunnan,2021-03-06,234,2,229,3,0,0,0.0,,,0,
 42,China,Yunnan,2021-03-16,234,2,229,3,0,0,0.0,,,0,
-43,China,Yunnan,2021-03-21,234,2,230,3,0,1,0.3333333333333333,0.0,1.0,1,
+43,China,Yunnan,2021-03-22,235,2,230,4,0,1,0.25,0.0,1.0,1,

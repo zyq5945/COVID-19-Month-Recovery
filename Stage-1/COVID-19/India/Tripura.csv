@@ -284,3 +284,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 423,India,Tripura,2021-03-19,33459,391,33043,26,0,1,0.038461538461538464,0.0,1.0,1,0.0
 424,India,Tripura,2021-03-20,33464,391,33043,30,0,0,0.0,,,0,
 425,India,Tripura,2021-03-21,33464,391,33043,30,0,0,0.0,,,0,
+426,India,Tripura,2021-03-22,33470,392,33044,36,1,1,0.05555555555555555,0.5,0.5,2,

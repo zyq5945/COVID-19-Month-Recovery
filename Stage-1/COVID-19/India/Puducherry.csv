@@ -284,3 +284,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 423,India,Puducherry,2021-03-19,40262,674,39521,67,0,0,0.0,,,0,
 424,India,Puducherry,2021-03-20,40322,674,39521,127,0,0,0.0,,,0,
 425,India,Puducherry,2021-03-21,40386,675,39521,191,1,0,0.005235602094240838,1.0,0.0,1,
+426,India,Puducherry,2021-03-22,40433,676,39521,237,1,0,0.004219409282700422,1.0,0.0,1,0.0

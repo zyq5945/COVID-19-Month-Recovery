@@ -59,3 +59,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 83,Japan,Yamanashi,2021-03-11,948,18,922,10,0,2,0.2,0.0,1.0,2,0.0
 84,Japan,Yamanashi,2021-03-16,956,18,924,16,0,2,0.125,0.0,1.0,2,0.0
 85,Japan,Yamanashi,2021-03-21,958,18,925,16,0,1,0.0625,0.0,1.0,1,0.0
+86,Japan,Yamanashi,2021-03-22,958,18,925,15,0,0,0.0,,,0,

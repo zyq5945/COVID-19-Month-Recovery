@@ -84,3 +84,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 83,China,Sichuan,2021-03-11,929,3,884,48,0,6,0.125,0.0,1.0,6,0.0
 84,China,Sichuan,2021-03-16,937,3,892,50,0,8,0.16,0.0,1.0,8,0.0
 85,China,Sichuan,2021-03-21,937,3,904,42,0,12,0.2857142857142857,0.0,1.0,12,0.0
+86,China,Sichuan,2021-03-22,938,3,910,31,0,6,0.1935483870967742,0.0,1.0,6,0.0

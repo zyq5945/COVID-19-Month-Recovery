@@ -59,3 +59,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 83,Japan,Nagasaki,2021-03-11,1613,37,1572,14,0,10,0.7142857142857143,0.0,1.0,10,0.04347826086956519
 84,Japan,Nagasaki,2021-03-16,1614,38,1573,5,1,1,0.4,0.5,0.5,2,-0.5
 85,Japan,Nagasaki,2021-03-21,1616,38,1576,5,0,3,0.6,0.0,1.0,3,0.5
+86,Japan,Nagasaki,2021-03-22,1616,38,1576,2,0,0,0.0,,,0,

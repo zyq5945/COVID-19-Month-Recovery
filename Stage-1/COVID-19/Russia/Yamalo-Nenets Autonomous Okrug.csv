@@ -293,3 +293,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 423,Russia,Yamalo-Nenets Autonomous Okrug,2021-03-19,37702,404,36150,1180,0,32,0.02711864406779661,0.0,1.0,32,0.0
 424,Russia,Yamalo-Nenets Autonomous Okrug,2021-03-20,37726,404,36187,1172,0,37,0.031569965870307165,0.0,1.0,37,0.0
 425,Russia,Yamalo-Nenets Autonomous Okrug,2021-03-21,37751,405,36218,1160,1,31,0.027586206896551724,0.03125,0.96875,32,-0.03125
+426,Russia,Yamalo-Nenets Autonomous Okrug,2021-03-22,37775,405,36257,1152,0,39,0.033854166666666664,0.0,1.0,39,0.03125
