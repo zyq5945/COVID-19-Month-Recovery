@@ -78,3 +78,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 424,France,Wallis and Futuna,2021-03-20,302,1,11,295,1,4,0.01694915254237288,0.2,0.8,5,
 425,France,Wallis and Futuna,2021-03-21,308,1,11,296,0,0,0.0,,,0,
 426,France,Wallis and Futuna,2021-03-22,318,1,13,306,0,2,0.006535947712418301,0.0,1.0,2,
+427,France,Wallis and Futuna,2021-03-23,329,2,18,315,1,5,0.01904761904761905,0.16666666666666666,0.8333333333333334,6,-0.16666666666666663

@@ -415,3 +415,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 424,Australia,South Australia,2021-03-20,642,4,622,16,0,0,0.0,,,0,
 425,Australia,South Australia,2021-03-21,642,4,624,16,0,2,0.125,0.0,1.0,2,
 426,Australia,South Australia,2021-03-22,642,4,624,14,0,0,0.0,,,0,
+427,Australia,South Australia,2021-03-23,644,4,625,16,0,1,0.0625,0.0,1.0,1,
