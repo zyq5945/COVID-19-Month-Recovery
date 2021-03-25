@@ -84,4 +84,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 83,China,Tianjin,2021-03-11,361,3,343,15,0,0,0.0,,,0,
 84,China,Tianjin,2021-03-16,364,3,344,18,0,1,0.05555555555555555,0.0,1.0,1,
 85,China,Tianjin,2021-03-21,370,3,351,23,0,7,0.30434782608695654,0.0,1.0,7,0.0
-86,China,Tianjin,2021-03-23,372,3,351,18,0,0,0.0,,,0,
+86,China,Tianjin,2021-03-24,372,3,351,18,0,0,0.0,,,0,

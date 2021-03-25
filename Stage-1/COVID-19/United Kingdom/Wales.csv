@@ -285,3 +285,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 425,United Kingdom,Wales,2021-03-21,207842,5488,0,202360,6,0,2.9650128483890098e-05,1.0,0.0,6,0.0
 426,United Kingdom,Wales,2021-03-22,207992,5488,0,202504,0,0,0.0,,,0,
 427,United Kingdom,Wales,2021-03-23,208119,5488,0,202631,0,0,0.0,,,0,
+428,United Kingdom,Wales,2021-03-24,208277,5491,0,202789,3,0,1.4793701828008423e-05,1.0,0.0,3,

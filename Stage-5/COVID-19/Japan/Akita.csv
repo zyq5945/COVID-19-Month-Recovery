@@ -59,4 +59,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 83,Japan,Akita,2021-03-11,269,6,262,1,0,0,0.0,,,0,
 84,Japan,Akita,2021-03-16,270,6,262,2,0,0,0.0,,,0,
 85,Japan,Akita,2021-03-21,277,6,262,9,0,0,0.0,,,0,
-86,Japan,Akita,2021-03-23,278,6,262,10,0,0,0.0,,,0,
+86,Japan,Akita,2021-03-24,278,6,263,10,0,1,0.1,0.0,1.0,1,
