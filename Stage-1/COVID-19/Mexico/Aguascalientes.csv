@@ -308,3 +308,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 426,Mexico,Aguascalientes,2021-03-22,24227,2107,0,22120,0,0,0.0,,,0,
 427,Mexico,Aguascalientes,2021-03-23,24278,2141,0,22171,34,0,0.0015335347977087186,1.0,0.0,34,
 428,Mexico,Aguascalientes,2021-03-24,24347,2144,0,22206,3,0,0.00013509862199405565,1.0,0.0,3,0.0
+429,Mexico,Aguascalientes,2021-03-25,24392,2147,0,22248,3,0,0.00013484358144552318,1.0,0.0,3,0.0

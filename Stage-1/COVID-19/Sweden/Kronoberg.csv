@@ -292,3 +292,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 426,Sweden,Kronoberg,2021-03-22,14762,296,0,14466,0,0,0.0,,,0,
 427,Sweden,Kronoberg,2021-03-23,14892,296,0,14596,0,0,0.0,,,0,
 428,Sweden,Kronoberg,2021-03-24,14962,296,0,14666,0,0,0.0,,,0,
+429,Sweden,Kronoberg,2021-03-25,15034,297,0,14738,1,0,6.785181164337088e-05,1.0,0.0,1,
