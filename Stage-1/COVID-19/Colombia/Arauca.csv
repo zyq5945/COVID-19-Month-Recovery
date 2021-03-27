@@ -301,3 +301,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 427,Colombia,Arauca,2021-03-23,5663,173,5415,80,0,5,0.0625,0.0,1.0,5,0.0
 428,Colombia,Arauca,2021-03-24,5671,173,5416,83,0,1,0.012048192771084338,0.0,1.0,1,0.0
 429,Colombia,Arauca,2021-03-25,5674,173,5424,85,0,8,0.09411764705882353,0.0,1.0,8,0.0
+430,Colombia,Arauca,2021-03-26,5709,173,5424,112,0,0,0.0,,,0,

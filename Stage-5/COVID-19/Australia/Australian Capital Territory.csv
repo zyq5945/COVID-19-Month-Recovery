@@ -74,4 +74,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 83,Australia,Australian Capital Territory,2021-03-11,123,3,115,5,0,0,0.0,,,0,
 84,Australia,Australian Capital Territory,2021-03-16,123,3,115,5,0,0,0.0,,,0,
 85,Australia,Australian Capital Territory,2021-03-21,123,3,116,5,0,1,0.2,0.0,1.0,1,
-86,Australia,Australian Capital Territory,2021-03-25,123,3,117,4,0,1,0.25,0.0,1.0,1,0.0
+86,Australia,Australian Capital Territory,2021-03-26,123,3,119,4,0,3,0.75,0.0,1.0,3,0.0

@@ -370,3 +370,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 427,United Kingdom,Isle of Man,2021-03-23,1516,26,702,893,0,105,0.11758118701007839,0.0,1.0,105,0.0
 428,United Kingdom,Isle of Man,2021-03-24,1530,26,702,802,0,0,0.0,,,0,
 429,United Kingdom,Isle of Man,2021-03-25,1545,26,851,817,0,149,0.18237454100367198,0.0,1.0,149,
+430,United Kingdom,Isle of Man,2021-03-26,1551,27,851,674,1,0,0.001483679525222552,1.0,0.0,1,-1.0
