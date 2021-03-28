@@ -302,3 +302,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 428,Peru,Arequipa,2021-03-24,64236,2115,0,62121,0,0,0.0,,,0,
 429,Peru,Arequipa,2021-03-25,64523,2124,0,62408,9,0,0.00014421228047686193,1.0,0.0,9,
 430,Peru,Arequipa,2021-03-26,64523,2124,0,62399,0,0,0.0,,,0,
+431,Peru,Arequipa,2021-03-27,64982,2130,0,62858,6,0,9.545324381940246e-05,1.0,0.0,6,

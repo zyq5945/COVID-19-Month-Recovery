@@ -58,3 +58,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 84,Sweden,Halland,2021-03-16,27196,280,0,26918,2,0,7.429972509101716e-05,1.0,0.0,2,0.0
 85,Sweden,Halland,2021-03-21,28262,285,0,27982,5,0,0.0001786862983346437,1.0,0.0,5,0.0
 86,Sweden,Halland,2021-03-26,30480,287,0,30195,2,0,6.62361318099023e-05,1.0,0.0,2,0.0
+87,Sweden,Halland,2021-03-27,30480,287,0,30193,0,0,0.0,,,0,
