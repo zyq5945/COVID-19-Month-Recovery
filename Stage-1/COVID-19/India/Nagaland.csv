@@ -290,4 +290,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 429,India,Nagaland,2021-03-25,12229,92,12133,5,1,0,0.2,1.0,0.0,1,-1.0
 430,India,Nagaland,2021-03-26,12229,92,12133,4,0,0,0.0,,,0,
 431,India,Nagaland,2021-03-27,12229,92,12133,4,0,0,0.0,,,0,
-432,India,Nagaland,2021-03-28,12229,92,12133,4,0,0,0.0,,,0,
+432,India,Nagaland,2021-03-28,12230,92,12134,5,0,1,0.2,0.0,1.0,1,
+433,India,Nagaland,2021-03-29,12233,92,12134,7,0,0,0.0,,,0,

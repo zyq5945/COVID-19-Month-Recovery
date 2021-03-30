@@ -304,3 +304,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 430,Colombia,Vaupes,2021-03-26,1157,13,1137,8,0,1,0.125,0.0,1.0,1,
 431,Colombia,Vaupes,2021-03-27,1159,13,1137,9,0,0,0.0,,,0,
 432,Colombia,Vaupes,2021-03-28,1160,13,1139,10,0,2,0.2,0.0,1.0,2,
+433,Colombia,Vaupes,2021-03-29,1160,13,1141,8,0,2,0.25,0.0,1.0,2,0.0

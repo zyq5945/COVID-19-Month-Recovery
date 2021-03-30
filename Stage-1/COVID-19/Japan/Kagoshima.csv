@@ -304,3 +304,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 430,Japan,Kagoshima,2021-03-26,1790,30,1760,0,0,0,,,,0,
 431,Japan,Kagoshima,2021-03-27,1800,30,1760,10,0,0,0.0,,,0,
 432,Japan,Kagoshima,2021-03-28,1812,30,1760,22,0,0,0.0,,,0,
+433,Japan,Kagoshima,2021-03-29,1817,30,1763,27,0,3,0.1111111111111111,0.0,1.0,3,
