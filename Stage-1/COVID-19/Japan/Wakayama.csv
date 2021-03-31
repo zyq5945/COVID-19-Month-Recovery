@@ -305,3 +305,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 431,Japan,Wakayama,2021-03-27,1244,18,1139,87,0,0,0.0,,,0,
 432,Japan,Wakayama,2021-03-28,1248,18,1139,91,0,0,0.0,,,0,
 433,Japan,Wakayama,2021-03-29,1257,18,1143,100,0,4,0.04,0.0,1.0,4,
+434,Japan,Wakayama,2021-03-30,1273,18,1147,112,0,4,0.03571428571428571,0.0,1.0,4,0.0

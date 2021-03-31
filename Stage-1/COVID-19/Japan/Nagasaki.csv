@@ -305,3 +305,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 431,Japan,Nagasaki,2021-03-27,1626,38,1576,12,0,0,0.0,,,0,
 432,Japan,Nagasaki,2021-03-28,1627,38,1576,13,0,0,0.0,,,0,
 433,Japan,Nagasaki,2021-03-29,1628,38,1577,14,0,1,0.07142857142857142,0.0,1.0,1,
+434,Japan,Nagasaki,2021-03-30,1629,39,1577,14,1,0,0.07142857142857142,1.0,0.0,1,-1.0
