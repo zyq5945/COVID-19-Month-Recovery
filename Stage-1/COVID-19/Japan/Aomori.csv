@@ -306,3 +306,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 432,Japan,Aomori,2021-03-28,944,20,845,79,0,0,0.0,,,0,
 433,Japan,Aomori,2021-03-29,944,20,860,79,0,15,0.189873417721519,0.0,1.0,15,
 434,Japan,Aomori,2021-03-30,950,20,867,70,0,7,0.1,0.0,1.0,7,0.0
+435,Japan,Aomori,2021-03-31,1031,20,870,144,0,3,0.020833333333333332,0.0,1.0,3,0.0
