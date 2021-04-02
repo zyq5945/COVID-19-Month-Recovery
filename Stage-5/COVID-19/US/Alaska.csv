@@ -69,4 +69,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 84,US,Alaska,2021-03-16,60691,306,,,1,,,,,,
 85,US,Alaska,2021-03-21,61086,310,,,4,,,,,,
 86,US,Alaska,2021-03-26,62161,313,,,3,,,,,,
-87,US,Alaska,2021-03-31,62409,313,,,0,,,,,,
+87,US,Alaska,2021-03-31,62797,313,,,0,,,,,,
+88,US,Alaska,2021-04-01,63189,313,,,0,,,,,,

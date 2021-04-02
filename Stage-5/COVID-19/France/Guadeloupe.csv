@@ -76,3 +76,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 85,France,Guadeloupe,2021-03-21,11095,169,2242,8685,1,0,0.00011514104778353483,1.0,0.0,1,
 86,France,Guadeloupe,2021-03-26,11095,169,2242,8684,0,0,0.0,,,0,
 87,France,Guadeloupe,2021-03-31,11512,173,2242,9101,4,0,0.0004395121415229096,1.0,0.0,4,
+88,France,Guadeloupe,2021-04-01,11512,173,2242,9097,0,0,0.0,,,0,

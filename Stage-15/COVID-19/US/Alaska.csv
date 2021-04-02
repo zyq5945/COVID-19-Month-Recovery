@@ -22,4 +22,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 26,US,Alaska,2021-02-14,56405,282,,,20,,,,,,
 27,US,Alaska,2021-03-01,58647,300,,,18,,,,,,
 28,US,Alaska,2021-03-16,60691,306,,,6,,,,,,
-29,US,Alaska,2021-03-31,62409,313,,,7,,,,,,
+29,US,Alaska,2021-03-31,62797,313,,,7,,,,,,
+30,US,Alaska,2021-04-01,63189,313,,,0,,,,,,

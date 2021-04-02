@@ -51,3 +51,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 85,Netherlands,Drenthe,2021-03-21,24809,319,0,24491,1,0,4.0831325793148504e-05,1.0,0.0,1,0.0
 86,Netherlands,Drenthe,2021-03-26,25763,321,0,25444,2,0,7.860399308284861e-05,1.0,0.0,2,0.0
 87,Netherlands,Drenthe,2021-03-31,26720,324,0,26399,3,0,0.00011364066820712906,1.0,0.0,3,0.0
+88,Netherlands,Drenthe,2021-04-01,26891,324,0,26567,0,0,0.0,,,0,
