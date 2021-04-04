@@ -436,3 +436,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 435,China,Shaanxi,2021-03-31,567,3,553,11,0,0,0.0,,,0,
 436,China,Shaanxi,2021-04-01,567,3,553,11,0,0,0.0,,,0,
 437,China,Shaanxi,2021-04-02,568,3,554,12,0,1,0.08333333333333333,0.0,1.0,1,
+438,China,Shaanxi,2021-04-03,568,3,555,11,0,1,0.09090909090909091,0.0,1.0,1,0.0

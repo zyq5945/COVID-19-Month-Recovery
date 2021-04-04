@@ -436,3 +436,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 435,China,Sichuan,2021-03-31,948,3,927,22,0,4,0.18181818181818182,0.0,1.0,4,0.0
 436,China,Sichuan,2021-04-01,949,3,929,19,0,2,0.10526315789473684,0.0,1.0,2,0.0
 437,China,Sichuan,2021-04-02,949,3,930,17,0,1,0.058823529411764705,0.0,1.0,1,0.0
+438,China,Sichuan,2021-04-03,949,3,930,16,0,0,0.0,,,0,

@@ -436,3 +436,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 435,China,Hunan,2021-03-31,1042,4,1033,6,0,1,0.16666666666666666,0.0,1.0,1,
 436,China,Hunan,2021-04-01,1043,4,1033,6,0,0,0.0,,,0,
 437,China,Hunan,2021-04-02,1043,4,1033,6,0,0,0.0,,,0,
+438,China,Hunan,2021-04-03,1043,4,1039,6,0,6,1.0,0.0,1.0,6,

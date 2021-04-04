@@ -323,3 +323,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 435,Spain,Navarra,2021-03-31,54315,1121,3905,49289,0,0,0.0,,,0,
 436,Spain,Navarra,2021-04-01,54479,1121,3905,49453,0,0,0.0,,,0,
 437,Spain,Navarra,2021-04-02,54479,1121,3905,49453,0,0,0.0,,,0,
+438,Spain,Navarra,2021-04-03,54832,1122,3905,49806,1,0,2.0077902260771793e-05,1.0,0.0,1,

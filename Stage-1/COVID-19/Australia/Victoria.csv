@@ -431,3 +431,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 435,Australia,Victoria,2021-03-31,20484,820,19664,0,0,0,,,,0,
 436,Australia,Victoria,2021-04-01,20484,820,19663,0,0,-1,,-0.0,1.0,-1,
 437,Australia,Victoria,2021-04-02,20484,820,19663,1,0,0,0.0,,,0,
+438,Australia,Victoria,2021-04-03,20484,820,19663,1,0,0,0.0,,,0,
