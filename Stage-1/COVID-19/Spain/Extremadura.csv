@@ -324,3 +324,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,Spain,Extremadura,2021-04-01,71200,1757,2652,66791,0,0,0.0,,,0,
 437,Spain,Extremadura,2021-04-02,71200,1757,2652,66791,0,0,0.0,,,0,
 438,Spain,Extremadura,2021-04-03,71440,1758,2652,67031,1,0,1.4918470558398353e-05,1.0,0.0,1,
+439,Spain,Extremadura,2021-04-04,71440,1758,2652,67030,0,0,0.0,,,0,
+440,Spain,Extremadura,2021-04-05,71599,1760,2652,67189,2,0,2.976677729985563e-05,1.0,0.0,2,

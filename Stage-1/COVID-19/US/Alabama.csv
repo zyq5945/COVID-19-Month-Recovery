@@ -356,3 +356,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,US,Alabama,2021-04-01,515866,10553,,,-1,,,,,,
 437,US,Alabama,2021-04-02,516266,10607,,,54,,,,,,
 438,US,Alabama,2021-04-03,516615,10637,,,30,,,,,,
+439,US,Alabama,2021-04-04,516809,10637,,,0,,,,,,
+440,US,Alabama,2021-04-05,516918,10638,,,1,,,,,,

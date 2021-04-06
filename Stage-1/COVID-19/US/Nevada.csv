@@ -356,3 +356,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,US,Nevada,2021-04-01,304112,5256,,,7,,,,,,
 437,US,Nevada,2021-04-02,304454,5260,,,4,,,,,,
 438,US,Nevada,2021-04-03,304916,5274,,,14,,,,,,
+439,US,Nevada,2021-04-04,305176,5274,,,0,,,,,,
+440,US,Nevada,2021-04-05,305357,5275,,,1,,,,,,

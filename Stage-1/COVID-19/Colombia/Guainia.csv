@@ -309,3 +309,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,Colombia,Guainia,2021-04-01,1336,22,1308,6,0,0,0.0,,,0,
 437,Colombia,Guainia,2021-04-02,1338,22,1309,8,0,1,0.125,0.0,1.0,1,
 438,Colombia,Guainia,2021-04-03,1338,22,1310,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
+439,Colombia,Guainia,2021-04-04,1338,22,1310,6,0,0,0.0,,,0,
+440,Colombia,Guainia,2021-04-05,1338,22,1311,6,0,1,0.16666666666666666,0.0,1.0,1,

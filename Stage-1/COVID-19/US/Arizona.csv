@@ -356,3 +356,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,US,Arizona,2021-04-01,842192,16977,,,10,,,,,,
 437,US,Arizona,2021-04-02,843132,16989,,,12,,,,,,
 438,US,Arizona,2021-04-03,843838,16991,,,2,,,,,,
+439,US,Arizona,2021-04-04,844302,16990,,,-1,,,,,,
+440,US,Arizona,2021-04-05,844910,16990,,,0,,,,,,

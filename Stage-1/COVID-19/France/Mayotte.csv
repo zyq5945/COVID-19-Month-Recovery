@@ -384,3 +384,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,France,Mayotte,2021-04-01,19408,161,2964,16283,0,0,0.0,,,0,
 437,France,Mayotte,2021-04-02,19408,161,2964,16283,0,0,0.0,,,0,
 438,France,Mayotte,2021-04-03,19490,162,2964,16365,1,0,6.110601894286588e-05,1.0,0.0,1,
+439,France,Mayotte,2021-04-04,19490,162,2964,16364,0,0,0.0,,,0,
+440,France,Mayotte,2021-04-05,19490,162,2964,16364,0,0,0.0,,,0,

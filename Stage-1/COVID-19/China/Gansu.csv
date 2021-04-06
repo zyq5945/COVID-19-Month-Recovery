@@ -437,3 +437,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,China,Gansu,2021-04-01,193,2,186,5,0,0,0.0,,,0,
 437,China,Gansu,2021-04-02,193,2,186,5,0,0,0.0,,,0,
 438,China,Gansu,2021-04-03,193,2,188,5,0,2,0.4,0.0,1.0,2,
+439,China,Gansu,2021-04-04,193,2,188,3,0,0,0.0,,,0,
+440,China,Gansu,2021-04-05,193,2,189,3,0,1,0.3333333333333333,0.0,1.0,1,

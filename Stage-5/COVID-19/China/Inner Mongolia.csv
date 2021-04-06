@@ -86,4 +86,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 85,China,Inner Mongolia,2021-03-21,370,1,366,4,0,1,0.25,0.0,1.0,1,
 86,China,Inner Mongolia,2021-03-26,371,1,367,4,0,1,0.25,0.0,1.0,1,0.0
 87,China,Inner Mongolia,2021-03-31,375,1,368,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
-88,China,Inner Mongolia,2021-04-03,375,1,368,6,0,0,0.0,,,0,
+88,China,Inner Mongolia,2021-04-05,376,1,370,7,0,2,0.2857142857142857,0.0,1.0,2,0.0

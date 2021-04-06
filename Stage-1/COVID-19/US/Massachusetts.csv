@@ -356,3 +356,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,US,Massachusetts,2021-04-01,638339,17217,,,32,,,,,,
 437,US,Massachusetts,2021-04-02,640779,17249,,,32,,,,,,
 438,US,Massachusetts,2021-04-03,643232,17281,,,32,,,,,,
+439,US,Massachusetts,2021-04-04,643232,17281,,,0,,,,,,
+440,US,Massachusetts,2021-04-05,646220,17325,,,44,,,,,,

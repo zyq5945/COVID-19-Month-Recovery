@@ -356,3 +356,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,US,Wisconsin,2021-04-01,636908,7326,,,11,,,,,,
 437,US,Wisconsin,2021-04-02,637801,7336,,,10,,,,,,
 438,US,Wisconsin,2021-04-03,638590,7341,,,5,,,,,,
+439,US,Wisconsin,2021-04-04,639227,7340,,,-1,,,,,,
+440,US,Wisconsin,2021-04-05,639553,7341,,,1,,,,,,

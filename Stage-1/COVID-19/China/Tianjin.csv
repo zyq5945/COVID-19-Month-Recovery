@@ -437,3 +437,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 436,China,Tianjin,2021-04-01,373,3,360,12,0,2,0.16666666666666666,0.0,1.0,2,0.0
 437,China,Tianjin,2021-04-02,373,3,360,10,0,0,0.0,,,0,
 438,China,Tianjin,2021-04-03,374,3,360,11,0,0,0.0,,,0,
+439,China,Tianjin,2021-04-04,375,3,362,12,0,2,0.16666666666666666,0.0,1.0,2,
+440,China,Tianjin,2021-04-05,375,3,364,10,0,2,0.2,0.0,1.0,2,0.0

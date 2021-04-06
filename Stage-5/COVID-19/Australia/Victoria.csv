@@ -85,4 +85,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 85,Australia,Victoria,2021-03-21,20483,820,19663,1,0,1,1.0,0.0,1.0,1,0.0
 86,Australia,Victoria,2021-03-26,20483,820,19664,0,0,1,,0.0,1.0,1,0.0
 87,Australia,Victoria,2021-03-31,20484,820,19664,0,0,0,,,,0,
-88,Australia,Victoria,2021-04-03,20484,820,19663,0,0,-1,,-0.0,1.0,-1,
+88,Australia,Victoria,2021-04-05,20484,820,19663,0,0,-1,,-0.0,1.0,-1,
