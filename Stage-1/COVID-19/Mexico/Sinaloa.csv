@@ -320,3 +320,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 438,Mexico,Sinaloa,2021-04-03,36293,5744,0,30549,0,0,0.0,,,0,
 439,Mexico,Sinaloa,2021-04-04,36310,5744,0,30566,0,0,0.0,,,0,
 440,Mexico,Sinaloa,2021-04-05,36329,5744,0,30585,0,0,0.0,,,0,
+441,Mexico,Sinaloa,2021-04-06,36431,5771,0,30687,27,0,0.0008798514028741812,1.0,0.0,27,

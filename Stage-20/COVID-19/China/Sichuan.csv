@@ -21,3 +21,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 20,China,Sichuan,2021-02-24,890,3,870,30,0,13,0.43333333333333335,0.0,1.0,13,0.0
 21,China,Sichuan,2021-03-16,937,3,892,64,0,22,0.34375,0.0,1.0,22,0.0
 22,China,Sichuan,2021-04-05,952,3,931,57,0,39,0.6842105263157895,0.0,1.0,39,0.0
+23,China,Sichuan,2021-04-06,954,3,931,20,0,0,0.0,,,0,

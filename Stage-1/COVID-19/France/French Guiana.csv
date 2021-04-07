@@ -386,3 +386,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 438,France,French Guiana,2021-04-03,17300,96,9995,7212,3,0,0.00041597337770382697,1.0,0.0,3,
 439,France,French Guiana,2021-04-04,17300,96,9995,7209,0,0,0.0,,,0,
 440,France,French Guiana,2021-04-05,17132,96,9995,7041,0,0,0.0,,,0,
+441,France,French Guiana,2021-04-06,17132,93,9995,7041,-3,0,-0.00042607584149978694,1.0,-0.0,-3,

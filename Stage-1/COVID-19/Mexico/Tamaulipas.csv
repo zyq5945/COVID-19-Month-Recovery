@@ -320,3 +320,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 438,Mexico,Tamaulipas,2021-04-03,54643,4658,0,49985,0,0,0.0,,,0,
 439,Mexico,Tamaulipas,2021-04-04,54669,4658,0,50011,0,0,0.0,,,0,
 440,Mexico,Tamaulipas,2021-04-05,54693,4660,0,50035,2,0,3.99720195862896e-05,1.0,0.0,2,
+441,Mexico,Tamaulipas,2021-04-06,54777,4667,0,50117,7,0,0.00013967316479438115,1.0,0.0,7,0.0

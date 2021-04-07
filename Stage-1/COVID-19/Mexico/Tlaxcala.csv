@@ -320,3 +320,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 438,Mexico,Tlaxcala,2021-04-03,18643,2301,0,16343,1,0,6.118827632625589e-05,1.0,0.0,1,0.0
 439,Mexico,Tlaxcala,2021-04-04,18663,2301,0,16362,0,0,0.0,,,0,
 440,Mexico,Tlaxcala,2021-04-05,18676,2302,0,16375,1,0,6.106870229007633e-05,1.0,0.0,1,
+441,Mexico,Tlaxcala,2021-04-06,18763,2303,0,16461,1,0,6.074965068950854e-05,1.0,0.0,1,0.0

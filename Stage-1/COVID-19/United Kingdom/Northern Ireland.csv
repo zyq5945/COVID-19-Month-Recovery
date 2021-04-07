@@ -298,3 +298,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 438,United Kingdom,Northern Ireland,2021-04-03,117587,2116,0,115471,0,0,0.0,,,0,
 439,United Kingdom,Northern Ireland,2021-04-04,117587,2116,0,115471,0,0,0.0,,,0,
 440,United Kingdom,Northern Ireland,2021-04-05,117676,2118,0,115560,2,0,1.7307026652821045e-05,1.0,0.0,2,
+441,United Kingdom,Northern Ireland,2021-04-06,117733,2121,0,115615,3,0,2.5948190113739567e-05,1.0,0.0,3,0.0

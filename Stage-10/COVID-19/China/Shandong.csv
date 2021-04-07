@@ -43,3 +43,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 42,China,Shandong,2021-03-16,869,7,862,1,0,1,1.0,0.0,1.0,1,0.0
 43,China,Shandong,2021-03-26,869,7,862,0,0,0,,,,0,
 44,China,Shandong,2021-04-05,870,7,862,1,0,0,0.0,,,0,
+45,China,Shandong,2021-04-06,871,7,862,2,0,0,0.0,,,0,

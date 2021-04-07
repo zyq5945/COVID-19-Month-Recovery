@@ -304,3 +304,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 438,Sweden,Kalmar,2021-04-03,15421,222,0,15199,0,0,0.0,,,0,
 439,Sweden,Kalmar,2021-04-04,15421,222,0,15199,0,0,0.0,,,0,
 440,Sweden,Kalmar,2021-04-05,15421,222,0,15199,0,0,0.0,,,0,
+441,Sweden,Kalmar,2021-04-06,15979,223,0,15757,1,0,6.346385733324872e-05,1.0,0.0,1,
