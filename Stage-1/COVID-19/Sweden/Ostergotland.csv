@@ -305,3 +305,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 439,Sweden,Ostergotland,2021-04-04,28385,577,0,27808,0,0,0.0,,,0,
 440,Sweden,Ostergotland,2021-04-05,28385,577,0,27808,0,0,0.0,,,0,
 441,Sweden,Ostergotland,2021-04-06,29493,578,0,28916,1,0,3.458292986581823e-05,1.0,0.0,1,
+442,Sweden,Ostergotland,2021-04-07,29693,581,0,29115,3,0,0.00010303967027305513,1.0,0.0,3,0.0

@@ -313,3 +313,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 439,Japan,Tottori,2021-04-04,276,2,206,69,0,1,0.014492753623188406,0.0,1.0,1,
 440,Japan,Tottori,2021-04-05,278,2,205,70,0,-1,-0.014285714285714285,-0.0,1.0,-1,0.0
 441,Japan,Tottori,2021-04-06,278,2,205,71,0,0,0.0,,,0,
+442,Japan,Tottori,2021-04-07,282,2,206,75,0,1,0.013333333333333334,0.0,1.0,1,
