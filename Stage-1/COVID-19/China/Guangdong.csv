@@ -441,3 +441,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 440,China,Guangdong,2021-04-05,2289,8,2242,42,0,3,0.07142857142857142,0.0,1.0,3,
 441,China,Guangdong,2021-04-06,2290,8,2242,40,0,0,0.0,,,0,
 442,China,Guangdong,2021-04-07,2291,8,2242,41,0,0,0.0,,,0,
+443,China,Guangdong,2021-04-08,2295,8,2245,45,0,3,0.06666666666666667,0.0,1.0,3,

@@ -441,3 +441,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 440,China,Sichuan,2021-04-05,952,3,931,19,0,1,0.05263157894736842,0.0,1.0,1,
 441,China,Sichuan,2021-04-06,954,3,931,20,0,0,0.0,,,0,
 442,China,Sichuan,2021-04-07,954,3,933,20,0,2,0.1,0.0,1.0,2,
+443,China,Sichuan,2021-04-08,954,3,933,18,0,0,0.0,,,0,

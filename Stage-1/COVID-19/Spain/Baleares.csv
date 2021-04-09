@@ -328,3 +328,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 440,Spain,Baleares,2021-04-05,57901,777,1533,55591,0,0,0.0,,,0,
 441,Spain,Baleares,2021-04-06,57932,777,1533,55622,0,0,0.0,,,0,
 442,Spain,Baleares,2021-04-07,58000,778,1533,55690,1,0,1.7956545160711078e-05,1.0,0.0,1,
+443,Spain,Baleares,2021-04-08,58082,779,1533,55771,1,0,1.793046565419304e-05,1.0,0.0,1,0.0

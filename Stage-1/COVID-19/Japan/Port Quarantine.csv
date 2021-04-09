@@ -314,3 +314,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 440,Japan,Port Quarantine,2021-04-05,2455,3,2305,147,0,0,0.0,,,0,
 441,Japan,Port Quarantine,2021-04-06,2463,3,2313,155,0,8,0.05161290322580645,0.0,1.0,8,
 442,Japan,Port Quarantine,2021-04-07,2470,3,2314,154,0,1,0.006493506493506494,0.0,1.0,1,0.0
+443,Japan,Port Quarantine,2021-04-08,2473,3,2325,156,0,11,0.07051282051282051,0.0,1.0,11,0.0
