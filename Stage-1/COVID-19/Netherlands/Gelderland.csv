@@ -265,3 +265,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 441,Netherlands,Gelderland,2021-04-06,145364,1904,0,143461,1,0,6.970535546246018e-06,1.0,0.0,1,
 442,Netherlands,Gelderland,2021-04-07,146053,1907,0,144149,3,0,2.0811798902524472e-05,1.0,0.0,3,0.0
 443,Netherlands,Gelderland,2021-04-08,147037,1907,0,145130,0,0,0.0,,,0,
+444,Netherlands,Gelderland,2021-04-09,147810,1911,0,145903,4,0,2.7415474664674476e-05,1.0,0.0,4,

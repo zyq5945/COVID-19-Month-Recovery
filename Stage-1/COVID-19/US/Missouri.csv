@@ -361,3 +361,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 441,US,Missouri,2021-04-06,585131,8876,,,9,,,,,,
 442,US,Missouri,2021-04-07,585906,8878,,,2,,,,,,
 443,US,Missouri,2021-04-08,586698,8879,,,1,,,,,,
+444,US,Missouri,2021-04-09,587476,8878,,,-1,,,,,,
