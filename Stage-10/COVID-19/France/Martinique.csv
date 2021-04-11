@@ -37,4 +37,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 42,France,Martinique,2021-03-16,7037,47,98,6892,0,0,0.0,,,0,
 43,France,Martinique,2021-03-26,7264,47,98,7119,0,0,0.0,,,0,
 44,France,Martinique,2021-04-05,8163,54,98,8018,7,0,0.000873035669743078,1.0,0.0,7,
-45,France,Martinique,2021-04-09,8163,54,98,8011,0,0,0.0,,,0,
+45,France,Martinique,2021-04-10,8887,59,98,8735,5,0,0.0005724098454493417,1.0,0.0,5,0.0

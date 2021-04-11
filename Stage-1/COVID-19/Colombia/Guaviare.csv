@@ -305,3 +305,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 442,Colombia,Guaviare,2021-04-07,2302,40,2254,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 443,Colombia,Guaviare,2021-04-08,2304,40,2255,10,0,1,0.1,0.0,1.0,1,0.0
 444,Colombia,Guaviare,2021-04-09,2304,40,2257,9,0,2,0.2222222222222222,0.0,1.0,2,0.0
+445,Colombia,Guaviare,2021-04-10,2304,40,2257,7,0,0,0.0,,,0,

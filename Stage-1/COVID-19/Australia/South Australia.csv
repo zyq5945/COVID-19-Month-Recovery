@@ -433,3 +433,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 442,Australia,South Australia,2021-04-07,663,4,651,10,0,2,0.2,0.0,1.0,2,
 443,Australia,South Australia,2021-04-08,665,4,651,10,0,0,0.0,,,0,
 444,Australia,South Australia,2021-04-09,665,4,654,10,0,3,0.3,0.0,1.0,3,
+445,Australia,South Australia,2021-04-10,666,4,657,8,0,3,0.375,0.0,1.0,3,0.0

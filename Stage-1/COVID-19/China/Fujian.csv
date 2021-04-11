@@ -443,3 +443,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 442,China,Fujian,2021-04-07,573,1,554,19,0,1,0.05263157894736842,0.0,1.0,1,0.0
 443,China,Fujian,2021-04-08,574,1,554,19,0,0,0.0,,,0,
 444,China,Fujian,2021-04-09,576,1,554,21,0,0,0.0,,,0,
+445,China,Fujian,2021-04-10,576,1,555,21,0,1,0.047619047619047616,0.0,1.0,1,

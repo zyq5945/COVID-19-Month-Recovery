@@ -302,3 +302,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 442,United Kingdom,Northern Ireland,2021-04-07,117821,2121,0,115700,0,0,0.0,,,0,
 443,United Kingdom,Northern Ireland,2021-04-08,117919,2123,0,115798,2,0,1.7271455465552082e-05,1.0,0.0,2,
 444,United Kingdom,Northern Ireland,2021-04-09,118032,2125,0,115909,2,0,1.7254915494051368e-05,1.0,0.0,2,0.0
+445,United Kingdom,Northern Ireland,2021-04-10,118178,2128,0,116053,3,0,2.585025807174308e-05,1.0,0.0,3,0.0

@@ -443,3 +443,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 442,China,Inner Mongolia,2021-04-07,377,1,370,6,0,0,0.0,,,0,
 443,China,Inner Mongolia,2021-04-08,377,1,370,6,0,0,0.0,,,0,
 444,China,Inner Mongolia,2021-04-09,377,1,373,6,0,3,0.5,0.0,1.0,3,
+445,China,Inner Mongolia,2021-04-10,377,1,374,3,0,1,0.3333333333333333,0.0,1.0,1,0.0

@@ -316,3 +316,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 442,Colombia,San Andres y Providencia,2021-04-07,2860,46,2784,70,1,39,0.5714285714285714,0.025,0.975,40,-0.025000000000000022
 443,Colombia,San Andres y Providencia,2021-04-08,2880,46,2784,50,0,0,0.0,,,0,
 444,Colombia,San Andres y Providencia,2021-04-09,2886,46,2792,56,0,8,0.14285714285714285,0.0,1.0,8,
+445,Colombia,San Andres y Providencia,2021-04-10,2899,46,2798,61,0,6,0.09836065573770492,0.0,1.0,6,0.0
