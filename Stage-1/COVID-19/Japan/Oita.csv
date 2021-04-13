@@ -318,3 +318,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 444,Japan,Oita,2021-04-09,1337,22,1282,33,0,0,0.0,,,0,
 445,Japan,Oita,2021-04-10,1342,22,1282,38,0,0,0.0,,,0,
 446,Japan,Oita,2021-04-11,1344,22,1283,40,0,1,0.025,0.0,1.0,1,
+447,Japan,Oita,2021-04-12,1348,22,1285,43,0,2,0.046511627906976744,0.0,1.0,2,0.0

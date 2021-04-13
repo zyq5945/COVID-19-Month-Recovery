@@ -295,9 +295,9 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 434,Pakistan,Gilgit-Baltistan,2021-03-30,5024,103,4867,54,0,0,0.0,,,0,
 435,Pakistan,Gilgit-Baltistan,2021-03-31,5033,103,4867,63,0,0,0.0,,,0,
 436,Pakistan,Gilgit-Baltistan,2021-04-01,5045,103,4867,75,0,0,0.0,,,0,
-437,Pakistan,Gilgit-Baltistan,2021-04-02,5045,103,4867,75,0,0,0.0,,,0,
-438,Pakistan,Gilgit-Baltistan,2021-04-03,5052,103,4879,82,0,12,0.14634146341463414,0.0,1.0,12,
-439,Pakistan,Gilgit-Baltistan,2021-04-04,5059,103,4890,77,0,11,0.14285714285714285,0.0,1.0,11,0.0
+437,Pakistan,Gilgit-Baltistan,2021-04-02,5045,103,4879,75,0,12,0.16,0.0,1.0,12,
+438,Pakistan,Gilgit-Baltistan,2021-04-03,5052,103,4879,70,0,0,0.0,,,0,
+439,Pakistan,Gilgit-Baltistan,2021-04-04,5059,103,4890,77,0,11,0.14285714285714285,0.0,1.0,11,
 440,Pakistan,Gilgit-Baltistan,2021-04-05,5061,103,4890,68,0,0,0.0,,,0,
 441,Pakistan,Gilgit-Baltistan,2021-04-06,5064,103,4892,71,0,2,0.028169014084507043,0.0,1.0,2,
 442,Pakistan,Gilgit-Baltistan,2021-04-07,5070,103,4896,75,0,4,0.05333333333333334,0.0,1.0,4,0.0
@@ -305,3 +305,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 444,Pakistan,Gilgit-Baltistan,2021-04-09,5103,103,4912,88,0,0,0.0,,,0,
 445,Pakistan,Gilgit-Baltistan,2021-04-10,5127,103,4919,112,0,7,0.0625,0.0,1.0,7,
 446,Pakistan,Gilgit-Baltistan,2021-04-11,5127,103,4919,105,0,0,0.0,,,0,
+447,Pakistan,Gilgit-Baltistan,2021-04-12,5130,103,4928,108,0,9,0.08333333333333333,0.0,1.0,9,

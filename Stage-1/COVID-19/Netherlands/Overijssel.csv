@@ -268,3 +268,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 444,Netherlands,Overijssel,2021-04-09,88329,1080,0,87251,2,0,2.2922373382540027e-05,1.0,0.0,2,0.0
 445,Netherlands,Overijssel,2021-04-10,88723,1081,0,87643,1,0,1.1409924352201546e-05,1.0,0.0,1,0.0
 446,Netherlands,Overijssel,2021-04-11,89148,1081,0,88067,0,0,0.0,,,0,
+447,Netherlands,Overijssel,2021-04-12,89444,1082,0,88363,1,0,1.1316953928680557e-05,1.0,0.0,1,

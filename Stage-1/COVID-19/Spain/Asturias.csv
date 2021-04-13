@@ -332,3 +332,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 444,Spain,Asturias,2021-04-09,48329,1918,1063,45349,1,0,2.205120289311782e-05,1.0,0.0,1,0.0
 445,Spain,Asturias,2021-04-10,48329,1918,1063,45348,0,0,0.0,,,0,
 446,Spain,Asturias,2021-04-11,48329,1918,1063,45348,0,0,0.0,,,0,
+447,Spain,Asturias,2021-04-12,48652,1921,1063,45671,3,0,6.568719756519455e-05,1.0,0.0,3,
