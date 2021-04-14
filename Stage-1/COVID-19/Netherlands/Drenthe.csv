@@ -269,3 +269,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 445,Netherlands,Drenthe,2021-04-10,28151,333,0,27819,1,0,3.5946655163737015e-05,1.0,0.0,1,0.0
 446,Netherlands,Drenthe,2021-04-11,28294,335,0,27961,2,0,7.152819999284718e-05,1.0,0.0,2,0.0
 447,Netherlands,Drenthe,2021-04-12,28420,336,0,28085,1,0,3.5606195478013175e-05,1.0,0.0,1,0.0
+448,Netherlands,Drenthe,2021-04-13,28558,336,0,28222,0,0,0.0,,,0,
