@@ -14,4 +14,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 20,India,Andaman and Nicobar Islands,2021-02-24,5016,62,4950,22,0,18,0.8181818181818182,0.0,1.0,18,0.0
 21,India,Andaman and Nicobar Islands,2021-03-16,5032,62,4967,20,0,17,0.85,0.0,1.0,17,0.0
 22,India,Andaman and Nicobar Islands,2021-04-05,5116,62,5001,87,0,34,0.39080459770114945,0.0,1.0,34,0.0
-23,India,Andaman and Nicobar Islands,2021-04-13,5209,62,5054,146,0,53,0.363013698630137,0.0,1.0,53,0.0
+23,India,Andaman and Nicobar Islands,2021-04-14,5247,63,5078,184,1,77,0.42391304347826086,0.01282051282051282,0.9871794871794872,78,-0.012820512820512775

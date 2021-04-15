@@ -320,3 +320,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 446,Peru,Moquegua,2021-04-11,22330,497,0,21833,0,0,0.0,,,0,
 447,Peru,Moquegua,2021-04-12,22363,497,0,21866,0,0,0.0,,,0,
 448,Peru,Moquegua,2021-04-13,22405,499,0,21908,2,0,9.129085265656382e-05,1.0,0.0,2,
+449,Peru,Moquegua,2021-04-14,22425,500,0,21926,1,0,4.560795402718234e-05,1.0,0.0,1,0.0
