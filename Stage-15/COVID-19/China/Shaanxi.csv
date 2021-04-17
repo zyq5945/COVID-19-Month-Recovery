@@ -29,3 +29,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 28,China,Shaanxi,2021-03-16,561,3,549,17,0,8,0.47058823529411764,0.0,1.0,8,0.0
 29,China,Shaanxi,2021-03-31,567,3,553,15,0,4,0.26666666666666666,0.0,1.0,4,0.0
 30,China,Shaanxi,2021-04-15,579,3,562,23,0,9,0.391304347826087,0.0,1.0,9,0.0
+31,China,Shaanxi,2021-04-16,581,3,562,16,0,0,0.0,,,0,

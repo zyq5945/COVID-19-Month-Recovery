@@ -336,3 +336,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 448,Spain,La Rioja,2021-04-13,28525,751,3107,24667,0,0,0.0,,,0,
 449,Spain,La Rioja,2021-04-14,28586,751,3107,24728,0,0,0.0,,,0,
 450,Spain,La Rioja,2021-04-15,28634,752,3107,24776,1,0,4.036164029706167e-05,1.0,0.0,1,
+451,Spain,La Rioja,2021-04-16,28746,753,3107,24887,1,0,4.0181620926588175e-05,1.0,0.0,1,0.0

@@ -38,3 +38,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 43,United Kingdom,British Virgin Islands,2021-03-26,153,1,131,21,0,0,0.0,,,0,
 44,United Kingdom,British Virgin Islands,2021-04-05,166,1,131,34,0,0,0.0,,,0,
 45,United Kingdom,British Virgin Islands,2021-04-15,178,1,159,46,0,28,0.6086956521739131,0.0,1.0,28,
+46,United Kingdom,British Virgin Islands,2021-04-16,187,1,182,27,0,23,0.8518518518518519,0.0,1.0,23,0.0

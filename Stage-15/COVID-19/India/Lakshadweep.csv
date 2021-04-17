@@ -17,3 +17,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 28,India,Lakshadweep,2021-03-16,625,1,457,356,0,189,0.5308988764044944,0.0,1.0,189,0.007518796992481258
 29,India,Lakshadweep,2021-03-31,723,1,680,265,0,223,0.8415094339622642,0.0,1.0,223,0.0
 30,India,Lakshadweep,2021-04-15,901,1,754,220,0,74,0.33636363636363636,0.0,1.0,74,0.0
+31,India,Lakshadweep,2021-04-16,901,1,754,146,0,0,0.0,,,0,
