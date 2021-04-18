@@ -309,4 +309,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 448,India,Arunachal Pradesh,2021-04-13,16902,56,16791,55,0,0,0.0,,,0,
 449,India,Arunachal Pradesh,2021-04-14,16912,56,16792,65,0,1,0.015384615384615385,0.0,1.0,1,
 450,India,Arunachal Pradesh,2021-04-15,16920,56,16798,72,0,6,0.08333333333333333,0.0,1.0,6,0.0
-451,India,Arunachal Pradesh,2021-04-16,16920,56,16798,66,0,0,0.0,,,0,
+451,India,Arunachal Pradesh,2021-04-16,16948,56,16800,94,0,2,0.02127659574468085,0.0,1.0,2,0.0
+452,India,Arunachal Pradesh,2021-04-17,16967,56,16806,111,0,6,0.05405405405405406,0.0,1.0,6,0.0

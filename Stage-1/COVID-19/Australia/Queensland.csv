@@ -442,3 +442,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 449,Australia,Queensland,2021-04-14,1509,7,1397,105,0,0,0.0,,,0,
 450,Australia,Queensland,2021-04-15,1515,7,1397,111,0,0,0.0,,,0,
 451,Australia,Queensland,2021-04-16,1516,7,1429,112,0,32,0.2857142857142857,0.0,1.0,32,
+452,Australia,Queensland,2021-04-17,1518,7,1440,82,0,11,0.13414634146341464,0.0,1.0,11,0.0

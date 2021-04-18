@@ -331,3 +331,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 449,Mexico,Colima,2021-04-14,11007,1162,0,9847,2,0,0.0002031075454453133,1.0,0.0,2,0.0
 450,Mexico,Colima,2021-04-15,11027,1162,0,9865,0,0,0.0,,,0,
 451,Mexico,Colima,2021-04-16,11046,1163,0,9884,1,0,0.00010117361392148928,1.0,0.0,1,
+452,Mexico,Colima,2021-04-17,11065,1163,0,9902,0,0,0.0,,,0,
