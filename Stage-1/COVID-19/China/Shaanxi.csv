@@ -451,3 +451,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 450,China,Shaanxi,2021-04-15,579,3,562,14,0,0,0.0,,,0,
 451,China,Shaanxi,2021-04-16,581,3,562,16,0,0,0.0,,,0,
 452,China,Shaanxi,2021-04-17,585,3,562,20,0,0,0.0,,,0,
+453,China,Shaanxi,2021-04-18,586,3,563,21,0,1,0.047619047619047616,0.0,1.0,1,

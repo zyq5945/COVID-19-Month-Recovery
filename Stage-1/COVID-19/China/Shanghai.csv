@@ -451,3 +451,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 450,China,Shanghai,2021-04-15,1937,7,1874,58,0,2,0.034482758620689655,0.0,1.0,2,0.0
 451,China,Shanghai,2021-04-16,1940,7,1874,59,0,0,0.0,,,0,
 452,China,Shanghai,2021-04-17,1942,7,1878,61,0,4,0.06557377049180328,0.0,1.0,4,
+453,China,Shanghai,2021-04-18,1943,7,1879,58,0,1,0.017241379310344827,0.0,1.0,1,0.0
