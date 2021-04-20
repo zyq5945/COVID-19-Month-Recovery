@@ -275,3 +275,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 451,Netherlands,Groningen,2021-04-16,32982,240,0,32742,0,0,0.0,,,0,
 452,Netherlands,Groningen,2021-04-17,33126,242,0,32886,2,0,6.081615277017576e-05,1.0,0.0,2,
 453,Netherlands,Groningen,2021-04-18,33315,243,0,33073,1,0,3.0236144286880536e-05,1.0,0.0,1,0.0
+454,Netherlands,Groningen,2021-04-19,33455,244,0,33212,1,0,3.0109598940142117e-05,1.0,0.0,1,0.0

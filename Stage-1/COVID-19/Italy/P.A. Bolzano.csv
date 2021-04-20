@@ -339,3 +339,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 451,Italy,P.A. Bolzano,2021-04-16,70247,1155,68825,267,0,0,0.0,,,0,
 452,Italy,P.A. Bolzano,2021-04-17,70326,1155,68825,346,0,0,0.0,,,0,
 453,Italy,P.A. Bolzano,2021-04-18,70389,1156,68825,409,1,0,0.0024449877750611247,1.0,0.0,1,
+454,Italy,P.A. Bolzano,2021-04-19,70399,1156,68885,418,0,60,0.14354066985645933,0.0,1.0,60,1.0
