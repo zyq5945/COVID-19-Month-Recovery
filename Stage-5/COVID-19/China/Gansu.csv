@@ -89,4 +89,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 88,China,Gansu,2021-04-05,193,2,189,5,0,3,0.6,0.0,1.0,3,0.0
 89,China,Gansu,2021-04-10,193,2,189,2,0,0,0.0,,,0,
 90,China,Gansu,2021-04-15,193,2,190,2,0,1,0.5,0.0,1.0,1,
-91,China,Gansu,2021-04-19,193,2,190,1,0,0,0.0,,,0,
+91,China,Gansu,2021-04-20,193,2,190,1,0,0,0.0,,,0,
+92,China,Gansu,2021-04-22,193,2,190,1,0,0,0.0,,,0,

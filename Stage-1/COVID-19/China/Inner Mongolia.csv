@@ -453,3 +453,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,China,Inner Mongolia,2021-04-17,379,1,375,3,0,0,0.0,,,0,
 453,China,Inner Mongolia,2021-04-18,379,1,375,3,0,0,0.0,,,0,
 454,China,Inner Mongolia,2021-04-19,379,1,375,3,0,0,0.0,,,0,
+455,China,Inner Mongolia,2021-04-20,379,1,376,3,0,1,0.3333333333333333,0.0,1.0,1,
+456,China,Inner Mongolia,2021-04-21,379,1,376,2,0,0,0.0,,,0,
+457,China,Inner Mongolia,2021-04-22,379,1,376,2,0,0,0.0,,,0,

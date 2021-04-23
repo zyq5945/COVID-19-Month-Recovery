@@ -400,3 +400,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,Canada,Newfoundland and Labrador,2021-04-17,1039,6,1011,22,0,0,0.0,,,0,
 453,Canada,Newfoundland and Labrador,2021-04-18,1043,6,1011,26,0,0,0.0,,,0,
 454,Canada,Newfoundland and Labrador,2021-04-19,1046,6,1011,29,0,0,0.0,,,0,
+455,Canada,Newfoundland and Labrador,2021-04-20,1048,6,1011,31,0,0,0.0,,,0,
+456,Canada,Newfoundland and Labrador,2021-04-21,1049,6,1012,32,0,1,0.03125,0.0,1.0,1,
+457,Canada,Newfoundland and Labrador,2021-04-22,1052,6,1016,34,0,4,0.11764705882352941,0.0,1.0,4,0.0

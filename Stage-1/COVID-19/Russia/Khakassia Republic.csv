@@ -322,3 +322,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,Russia,Khakassia Republic,2021-04-17,22101,519,21383,203,2,2,0.019704433497536946,0.5,0.5,4,-0.5
 453,Russia,Khakassia Republic,2021-04-18,22119,519,21383,217,0,0,0.0,,,0,
 454,Russia,Khakassia Republic,2021-04-19,22138,519,21383,236,0,0,0.0,,,0,
+455,Russia,Khakassia Republic,2021-04-20,22155,519,21389,253,0,6,0.023715415019762844,0.0,1.0,6,
+456,Russia,Khakassia Republic,2021-04-21,22174,519,21418,266,0,29,0.10902255639097744,0.0,1.0,29,0.0
+457,Russia,Khakassia Republic,2021-04-22,22197,521,21432,260,2,14,0.06153846153846154,0.125,0.875,16,-0.125

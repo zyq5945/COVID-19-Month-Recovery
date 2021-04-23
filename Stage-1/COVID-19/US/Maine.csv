@@ -372,3 +372,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,US,Maine,2021-04-17,56939,764,,,1,,,,,,
 453,US,Maine,2021-04-18,57285,765,,,1,,,,,,
 454,US,Maine,2021-04-19,57545,767,,,2,,,,,,
+455,US,Maine,2021-04-20,57965,767,,,0,,,,,,
+456,US,Maine,2021-04-21,58465,768,,,1,,,,,,
+457,US,Maine,2021-04-22,58868,769,,,1,,,,,,

@@ -400,3 +400,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,Canada,Prince Edward Island,2021-04-17,165,0,159,6,0,0,0.0,,,0,
 453,Canada,Prince Edward Island,2021-04-18,165,0,159,6,0,0,0.0,,,0,
 454,Canada,Prince Edward Island,2021-04-19,173,0,160,14,0,1,0.07142857142857142,0.0,1.0,1,
+455,Canada,Prince Edward Island,2021-04-20,174,0,161,14,0,1,0.07142857142857142,0.0,1.0,1,0.0
+456,Canada,Prince Edward Island,2021-04-21,174,0,161,13,0,0,0.0,,,0,
+457,Canada,Prince Edward Island,2021-04-22,174,0,161,13,0,0,0.0,,,0,

@@ -372,3 +372,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,US,Arizona,2021-04-17,853050,17151,,,-2,,,,,,
 453,US,Arizona,2021-04-18,853761,17153,,,2,,,,,,
 454,US,Arizona,2021-04-19,854453,17153,,,0,,,,,,
+455,US,Arizona,2021-04-20,855155,17193,,,40,,,,,,
+456,US,Arizona,2021-04-21,855804,17199,,,6,,,,,,
+457,US,Arizona,2021-04-22,856451,17221,,,22,,,,,,

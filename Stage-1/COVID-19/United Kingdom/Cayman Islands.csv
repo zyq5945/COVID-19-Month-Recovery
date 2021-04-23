@@ -399,3 +399,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,United Kingdom,Cayman Islands,2021-04-17,525,2,499,24,0,0,0.0,,,0,
 453,United Kingdom,Cayman Islands,2021-04-18,525,2,499,24,0,0,0.0,,,0,
 454,United Kingdom,Cayman Islands,2021-04-19,525,2,499,24,0,0,0.0,,,0,
+455,United Kingdom,Cayman Islands,2021-04-20,531,2,508,30,0,9,0.3,0.0,1.0,9,
+456,United Kingdom,Cayman Islands,2021-04-21,531,2,509,21,0,1,0.047619047619047616,0.0,1.0,1,0.0
+457,United Kingdom,Cayman Islands,2021-04-22,531,2,509,20,0,0,0.0,,,0,

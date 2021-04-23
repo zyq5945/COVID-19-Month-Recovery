@@ -73,4 +73,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 88,US,Wyoming,2021-04-05,56529,700,,,0,,,,,,
 89,US,Wyoming,2021-04-10,56873,701,,,1,,,,,,
 90,US,Wyoming,2021-04-15,57203,703,,,2,,,,,,
-91,US,Wyoming,2021-04-19,57378,703,,,0,,,,,,
+91,US,Wyoming,2021-04-20,57456,705,,,2,,,,,,
+92,US,Wyoming,2021-04-22,57613,705,,,0,,,,,,

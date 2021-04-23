@@ -372,3 +372,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,US,Delaware,2021-04-17,100777,1602,,,6,,,,,,
 453,US,Delaware,2021-04-18,101158,1602,,,0,,,,,,
 454,US,Delaware,2021-04-19,101547,1602,,,0,,,,,,
+455,US,Delaware,2021-04-20,101707,1603,,,1,,,,,,
+456,US,Delaware,2021-04-21,101993,1603,,,0,,,,,,
+457,US,Delaware,2021-04-22,102267,1604,,,1,,,,,,

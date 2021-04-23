@@ -389,3 +389,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,Canada,Yukon,2021-04-17,76,1,73,2,0,0,0.0,,,0,
 453,Canada,Yukon,2021-04-18,76,1,73,2,0,0,0.0,,,0,
 454,Canada,Yukon,2021-04-19,77,1,73,3,0,0,0.0,,,0,
+455,Canada,Yukon,2021-04-20,77,1,74,3,0,1,0.3333333333333333,0.0,1.0,1,
+456,Canada,Yukon,2021-04-21,78,1,75,3,0,1,0.3333333333333333,0.0,1.0,1,0.0
+457,Canada,Yukon,2021-04-22,80,1,75,4,0,0,0.0,,,0,

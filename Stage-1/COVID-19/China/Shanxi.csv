@@ -453,3 +453,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,China,Shanxi,2021-04-17,249,0,240,9,0,0,0.0,,,0,
 453,China,Shanxi,2021-04-18,249,0,240,9,0,0,0.0,,,0,
 454,China,Shanxi,2021-04-19,249,0,241,9,0,1,0.1111111111111111,0.0,1.0,1,
+455,China,Shanxi,2021-04-20,249,0,241,8,0,0,0.0,,,0,
+456,China,Shanxi,2021-04-21,249,0,242,8,0,1,0.125,0.0,1.0,1,
+457,China,Shanxi,2021-04-22,249,0,242,7,0,0,0.0,,,0,

@@ -415,3 +415,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,Australia,Western Australia,2021-04-17,973,9,941,23,0,0,0.0,,,0,
 453,Australia,Western Australia,2021-04-18,975,9,941,25,0,0,0.0,,,0,
 454,Australia,Western Australia,2021-04-19,978,9,942,28,0,1,0.03571428571428571,0.0,1.0,1,
+455,Australia,Western Australia,2021-04-20,980,9,943,29,0,1,0.034482758620689655,0.0,1.0,1,0.0
+456,Australia,Western Australia,2021-04-21,982,9,944,30,0,1,0.03333333333333333,0.0,1.0,1,0.0
+457,Australia,Western Australia,2021-04-22,982,9,944,29,0,0,0.0,,,0,

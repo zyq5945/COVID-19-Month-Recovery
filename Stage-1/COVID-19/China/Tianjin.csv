@@ -453,3 +453,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 452,China,Tianjin,2021-04-17,379,3,370,7,0,1,0.14285714285714285,0.0,1.0,1,
 453,China,Tianjin,2021-04-18,380,3,370,7,0,0,0.0,,,0,
 454,China,Tianjin,2021-04-19,380,3,370,7,0,0,0.0,,,0,
+455,China,Tianjin,2021-04-20,382,3,370,9,0,0,0.0,,,0,
+456,China,Tianjin,2021-04-21,383,3,370,10,0,0,0.0,,,0,
+457,China,Tianjin,2021-04-22,383,3,372,10,0,2,0.2,0.0,1.0,2,
