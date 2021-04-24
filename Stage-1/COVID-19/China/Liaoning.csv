@@ -456,3 +456,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 455,China,Liaoning,2021-04-20,408,2,405,1,0,0,0.0,,,0,
 456,China,Liaoning,2021-04-21,408,2,405,1,0,0,0.0,,,0,
 457,China,Liaoning,2021-04-22,408,2,406,1,0,1,1.0,0.0,1.0,1,
+458,China,Liaoning,2021-04-23,408,2,406,0,0,0,,,,0,

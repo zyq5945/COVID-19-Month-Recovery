@@ -321,3 +321,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 455,Sweden,Vastmanland,2021-04-20,23371,339,0,23032,0,0,0.0,,,0,
 456,Sweden,Vastmanland,2021-04-21,23581,339,0,23242,0,0,0.0,,,0,
 457,Sweden,Vastmanland,2021-04-22,23731,339,0,23392,0,0,0.0,,,0,
+458,Sweden,Vastmanland,2021-04-23,23883,340,0,23544,1,0,4.247366632687734e-05,1.0,0.0,1,

@@ -407,3 +407,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 455,United Kingdom,Gibraltar,2021-04-20,4291,94,4181,16,0,0,0.0,,,0,
 456,United Kingdom,Gibraltar,2021-04-21,4291,94,4181,16,0,0,0.0,,,0,
 457,United Kingdom,Gibraltar,2021-04-22,4291,94,4182,16,0,1,0.0625,0.0,1.0,1,
+458,United Kingdom,Gibraltar,2021-04-23,4283,94,4173,7,0,-9,-1.2857142857142858,-0.0,1.0,-9,0.0
