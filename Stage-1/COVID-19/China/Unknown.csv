@@ -457,3 +457,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 456,China,Unknown,2021-04-21,0,0,4,-4,0,0,-0.0,,,0,
 457,China,Unknown,2021-04-22,0,0,4,-4,0,0,-0.0,,,0,
 458,China,Unknown,2021-04-23,0,0,5,-4,0,1,-0.25,0.0,1.0,1,
+459,China,Unknown,2021-04-24,0,0,4,-5,0,-1,0.2,-0.0,1.0,-1,0.0
