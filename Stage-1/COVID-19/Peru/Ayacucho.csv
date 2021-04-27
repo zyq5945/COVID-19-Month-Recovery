@@ -332,3 +332,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 458,Peru,Ayacucho,2021-04-23,25458,692,0,24766,0,0,0.0,,,0,
 459,Peru,Ayacucho,2021-04-24,25679,703,0,24987,11,0,0.0004402289190378997,1.0,0.0,11,
 460,Peru,Ayacucho,2021-04-25,25679,703,0,24976,0,0,0.0,,,0,
+461,Peru,Ayacucho,2021-04-26,25792,705,0,25089,2,0,7.971621029136275e-05,1.0,0.0,2,

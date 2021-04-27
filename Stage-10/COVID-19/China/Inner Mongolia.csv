@@ -45,3 +45,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 44,China,Inner Mongolia,2021-04-05,376,1,370,8,0,3,0.375,0.0,1.0,3,0.0
 45,China,Inner Mongolia,2021-04-15,377,1,374,6,0,4,0.6666666666666666,0.0,1.0,4,0.0
 46,China,Inner Mongolia,2021-04-25,379,1,376,4,0,2,0.5,0.0,1.0,2,0.0
+47,China,Inner Mongolia,2021-04-26,380,1,376,3,0,0,0.0,,,0,

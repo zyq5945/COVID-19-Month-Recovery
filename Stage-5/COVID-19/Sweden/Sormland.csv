@@ -64,3 +64,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 90,Sweden,Sormland,2021-04-15,20521,435,0,20100,14,0,0.0006965174129353234,1.0,0.0,14,
 91,Sweden,Sormland,2021-04-20,21203,436,0,20768,1,0,4.815100154083205e-05,1.0,0.0,1,0.0
 92,Sweden,Sormland,2021-04-25,21852,439,0,21416,3,0,0.0001400821815465073,1.0,0.0,3,0.0
+93,Sweden,Sormland,2021-04-26,21852,439,0,21413,0,0,0.0,,,0,
