@@ -460,3 +460,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 459,China,Tianjin,2021-04-24,384,3,372,9,0,0,0.0,,,0,
 460,China,Tianjin,2021-04-25,384,3,372,9,0,0,0.0,,,0,
 461,China,Tianjin,2021-04-26,384,3,372,9,0,0,0.0,,,0,
+462,China,Tianjin,2021-04-27,385,3,373,10,0,1,0.1,0.0,1.0,1,

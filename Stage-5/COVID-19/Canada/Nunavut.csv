@@ -78,4 +78,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 90,Canada,Nunavut,2021-04-15,396,4,391,1,0,0,0.0,,,0,
 91,Canada,Nunavut,2021-04-20,428,4,391,33,0,0,0.0,,,0,
 92,Canada,Nunavut,2021-04-25,455,4,404,60,0,13,0.21666666666666667,0.0,1.0,13,
-93,Canada,Nunavut,2021-04-26,464,4,413,56,0,9,0.16071428571428573,0.0,1.0,9,0.0
+93,Canada,Nunavut,2021-04-27,472,4,419,64,0,15,0.234375,0.0,1.0,15,0.0
