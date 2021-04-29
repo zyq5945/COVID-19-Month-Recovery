@@ -461,3 +461,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 460,China,Yunnan,2021-04-25,341,2,280,59,0,0,0.0,,,0,
 461,China,Yunnan,2021-04-26,341,2,280,59,0,0,0.0,,,0,
 462,China,Yunnan,2021-04-27,342,2,281,60,0,1,0.016666666666666666,0.0,1.0,1,
+463,China,Yunnan,2021-04-28,342,2,285,59,0,4,0.06779661016949153,0.0,1.0,4,0.0

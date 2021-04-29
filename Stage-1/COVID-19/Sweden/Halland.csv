@@ -326,3 +326,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 460,Sweden,Halland,2021-04-25,37018,306,0,36712,0,0,0.0,,,0,
 461,Sweden,Halland,2021-04-26,37018,306,0,36712,0,0,0.0,,,0,
 462,Sweden,Halland,2021-04-27,37469,306,0,37163,0,0,0.0,,,0,
+463,Sweden,Halland,2021-04-28,37657,308,0,37351,2,0,5.3546089796792586e-05,1.0,0.0,2,

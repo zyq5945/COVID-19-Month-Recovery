@@ -342,3 +342,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 460,Mexico,Nuevo Leon,2021-04-25,122093,9310,0,112783,0,0,0.0,,,0,
 461,Mexico,Nuevo Leon,2021-04-26,122118,9310,0,112808,0,0,0.0,,,0,
 462,Mexico,Nuevo Leon,2021-04-27,122234,9326,0,112924,16,0,0.0001416882150827105,1.0,0.0,16,
+463,Mexico,Nuevo Leon,2021-04-28,122329,9330,0,113003,4,0,3.539729033742467e-05,1.0,0.0,4,0.0

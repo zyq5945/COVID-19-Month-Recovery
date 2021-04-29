@@ -326,3 +326,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 460,Sweden,Dalarna,2021-04-25,22804,326,0,22478,0,0,0.0,,,0,
 461,Sweden,Dalarna,2021-04-26,22804,326,0,22478,0,0,0.0,,,0,
 462,Sweden,Dalarna,2021-04-27,23221,326,0,22895,0,0,0.0,,,0,
+463,Sweden,Dalarna,2021-04-28,23506,329,0,23180,3,0,0.0001294219154443486,1.0,0.0,3,

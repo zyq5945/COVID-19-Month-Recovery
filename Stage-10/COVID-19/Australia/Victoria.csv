@@ -45,4 +45,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 44,Australia,Victoria,2021-04-05,20484,820,19663,0,0,-1,,-0.0,1.0,-1,0.0
 45,Australia,Victoria,2021-04-15,20492,820,19664,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 46,Australia,Victoria,2021-04-25,20509,820,19666,25,0,2,0.08,0.0,1.0,2,0.0
-47,Australia,Victoria,2021-04-27,20515,820,19672,29,0,6,0.20689655172413793,0.0,1.0,6,0.0
+47,Australia,Victoria,2021-04-28,20516,820,19673,30,0,7,0.23333333333333334,0.0,1.0,7,0.0

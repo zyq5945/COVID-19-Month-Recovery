@@ -451,3 +451,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 460,Australia,South Australia,2021-04-25,705,4,678,26,0,3,0.11538461538461539,0.0,1.0,3,
 461,Australia,South Australia,2021-04-26,719,4,680,37,0,2,0.05405405405405406,0.0,1.0,2,0.0
 462,Australia,South Australia,2021-04-27,720,4,680,36,0,0,0.0,,,0,
+463,Australia,South Australia,2021-04-28,719,4,682,35,0,2,0.05714285714285714,0.0,1.0,2,
