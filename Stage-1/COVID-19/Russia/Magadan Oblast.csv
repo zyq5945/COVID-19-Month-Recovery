@@ -331,3 +331,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 461,Russia,Magadan Oblast,2021-04-26,8319,99,8159,65,0,4,0.06153846153846154,0.0,1.0,4,0.0
 462,Russia,Magadan Oblast,2021-04-27,8322,99,8165,64,0,6,0.09375,0.0,1.0,6,0.0
 463,Russia,Magadan Oblast,2021-04-28,8325,100,8166,61,1,1,0.03278688524590164,0.5,0.5,2,-0.5
+464,Russia,Magadan Oblast,2021-04-29,8330,100,8168,64,0,2,0.03125,0.0,1.0,2,0.5

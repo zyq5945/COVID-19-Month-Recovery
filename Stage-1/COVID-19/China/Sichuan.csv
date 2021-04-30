@@ -462,3 +462,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 461,China,Sichuan,2021-04-26,975,3,949,23,0,0,0.0,,,0,
 462,China,Sichuan,2021-04-27,978,3,951,26,0,2,0.07692307692307693,0.0,1.0,2,
 463,China,Sichuan,2021-04-28,979,3,951,25,0,0,0.0,,,0,
+464,China,Sichuan,2021-04-29,979,3,952,25,0,1,0.04,0.0,1.0,1,
