@@ -90,4 +90,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 90,Australia,Victoria,2021-04-15,20492,820,19664,8,0,0,0.0,,,0,
 91,Australia,Victoria,2021-04-20,20502,820,19665,18,0,1,0.05555555555555555,0.0,1.0,1,
 92,Australia,Victoria,2021-04-25,20509,820,19666,24,0,1,0.041666666666666664,0.0,1.0,1,0.0
-93,Australia,Victoria,2021-04-29,20518,820,19674,32,0,8,0.25,0.0,1.0,8,0.0
+93,Australia,Victoria,2021-04-30,20521,820,19676,35,0,10,0.2857142857142857,0.0,1.0,10,0.0

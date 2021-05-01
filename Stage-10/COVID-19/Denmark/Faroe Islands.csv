@@ -41,4 +41,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 44,Denmark,Faroe Islands,2021-04-05,661,1,660,0,0,0,,,,0,
 45,Denmark,Faroe Islands,2021-04-15,662,1,660,1,0,0,0.0,,,0,
 46,Denmark,Faroe Islands,2021-04-25,663,1,661,2,0,1,0.5,0.0,1.0,1,
-47,Denmark,Faroe Islands,2021-04-29,663,1,662,1,0,1,1.0,0.0,1.0,1,0.0
+47,Denmark,Faroe Islands,2021-04-30,664,1,662,2,0,1,0.5,0.0,1.0,1,0.0
