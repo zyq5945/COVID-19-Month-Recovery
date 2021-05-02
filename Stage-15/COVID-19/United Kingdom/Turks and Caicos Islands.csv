@@ -26,3 +26,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,United Kingdom,Turks and Caicos Islands,2021-03-31,2329,17,2268,205,2,159,0.7853658536585366,0.012422360248447204,0.9875776397515528,161,-0.008202950965746858
 30,United Kingdom,Turks and Caicos Islands,2021-04-15,2367,17,2285,82,0,17,0.2073170731707317,0.0,1.0,17,0.012422360248447228
 31,United Kingdom,Turks and Caicos Islands,2021-04-30,2388,17,2343,86,0,58,0.6744186046511628,0.0,1.0,58,0.0
+32,United Kingdom,Turks and Caicos Islands,2021-05-01,2390,17,2343,30,0,0,0.0,,,0,

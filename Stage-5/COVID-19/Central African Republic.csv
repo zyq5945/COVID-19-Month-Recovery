@@ -82,3 +82,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 91,Central African Republic,,2021-04-20,5929,79,5112,742,4,0,0.005390835579514825,1.0,0.0,4,-0.9824561403508771
 92,Central African Republic,,2021-04-25,6224,85,5112,1033,6,0,0.005808325266214908,1.0,0.0,6,0.0
 93,Central African Republic,,2021-04-30,6411,88,5112,1214,3,0,0.002471169686985173,1.0,0.0,3,0.0
+94,Central African Republic,,2021-05-01,6411,88,5112,1211,0,0,0.0,,,0,

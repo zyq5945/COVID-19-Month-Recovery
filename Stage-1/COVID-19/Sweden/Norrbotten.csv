@@ -329,3 +329,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 463,Sweden,Norrbotten,2021-04-28,20429,249,0,20181,1,0,4.955155839651157e-05,1.0,0.0,1,
 464,Sweden,Norrbotten,2021-04-29,20573,249,0,20324,0,0,0.0,,,0,
 465,Sweden,Norrbotten,2021-04-30,20822,251,0,20573,2,0,9.72147960919652e-05,1.0,0.0,2,
+466,Sweden,Norrbotten,2021-05-01,20822,251,0,20571,0,0,0.0,,,0,

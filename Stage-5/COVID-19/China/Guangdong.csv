@@ -92,3 +92,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 91,China,Guangdong,2021-04-20,2320,8,2272,55,0,15,0.2727272727272727,0.0,1.0,15,0.0
 92,China,Guangdong,2021-04-25,2329,8,2280,49,0,8,0.16326530612244897,0.0,1.0,8,0.0
 93,China,Guangdong,2021-04-30,2344,8,2287,56,0,7,0.125,0.0,1.0,7,0.0
+94,China,Guangdong,2021-05-01,2350,8,2287,55,0,0,0.0,,,0,

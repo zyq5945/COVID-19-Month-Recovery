@@ -27,3 +27,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,United Kingdom,Gibraltar,2021-03-31,4274,94,4168,37,0,25,0.6756756756756757,0.0,1.0,25,0.052631578947368474
 30,United Kingdom,Gibraltar,2021-04-15,4290,94,4181,28,0,13,0.4642857142857143,0.0,1.0,13,0.0
 31,United Kingdom,Gibraltar,2021-04-30,4283,94,4185,8,0,4,0.5,0.0,1.0,4,0.0
+32,United Kingdom,Gibraltar,2021-05-01,4283,94,4186,4,0,1,0.25,0.0,1.0,1,0.0

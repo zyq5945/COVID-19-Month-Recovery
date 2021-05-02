@@ -76,3 +76,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 91,US,Tennessee,2021-04-20,836563,12096,,,55,,,,,,
 92,US,Tennessee,2021-04-25,841049,12142,,,46,,,,,,
 93,US,Tennessee,2021-04-30,847430,12197,,,55,,,,,,
+94,US,Tennessee,2021-05-01,847430,12197,,,0,,,,,,

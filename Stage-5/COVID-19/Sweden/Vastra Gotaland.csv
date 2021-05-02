@@ -65,3 +65,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 91,Sweden,Vastra Gotaland,2021-04-20,162392,2267,0,160134,9,0,5.6202930046086404e-05,1.0,0.0,9,0.0
 92,Sweden,Vastra Gotaland,2021-04-25,165866,2283,0,163599,16,0,9.780010880262104e-05,1.0,0.0,16,0.0
 93,Sweden,Vastra Gotaland,2021-04-30,171187,2294,0,168904,11,0,6.512575190640838e-05,1.0,0.0,11,0.0
+94,Sweden,Vastra Gotaland,2021-05-01,171187,2294,0,168893,0,0,0.0,,,0,

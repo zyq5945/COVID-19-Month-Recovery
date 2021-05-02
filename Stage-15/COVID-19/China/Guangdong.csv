@@ -30,3 +30,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,China,Guangdong,2021-03-31,2282,8,2235,71,0,32,0.4507042253521127,0.0,1.0,32,0.0
 30,China,Guangdong,2021-04-15,2310,8,2257,67,0,22,0.3283582089552239,0.0,1.0,22,0.0
 31,China,Guangdong,2021-04-30,2344,8,2287,79,0,30,0.379746835443038,0.0,1.0,30,0.0
+32,China,Guangdong,2021-05-01,2350,8,2287,55,0,0,0.0,,,0,
