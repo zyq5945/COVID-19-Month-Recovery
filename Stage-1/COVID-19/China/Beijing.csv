@@ -465,3 +465,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 464,China,Beijing,2021-04-29,1057,9,1040,9,0,1,0.1111111111111111,0.0,1.0,1,
 465,China,Beijing,2021-04-30,1057,9,1041,8,0,1,0.125,0.0,1.0,1,0.0
 466,China,Beijing,2021-05-01,1057,9,1043,7,0,2,0.2857142857142857,0.0,1.0,2,0.0
+467,China,Beijing,2021-05-02,1057,9,1043,5,0,0,0.0,,,0,

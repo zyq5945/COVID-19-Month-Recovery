@@ -465,3 +465,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 464,China,Unknown,2021-04-29,0,0,3,-3,0,0,-0.0,,,0,
 465,China,Unknown,2021-04-30,0,0,4,-3,0,1,-0.3333333333333333,0.0,1.0,1,
 466,China,Unknown,2021-05-01,0,0,7,-4,0,3,-0.75,0.0,1.0,3,0.0
+467,China,Unknown,2021-05-02,0,0,9,-7,0,2,-0.2857142857142857,0.0,1.0,2,0.0

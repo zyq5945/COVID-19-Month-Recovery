@@ -334,3 +334,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 464,Russia,Ingushetia Republic,2021-04-29,15419,186,13590,1645,1,1,0.0012158054711246201,0.5,0.5,2,-0.5
 465,Russia,Ingushetia Republic,2021-04-30,15432,187,13591,1656,1,1,0.0012077294685990338,0.5,0.5,2,0.0
 466,Russia,Ingushetia Republic,2021-05-01,15444,187,13593,1666,0,2,0.0012004801920768306,0.0,1.0,2,0.5
+467,Russia,Ingushetia Republic,2021-05-02,15455,187,13593,1675,0,0,0.0,,,0,

@@ -334,3 +334,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 464,Russia,Karachay-Cherkess Republic,2021-04-29,20051,73,19899,83,0,4,0.04819277108433735,0.0,1.0,4,0.0
 465,Russia,Karachay-Cherkess Republic,2021-04-30,20065,74,19899,93,1,0,0.010752688172043012,1.0,0.0,1,-1.0
 466,Russia,Karachay-Cherkess Republic,2021-05-01,20077,74,19902,104,0,3,0.028846153846153848,0.0,1.0,3,1.0
+467,Russia,Karachay-Cherkess Republic,2021-05-02,20090,75,19902,114,1,0,0.008771929824561403,1.0,0.0,1,-1.0

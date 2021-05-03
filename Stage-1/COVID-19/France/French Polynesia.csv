@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 464,France,French Polynesia,2021-04-29,18755,141,4842,13772,0,0,0.0,,,0,
 465,France,French Polynesia,2021-04-30,18758,141,4842,13775,0,0,0.0,,,0,
 466,France,French Polynesia,2021-05-01,18758,141,4842,13775,0,0,0.0,,,0,
+467,France,French Polynesia,2021-05-02,18758,141,18597,13775,0,13755,0.9985480943738657,0.0,1.0,13755,
