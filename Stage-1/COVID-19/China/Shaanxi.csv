@@ -466,3 +466,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 465,China,Shaanxi,2021-04-30,590,3,570,17,0,0,0.0,,,0,
 466,China,Shaanxi,2021-05-01,590,3,574,17,0,4,0.23529411764705882,0.0,1.0,4,
 467,China,Shaanxi,2021-05-02,590,3,574,13,0,0,0.0,,,0,
+468,China,Shaanxi,2021-05-03,590,3,576,13,0,2,0.15384615384615385,0.0,1.0,2,

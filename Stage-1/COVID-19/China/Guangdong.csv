@@ -466,3 +466,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 465,China,Guangdong,2021-04-30,2344,8,2287,53,0,4,0.07547169811320754,0.0,1.0,4,
 466,China,Guangdong,2021-05-01,2350,8,2287,55,0,0,0.0,,,0,
 467,China,Guangdong,2021-05-02,2354,8,2291,59,0,4,0.06779661016949153,0.0,1.0,4,
+468,China,Guangdong,2021-05-03,2358,8,2292,59,0,1,0.01694915254237288,0.0,1.0,1,0.0
