@@ -290,3 +290,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 466,Netherlands,Flevoland,2021-05-01,33574,233,0,33341,0,0,0.0,,,0,
 467,Netherlands,Flevoland,2021-05-02,33622,233,0,33389,0,0,0.0,,,0,
 468,Netherlands,Flevoland,2021-05-03,33844,233,0,33611,0,0,0.0,,,0,
+469,Netherlands,Flevoland,2021-05-04,33986,234,0,33753,1,0,2.962699611886351e-05,1.0,0.0,1,

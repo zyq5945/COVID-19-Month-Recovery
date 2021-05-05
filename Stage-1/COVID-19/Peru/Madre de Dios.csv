@@ -340,3 +340,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 466,Peru,Madre de Dios,2021-05-01,12696,226,0,12470,0,0,0.0,,,0,
 467,Peru,Madre de Dios,2021-05-02,12719,228,0,12493,2,0,0.0001600896502041143,1.0,0.0,2,
 468,Peru,Madre de Dios,2021-05-03,12719,228,0,12491,0,0,0.0,,,0,
+469,Peru,Madre de Dios,2021-05-04,12735,229,0,12507,1,0,7.995522507395858e-05,1.0,0.0,1,

@@ -338,3 +338,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 466,Colombia,Vichada,2021-05-01,1552,23,1519,17,0,7,0.4117647058823529,0.0,1.0,7,
 467,Colombia,Vichada,2021-05-02,1552,23,1521,10,0,2,0.2,0.0,1.0,2,0.0
 468,Colombia,Vichada,2021-05-03,1552,23,1521,8,0,0,0.0,,,0,
+469,Colombia,Vichada,2021-05-04,1554,24,1522,10,1,1,0.2,0.5,0.5,2,
