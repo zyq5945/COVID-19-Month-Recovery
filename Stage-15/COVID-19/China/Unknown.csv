@@ -30,4 +30,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,China,Unknown,2021-03-31,0,0,1,-1,0,0,-0.0,,,0,
 30,China,Unknown,2021-04-15,0,0,3,-1,0,2,-2.0,0.0,1.0,2,
 31,China,Unknown,2021-04-30,0,0,4,-3,0,1,-0.3333333333333333,0.0,1.0,1,0.0
-32,China,Unknown,2021-05-04,0,0,7,-4,0,3,-0.75,0.0,1.0,3,0.0
+32,China,Unknown,2021-05-05,0,0,7,-4,0,3,-0.75,0.0,1.0,3,0.0

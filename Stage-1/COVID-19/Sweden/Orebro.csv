@@ -333,3 +333,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 467,Sweden,Orebro,2021-05-02,28424,324,0,28100,0,0,0.0,,,0,
 468,Sweden,Orebro,2021-05-03,28424,324,0,28100,0,0,0.0,,,0,
 469,Sweden,Orebro,2021-05-04,28934,325,0,28610,1,0,3.4952813701502974e-05,1.0,0.0,1,
+470,Sweden,Orebro,2021-05-05,29132,326,0,28807,1,0,3.4713784843961534e-05,1.0,0.0,1,0.0
