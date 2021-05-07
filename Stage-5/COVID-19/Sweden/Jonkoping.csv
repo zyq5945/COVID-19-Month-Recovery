@@ -66,3 +66,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 92,Sweden,Jonkoping,2021-04-25,38026,544,0,37482,0,0,0.0,,,0,
 93,Sweden,Jonkoping,2021-04-30,39170,547,0,38626,3,0,7.766789209340858e-05,1.0,0.0,3,
 94,Sweden,Jonkoping,2021-05-05,39976,548,0,39429,1,0,2.536204316619747e-05,1.0,0.0,1,0.0
+95,Sweden,Jonkoping,2021-05-06,40190,549,0,39642,1,0,2.5225770647293274e-05,1.0,0.0,1,0.0

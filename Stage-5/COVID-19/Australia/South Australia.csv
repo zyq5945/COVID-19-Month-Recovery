@@ -91,3 +91,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 92,Australia,South Australia,2021-04-25,705,4,678,33,0,10,0.30303030303030304,0.0,1.0,10,0.0
 93,Australia,South Australia,2021-04-30,724,4,687,42,0,9,0.21428571428571427,0.0,1.0,9,0.0
 94,Australia,South Australia,2021-05-05,733,4,699,42,0,12,0.2857142857142857,0.0,1.0,12,0.0
+95,Australia,South Australia,2021-05-06,735,4,702,32,0,3,0.09375,0.0,1.0,3,0.0

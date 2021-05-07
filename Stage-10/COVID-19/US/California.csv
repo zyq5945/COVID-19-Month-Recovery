@@ -37,4 +37,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 44,US,California,2021-04-05,3682861,59799,,,1194,,,,,,
 45,US,California,2021-04-15,3711723,60808,,,1009,,,,,,
 46,US,California,2021-04-25,3731770,61479,,,671,,,,,,
-47,US,California,2021-05-05,3750640,62071,,,592,,,,,,
+47,US,California,2021-05-05,3750644,62070,,,591,,,,,,
+48,US,California,2021-05-06,3752858,62151,,,81,,,,,,

@@ -34,3 +34,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 45,Colombia,Guainia,2021-04-15,1369,22,1331,36,0,20,0.5555555555555556,0.0,1.0,20,0.0
 46,Colombia,Guainia,2021-04-25,1413,22,1374,60,0,43,0.7166666666666667,0.0,1.0,43,0.0
 47,Colombia,Guainia,2021-05-05,1454,22,1409,58,0,35,0.603448275862069,0.0,1.0,35,0.0
+48,Colombia,Guainia,2021-05-06,1455,22,1421,24,0,12,0.5,0.0,1.0,12,0.0

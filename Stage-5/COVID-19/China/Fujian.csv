@@ -93,3 +93,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 92,China,Fujian,2021-04-25,590,1,561,30,0,2,0.06666666666666667,0.0,1.0,2,0.0
 93,China,Fujian,2021-04-30,592,1,565,30,0,4,0.13333333333333333,0.0,1.0,4,0.0
 94,China,Fujian,2021-05-05,593,1,569,27,0,4,0.14814814814814814,0.0,1.0,4,0.0
+95,China,Fujian,2021-05-06,595,1,569,25,0,0,0.0,,,0,
