@@ -471,3 +471,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 470,China,Unknown,2021-05-05,0,0,7,-7,0,0,-0.0,,,0,
 471,China,Unknown,2021-05-06,0,0,11,-7,0,4,-0.5714285714285714,0.0,1.0,4,
 472,China,Unknown,2021-05-07,0,0,10,-11,0,-1,0.09090909090909091,-0.0,1.0,-1,0.0
+473,China,Unknown,2021-05-08,0,0,9,-10,0,-1,0.1,-0.0,1.0,-1,0.0

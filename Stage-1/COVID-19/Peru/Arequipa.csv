@@ -344,3 +344,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 470,Peru,Arequipa,2021-05-05,73272,2474,0,70798,0,0,0.0,,,0,
 471,Peru,Arequipa,2021-05-06,73589,2510,0,71115,36,0,0.0005062223159670956,1.0,0.0,36,
 472,Peru,Arequipa,2021-05-07,73589,2510,0,71079,0,0,0.0,,,0,
+473,Peru,Arequipa,2021-05-08,74312,2535,0,71802,25,0,0.0003481797164424389,1.0,0.0,25,
