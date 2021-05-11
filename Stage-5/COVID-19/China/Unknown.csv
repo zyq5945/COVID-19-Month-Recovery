@@ -93,4 +93,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 92,China,Unknown,2021-04-25,0,0,4,-4,0,0,-0.0,,,0,
 93,China,Unknown,2021-04-30,0,0,4,-4,0,0,-0.0,,,0,
 94,China,Unknown,2021-05-05,0,0,7,-4,0,3,-0.75,0.0,1.0,3,
-95,China,Unknown,2021-05-09,0,0,9,-7,0,2,-0.2857142857142857,0.0,1.0,2,0.0
+95,China,Unknown,2021-05-10,0,0,11,-7,0,4,-0.5714285714285714,0.0,1.0,4,0.0

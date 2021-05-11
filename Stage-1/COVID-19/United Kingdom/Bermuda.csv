@@ -416,3 +416,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 472,United Kingdom,Bermuda,2021-05-07,2432,30,2062,340,0,0,0.0,,,0,
 473,United Kingdom,Bermuda,2021-05-08,2434,30,2095,342,0,33,0.09649122807017543,0.0,1.0,33,
 474,United Kingdom,Bermuda,2021-05-09,2434,30,2095,309,0,0,0.0,,,0,
+475,United Kingdom,Bermuda,2021-05-10,2451,31,2170,326,1,75,0.2331288343558282,0.013157894736842105,0.9868421052631579,76,

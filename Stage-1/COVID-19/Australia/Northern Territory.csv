@@ -431,3 +431,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 472,Australia,Northern Territory,2021-05-07,167,0,154,21,0,8,0.38095238095238093,0.0,1.0,8,0.0
 473,Australia,Northern Territory,2021-05-08,167,0,155,13,0,1,0.07692307692307693,0.0,1.0,1,0.0
 474,Australia,Northern Territory,2021-05-09,167,0,155,12,0,0,0.0,,,0,
+475,Australia,Northern Territory,2021-05-10,167,0,160,12,0,5,0.4166666666666667,0.0,1.0,5,
