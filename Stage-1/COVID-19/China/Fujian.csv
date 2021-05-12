@@ -474,3 +474,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 473,China,Fujian,2021-05-08,595,1,569,25,0,0,0.0,,,0,
 474,China,Fujian,2021-05-09,595,1,569,25,0,0,0.0,,,0,
 475,China,Fujian,2021-05-10,597,1,571,27,0,2,0.07407407407407407,0.0,1.0,2,
+476,China,Fujian,2021-05-11,597,1,573,25,0,2,0.08,0.0,1.0,2,0.0

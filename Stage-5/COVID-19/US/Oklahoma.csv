@@ -76,5 +76,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 91,US,Oklahoma,2021-04-20,445725,6697,,,0,,,,,,
 92,US,Oklahoma,2021-04-25,446550,6716,,,19,,,,,,
 93,US,Oklahoma,2021-04-30,448305,6788,,,72,,,,,,
-94,US,Oklahoma,2021-05-05,449041,6832,,,44,,,,,,
-95,US,Oklahoma,2021-05-10,449041,6832,,,0,,,,,,
+94,US,Oklahoma,2021-05-05,449266,6832,,,44,,,,,,
+95,US,Oklahoma,2021-05-10,450315,6832,,,0,,,,,,
+96,US,Oklahoma,2021-05-11,450400,6832,,,0,,,,,,
