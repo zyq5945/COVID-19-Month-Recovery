@@ -356,3 +356,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 474,Mexico,Tamaulipas,2021-05-09,57349,4889,0,52460,0,0,0.0,,,0,
 475,Mexico,Tamaulipas,2021-05-10,57413,4890,0,52524,1,0,1.903891554337065e-05,1.0,0.0,1,
 476,Mexico,Tamaulipas,2021-05-11,57480,4895,0,52590,5,0,9.507510933637573e-05,1.0,0.0,5,0.0
+477,Mexico,Tamaulipas,2021-05-12,57583,4898,0,52688,3,0,5.693896143334346e-05,1.0,0.0,3,0.0

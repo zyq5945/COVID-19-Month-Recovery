@@ -475,3 +475,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 474,China,Shaanxi,2021-05-09,594,3,584,7,0,0,0.0,,,0,
 475,China,Shaanxi,2021-05-10,595,3,584,8,0,0,0.0,,,0,
 476,China,Shaanxi,2021-05-11,596,3,587,9,0,3,0.3333333333333333,0.0,1.0,3,
+477,China,Shaanxi,2021-05-12,597,3,584,7,0,-3,-0.42857142857142855,-0.0,1.0,-3,0.0
