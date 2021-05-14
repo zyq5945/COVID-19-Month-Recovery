@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 475,Canada,Northwest Territories,2021-05-10,108,0,57,51,0,0,0.0,,,0,
 476,Canada,Northwest Territories,2021-05-11,118,0,57,61,0,0,0.0,,,0,
 477,Canada,Northwest Territories,2021-05-12,120,0,63,63,0,6,0.09523809523809523,0.0,1.0,6,
+478,Canada,Northwest Territories,2021-05-13,121,0,77,58,0,14,0.2413793103448276,0.0,1.0,14,0.0
