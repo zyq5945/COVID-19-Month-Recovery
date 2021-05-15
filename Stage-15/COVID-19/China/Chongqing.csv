@@ -30,4 +30,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 29,China,Chongqing,2021-03-31,591,6,585,0,0,0,,,,0,
 30,China,Chongqing,2021-04-15,591,6,585,0,0,0,,,,0,
 31,China,Chongqing,2021-04-30,596,6,585,5,0,0,0.0,,,0,
-32,China,Chongqing,2021-05-13,598,6,585,7,0,0,0.0,,,0,
+32,China,Chongqing,2021-05-14,598,6,586,7,0,1,0.14285714285714285,0.0,1.0,1,
