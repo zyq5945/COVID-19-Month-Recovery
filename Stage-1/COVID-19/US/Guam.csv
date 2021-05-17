@@ -398,3 +398,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 478,US,Guam,2021-05-13,8063,139,,,0,,,,,,
 479,US,Guam,2021-05-14,8090,140,,,1,,,,,,
 480,US,Guam,2021-05-15,8090,140,,,0,,,,,,
+481,US,Guam,2021-05-16,8091,139,,,-1,,,,,,

@@ -95,3 +95,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 94,China,Chongqing,2021-05-05,596,6,585,5,0,0,0.0,,,0,
 95,China,Chongqing,2021-05-10,598,6,585,7,0,0,0.0,,,0,
 96,China,Chongqing,2021-05-15,598,6,586,7,0,1,0.14285714285714285,0.0,1.0,1,
+97,China,Chongqing,2021-05-16,598,6,586,6,0,0,0.0,,,0,

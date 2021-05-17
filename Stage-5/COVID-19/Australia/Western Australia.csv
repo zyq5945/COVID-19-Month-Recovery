@@ -88,3 +88,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 94,Australia,Western Australia,2021-05-05,1013,9,976,36,0,8,0.2222222222222222,0.0,1.0,8,0.0
 95,Australia,Western Australia,2021-05-10,1015,9,991,30,0,15,0.5,0.0,1.0,15,0.0
 96,Australia,Western Australia,2021-05-15,1015,9,999,15,0,8,0.5333333333333333,0.0,1.0,8,0.0
+97,Australia,Western Australia,2021-05-16,1015,9,999,7,0,0,0.0,,,0,

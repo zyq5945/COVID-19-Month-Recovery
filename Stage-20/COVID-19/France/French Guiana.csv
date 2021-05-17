@@ -21,3 +21,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 22,France,French Guiana,2021-04-05,17132,96,9995,7050,9,0,0.001276595744680851,1.0,0.0,9,0.0
 23,France,French Guiana,2021-04-25,18826,98,9995,8735,2,0,0.0002289639381797367,1.0,0.0,2,0.0
 24,France,French Guiana,2021-05-15,21465,108,9995,11372,10,0,0.0008793527963418924,1.0,0.0,10,0.0
+25,France,French Guiana,2021-05-16,21465,108,9995,11362,0,0,0.0,,,0,

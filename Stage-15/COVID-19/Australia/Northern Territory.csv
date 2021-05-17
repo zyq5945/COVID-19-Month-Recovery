@@ -29,3 +29,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 30,Australia,Northern Territory,2021-04-15,113,0,107,7,0,1,0.14285714285714285,0.0,1.0,1,0.0
 31,Australia,Northern Territory,2021-04-30,166,0,115,59,0,8,0.13559322033898305,0.0,1.0,8,0.0
 32,Australia,Northern Territory,2021-05-15,169,0,163,54,0,48,0.8888888888888888,0.0,1.0,48,0.0
+33,Australia,Northern Territory,2021-05-16,169,0,163,6,0,0,0.0,,,0,

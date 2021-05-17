@@ -23,3 +23,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 22,China,Hunan,2021-04-05,1043,4,1033,10,0,4,0.4,0.0,1.0,4,0.0
 23,China,Hunan,2021-04-25,1044,4,1037,7,0,4,0.5714285714285714,0.0,1.0,4,0.0
 24,China,Hunan,2021-05-15,1046,4,1038,5,0,1,0.2,0.0,1.0,1,0.0
+25,China,Hunan,2021-05-16,1047,4,1038,5,0,0,0.0,,,0,

@@ -360,3 +360,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 478,Mexico,Baja California,2021-05-13,48353,8158,0,40217,22,0,0.0005470323495039411,1.0,0.0,22,0.0
 479,Mexico,Baja California,2021-05-14,48428,8161,0,40270,3,0,7.449714427613608e-05,1.0,0.0,3,0.0
 480,Mexico,Baja California,2021-05-15,48483,8163,0,40322,2,0,4.9600714250285204e-05,1.0,0.0,2,0.0
+481,Mexico,Baja California,2021-05-16,48502,8163,0,40339,0,0,0.0,,,0,
