@@ -303,3 +303,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 479,Netherlands,Limburg,2021-05-14,108683,1611,0,107073,1,0,9.339422636892587e-06,1.0,0.0,1,0.0
 480,Netherlands,Limburg,2021-05-15,109081,1612,0,107470,1,0,9.304922303898762e-06,1.0,0.0,1,0.0
 481,Netherlands,Limburg,2021-05-16,109483,1617,0,107871,5,0,4.635166078000575e-05,1.0,0.0,5,0.0
+482,Netherlands,Limburg,2021-05-17,109742,1617,0,108125,0,0,0.0,,,0,

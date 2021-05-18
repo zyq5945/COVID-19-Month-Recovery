@@ -361,3 +361,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 479,Mexico,Campeche,2021-05-14,9775,1210,0,8565,0,0,0.0,,,0,
 480,Mexico,Campeche,2021-05-15,9795,1215,0,8585,5,0,0.0005824111822947001,1.0,0.0,5,
 481,Mexico,Campeche,2021-05-16,9820,1215,0,8605,0,0,0.0,,,0,
+482,Mexico,Campeche,2021-05-17,9842,1217,0,8627,2,0,0.0002318303002202388,1.0,0.0,2,
