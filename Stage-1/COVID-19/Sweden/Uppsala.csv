@@ -346,3 +346,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 480,Sweden,Uppsala,2021-05-15,38786,530,0,38256,0,0,0.0,,,0,
 481,Sweden,Uppsala,2021-05-16,38786,530,0,38256,0,0,0.0,,,0,
 482,Sweden,Uppsala,2021-05-17,38786,530,0,38256,0,0,0.0,,,0,
+483,Sweden,Uppsala,2021-05-18,39125,533,0,38595,3,0,7.773027594247959e-05,1.0,0.0,3,

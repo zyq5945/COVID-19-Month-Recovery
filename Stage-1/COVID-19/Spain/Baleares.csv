@@ -368,3 +368,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 480,Spain,Baleares,2021-05-15,59895,833,1533,57529,0,0,0.0,,,0,
 481,Spain,Baleares,2021-05-16,59895,833,1533,57529,0,0,0.0,,,0,
 482,Spain,Baleares,2021-05-17,60003,833,1533,57637,0,0,0.0,,,0,
+483,Spain,Baleares,2021-05-18,60033,835,1533,57667,2,0,3.4681880451558085e-05,1.0,0.0,2,
