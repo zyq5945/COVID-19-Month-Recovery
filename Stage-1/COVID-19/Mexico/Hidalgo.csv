@@ -363,3 +363,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 481,Mexico,Hidalgo,2021-05-16,38654,6166,0,32488,0,0,0.0,,,0,
 482,Mexico,Hidalgo,2021-05-17,38671,6166,0,32505,0,0,0.0,,,0,
 483,Mexico,Hidalgo,2021-05-18,38690,6171,0,32524,5,0,0.00015373262821301192,1.0,0.0,5,
+484,Mexico,Hidalgo,2021-05-19,38702,6174,0,32531,3,0,9.22197288739971e-05,1.0,0.0,3,0.0

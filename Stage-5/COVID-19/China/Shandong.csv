@@ -95,4 +95,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 94,China,Shandong,2021-05-05,879,7,868,6,0,2,0.3333333333333333,0.0,1.0,2,0.0
 95,China,Shandong,2021-05-10,879,7,869,4,0,1,0.25,0.0,1.0,1,0.0
 96,China,Shandong,2021-05-15,882,7,871,6,0,2,0.3333333333333333,0.0,1.0,2,0.0
-97,China,Shandong,2021-05-18,883,7,871,5,0,0,0.0,,,0,
+97,China,Shandong,2021-05-19,883,7,872,5,0,1,0.2,0.0,1.0,1,0.0

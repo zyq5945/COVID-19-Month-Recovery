@@ -427,3 +427,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 481,France,Reunion,2021-05-16,22644,169,21603,872,0,0,0.0,,,0,
 482,France,Reunion,2021-05-17,22644,169,21603,872,0,0,0.0,,,0,
 483,France,Reunion,2021-05-18,22644,169,21709,872,0,106,0.12155963302752294,0.0,1.0,106,
+484,France,Reunion,2021-05-19,23566,176,21709,1688,7,0,0.004146919431279621,1.0,0.0,7,-1.0

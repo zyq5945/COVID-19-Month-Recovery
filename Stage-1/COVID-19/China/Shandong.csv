@@ -482,3 +482,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 481,China,Shandong,2021-05-16,882,7,871,4,0,0,0.0,,,0,
 482,China,Shandong,2021-05-17,883,7,871,5,0,0,0.0,,,0,
 483,China,Shandong,2021-05-18,883,7,871,5,0,0,0.0,,,0,
+484,China,Shandong,2021-05-19,883,7,872,5,0,1,0.2,0.0,1.0,1,

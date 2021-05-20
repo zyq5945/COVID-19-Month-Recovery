@@ -428,3 +428,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 481,France,Guadeloupe,2021-05-16,15429,236,2242,12951,0,0,0.0,,,0,
 482,France,Guadeloupe,2021-05-17,15429,236,2242,12951,0,0,0.0,,,0,
 483,France,Guadeloupe,2021-05-18,16079,245,2242,13601,9,0,0.0006617160502904199,1.0,0.0,9,
+484,France,Guadeloupe,2021-05-19,16079,245,2250,13592,0,8,0.0005885815185403178,0.0,1.0,8,1.0

@@ -363,3 +363,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 481,Mexico,Zacatecas,2021-05-16,30504,2773,0,27731,0,0,0.0,,,0,
 482,Mexico,Zacatecas,2021-05-17,30509,2773,0,27736,0,0,0.0,,,0,
 483,Mexico,Zacatecas,2021-05-18,30521,2775,0,27748,2,0,7.207726683004181e-05,1.0,0.0,2,
+484,Mexico,Zacatecas,2021-05-19,30565,2777,0,27790,2,0,7.196833393306946e-05,1.0,0.0,2,0.0
