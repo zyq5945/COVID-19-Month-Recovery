@@ -28,4 +28,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 30,France,French Polynesia,2021-04-15,18680,141,4842,13697,0,0,0.0,,,0,
 31,France,French Polynesia,2021-04-30,18758,141,4842,13775,0,0,0.0,,,0,
 32,France,French Polynesia,2021-05-15,18815,141,18650,13832,0,13808,0.9982648930017352,0.0,1.0,13808,
-33,France,French Polynesia,2021-05-20,18841,141,18661,50,0,11,0.22,0.0,1.0,11,0.0
+33,France,French Polynesia,2021-05-21,18844,141,18677,53,0,27,0.5094339622641509,0.0,1.0,27,0.0
