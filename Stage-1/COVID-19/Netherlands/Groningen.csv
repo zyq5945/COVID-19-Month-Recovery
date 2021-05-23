@@ -308,3 +308,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 484,Netherlands,Groningen,2021-05-19,37624,259,0,37365,0,0,0.0,,,0,
 485,Netherlands,Groningen,2021-05-20,37720,259,0,37461,0,0,0.0,,,0,
 486,Netherlands,Groningen,2021-05-21,37801,259,0,37542,0,0,0.0,,,0,
+487,Netherlands,Groningen,2021-05-22,37890,260,0,37631,1,0,2.6573835401663524e-05,1.0,0.0,1,
