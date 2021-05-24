@@ -31,4 +31,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 30,Australia,Victoria,2021-04-15,20492,820,19664,8,0,0,0.0,,,0,
 31,Australia,Victoria,2021-04-30,20521,820,19676,37,0,12,0.32432432432432434,0.0,1.0,12,
 32,Australia,Victoria,2021-05-15,20544,820,19702,48,0,26,0.5416666666666666,0.0,1.0,26,0.0
-33,Australia,Victoria,2021-05-22,20547,820,19715,25,0,13,0.52,0.0,1.0,13,0.0
+33,Australia,Victoria,2021-05-23,20549,820,19719,27,0,17,0.6296296296296297,0.0,1.0,17,0.0

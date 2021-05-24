@@ -426,3 +426,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 485,France,Martinique,2021-05-20,11669,90,98,11481,0,0,0.0,,,0,
 486,France,Martinique,2021-05-21,11669,90,98,11481,0,0,0.0,,,0,
 487,France,Martinique,2021-05-22,11669,90,98,11481,0,0,0.0,,,0,
+488,France,Martinique,2021-05-23,11789,93,98,11601,3,0,0.0002585983966899405,1.0,0.0,3,
