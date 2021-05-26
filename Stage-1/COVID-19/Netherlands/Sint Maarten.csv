@@ -430,3 +430,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 487,Netherlands,Sint Maarten,2021-05-22,2356,27,2247,82,0,0,0.0,,,0,
 488,Netherlands,Sint Maarten,2021-05-23,2366,27,2250,92,0,3,0.03260869565217391,0.0,1.0,3,
 489,Netherlands,Sint Maarten,2021-05-24,2366,28,2250,89,1,0,0.011235955056179775,1.0,0.0,1,-1.0
+490,Netherlands,Sint Maarten,2021-05-25,2386,28,2270,108,0,20,0.18518518518518517,0.0,1.0,20,1.0

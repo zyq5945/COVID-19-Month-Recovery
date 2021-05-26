@@ -488,3 +488,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 487,China,Shanghai,2021-05-22,2066,7,1996,64,0,1,0.015625,0.0,1.0,1,0.0
 488,China,Shanghai,2021-05-23,2069,7,1996,66,0,0,0.0,,,0,
 489,China,Shanghai,2021-05-24,2072,7,2000,69,0,4,0.057971014492753624,0.0,1.0,4,
+490,China,Shanghai,2021-05-25,2078,7,2004,71,0,4,0.056338028169014086,0.0,1.0,4,0.0

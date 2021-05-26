@@ -357,3 +357,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 487,Russia,Khanty-Mansi Autonomous Okrug,2021-05-22,57046,796,55821,481,0,52,0.10810810810810811,0.0,1.0,52,0.0
 488,Russia,Khanty-Mansi Autonomous Okrug,2021-05-23,57095,796,55848,478,0,27,0.056485355648535567,0.0,1.0,27,0.0
 489,Russia,Khanty-Mansi Autonomous Okrug,2021-05-24,57143,797,55863,499,1,15,0.03206412825651302,0.0625,0.9375,16,-0.0625
+490,Russia,Khanty-Mansi Autonomous Okrug,2021-05-25,57187,797,55925,527,0,62,0.11764705882352941,0.0,1.0,62,0.0625

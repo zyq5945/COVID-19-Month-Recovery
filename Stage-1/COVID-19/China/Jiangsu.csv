@@ -488,3 +488,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 487,China,Jiangsu,2021-05-22,722,0,713,9,0,0,0.0,,,0,
 488,China,Jiangsu,2021-05-23,723,0,713,10,0,0,0.0,,,0,
 489,China,Jiangsu,2021-05-24,724,0,714,11,0,1,0.09090909090909091,0.0,1.0,1,
+490,China,Jiangsu,2021-05-25,725,0,715,11,0,1,0.09090909090909091,0.0,1.0,1,0.0
