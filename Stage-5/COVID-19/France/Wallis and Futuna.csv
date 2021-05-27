@@ -28,3 +28,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 96,France,Wallis and Futuna,2021-05-15,445,7,436,394,0,392,0.9949238578680203,0.0,1.0,392,
 97,France,Wallis and Futuna,2021-05-20,445,7,436,2,0,0,0.0,,,0,
 98,France,Wallis and Futuna,2021-05-25,445,7,438,2,0,2,1.0,0.0,1.0,2,
+99,France,Wallis and Futuna,2021-05-26,445,7,438,0,0,0,,,,0,

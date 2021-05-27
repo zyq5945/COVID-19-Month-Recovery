@@ -489,3 +489,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 488,China,Anhui,2021-05-23,1002,6,989,7,0,0,0.0,,,0,
 489,China,Anhui,2021-05-24,1004,6,989,9,0,0,0.0,,,0,
 490,China,Anhui,2021-05-25,1004,6,989,9,0,0,0.0,,,0,
+491,China,Anhui,2021-05-26,1004,6,990,9,0,1,0.1111111111111111,0.0,1.0,1,

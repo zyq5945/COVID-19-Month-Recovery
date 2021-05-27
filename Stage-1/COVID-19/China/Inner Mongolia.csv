@@ -489,3 +489,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 488,China,Inner Mongolia,2021-05-23,385,1,381,4,0,1,0.25,0.0,1.0,1,
 489,China,Inner Mongolia,2021-05-24,385,1,382,3,0,1,0.3333333333333333,0.0,1.0,1,0.0
 490,China,Inner Mongolia,2021-05-25,385,1,382,2,0,0,0.0,,,0,
+491,China,Inner Mongolia,2021-05-26,386,1,382,3,0,0,0.0,,,0,

@@ -80,4 +80,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 95,US,California,2021-05-10,3760303,62334,,,264,,,,,,
 96,US,California,2021-05-15,3768087,62656,,,322,,,,,,
 97,US,California,2021-05-20,3774494,62817,,,161,,,,,,
-98,US,California,2021-05-25,3779400,62970,,,153,,,,,,
+98,US,California,2021-05-25,3779998,62986,,,169,,,,,,
+99,US,California,2021-05-26,3780811,63014,,,28,,,,,,

@@ -479,3 +479,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 488,Australia,South Australia,2021-05-23,748,4,742,4,0,2,0.5,0.0,1.0,2,0.0
 489,Australia,South Australia,2021-05-24,749,4,744,3,0,2,0.6666666666666666,0.0,1.0,2,0.0
 490,Australia,South Australia,2021-05-25,750,4,744,2,0,0,0.0,,,0,
+491,Australia,South Australia,2021-05-26,752,4,745,4,0,1,0.25,0.0,1.0,1,

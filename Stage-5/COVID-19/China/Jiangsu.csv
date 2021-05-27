@@ -97,3 +97,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 96,China,Jiangsu,2021-05-15,721,0,713,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
 97,China,Jiangsu,2021-05-20,722,0,713,9,0,0,0.0,,,0,
 98,China,Jiangsu,2021-05-25,725,0,715,12,0,2,0.16666666666666666,0.0,1.0,2,
+99,China,Jiangsu,2021-05-26,725,0,715,10,0,0,0.0,,,0,
