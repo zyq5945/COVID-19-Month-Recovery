@@ -350,3 +350,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 489,Pakistan,Gilgit-Baltistan,2021-05-24,5512,107,5300,114,0,9,0.07894736842105263,0.0,1.0,9,
 490,Pakistan,Gilgit-Baltistan,2021-05-25,5516,107,5301,109,0,1,0.009174311926605505,0.0,1.0,1,0.0
 491,Pakistan,Gilgit-Baltistan,2021-05-26,5533,107,5324,125,0,23,0.184,0.0,1.0,23,0.0
+492,Pakistan,Gilgit-Baltistan,2021-05-27,5533,107,5324,102,0,0,0.0,,,0,
