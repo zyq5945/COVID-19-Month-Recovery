@@ -361,3 +361,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 491,Russia,Kabardino-Balkarian Republic,2021-05-26,24255,466,23558,246,0,15,0.06097560975609756,0.0,1.0,15,0.0
 492,Russia,Kabardino-Balkarian Republic,2021-05-27,24270,466,23574,246,0,16,0.06504065040650407,0.0,1.0,16,0.0
 493,Russia,Kabardino-Balkarian Republic,2021-05-28,24285,467,23589,245,1,15,0.0653061224489796,0.0625,0.9375,16,-0.0625
+494,Russia,Kabardino-Balkarian Republic,2021-05-29,24299,467,23601,243,0,12,0.04938271604938271,0.0,1.0,12,0.0625

@@ -97,4 +97,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 96,China,Liaoning,2021-05-15,415,2,406,7,0,0,0.0,,,0,
 97,China,Liaoning,2021-05-20,423,2,406,15,0,0,0.0,,,0,
 98,China,Liaoning,2021-05-25,425,2,408,17,0,2,0.11764705882352941,0.0,1.0,2,
-99,China,Liaoning,2021-05-28,425,2,411,15,0,3,0.2,0.0,1.0,3,0.0
+99,China,Liaoning,2021-05-29,425,2,412,15,0,4,0.26666666666666666,0.0,1.0,4,0.0
