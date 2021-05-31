@@ -31,4 +31,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 30,China,Liaoning,2021-04-15,408,2,405,1,0,0,0.0,,,0,
 31,China,Liaoning,2021-04-30,408,2,406,1,0,1,1.0,0.0,1.0,1,
 32,China,Liaoning,2021-05-15,415,2,406,7,0,0,0.0,,,0,
-33,China,Liaoning,2021-05-29,425,2,412,17,0,6,0.35294117647058826,0.0,1.0,6,
+33,China,Liaoning,2021-05-30,425,2,414,17,0,8,0.47058823529411764,0.0,1.0,8,

@@ -15,4 +15,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 14,China,Anhui,2021-02-28,994,6,988,1,0,1,1.0,0.0,1.0,1,0.0
 15,China,Anhui,2021-03-31,994,6,988,0,0,0,,,,0,
 16,China,Anhui,2021-04-30,994,6,988,0,0,0,,,,0,
-17,China,Anhui,2021-05-29,1004,6,994,10,0,6,0.6,0.0,1.0,6,
+17,China,Anhui,2021-05-30,1004,6,996,10,0,8,0.8,0.0,1.0,8,
