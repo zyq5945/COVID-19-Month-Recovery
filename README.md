@@ -69,6 +69,8 @@ python COVID-19.py /xxx/xxx/COVID-19 /yyy/yyy/COVID-19-Stage-Recovery Step
 
 * 环境温度对阶段康复率的影响有滞后性，根据供冷供暖情况不同，天气温度会对环境温度有不同的影响，所以不太会出现极端天气温度造成极端差的康复情况，有些地区会出现在寒冷的天气温度下供暖后的康复情况比不供暖时的要好，但大多都会比不过天气温度较高时的状况。
 
+* 印度的疫情大数据告诉我们，并不是温度越高越好，在2021年2月温度较适宜，2021年1月和2021年3月稍差，到了现在2021年5月更差了，预测印度接下来的更炎热的夏天会疫情康复情况数据会更差。
+
   
 ## 6.License
 * This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by zyq5945 
