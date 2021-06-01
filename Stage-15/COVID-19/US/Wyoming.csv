@@ -27,3 +27,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 31,US,Wyoming,2021-04-30,58142,707,,,4,,,,,,
 32,US,Wyoming,2021-05-15,59079,712,,,5,,,,,,
 33,US,Wyoming,2021-05-30,60144,719,,,7,,,,,,
+34,US,Wyoming,2021-05-31,60144,719,,,0,,,,,,

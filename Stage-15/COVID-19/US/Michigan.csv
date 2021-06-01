@@ -27,3 +27,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 31,US,Michigan,2021-04-30,936467,18753,,,936,,,,,,
 32,US,Michigan,2021-05-15,976339,19790,,,1037,,,,,,
 33,US,Michigan,2021-05-30,991941,20376,,,586,,,,,,
+34,US,Michigan,2021-05-31,991941,20376,,,0,,,,,,

@@ -381,3 +381,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 493,Spain,Castilla y Leon,2021-05-28,230600,6882,8716,215004,2,0,9.302152518092687e-06,1.0,0.0,2,0.0
 494,Spain,Castilla y Leon,2021-05-29,230600,6882,8716,215002,0,0,0.0,,,0,
 495,Spain,Castilla y Leon,2021-05-30,230600,6882,8716,215002,0,0,0.0,,,0,
+496,Spain,Castilla y Leon,2021-05-31,231104,6884,8716,215506,2,0,9.280484070049094e-06,1.0,0.0,2,

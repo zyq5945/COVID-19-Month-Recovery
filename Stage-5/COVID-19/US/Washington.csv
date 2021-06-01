@@ -82,3 +82,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 97,US,Washington,2021-05-20,425848,5690,,,68,,,,,,
 98,US,Washington,2021-05-25,430415,5722,,,32,,,,,,
 99,US,Washington,2021-05-30,435849,5765,,,43,,,,,,
+100,US,Washington,2021-05-31,435849,5765,,,0,,,,,,

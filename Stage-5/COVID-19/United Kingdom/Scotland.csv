@@ -70,3 +70,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 97,United Kingdom,Scotland,2021-05-20,230868,7664,0,223204,0,0,0.0,,,0,
 98,United Kingdom,Scotland,2021-05-25,232661,7666,0,224997,2,0,8.889007408987675e-06,1.0,0.0,2,
 99,United Kingdom,Scotland,2021-05-30,235421,7668,0,227755,2,0,8.781365941472196e-06,1.0,0.0,2,0.0
+100,United Kingdom,Scotland,2021-05-31,235911,7669,0,228243,1,0,4.381295373790215e-06,1.0,0.0,1,0.0

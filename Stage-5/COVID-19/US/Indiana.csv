@@ -82,3 +82,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 97,US,Indiana,2021-05-20,738173,13525,,,54,,,,,,
 98,US,Indiana,2021-05-25,741053,13566,,,41,,,,,,
 99,US,Indiana,2021-05-30,743696,13620,,,54,,,,,,
+100,US,Indiana,2021-05-31,743696,13620,,,0,,,,,,

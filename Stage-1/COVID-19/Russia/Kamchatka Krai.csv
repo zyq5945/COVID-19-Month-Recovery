@@ -363,3 +363,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 493,Russia,Kamchatka Krai,2021-05-28,14663,231,14040,403,0,11,0.02729528535980149,0.0,1.0,11,0.0
 494,Russia,Kamchatka Krai,2021-05-29,14671,231,14048,400,0,8,0.02,0.0,1.0,8,0.0
 495,Russia,Kamchatka Krai,2021-05-30,14680,231,14054,401,0,6,0.014962593516209476,0.0,1.0,6,0.0
+496,Russia,Kamchatka Krai,2021-05-31,14688,231,14054,403,0,0,0.0,,,0,
