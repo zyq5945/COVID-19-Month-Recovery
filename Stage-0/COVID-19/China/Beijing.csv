@@ -16,3 +16,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 15,China,Beijing,2021-03-31,1049,9,1037,18,0,15,0.8333333333333334,0.0,1.0,15,0.0
 16,China,Beijing,2021-04-30,1057,9,1041,11,0,4,0.36363636363636365,0.0,1.0,4,0.0
 17,China,Beijing,2021-05-31,1059,9,1046,9,0,5,0.5555555555555556,0.0,1.0,5,0.0
+18,China,Beijing,2021-06-01,1059,9,1046,4,0,0,0.0,,,0,

@@ -495,3 +495,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 494,China,Tianjin,2021-05-29,393,3,380,10,0,0,0.0,,,0,
 495,China,Tianjin,2021-05-30,393,3,381,10,0,1,0.1,0.0,1.0,1,
 496,China,Tianjin,2021-05-31,393,3,381,9,0,0,0.0,,,0,
+497,China,Tianjin,2021-06-01,393,3,382,9,0,1,0.1111111111111111,0.0,1.0,1,

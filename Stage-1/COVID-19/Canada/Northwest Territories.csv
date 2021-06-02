@@ -433,3 +433,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 494,Canada,Northwest Territories,2021-05-29,127,0,125,2,0,0,0.0,,,0,
 495,Canada,Northwest Territories,2021-05-30,127,0,125,2,0,0,0.0,,,0,
 496,Canada,Northwest Territories,2021-05-31,129,0,129,4,0,4,1.0,0.0,1.0,4,
+497,Canada,Northwest Territories,2021-06-01,128,0,128,-1,0,-1,1.0,-0.0,1.0,-1,0.0

@@ -389,7 +389,7 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 469,US,New Jersey,2021-05-04,1001997,25658,,,42,,,,,,
 470,US,New Jersey,2021-05-05,1004525,25707,,,49,,,,,,
 471,US,New Jersey,2021-05-06,1005938,25740,,,33,,,,,,
-472,US,New Jersey,2021-05-07,1006905,25769,,,29,,,,,,
+472,US,New Jersey,2021-05-07,1007776,25769,,,29,,,,,,
 473,US,New Jersey,2021-05-08,1007555,25791,,,22,,,,,,
 474,US,New Jersey,2021-05-09,1007894,25801,,,10,,,,,,
 475,US,New Jersey,2021-05-10,1008046,25810,,,9,,,,,,
@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 494,US,New Jersey,2021-05-29,1015889,26201,,,16,,,,,,
 495,US,New Jersey,2021-05-30,1016135,26207,,,6,,,,,,
 496,US,New Jersey,2021-05-31,1016332,26212,,,5,,,,,,
+497,US,New Jersey,2021-06-01,1016490,26219,,,7,,,,,,
