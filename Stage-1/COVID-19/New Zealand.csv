@@ -459,3 +459,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 495,New Zealand,,2021-05-30,2673,26,2630,17,0,0,0.0,,,0,
 496,New Zealand,,2021-05-31,2673,26,2630,17,0,0,0.0,,,0,
 497,New Zealand,,2021-06-01,2679,26,2635,23,0,5,0.21739130434782608,0.0,1.0,5,
+498,New Zealand,,2021-06-02,2681,26,2638,20,0,3,0.15,0.0,1.0,3,0.0

@@ -98,4 +98,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 97,China,Tianjin,2021-05-20,389,3,379,7,0,0,0.0,,,0,
 98,China,Tianjin,2021-05-25,393,3,379,11,0,0,0.0,,,0,
 99,China,Tianjin,2021-05-30,393,3,381,11,0,2,0.18181818181818182,0.0,1.0,2,
-100,China,Tianjin,2021-06-01,393,3,382,9,0,1,0.1111111111111111,0.0,1.0,1,0.0
+100,China,Tianjin,2021-06-02,393,3,383,9,0,2,0.2222222222222222,0.0,1.0,2,0.0

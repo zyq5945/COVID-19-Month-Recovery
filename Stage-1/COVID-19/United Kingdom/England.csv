@@ -355,3 +355,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 495,United Kingdom,England,2021-05-30,3913295,112391,0,3800910,6,0,1.5785693426047972e-06,1.0,0.0,6,0.0
 496,United Kingdom,England,2021-05-31,3916049,112391,0,3803658,0,0,0.0,,,0,
 497,United Kingdom,England,2021-06-01,3918522,112391,0,3806131,0,0,0.0,,,0,
+498,United Kingdom,England,2021-06-02,3921939,112402,0,3809548,11,0,2.8874816644914306e-06,1.0,0.0,11,
