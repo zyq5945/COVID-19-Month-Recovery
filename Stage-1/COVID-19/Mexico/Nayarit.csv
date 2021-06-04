@@ -378,3 +378,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 496,Mexico,Nayarit,2021-05-31,12176,1829,0,10347,0,0,0.0,,,0,
 497,Mexico,Nayarit,2021-06-01,12209,1836,0,10380,7,0,0.000674373795761079,1.0,0.0,7,
 498,Mexico,Nayarit,2021-06-02,12228,1836,0,10392,0,0,0.0,,,0,
+499,Mexico,Nayarit,2021-06-03,12259,1837,0,10423,1,0,9.594166746618056e-05,1.0,0.0,1,

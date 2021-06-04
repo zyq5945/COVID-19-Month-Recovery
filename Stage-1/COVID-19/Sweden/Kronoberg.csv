@@ -362,3 +362,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 496,Sweden,Kronoberg,2021-05-31,21641,313,0,21328,0,0,0.0,,,0,
 497,Sweden,Kronoberg,2021-06-01,21641,313,0,21328,0,0,0.0,,,0,
 498,Sweden,Kronoberg,2021-06-02,21641,313,0,21328,0,0,0.0,,,0,
+499,Sweden,Kronoberg,2021-06-03,21908,315,0,21595,2,0,9.261403102570039e-05,1.0,0.0,2,

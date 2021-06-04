@@ -492,3 +492,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 496,Australia,Victoria,2021-05-31,20609,820,19727,64,0,2,0.03125,0.0,1.0,2,
 497,Australia,Victoria,2021-06-01,20614,820,19727,67,0,0,0.0,,,0,
 498,Australia,Victoria,2021-06-02,20617,820,19728,70,0,1,0.014285714285714285,0.0,1.0,1,
+499,Australia,Victoria,2021-06-03,20621,820,19731,73,0,3,0.0410958904109589,0.0,1.0,3,0.0

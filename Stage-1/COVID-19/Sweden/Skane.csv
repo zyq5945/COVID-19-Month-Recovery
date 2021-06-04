@@ -362,3 +362,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 496,Sweden,Skane,2021-05-31,153662,1730,0,151932,0,0,0.0,,,0,
 497,Sweden,Skane,2021-06-01,153662,1730,0,151932,0,0,0.0,,,0,
 498,Sweden,Skane,2021-06-02,153662,1730,0,151932,0,0,0.0,,,0,
+499,Sweden,Skane,2021-06-03,154643,1743,0,152913,13,0,8.50156625008992e-05,1.0,0.0,13,
