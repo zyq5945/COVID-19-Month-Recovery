@@ -444,3 +444,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 497,Netherlands,Curacao,2021-06-01,12273,122,12128,30,0,7,0.23333333333333334,0.0,1.0,7,
 498,Netherlands,Curacao,2021-06-02,12273,122,12128,23,0,0,0.0,,,0,
 499,Netherlands,Curacao,2021-06-03,12276,122,12132,26,0,4,0.15384615384615385,0.0,1.0,4,
+500,Netherlands,Curacao,2021-06-04,12277,122,12136,23,0,4,0.17391304347826086,0.0,1.0,4,0.0

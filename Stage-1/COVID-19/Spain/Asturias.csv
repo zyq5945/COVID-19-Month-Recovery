@@ -385,3 +385,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 497,Spain,Asturias,2021-06-01,52455,1967,1063,49425,0,0,0.0,,,0,
 498,Spain,Asturias,2021-06-02,52496,1967,1063,49466,0,0,0.0,,,0,
 499,Spain,Asturias,2021-06-03,52551,1967,1063,49521,0,0,0.0,,,0,
+500,Spain,Asturias,2021-06-04,52603,1971,1063,49573,4,0,8.068908478405583e-05,1.0,0.0,4,

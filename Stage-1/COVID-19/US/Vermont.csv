@@ -417,3 +417,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 497,US,Vermont,2021-06-01,24224,255,,,0,,,,,,
 498,US,Vermont,2021-06-02,24232,255,,,0,,,,,,
 499,US,Vermont,2021-06-03,24240,255,,,0,,,,,,
+500,US,Vermont,2021-06-04,24252,256,,,1,,,,,,
