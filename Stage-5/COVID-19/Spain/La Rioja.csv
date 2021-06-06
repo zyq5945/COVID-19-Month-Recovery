@@ -77,3 +77,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 98,Spain,La Rioja,2021-05-25,30612,771,3107,26736,2,0,7.480550568521843e-05,1.0,0.0,2,0.0
 99,Spain,La Rioja,2021-05-30,30749,771,3107,26871,0,0,0.0,,,0,
 100,Spain,La Rioja,2021-06-04,31141,773,3107,27263,2,0,7.335949822103217e-05,1.0,0.0,2,
+101,Spain,La Rioja,2021-06-05,31141,773,3107,27261,0,0,0.0,,,0,

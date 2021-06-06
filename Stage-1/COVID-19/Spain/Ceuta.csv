@@ -386,3 +386,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 498,Spain,Ceuta,2021-06-02,5896,115,163,5618,0,0,0.0,,,0,
 499,Spain,Ceuta,2021-06-03,5909,115,163,5631,0,0,0.0,,,0,
 500,Spain,Ceuta,2021-06-04,5909,115,163,5631,0,0,0.0,,,0,
+501,Spain,Ceuta,2021-06-05,5909,116,163,5631,1,0,0.0001775883502042266,1.0,0.0,1,

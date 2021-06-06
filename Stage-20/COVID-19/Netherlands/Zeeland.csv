@@ -16,3 +16,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 23,Netherlands,Zeeland,2021-04-25,25001,233,0,24779,11,0,0.0004439242907300537,1.0,0.0,11,0.0
 24,Netherlands,Zeeland,2021-05-15,28056,240,0,27823,7,0,0.00025159041081119934,1.0,0.0,7,0.0
 25,Netherlands,Zeeland,2021-06-04,29347,247,0,29107,7,0,0.00024049197787473804,1.0,0.0,7,0.0
+26,Netherlands,Zeeland,2021-06-05,29369,247,0,29122,0,0,0.0,,,0,

@@ -418,3 +418,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 498,US,Connecticut,2021-06-02,347678,8247,,,3,,,,,,
 499,US,Connecticut,2021-06-03,347748,8245,,,-2,,,,,,
 500,US,Connecticut,2021-06-04,347891,8246,,,1,,,,,,
+501,US,Connecticut,2021-06-05,347891,8246,,,0,,,,,,

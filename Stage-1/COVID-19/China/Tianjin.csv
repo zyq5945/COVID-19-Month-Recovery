@@ -499,3 +499,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 498,China,Tianjin,2021-06-02,393,3,383,8,0,1,0.125,0.0,1.0,1,0.0
 499,China,Tianjin,2021-06-03,393,3,385,7,0,2,0.2857142857142857,0.0,1.0,2,0.0
 500,China,Tianjin,2021-06-04,393,3,385,5,0,0,0.0,,,0,
+501,China,Tianjin,2021-06-05,394,3,385,6,0,0,0.0,,,0,

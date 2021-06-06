@@ -17,3 +17,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 23,United Kingdom,Wales,2021-04-25,211224,5546,0,205705,27,0,0.00013125592474660315,1.0,0.0,27,0.0
 24,United Kingdom,Wales,2021-05-15,212095,5558,0,206549,12,0,5.809759427545038e-05,1.0,0.0,12,0.0
 25,United Kingdom,Wales,2021-06-04,212999,5569,0,207441,11,0,5.302712578516301e-05,1.0,0.0,11,0.0
+26,United Kingdom,Wales,2021-06-05,212999,5569,0,207430,0,0,0.0,,,0,
