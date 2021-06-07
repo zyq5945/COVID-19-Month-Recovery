@@ -500,3 +500,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 499,China,Inner Mongolia,2021-06-03,388,1,383,4,0,0,0.0,,,0,
 500,China,Inner Mongolia,2021-06-04,388,1,383,4,0,0,0.0,,,0,
 501,China,Inner Mongolia,2021-06-05,388,1,383,4,0,0,0.0,,,0,
+502,China,Inner Mongolia,2021-06-06,388,1,384,4,0,1,0.25,0.0,1.0,1,

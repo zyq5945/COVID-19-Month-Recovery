@@ -500,3 +500,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 499,China,Sichuan,2021-06-03,1032,3,996,35,0,2,0.05714285714285714,0.0,1.0,2,
 500,China,Sichuan,2021-06-04,1033,3,999,34,0,3,0.08823529411764706,0.0,1.0,3,0.0
 501,China,Sichuan,2021-06-05,1039,3,999,37,0,0,0.0,,,0,
+502,China,Sichuan,2021-06-06,1040,3,1001,38,0,2,0.05263157894736842,0.0,1.0,2,
