@@ -388,3 +388,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,Spain,Canarias,2021-06-04,56965,772,1537,54657,1,0,1.8295918180653897e-05,1.0,0.0,1,
 501,Spain,Canarias,2021-06-05,56965,772,1537,54656,0,0,0.0,,,0,
 502,Spain,Canarias,2021-06-06,56965,772,1537,54656,0,0,0.0,,,0,
+503,Spain,Canarias,2021-06-07,57250,775,1537,54941,3,0,5.460402977739757e-05,1.0,0.0,3,

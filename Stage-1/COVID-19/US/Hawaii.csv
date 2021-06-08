@@ -420,3 +420,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,US,Hawaii,2021-06-04,36471,501,,,0,,,,,,
 501,US,Hawaii,2021-06-05,36535,502,,,1,,,,,,
 502,US,Hawaii,2021-06-06,36616,505,,,3,,,,,,
+503,US,Hawaii,2021-06-07,36649,505,,,0,,,,,,

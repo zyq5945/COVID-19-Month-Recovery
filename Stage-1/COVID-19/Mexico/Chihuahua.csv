@@ -382,3 +382,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,Mexico,Chihuahua,2021-06-04,56414,7394,0,49024,4,0,8.159268929503917e-05,1.0,0.0,4,0.0
 501,Mexico,Chihuahua,2021-06-05,56479,7398,0,49085,4,0,8.149129061831516e-05,1.0,0.0,4,0.0
 502,Mexico,Chihuahua,2021-06-06,56497,7399,0,49099,1,0,2.036701358479806e-05,1.0,0.0,1,0.0
+503,Mexico,Chihuahua,2021-06-07,56552,7399,0,49153,0,0,0.0,,,0,

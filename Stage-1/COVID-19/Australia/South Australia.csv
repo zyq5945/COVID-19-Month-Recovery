@@ -491,3 +491,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,Australia,South Australia,2021-06-04,761,4,752,5,0,0,0.0,,,0,
 501,Australia,South Australia,2021-06-05,762,4,752,6,0,0,0.0,,,0,
 502,Australia,South Australia,2021-06-06,764,4,754,8,0,2,0.25,0.0,1.0,2,
+503,Australia,South Australia,2021-06-07,767,4,758,9,0,4,0.4444444444444444,0.0,1.0,4,0.0

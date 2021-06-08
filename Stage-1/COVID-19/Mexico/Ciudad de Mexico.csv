@@ -382,3 +382,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,Mexico,Ciudad de Mexico,2021-06-04,662053,34276,0,627785,8,0,1.2743216228485868e-05,1.0,0.0,8,0.0
 501,Mexico,Ciudad de Mexico,2021-06-05,662053,34276,0,627777,0,0,0.0,,,0,
 502,Mexico,Ciudad de Mexico,2021-06-06,662992,34281,0,628716,5,0,7.952716329789603e-06,1.0,0.0,5,
+503,Mexico,Ciudad de Mexico,2021-06-07,663131,34286,0,628850,5,0,7.951021706289258e-06,1.0,0.0,5,0.0

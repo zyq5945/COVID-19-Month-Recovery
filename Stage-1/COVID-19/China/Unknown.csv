@@ -501,3 +501,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,China,Unknown,2021-06-04,0,0,14,-14,0,0,-0.0,,,0,
 501,China,Unknown,2021-06-05,0,0,17,-14,0,3,-0.21428571428571427,0.0,1.0,3,
 502,China,Unknown,2021-06-06,0,0,7,-17,0,-10,0.5882352941176471,-0.0,1.0,-10,0.0
+503,China,Unknown,2021-06-07,0,0,3,-7,0,-4,0.5714285714285714,-0.0,1.0,-4,0.0

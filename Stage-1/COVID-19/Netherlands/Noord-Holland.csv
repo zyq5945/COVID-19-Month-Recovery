@@ -324,3 +324,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,Netherlands,Noord-Holland,2021-06-04,274222,2603,0,271621,2,0,7.363200930708598e-06,1.0,0.0,2,0.0
 501,Netherlands,Noord-Holland,2021-06-05,274481,2606,0,271878,3,0,1.103436100015448e-05,1.0,0.0,3,0.0
 502,Netherlands,Noord-Holland,2021-06-06,274694,2609,0,272088,3,0,1.1025844579694805e-05,1.0,0.0,3,0.0
+503,Netherlands,Noord-Holland,2021-06-07,274889,2609,0,272280,0,0,0.0,,,0,

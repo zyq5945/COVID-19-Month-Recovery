@@ -324,3 +324,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 500,Netherlands,Utrecht,2021-06-04,126600,1277,0,125323,0,0,0.0,,,0,
 501,Netherlands,Utrecht,2021-06-05,126740,1277,0,125463,0,0,0.0,,,0,
 502,Netherlands,Utrecht,2021-06-06,126851,1277,0,125574,0,0,0.0,,,0,
+503,Netherlands,Utrecht,2021-06-07,126935,1278,0,125658,1,0,7.958108516767735e-06,1.0,0.0,1,
