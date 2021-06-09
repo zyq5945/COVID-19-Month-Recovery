@@ -389,3 +389,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 501,Spain,Murcia,2021-06-05,113352,1602,2180,109570,0,0,0.0,,,0,
 502,Spain,Murcia,2021-06-06,113352,1602,2180,109570,0,0,0.0,,,0,
 503,Spain,Murcia,2021-06-07,113470,1602,2180,109688,0,0,0.0,,,0,
+504,Spain,Murcia,2021-06-08,113509,1603,2180,109727,1,0,9.113527208435481e-06,1.0,0.0,1,

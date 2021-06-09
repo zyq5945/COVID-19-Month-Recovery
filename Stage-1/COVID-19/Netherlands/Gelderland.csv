@@ -325,3 +325,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 501,Netherlands,Gelderland,2021-06-05,185908,2022,0,183886,0,0,0.0,,,0,
 502,Netherlands,Gelderland,2021-06-06,186111,2022,0,184089,0,0,0.0,,,0,
 503,Netherlands,Gelderland,2021-06-07,186292,2022,0,184270,0,0,0.0,,,0,
+504,Netherlands,Gelderland,2021-06-08,186497,2024,0,184475,2,0,1.0841577449518905e-05,1.0,0.0,2,

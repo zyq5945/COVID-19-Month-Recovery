@@ -367,3 +367,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 501,Sweden,Vastra Gotaland,2021-06-05,188652,2363,0,186289,0,0,0.0,,,0,
 502,Sweden,Vastra Gotaland,2021-06-06,188652,2363,0,186289,0,0,0.0,,,0,
 503,Sweden,Vastra Gotaland,2021-06-07,188652,2363,0,186289,0,0,0.0,,,0,
+504,Sweden,Vastra Gotaland,2021-06-08,188988,2364,0,186625,1,0,5.35833891493637e-06,1.0,0.0,1,
