@@ -390,3 +390,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 502,Germany,Saarland,2021-06-06,41045,1012,39500,533,0,0,0.0,,,0,
 503,Germany,Saarland,2021-06-07,41057,1014,39500,545,2,0,0.003669724770642202,1.0,0.0,2,
 504,Germany,Saarland,2021-06-08,41097,1014,39500,583,0,0,0.0,,,0,
+505,Germany,Saarland,2021-06-09,41149,1014,39600,635,0,100,0.15748031496062992,0.0,1.0,100,

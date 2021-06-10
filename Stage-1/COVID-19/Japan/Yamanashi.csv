@@ -376,3 +376,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 502,Japan,Yamanashi,2021-06-06,1675,19,1469,187,0,0,0.0,,,0,
 503,Japan,Yamanashi,2021-06-07,1687,20,1469,199,1,0,0.005025125628140704,1.0,0.0,1,
 504,Japan,Yamanashi,2021-06-08,1730,20,1500,241,0,31,0.12863070539419086,0.0,1.0,31,1.0
+505,Japan,Yamanashi,2021-06-09,1748,20,1506,228,0,6,0.02631578947368421,0.0,1.0,6,0.0

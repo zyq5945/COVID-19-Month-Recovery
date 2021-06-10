@@ -368,3 +368,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 502,Sweden,Norrbotten,2021-06-06,25043,269,0,24774,0,0,0.0,,,0,
 503,Sweden,Norrbotten,2021-06-07,25043,269,0,24774,0,0,0.0,,,0,
 504,Sweden,Norrbotten,2021-06-08,25483,269,0,25214,0,0,0.0,,,0,
+505,Sweden,Norrbotten,2021-06-09,25571,270,0,25302,1,0,3.952256738597739e-05,1.0,0.0,1,

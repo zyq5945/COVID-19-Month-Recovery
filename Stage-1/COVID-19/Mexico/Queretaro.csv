@@ -384,3 +384,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 502,Mexico,Queretaro,2021-06-06,69309,4402,0,64907,0,0,0.0,,,0,
 503,Mexico,Queretaro,2021-06-07,69312,4403,0,64910,1,0,1.5405946695424434e-05,1.0,0.0,1,
 504,Mexico,Queretaro,2021-06-08,69334,4426,0,64931,23,0,0.0003542221743081117,1.0,0.0,23,0.0
+505,Mexico,Queretaro,2021-06-09,69363,4426,0,64937,0,0,0.0,,,0,

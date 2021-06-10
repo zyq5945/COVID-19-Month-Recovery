@@ -376,3 +376,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 502,Peru,La Libertad,2021-06-06,78262,9513,0,68749,0,0,0.0,,,0,
 503,Peru,La Libertad,2021-06-07,79918,9592,0,70405,79,0,0.0011220793977700448,1.0,0.0,79,
 504,Peru,La Libertad,2021-06-08,79918,9592,0,70326,0,0,0.0,,,0,
+505,Peru,La Libertad,2021-06-09,80103,9629,0,70511,37,0,0.0005247408205811859,1.0,0.0,37,

@@ -503,3 +503,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 502,China,Sichuan,2021-06-06,1040,3,1001,38,0,2,0.05263157894736842,0.0,1.0,2,
 503,China,Sichuan,2021-06-07,1041,3,1009,37,0,8,0.21621621621621623,0.0,1.0,8,0.0
 504,China,Sichuan,2021-06-08,1043,3,1009,31,0,0,0.0,,,0,
+505,China,Sichuan,2021-06-09,1044,3,1010,32,0,1,0.03125,0.0,1.0,1,
