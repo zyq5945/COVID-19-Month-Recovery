@@ -29,4 +29,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 31,Denmark,Greenland,2021-04-30,31,0,31,0,0,0,,,,0,
 32,Denmark,Greenland,2021-05-15,31,0,31,0,0,0,,,,0,
 33,Denmark,Greenland,2021-05-30,40,0,33,9,0,2,0.2222222222222222,0.0,1.0,2,
-34,Denmark,Greenland,2021-06-09,43,0,34,10,0,1,0.1,0.0,1.0,1,0.0
+34,Denmark,Greenland,2021-06-10,43,0,40,10,0,7,0.7,0.0,1.0,7,0.0

@@ -65,3 +65,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 99,Netherlands,Overijssel,2021-05-30,107725,1129,0,106599,3,0,2.8142853122449555e-05,1.0,0.0,3,0.0
 100,Netherlands,Overijssel,2021-06-04,108648,1133,0,107519,4,0,3.720272695988616e-05,1.0,0.0,4,0.0
 101,Netherlands,Overijssel,2021-06-09,109252,1135,0,108119,2,0,1.849813631276649e-05,1.0,0.0,2,0.0
+102,Netherlands,Overijssel,2021-06-10,109358,1135,0,108223,0,0,0.0,,,0,

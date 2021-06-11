@@ -73,3 +73,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 99,Sweden,Kalmar,2021-05-30,23757,243,0,23514,0,0,0.0,,,0,
 100,Sweden,Kalmar,2021-06-04,24000,245,0,23757,2,0,8.418571368438776e-05,1.0,0.0,2,
 101,Sweden,Kalmar,2021-06-09,24070,245,0,23825,0,0,0.0,,,0,
+102,Sweden,Kalmar,2021-06-10,24094,245,0,23849,0,0,0.0,,,0,

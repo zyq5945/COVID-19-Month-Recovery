@@ -100,3 +100,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 99,China,Inner Mongolia,2021-05-30,387,1,383,4,0,1,0.25,0.0,1.0,1,0.0
 100,China,Inner Mongolia,2021-06-04,388,1,383,4,0,0,0.0,,,0,
 101,China,Inner Mongolia,2021-06-09,390,1,385,6,0,2,0.3333333333333333,0.0,1.0,2,
+102,China,Inner Mongolia,2021-06-10,390,1,385,4,0,0,0.0,,,0,

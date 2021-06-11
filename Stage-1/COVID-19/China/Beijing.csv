@@ -504,3 +504,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 503,China,Beijing,2021-06-07,1065,9,1046,10,0,0,0.0,,,0,
 504,China,Beijing,2021-06-08,1067,9,1046,12,0,0,0.0,,,0,
 505,China,Beijing,2021-06-09,1067,9,1047,12,0,1,0.08333333333333333,0.0,1.0,1,
+506,China,Beijing,2021-06-10,1068,9,1047,12,0,0,0.0,,,0,

@@ -455,3 +455,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 503,China,Hong Kong,2021-06-07,11865,210,11584,71,0,0,0.0,,,0,
 504,China,Hong Kong,2021-06-08,11868,210,11584,74,0,0,0.0,,,0,
 505,China,Hong Kong,2021-06-09,11872,210,11587,78,0,3,0.038461538461538464,0.0,1.0,3,
+506,China,Hong Kong,2021-06-10,11874,210,11590,77,0,3,0.03896103896103896,0.0,1.0,3,0.0

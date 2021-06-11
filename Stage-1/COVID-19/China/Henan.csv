@@ -504,3 +504,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 503,China,Henan,2021-06-07,1316,22,1291,4,0,1,0.25,0.0,1.0,1,
 504,China,Henan,2021-06-08,1316,22,1291,3,0,0,0.0,,,0,
 505,China,Henan,2021-06-09,1316,22,1290,3,0,-1,-0.3333333333333333,-0.0,1.0,-1,
+506,China,Henan,2021-06-10,1316,22,1290,4,0,0,0.0,,,0,

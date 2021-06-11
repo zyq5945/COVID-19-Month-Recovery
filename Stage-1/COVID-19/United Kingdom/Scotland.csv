@@ -363,3 +363,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 503,United Kingdom,Scotland,2021-06-07,241169,7677,0,233492,0,0,0.0,,,0,
 504,United Kingdom,Scotland,2021-06-08,241864,7677,0,234187,0,0,0.0,,,0,
 505,United Kingdom,Scotland,2021-06-09,242875,7678,0,235198,1,0,4.251736834496892e-06,1.0,0.0,1,
+506,United Kingdom,Scotland,2021-06-10,243610,7679,0,235932,1,0,4.238509401013851e-06,1.0,0.0,1,0.0
