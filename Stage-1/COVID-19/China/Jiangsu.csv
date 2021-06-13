@@ -506,3 +506,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 505,China,Jiangsu,2021-06-09,729,0,720,10,0,1,0.1,0.0,1.0,1,
 506,China,Jiangsu,2021-06-10,730,0,720,10,0,0,0.0,,,0,
 507,China,Jiangsu,2021-06-11,734,0,720,14,0,0,0.0,,,0,
+508,China,Jiangsu,2021-06-12,735,0,721,15,0,1,0.06666666666666667,0.0,1.0,1,

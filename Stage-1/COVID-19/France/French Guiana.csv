@@ -453,3 +453,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 505,France,French Guiana,2021-06-09,25093,129,9995,14972,3,0,0.00020037403152551428,1.0,0.0,3,0.0
 506,France,French Guiana,2021-06-10,25292,130,9995,15168,1,0,6.592827004219409e-05,1.0,0.0,1,0.0
 507,France,French Guiana,2021-06-11,25292,130,9995,15167,0,0,0.0,,,0,
+508,France,French Guiana,2021-06-12,25506,133,9995,15381,3,0,0.0001950458357714063,1.0,0.0,3,
