@@ -88,4 +88,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 99,Canada,Yukon,2021-05-30,84,2,82,0,0,0,,,,0,
 100,Canada,Yukon,2021-06-04,84,2,82,0,0,0,,,,0,
 101,Canada,Yukon,2021-06-09,92,2,82,8,0,0,0.0,,,0,
-102,Canada,Yukon,2021-06-12,98,2,82,14,0,0,0.0,,,0,
+102,Canada,Yukon,2021-06-13,104,2,84,20,0,2,0.1,0.0,1.0,2,

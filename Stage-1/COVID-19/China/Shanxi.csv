@@ -507,3 +507,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 506,China,Shanxi,2021-06-10,253,0,250,3,0,0,0.0,,,0,
 507,China,Shanxi,2021-06-11,253,0,250,3,0,0,0.0,,,0,
 508,China,Shanxi,2021-06-12,253,0,251,3,0,1,0.3333333333333333,0.0,1.0,1,
+509,China,Shanxi,2021-06-13,253,0,252,2,0,1,0.5,0.0,1.0,1,0.0
