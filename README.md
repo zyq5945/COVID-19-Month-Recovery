@@ -36,23 +36,30 @@ python COVID-19.py /xxx/xxx/COVID-19 /yyy/yyy/COVID-19-Stage-Recovery Step
 
 
 
-| 字段名 |  说明 |  数值的计算 |
-|---|---|---|
-|  Index | 当前阶段对应的序号 ||
-|  Region | 地区 ||
-|  Subregion | 子地区 ||
-|  Stage | 当前阶段的日期 ||
-|  Confirmed | 当前阶段的确诊数 ||
-|  Deaths | 当前阶段的死亡数 ||
-|  Recovered | 当前阶段的康复数 ||
-|  Stage_Confirmed | 当前阶段的确诊数 | 当前阶段的确诊数减去上阶段的康复数与死亡数之和 |
-|  Stage_Deaths | 当前阶段的死亡数 | 当前阶段的死亡数减去上阶段的死亡数 |
-|  Stage_Recovered | 当前阶段的康复数 | 当前阶段的康复数减去上阶段的康复数 |
-|  Stage_Treated% | 当前阶段的病例已经获得处理率 | 当前阶段的病例已经获得处理数量除以当前阶段的确诊数 |
-|  Stage_Deaths% | 当前阶段的死亡率 | 当前阶段的死亡数除以当前阶段病例已经获得处理数量 |
-|  Stage_Recovered% | 当前阶段的康复率 | 当前阶段的康复数除以当前阶段病例已经获得处理数量 |
-|  Stage_Treated | 当前阶段病例已经获得处理数量 | 当前阶段的确诊数与死亡数之和减去上阶段的确诊数与死亡数之和 |
-|  Recovered_Change | 当前阶段康复率变化情况 | 当前阶段的康复率减去上阶段的康复率|
+| 字段名 |  说明 |  数值的计算 | 计算的说明 |
+|---|---|---|---|
+|  Index | 当前阶段计算对应的序号 |||
+|  Region | 地区 |||
+|  Subregion | 子地区 |||
+|  Stage | 当前阶段结算的日期 |||
+|  Confirmed | 当前阶段结算的确诊数 |||
+|  Deaths | 当前阶段结算的死亡数 |||
+|  Recovered | 当前阶段结算的康复数 |||
+|  Stage_Confirmed | 当前阶段计算的确诊数 | Current#Confiremed - Last#Recovered - Last#Deaths  | 当前阶段结算的确诊数减去上阶段结算的康复数与死亡数之和|
+|  Stage_Deaths | 当前阶段计算的死亡数 | Current#Deaths - Last#Deaths | 当前阶段结算的死亡数减去上阶段结算的死亡数  |
+|  Stage_Recovered | 当前阶段计算的康复数 | Current#Confirmed - Last#Confirmed  | 当前阶段结算的康复数减去上阶段结算的康复数|
+|  Stage_Treated% | 当前阶段计算的病例已经获得处理率 | Stage_Treated/Stage_Confirmed  | 当前阶段计算的病例已经获得处理数量除以当前阶段计算的确诊数|
+|  Stage_Deaths% | 当前阶段计算的死亡率 | Stage_Deaths/Stage_Treated  | 当前阶段计算的死亡数除以当前阶段计算的病例已经获得处理数量|
+|  Stage_Recovered% | 当前阶段计算的康复率 | Stage_Recovered/Stage_Treated  | 当前阶段计算的康复数除以当前阶段计算的病例已经获得处理数量|
+|  Stage_Treated | 当前阶段计算的病例已经获得处理数量 | (Current#Recovered + Current#Deaths) - (Last#Recovered + Last#Deaths) | 当前阶段计算的康复数与死亡数之和减去上阶段计算的康复数与死亡数之和 |
+|  Recovered_Change | 当前阶段计算的康复率变化情况 | Current#Stage_Recovered% - Last#Stage_Recovered%  | 当前阶段计算的康复率减去上阶段计算的康复率|
+
+
+
+* Current#XXX：表示的是当前阶段的XXX数值
+
+* Last#XXX：表示的是相对于当前阶段的上阶段的XXX数值
+
 
 
 ## 5.数据分析的一些心得体会
