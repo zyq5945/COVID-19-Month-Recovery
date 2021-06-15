@@ -381,3 +381,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 507,Peru,Apurimac,2021-06-11,23629,1378,0,22251,0,0,0.0,,,0,
 508,Peru,Apurimac,2021-06-12,23678,1381,0,22300,3,0,0.0001345291479820628,1.0,0.0,3,
 509,Peru,Apurimac,2021-06-13,23678,1381,0,22297,0,0,0.0,,,0,
+510,Peru,Apurimac,2021-06-14,23793,1383,0,22412,2,0,8.92379082634303e-05,1.0,0.0,2,

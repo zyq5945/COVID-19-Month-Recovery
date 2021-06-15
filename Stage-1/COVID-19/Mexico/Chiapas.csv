@@ -389,3 +389,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 507,Mexico,Chiapas,2021-06-11,11778,1647,0,10131,0,0,0.0,,,0,
 508,Mexico,Chiapas,2021-06-12,11816,1647,0,10169,0,0,0.0,,,0,
 509,Mexico,Chiapas,2021-06-13,11827,1647,0,10180,0,0,0.0,,,0,
+510,Mexico,Chiapas,2021-06-14,11847,1648,0,10200,1,0,9.80392156862745e-05,1.0,0.0,1,
