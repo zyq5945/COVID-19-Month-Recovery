@@ -26,3 +26,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 32,Spain,Extremadura,2021-05-15,74870,1797,2652,70428,7,0,9.93922871585165e-05,1.0,0.0,7,0.0
 33,Spain,Extremadura,2021-05-30,75693,1801,2652,71244,4,0,5.614507888383583e-05,1.0,0.0,4,0.0
 34,Spain,Extremadura,2021-06-14,76539,1805,2652,72086,4,0,5.548927669727825e-05,1.0,0.0,4,0.0
+35,Spain,Extremadura,2021-06-15,76573,1805,2652,72116,0,0,0.0,,,0,

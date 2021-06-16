@@ -390,3 +390,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 508,Mexico,Guanajuato,2021-06-12,132414,11040,0,121378,4,0,3.29549012176836e-05,1.0,0.0,4,0.0
 509,Mexico,Guanajuato,2021-06-13,132420,11040,0,121380,0,0,0.0,,,0,
 510,Mexico,Guanajuato,2021-06-14,132430,11040,0,121390,0,0,0.0,,,0,
+511,Mexico,Guanajuato,2021-06-15,132476,11042,0,121436,2,0,1.6469580684475772e-05,1.0,0.0,2,

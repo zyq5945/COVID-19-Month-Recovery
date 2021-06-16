@@ -101,3 +101,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 100,China,Yunnan,2021-06-04,356,2,336,20,0,2,0.1,0.0,1.0,2,0.0
 101,China,Yunnan,2021-06-09,362,2,344,24,0,8,0.3333333333333333,0.0,1.0,8,0.0
 102,China,Yunnan,2021-06-14,377,2,348,31,0,4,0.12903225806451613,0.0,1.0,4,0.0
+103,China,Yunnan,2021-06-15,377,2,348,27,0,0,0.0,,,0,

@@ -396,3 +396,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 508,Spain,Catalonia,2021-06-12,629718,14691,26203,588824,0,0,0.0,,,0,
 509,Spain,Catalonia,2021-06-13,629718,14691,26203,588824,0,0,0.0,,,0,
 510,Spain,Catalonia,2021-06-14,630929,14691,26203,590035,0,0,0.0,,,0,
+511,Spain,Catalonia,2021-06-15,631554,14695,26203,590660,4,0,6.772085463718552e-06,1.0,0.0,4,
