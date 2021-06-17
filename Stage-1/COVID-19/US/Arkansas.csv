@@ -429,3 +429,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 509,US,Arkansas,2021-06-13,343964,5861,,,1,,,,,,
 510,US,Arkansas,2021-06-14,344067,5863,,,2,,,,,,
 511,US,Arkansas,2021-06-15,344369,5869,,,6,,,,,,
+512,US,Arkansas,2021-06-16,344657,5867,,,-2,,,,,,

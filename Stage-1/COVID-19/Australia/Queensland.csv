@@ -502,3 +502,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 509,Australia,Queensland,2021-06-13,1652,7,1603,42,0,0,0.0,,,0,
 510,Australia,Queensland,2021-06-14,1655,7,1604,45,0,1,0.022222222222222223,0.0,1.0,1,
 511,Australia,Queensland,2021-06-15,1655,7,1614,44,0,10,0.22727272727272727,0.0,1.0,10,0.0
+512,Australia,Queensland,2021-06-16,1661,7,1617,40,0,3,0.075,0.0,1.0,3,0.0

@@ -383,3 +383,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 509,Colombia,San Andres y Providencia,2021-06-13,5982,116,5782,106,1,21,0.20754716981132076,0.045454545454545456,0.9545454545454546,22,0.03146853146853146
 510,Colombia,San Andres y Providencia,2021-06-14,5982,118,5790,84,2,8,0.11904761904761904,0.2,0.8,10,-0.15454545454545454
 511,Colombia,San Andres y Providencia,2021-06-15,5982,118,5790,74,0,0,0.0,,,0,
+512,Colombia,San Andres y Providencia,2021-06-16,6008,118,5816,100,0,26,0.26,0.0,1.0,26,

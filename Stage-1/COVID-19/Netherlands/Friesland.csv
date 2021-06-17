@@ -333,3 +333,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 509,Netherlands,Friesland,2021-06-13,43610,476,0,43134,0,0,0.0,,,0,
 510,Netherlands,Friesland,2021-06-14,43622,476,0,43146,0,0,0.0,,,0,
 511,Netherlands,Friesland,2021-06-15,43644,476,0,43168,0,0,0.0,,,0,
+512,Netherlands,Friesland,2021-06-16,43658,477,0,43182,1,0,2.315779723032745e-05,1.0,0.0,1,

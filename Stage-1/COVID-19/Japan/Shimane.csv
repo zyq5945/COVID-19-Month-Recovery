@@ -383,3 +383,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 509,Japan,Shimane,2021-06-13,562,0,533,31,0,2,0.06451612903225806,0.0,1.0,2,0.0
 510,Japan,Shimane,2021-06-14,563,0,533,30,0,0,0.0,,,0,
 511,Japan,Shimane,2021-06-15,564,0,533,31,0,0,0.0,,,0,
+512,Japan,Shimane,2021-06-16,563,1,537,30,1,4,0.16666666666666666,0.2,0.8,5,
