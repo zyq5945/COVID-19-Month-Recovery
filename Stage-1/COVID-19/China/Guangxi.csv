@@ -511,3 +511,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 510,China,Guangxi,2021-06-14,275,2,270,3,0,0,0.0,,,0,
 511,China,Guangxi,2021-06-15,275,2,270,3,0,0,0.0,,,0,
 512,China,Guangxi,2021-06-16,275,2,273,3,0,3,1.0,0.0,1.0,3,
+513,China,Guangxi,2021-06-17,275,2,273,0,0,0,,,,0,

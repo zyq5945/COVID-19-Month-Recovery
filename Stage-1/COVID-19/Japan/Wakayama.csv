@@ -384,3 +384,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 510,Japan,Wakayama,2021-06-14,2653,45,2524,86,1,1,0.023255813953488372,0.5,0.5,2,-0.5
 511,Japan,Wakayama,2021-06-15,2655,45,2524,86,0,0,0.0,,,0,
 512,Japan,Wakayama,2021-06-16,2655,45,2526,86,0,2,0.023255813953488372,0.0,1.0,2,
+513,Japan,Wakayama,2021-06-17,2656,45,2529,85,0,3,0.03529411764705882,0.0,1.0,3,0.0

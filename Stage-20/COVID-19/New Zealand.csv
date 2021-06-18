@@ -1,4 +1,5 @@
 Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_Deaths,Stage_Recovered,Stage_Treated%,Stage_Deaths%,Stage_Recovered%,Stage_Treated,Recovered_Change
+1,New Zealand,,2020-02-10,0,0,0,0,0,0,,,,0,
 2,New Zealand,,2020-03-01,1,0,0,1,0,0,0.0,,,0,
 3,New Zealand,,2020-03-21,52,0,0,52,0,0,0.0,,,0,
 4,New Zealand,,2020-04-10,1283,2,373,1283,2,373,0.2922837100545596,0.005333333333333333,0.9946666666666667,375,
@@ -23,4 +24,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 23,New Zealand,,2021-04-25,2601,26,2542,151,0,118,0.7814569536423841,0.0,1.0,118,0.0
 24,New Zealand,,2021-05-15,2646,26,2601,78,0,59,0.7564102564102564,0.0,1.0,59,0.0
 25,New Zealand,,2021-06-04,2682,26,2639,55,0,38,0.6909090909090909,0.0,1.0,38,0.0
-26,New Zealand,,2021-06-16,2713,26,2663,48,0,24,0.5,0.0,1.0,24,0.0
+26,New Zealand,,2021-06-17,2714,26,2665,49,0,26,0.5306122448979592,0.0,1.0,26,0.0

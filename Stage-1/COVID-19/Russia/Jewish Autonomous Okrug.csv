@@ -380,3 +380,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 510,Russia,Jewish Autonomous Okrug,2021-06-14,4559,144,4336,81,0,2,0.024691358024691357,0.0,1.0,2,0.0
 511,Russia,Jewish Autonomous Okrug,2021-06-15,4565,144,4338,85,0,2,0.023529411764705882,0.0,1.0,2,0.0
 512,Russia,Jewish Autonomous Okrug,2021-06-16,4571,146,4340,89,2,2,0.0449438202247191,0.5,0.5,4,-0.5
+513,Russia,Jewish Autonomous Okrug,2021-06-17,4578,146,4345,92,0,5,0.05434782608695652,0.0,1.0,5,0.5
