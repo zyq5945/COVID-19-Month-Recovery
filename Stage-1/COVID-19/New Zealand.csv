@@ -512,3 +512,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 511,New Zealand,,2021-06-15,2711,26,2662,29,0,6,0.20689655172413793,0.0,1.0,6,
 512,New Zealand,,2021-06-16,2713,26,2663,25,0,1,0.04,0.0,1.0,1,0.0
 513,New Zealand,,2021-06-17,2714,26,2665,25,0,2,0.08,0.0,1.0,2,0.0
+514,New Zealand,,2021-06-18,2714,26,2665,23,0,0,0.0,,,0,
