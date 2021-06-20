@@ -336,3 +336,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 512,Netherlands,Noord-Brabant,2021-06-16,271650,3136,0,268514,0,0,0.0,,,0,
 513,Netherlands,Noord-Brabant,2021-06-17,271788,3136,0,268652,0,0,0.0,,,0,
 514,Netherlands,Noord-Brabant,2021-06-18,271914,3136,0,268778,0,0,0.0,,,0,
+515,Netherlands,Noord-Brabant,2021-06-19,272002,3137,0,268866,1,0,3.7193248681499334e-06,1.0,0.0,1,

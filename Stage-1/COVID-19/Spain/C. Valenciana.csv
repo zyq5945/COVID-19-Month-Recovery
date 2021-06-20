@@ -400,3 +400,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 512,Spain,C. Valenciana,2021-06-16,397435,7408,9970,380058,1,0,2.6311773466155165e-06,1.0,0.0,1,0.0
 513,Spain,C. Valenciana,2021-06-17,397642,7407,9970,380264,-1,0,-2.6297519617949636e-06,1.0,-0.0,-1,-0.0
 514,Spain,C. Valenciana,2021-06-18,397911,7407,9970,380534,0,0,0.0,,,0,
+515,Spain,C. Valenciana,2021-06-19,397911,7407,9970,380534,0,0,0.0,,,0,
