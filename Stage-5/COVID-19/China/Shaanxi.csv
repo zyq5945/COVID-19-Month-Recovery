@@ -102,3 +102,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 101,China,Shaanxi,2021-06-09,620,3,600,21,0,4,0.19047619047619047,0.0,1.0,4,0.0
 102,China,Shaanxi,2021-06-14,622,3,602,19,0,2,0.10526315789473684,0.0,1.0,2,0.0
 103,China,Shaanxi,2021-06-19,624,3,604,19,0,2,0.10526315789473684,0.0,1.0,2,0.0
+104,China,Shaanxi,2021-06-20,624,3,604,17,0,0,0.0,,,0,
