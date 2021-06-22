@@ -515,3 +515,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 514,China,Beijing,2021-06-18,1073,9,1048,16,0,0,0.0,,,0,
 515,China,Beijing,2021-06-19,1073,9,1048,16,0,0,0.0,,,0,
 516,China,Beijing,2021-06-20,1075,9,1050,18,0,2,0.1111111111111111,0.0,1.0,2,
+517,China,Beijing,2021-06-21,1075,9,1051,16,0,1,0.0625,0.0,1.0,1,0.0

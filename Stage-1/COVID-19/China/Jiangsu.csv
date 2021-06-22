@@ -515,3 +515,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 514,China,Jiangsu,2021-06-18,739,0,723,18,0,2,0.1111111111111111,0.0,1.0,2,
 515,China,Jiangsu,2021-06-19,739,0,725,16,0,2,0.125,0.0,1.0,2,0.0
 516,China,Jiangsu,2021-06-20,740,0,725,15,0,0,0.0,,,0,
+517,China,Jiangsu,2021-06-21,740,0,726,15,0,1,0.06666666666666667,0.0,1.0,1,
