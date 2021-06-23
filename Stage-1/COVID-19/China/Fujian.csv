@@ -516,3 +516,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 515,China,Fujian,2021-06-19,651,1,611,43,0,4,0.09302325581395349,0.0,1.0,4,0.0
 516,China,Fujian,2021-06-20,652,1,612,40,0,1,0.025,0.0,1.0,1,0.0
 517,China,Fujian,2021-06-21,659,1,612,46,0,0,0.0,,,0,
+518,China,Fujian,2021-06-22,660,1,613,47,0,1,0.02127659574468085,0.0,1.0,1,

@@ -403,3 +403,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 515,Germany,Sachsen-Anhalt,2021-06-19,99218,3418,95140,661,1,0,0.0015128593040847202,1.0,0.0,1,-0.9803921568627451
 516,Germany,Sachsen-Anhalt,2021-06-20,99220,3418,95140,662,0,0,0.0,,,0,
 517,Germany,Sachsen-Anhalt,2021-06-21,99219,3418,95210,661,0,70,0.1059001512859304,0.0,1.0,70,
+518,Germany,Sachsen-Anhalt,2021-06-22,99228,3421,95210,600,3,0,0.005,1.0,0.0,3,-1.0
