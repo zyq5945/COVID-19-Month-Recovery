@@ -75,4 +75,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 101,Sweden,Halland,2021-06-09,40664,319,0,40345,0,0,0.0,,,0,
 102,Sweden,Halland,2021-06-14,40715,319,0,40396,0,0,0.0,,,0,
 103,Sweden,Halland,2021-06-19,40737,319,0,40418,0,0,0.0,,,0,
-104,Sweden,Halland,2021-06-22,40821,320,0,40502,1,0,2.4690138758579824e-05,1.0,0.0,1,
+104,Sweden,Halland,2021-06-23,40827,320,0,40508,1,0,2.468648168263059e-05,1.0,0.0,1,
