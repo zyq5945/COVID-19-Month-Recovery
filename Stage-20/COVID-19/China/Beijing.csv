@@ -24,4 +24,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 23,China,Beijing,2021-04-25,1057,9,1039,10,0,1,0.1,0.0,1.0,1,0.0
 24,China,Beijing,2021-05-15,1057,9,1046,9,0,7,0.7777777777777778,0.0,1.0,7,0.0
 25,China,Beijing,2021-06-04,1063,9,1046,8,0,0,0.0,,,0,
-26,China,Beijing,2021-06-23,1075,9,1051,20,0,5,0.25,0.0,1.0,5,
+26,China,Beijing,2021-06-24,1076,9,1051,21,0,5,0.23809523809523808,0.0,1.0,5,
