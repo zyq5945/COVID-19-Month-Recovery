@@ -406,3 +406,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 518,Spain,Galicia,2021-06-22,128834,2421,9204,117209,0,0,0.0,,,0,
 519,Spain,Galicia,2021-06-23,128920,2421,9204,117295,0,0,0.0,,,0,
 520,Spain,Galicia,2021-06-24,129039,2421,9204,117414,0,0,0.0,,,0,
+521,Spain,Galicia,2021-06-25,129180,2422,9204,117555,1,0,8.506656458678916e-06,1.0,0.0,1,

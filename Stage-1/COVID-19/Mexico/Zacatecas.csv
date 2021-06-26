@@ -400,3 +400,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 518,Mexico,Zacatecas,2021-06-22,30973,2832,0,28141,0,0,0.0,,,0,
 519,Mexico,Zacatecas,2021-06-23,30983,2834,0,28151,2,0,7.104543355475827e-05,1.0,0.0,2,
 520,Mexico,Zacatecas,2021-06-24,30999,2833,0,28165,-1,0,-3.550505947097461e-05,1.0,-0.0,-1,-0.0
+521,Mexico,Zacatecas,2021-06-25,31083,2835,0,28250,2,0,7.079646017699115e-05,1.0,0.0,2,0.0

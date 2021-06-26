@@ -103,3 +103,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 102,China,Tianjin,2021-06-14,398,3,385,10,0,0,0.0,,,0,
 103,China,Tianjin,2021-06-19,399,3,385,11,0,0,0.0,,,0,
 104,China,Tianjin,2021-06-24,400,3,386,12,0,1,0.08333333333333333,0.0,1.0,1,
+105,China,Tianjin,2021-06-25,400,3,386,11,0,0,0.0,,,0,

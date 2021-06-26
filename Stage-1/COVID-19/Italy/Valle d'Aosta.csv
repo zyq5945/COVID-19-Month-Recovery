@@ -406,3 +406,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 518,Italy,Valle d'Aosta,2021-06-22,11675,473,11157,53,1,7,0.1509433962264151,0.125,0.875,8,-0.125
 519,Italy,Valle d'Aosta,2021-06-23,11676,473,11165,46,0,8,0.17391304347826086,0.0,1.0,8,0.125
 520,Italy,Valle d'Aosta,2021-06-24,11678,473,11170,40,0,5,0.125,0.0,1.0,5,0.0
+521,Italy,Valle d'Aosta,2021-06-25,11683,473,11173,40,0,3,0.075,0.0,1.0,3,0.0

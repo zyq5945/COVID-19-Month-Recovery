@@ -519,3 +519,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 518,China,Yunnan,2021-06-22,391,2,350,39,0,0,0.0,,,0,
 519,China,Yunnan,2021-06-23,394,2,350,42,0,0,0.0,,,0,
 520,China,Yunnan,2021-06-24,396,2,350,44,0,0,0.0,,,0,
+521,China,Yunnan,2021-06-25,401,2,353,49,0,3,0.061224489795918366,0.0,1.0,3,

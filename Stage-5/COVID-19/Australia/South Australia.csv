@@ -101,3 +101,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 102,Australia,South Australia,2021-06-14,775,4,769,10,0,8,0.8,0.0,1.0,8,0.0
 103,Australia,South Australia,2021-06-19,785,4,775,12,0,6,0.5,0.0,1.0,6,0.0
 104,Australia,South Australia,2021-06-24,792,4,779,13,0,4,0.3076923076923077,0.0,1.0,4,0.0
+105,Australia,South Australia,2021-06-25,789,4,780,6,0,1,0.16666666666666666,0.0,1.0,1,0.0
