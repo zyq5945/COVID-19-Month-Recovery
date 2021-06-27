@@ -512,3 +512,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 519,Australia,Queensland,2021-06-23,1678,7,1621,50,0,0,0.0,,,0,
 520,Australia,Queensland,2021-06-24,1679,7,1621,51,0,0,0.0,,,0,
 521,Australia,Queensland,2021-06-25,1680,7,1624,52,0,3,0.057692307692307696,0.0,1.0,3,
+522,Australia,Queensland,2021-06-26,1683,7,1626,52,0,2,0.038461538461538464,0.0,1.0,2,0.0
