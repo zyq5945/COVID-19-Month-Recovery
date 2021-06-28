@@ -440,3 +440,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 520,US,Virginia,2021-06-24,679391,11381,,,13,,,,,,
 521,US,Virginia,2021-06-25,679762,11396,,,15,,,,,,
 522,US,Virginia,2021-06-26,680060,11402,,,6,,,,,,
+523,US,Virginia,2021-06-27,679828,11396,,,-6,,,,,,

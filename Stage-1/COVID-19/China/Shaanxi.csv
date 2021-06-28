@@ -521,3 +521,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 520,China,Shaanxi,2021-06-24,624,3,609,12,0,0,0.0,,,0,
 521,China,Shaanxi,2021-06-25,624,3,610,12,0,1,0.08333333333333333,0.0,1.0,1,
 522,China,Shaanxi,2021-06-26,624,3,617,11,0,7,0.6363636363636364,0.0,1.0,7,0.0
+523,China,Shaanxi,2021-06-27,624,3,617,4,0,0,0.0,,,0,

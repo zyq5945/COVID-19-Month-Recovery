@@ -349,3 +349,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 520,Colombia,Unknown,2021-06-24,0,0,1,-1,0,0,-0.0,,,0,
 521,Colombia,Unknown,2021-06-25,0,0,1,-1,0,0,-0.0,,,0,
 522,Colombia,Unknown,2021-06-26,0,0,4,-1,0,3,-3.0,0.0,1.0,3,
+523,Colombia,Unknown,2021-06-27,0,0,1,-4,0,-3,0.75,-0.0,1.0,-3,0.0
