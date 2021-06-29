@@ -395,3 +395,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 521,Japan,Port Quarantine,2021-06-25,3092,4,2980,110,0,2,0.01818181818181818,0.0,1.0,2,0.0
 522,Japan,Port Quarantine,2021-06-26,3106,4,3001,122,0,21,0.1721311475409836,0.0,1.0,21,0.0
 523,Japan,Port Quarantine,2021-06-27,3110,4,3010,105,0,9,0.08571428571428572,0.0,1.0,9,0.0
+524,Japan,Port Quarantine,2021-06-28,3123,4,3010,109,0,0,0.0,,,0,

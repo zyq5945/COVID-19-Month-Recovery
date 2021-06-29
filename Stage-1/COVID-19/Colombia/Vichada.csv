@@ -393,3 +393,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 521,Colombia,Vichada,2021-06-25,2406,37,2326,51,1,7,0.1568627450980392,0.125,0.875,8,-0.125
 522,Colombia,Vichada,2021-06-26,2426,37,2333,63,0,7,0.1111111111111111,0.0,1.0,7,0.125
 523,Colombia,Vichada,2021-06-27,2434,37,2345,64,0,12,0.1875,0.0,1.0,12,0.0
+524,Colombia,Vichada,2021-06-28,2442,37,2357,60,0,12,0.2,0.0,1.0,12,0.0
