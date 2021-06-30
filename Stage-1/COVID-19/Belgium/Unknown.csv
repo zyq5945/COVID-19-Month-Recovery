@@ -228,3 +228,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 522,Belgium,Unknown,2021-06-26,20906,25160,0,-4254,0,0,-0.0,,,0,
 523,Belgium,Unknown,2021-06-27,20906,25160,0,-4254,0,0,-0.0,,,0,
 524,Belgium,Unknown,2021-06-28,20936,25168,0,-4224,8,0,-0.001893939393939394,1.0,0.0,8,
+525,Belgium,Unknown,2021-06-29,20975,25170,0,-4193,2,0,-0.0004769854519437157,1.0,0.0,2,0.0
