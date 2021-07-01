@@ -103,3 +103,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 103,Australia,Queensland,2021-06-19,1665,7,1620,54,0,16,0.2962962962962963,0.0,1.0,16,0.0
 104,Australia,Queensland,2021-06-24,1679,7,1621,52,0,1,0.019230769230769232,0.0,1.0,1,0.0
 105,Australia,Queensland,2021-06-29,1696,7,1635,68,0,14,0.20588235294117646,0.0,1.0,14,0.0
+106,Australia,Queensland,2021-06-30,1700,7,1635,58,0,0,0.0,,,0,

@@ -464,3 +464,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 523,France,Martinique,2021-06-27,12199,99,98,12002,0,0,0.0,,,0,
 524,France,Martinique,2021-06-28,12199,99,98,12002,0,0,0.0,,,0,
 525,France,Martinique,2021-06-29,12286,98,98,12089,-1,0,-8.271982794275788e-05,1.0,-0.0,-1,
+526,France,Martinique,2021-06-30,12286,98,98,12090,0,0,0.0,,,0,

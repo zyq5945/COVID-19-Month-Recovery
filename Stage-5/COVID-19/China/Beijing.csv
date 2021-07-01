@@ -104,3 +104,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 103,China,Beijing,2021-06-19,1073,9,1048,16,0,0,0.0,,,0,
 104,China,Beijing,2021-06-24,1076,9,1051,19,0,3,0.15789473684210525,0.0,1.0,3,
 105,China,Beijing,2021-06-29,1078,9,1055,18,0,4,0.2222222222222222,0.0,1.0,4,0.0
+106,China,Beijing,2021-06-30,1078,9,1057,14,0,2,0.14285714285714285,0.0,1.0,2,0.0

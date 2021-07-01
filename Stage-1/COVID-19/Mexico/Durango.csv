@@ -405,3 +405,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 523,Mexico,Durango,2021-06-27,34707,2500,0,32207,0,0,0.0,,,0,
 524,Mexico,Durango,2021-06-28,34710,2500,0,32210,0,0,0.0,,,0,
 525,Mexico,Durango,2021-06-29,34738,2498,0,32238,-2,0,-6.203858800173708e-05,1.0,-0.0,-2,
+526,Mexico,Durango,2021-06-30,34757,2499,0,32259,1,0,3.0999101026070246e-05,1.0,0.0,1,0.0
