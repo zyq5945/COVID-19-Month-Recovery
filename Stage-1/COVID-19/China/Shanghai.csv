@@ -525,3 +525,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 524,China,Shanghai,2021-06-28,2202,7,2141,55,0,1,0.01818181818181818,0.0,1.0,1,0.0
 525,China,Shanghai,2021-06-29,2202,7,2141,54,0,0,0.0,,,0,
 526,China,Shanghai,2021-06-30,2204,7,2149,56,0,8,0.14285714285714285,0.0,1.0,8,
+527,China,Shanghai,2021-07-01,2207,7,2153,51,0,4,0.0784313725490196,0.0,1.0,4,0.0

@@ -12,3 +12,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 16,Sweden,Vasterbotten,2021-04-30,20903,178,0,20735,10,0,0.0004822763443453099,1.0,0.0,10,0.0
 17,Sweden,Vasterbotten,2021-05-31,22909,181,0,22731,3,0,0.00013197835554968986,1.0,0.0,3,0.0
 18,Sweden,Vasterbotten,2021-06-30,23413,181,0,23232,0,0,0.0,,,0,
+19,Sweden,Vasterbotten,2021-07-01,23431,181,0,23250,0,0,0.0,,,0,
