@@ -527,3 +527,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 526,China,Jiangsu,2021-06-30,742,0,732,11,0,1,0.09090909090909091,0.0,1.0,1,0.0
 527,China,Jiangsu,2021-07-01,743,0,732,11,0,0,0.0,,,0,
 528,China,Jiangsu,2021-07-02,743,0,733,11,0,1,0.09090909090909091,0.0,1.0,1,
+529,China,Jiangsu,2021-07-03,743,0,733,10,0,0,0.0,,,0,

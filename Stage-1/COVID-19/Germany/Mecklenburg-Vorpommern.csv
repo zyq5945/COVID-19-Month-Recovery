@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 526,Germany,Mecklenburg-Vorpommern,2021-06-30,44156,1156,42920,82,2,0,0.024390243902439025,1.0,0.0,2,-0.8333333333333334
 527,Germany,Mecklenburg-Vorpommern,2021-07-01,44158,1156,42920,82,0,0,0.0,,,0,
 528,Germany,Mecklenburg-Vorpommern,2021-07-02,44162,1156,42930,86,0,10,0.11627906976744186,0.0,1.0,10,
+529,Germany,Mecklenburg-Vorpommern,2021-07-03,44164,1156,42930,78,0,0,0.0,,,0,

@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 526,Germany,Schleswig-Holstein,2021-06-30,63906,1621,61940,345,0,0,0.0,,,0,
 527,Germany,Schleswig-Holstein,2021-07-01,63921,1623,61940,360,2,0,0.005555555555555556,1.0,0.0,2,
 528,Germany,Schleswig-Holstein,2021-07-02,63937,1623,61950,374,0,10,0.026737967914438502,0.0,1.0,10,1.0
+529,Germany,Schleswig-Holstein,2021-07-03,63957,1623,61960,384,0,10,0.026041666666666668,0.0,1.0,10,0.0
