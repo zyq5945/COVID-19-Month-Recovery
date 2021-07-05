@@ -445,5 +445,6 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 525,US,California,2021-06-29,3818303,63621,,,23,,,,,,
 526,US,California,2021-06-30,3816659,63647,,,26,,,,,,
 527,US,California,2021-07-01,3818326,63712,,,65,,,,,,
-528,US,California,2021-07-02,3819662,63762,,,50,,,,,,
-529,US,California,2021-07-03,3820398,63651,,,-111,,,,,,
+528,US,California,2021-07-02,3819662,63651,,,-61,,,,,,
+529,US,California,2021-07-03,3820442,63651,,,0,,,,,,
+530,US,California,2021-07-04,3820921,63650,,,-1,,,,,,

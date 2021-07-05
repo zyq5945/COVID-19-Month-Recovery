@@ -528,3 +528,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 527,China,Beijing,2021-07-01,1078,9,1057,12,0,0,0.0,,,0,
 528,China,Beijing,2021-07-02,1078,9,1057,12,0,0,0.0,,,0,
 529,China,Beijing,2021-07-03,1078,9,1058,12,0,1,0.08333333333333333,0.0,1.0,1,
+530,China,Beijing,2021-07-04,1078,9,1059,11,0,1,0.09090909090909091,0.0,1.0,1,0.0

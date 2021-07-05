@@ -409,3 +409,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 527,Mexico,Chihuahua,2021-07-01,57839,7569,0,50272,2,0,3.9783577339274344e-05,1.0,0.0,2,0.0
 528,Mexico,Chihuahua,2021-07-02,57884,7567,0,50315,-2,0,-3.9749577660737354e-05,1.0,-0.0,-2,-0.0
 529,Mexico,Chihuahua,2021-07-03,57924,7570,0,50357,3,0,5.9574637091169055e-05,1.0,0.0,3,0.0
+530,Mexico,Chihuahua,2021-07-04,57931,7570,0,50361,0,0,0.0,,,0,

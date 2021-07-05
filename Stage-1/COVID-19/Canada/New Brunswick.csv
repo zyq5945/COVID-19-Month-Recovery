@@ -479,3 +479,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 527,Canada,New Brunswick,2021-07-01,2332,45,2262,25,0,0,0.0,,,0,
 528,Canada,New Brunswick,2021-07-02,2336,45,2265,29,0,3,0.10344827586206896,0.0,1.0,3,
 529,Canada,New Brunswick,2021-07-03,2336,45,2268,26,0,3,0.11538461538461539,0.0,1.0,3,0.0
+530,Canada,New Brunswick,2021-07-04,2337,46,2269,24,1,1,0.08333333333333333,0.5,0.5,2,-0.5
