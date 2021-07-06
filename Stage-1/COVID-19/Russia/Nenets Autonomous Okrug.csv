@@ -398,3 +398,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 528,Russia,Nenets Autonomous Okrug,2021-07-02,1219,8,1152,65,0,6,0.09230769230769231,0.0,1.0,6,0.33333333333333337
 529,Russia,Nenets Autonomous Okrug,2021-07-03,1231,9,1152,71,1,0,0.014084507042253521,1.0,0.0,1,-1.0
 530,Russia,Nenets Autonomous Okrug,2021-07-04,1241,10,1154,80,1,2,0.0375,0.3333333333333333,0.6666666666666666,3,0.6666666666666666
+531,Russia,Nenets Autonomous Okrug,2021-07-05,1249,10,1154,85,0,0,0.0,,,0,

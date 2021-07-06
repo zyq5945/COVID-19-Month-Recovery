@@ -519,3 +519,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 528,Australia,South Australia,2021-07-02,809,4,790,16,0,1,0.0625,0.0,1.0,1,0.0
 529,Australia,South Australia,2021-07-03,810,4,790,16,0,0,0.0,,,0,
 530,Australia,South Australia,2021-07-04,813,4,792,19,0,2,0.10526315789473684,0.0,1.0,2,
+531,Australia,South Australia,2021-07-05,813,4,794,17,0,2,0.11764705882352941,0.0,1.0,2,0.0

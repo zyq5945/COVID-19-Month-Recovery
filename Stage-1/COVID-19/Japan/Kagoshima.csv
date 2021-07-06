@@ -402,3 +402,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 528,Japan,Kagoshima,2021-07-02,3631,40,3629,-30,0,8,-0.26666666666666666,0.0,1.0,8,0.0
 529,Japan,Kagoshima,2021-07-03,3637,40,3631,-32,0,2,-0.0625,0.0,1.0,2,0.0
 530,Japan,Kagoshima,2021-07-04,3640,40,3633,-31,0,2,-0.06451612903225806,0.0,1.0,2,0.0
+531,Japan,Kagoshima,2021-07-05,3641,41,3636,-32,1,3,-0.125,0.25,0.75,4,-0.25
