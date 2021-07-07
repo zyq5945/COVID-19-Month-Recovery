@@ -95,5 +95,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 103,France,St Martin,2021-06-19,2133,12,1399,722,0,0,0.0,,,0,
 104,France,St Martin,2021-06-24,2276,12,1399,865,0,0,0.0,,,0,
 105,France,St Martin,2021-06-29,2276,12,1399,865,0,0,0.0,,,0,
-106,France,St Martin,2021-07-04,2276,12,1399,865,0,0,0.0,,,0,
-107,France,St Martin,2021-07-05,2276,12,1399,865,0,0,0.0,,,0,
+106,France,St Martin,2021-07-04,2314,37,1399,903,25,0,0.02768549280177187,1.0,0.0,25,
+107,France,St Martin,2021-07-06,2314,37,1399,878,0,0,0.0,,,0,

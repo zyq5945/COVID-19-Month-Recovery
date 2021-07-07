@@ -411,3 +411,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 529,Mexico,Durango,2021-07-03,34841,2501,0,32340,0,0,0.0,,,0,
 530,Mexico,Durango,2021-07-04,34848,2501,0,32347,0,0,0.0,,,0,
 531,Mexico,Durango,2021-07-05,34855,2501,0,32354,0,0,0.0,,,0,
+532,Mexico,Durango,2021-07-06,34901,2504,0,32400,3,0,9.259259259259259e-05,1.0,0.0,3,

@@ -403,3 +403,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 529,Japan,Saga,2021-07-03,2580,25,2555,2,0,2,1.0,0.0,1.0,2,
 530,Japan,Saga,2021-07-04,2580,25,2558,0,0,3,,0.0,1.0,3,0.0
 531,Japan,Saga,2021-07-05,2580,25,2561,-3,0,3,-1.0,0.0,1.0,3,0.0
+532,Japan,Saga,2021-07-06,2582,25,2561,-4,0,0,-0.0,,,0,

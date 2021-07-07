@@ -525,3 +525,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 529,Australia,Victoria,2021-07-03,20714,820,19876,26,0,8,0.3076923076923077,0.0,1.0,8,0.0
 530,Australia,Victoria,2021-07-04,20716,820,19878,20,0,2,0.1,0.0,1.0,2,0.0
 531,Australia,Victoria,2021-07-05,20718,820,19878,20,0,0,0.0,,,0,
+532,Australia,Victoria,2021-07-06,20718,820,19879,20,0,1,0.05,0.0,1.0,1,

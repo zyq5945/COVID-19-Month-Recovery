@@ -417,3 +417,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 529,Italy,Basilicata,2021-07-03,26979,590,25711,678,0,0,0.0,,,0,
 530,Italy,Basilicata,2021-07-04,26985,591,25711,684,1,0,0.0014619883040935672,1.0,0.0,1,
 531,Italy,Basilicata,2021-07-05,26986,591,25711,684,0,0,0.0,,,0,
+532,Italy,Basilicata,2021-07-06,26993,591,25717,691,0,6,0.008683068017366137,0.0,1.0,6,
