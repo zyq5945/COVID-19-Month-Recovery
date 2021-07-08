@@ -412,3 +412,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 530,Mexico,Guerrero,2021-07-04,42109,4564,0,37545,0,0,0.0,,,0,
 531,Mexico,Guerrero,2021-07-05,42123,4564,0,37559,0,0,0.0,,,0,
 532,Mexico,Guerrero,2021-07-06,42252,4568,0,37688,4,0,0.00010613457864572278,1.0,0.0,4,
+533,Mexico,Guerrero,2021-07-07,42435,4572,0,37867,4,0,0.00010563287295006206,1.0,0.0,4,0.0

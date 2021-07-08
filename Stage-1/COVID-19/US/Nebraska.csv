@@ -449,4 +449,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 529,US,Nebraska,2021-07-03,224682,2261,,,0,,,,,,
 530,US,Nebraska,2021-07-04,224682,2261,,,0,,,,,,
 531,US,Nebraska,2021-07-05,224682,2261,,,0,,,,,,
-532,US,Nebraska,2021-07-06,224488,2261,,,0,,,,,,
+532,US,Nebraska,2021-07-06,224873,2262,,,1,,,,,,
+533,US,Nebraska,2021-07-07,224873,2262,,,0,,,,,,
