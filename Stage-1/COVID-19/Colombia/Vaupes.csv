@@ -405,3 +405,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 531,Colombia,Vaupes,2021-07-05,1675,15,1650,12,0,2,0.16666666666666666,0.0,1.0,2,
 532,Colombia,Vaupes,2021-07-06,1675,15,1651,10,0,1,0.1,0.0,1.0,1,0.0
 533,Colombia,Vaupes,2021-07-07,1682,16,1651,16,1,0,0.0625,1.0,0.0,1,-1.0
+534,Colombia,Vaupes,2021-07-08,1684,16,1656,17,0,5,0.29411764705882354,0.0,1.0,5,1.0

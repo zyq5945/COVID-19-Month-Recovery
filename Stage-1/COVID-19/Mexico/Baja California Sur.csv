@@ -413,3 +413,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 531,Mexico,Baja California Sur,2021-07-05,40985,1574,0,39411,0,0,0.0,,,0,
 532,Mexico,Baja California Sur,2021-07-06,41431,1584,0,39857,10,0,0.0002508969566199162,1.0,0.0,10,
 533,Mexico,Baja California Sur,2021-07-07,41868,1604,0,40284,20,0,0.0004964750273061265,1.0,0.0,20,0.0
+534,Mexico,Baja California Sur,2021-07-08,42300,1643,0,40696,39,0,0.0009583251425201494,1.0,0.0,39,0.0

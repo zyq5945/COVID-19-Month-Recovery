@@ -451,3 +451,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 531,US,Connecticut,2021-07-05,349476,8279,,,0,,,,,,
 532,US,Connecticut,2021-07-06,349651,8279,,,0,,,,,,
 533,US,Connecticut,2021-07-07,349743,8278,,,-1,,,,,,
+534,US,Connecticut,2021-07-08,349798,8279,,,1,,,,,,

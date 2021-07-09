@@ -401,3 +401,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 531,Ukraine,Chernihiv Oblast,2021-07-05,57568,1349,55861,358,0,0,0.0,,,0,
 532,Ukraine,Chernihiv Oblast,2021-07-06,57576,1349,55895,366,0,34,0.09289617486338798,0.0,1.0,34,
 533,Ukraine,Chernihiv Oblast,2021-07-07,57581,1350,55902,337,1,7,0.02373887240356083,0.125,0.875,8,-0.125
+534,Ukraine,Chernihiv Oblast,2021-07-08,57592,1350,55903,340,0,1,0.0029411764705882353,0.0,1.0,1,0.125

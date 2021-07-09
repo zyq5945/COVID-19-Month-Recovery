@@ -397,3 +397,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 531,Sweden,Ostergotland,2021-07-05,42394,635,0,41759,0,0,0.0,,,0,
 532,Sweden,Ostergotland,2021-07-06,42426,635,0,41791,0,0,0.0,,,0,
 533,Sweden,Ostergotland,2021-07-07,42437,635,0,41802,0,0,0.0,,,0,
+534,Sweden,Ostergotland,2021-07-08,42447,637,0,41812,2,0,4.783315794508753e-05,1.0,0.0,2,
