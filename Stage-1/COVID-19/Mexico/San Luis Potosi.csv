@@ -414,3 +414,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 532,Mexico,San Luis Potosi,2021-07-06,65887,5451,0,60438,2,0,3.309176346007479e-05,1.0,0.0,2,
 533,Mexico,San Luis Potosi,2021-07-07,65970,5452,0,60519,1,0,1.652373634726284e-05,1.0,0.0,1,0.0
 534,Mexico,San Luis Potosi,2021-07-08,66044,5457,0,60592,5,0,8.251914444151043e-05,1.0,0.0,5,0.0
+535,Mexico,San Luis Potosi,2021-07-09,66122,5461,0,60665,4,0,6.593587735926811e-05,1.0,0.0,4,0.0
