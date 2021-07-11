@@ -534,3 +534,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 533,China,Guangdong,2021-07-07,2766,8,2677,101,0,20,0.19801980198019803,0.0,1.0,20,0.0
 534,China,Guangdong,2021-07-08,2769,8,2686,84,0,9,0.10714285714285714,0.0,1.0,9,0.0
 535,China,Guangdong,2021-07-09,2770,8,2691,76,0,5,0.06578947368421052,0.0,1.0,5,0.0
+536,China,Guangdong,2021-07-10,2770,8,2691,71,0,0,0.0,,,0,

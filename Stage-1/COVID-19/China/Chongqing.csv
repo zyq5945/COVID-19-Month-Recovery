@@ -534,3 +534,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 533,China,Chongqing,2021-07-07,601,6,591,4,0,0,0.0,,,0,
 534,China,Chongqing,2021-07-08,601,6,591,4,0,0,0.0,,,0,
 535,China,Chongqing,2021-07-09,601,6,592,4,0,1,0.25,0.0,1.0,1,
+536,China,Chongqing,2021-07-10,601,6,592,3,0,0,0.0,,,0,

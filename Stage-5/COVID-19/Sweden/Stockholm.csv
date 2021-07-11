@@ -79,3 +79,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 105,Sweden,Stockholm,2021-06-29,254818,4359,0,250459,0,0,0.0,,,0,
 106,Sweden,Stockholm,2021-07-04,254989,4360,0,250630,1,0,3.989945337748873e-06,1.0,0.0,1,
 107,Sweden,Stockholm,2021-07-09,255439,4361,0,251079,1,0,3.982810191214717e-06,1.0,0.0,1,0.0
+108,Sweden,Stockholm,2021-07-10,255439,4361,0,251078,0,0,0.0,,,0,
