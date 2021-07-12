@@ -408,3 +408,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 534,Japan,Niigata,2021-07-08,3462,51,3334,80,0,3,0.0375,0.0,1.0,3,0.0
 535,Japan,Niigata,2021-07-09,3468,52,3334,83,1,0,0.012048192771084338,1.0,0.0,1,-1.0
 536,Japan,Niigata,2021-07-10,3480,52,3337,94,0,3,0.031914893617021274,0.0,1.0,3,1.0
+537,Japan,Niigata,2021-07-11,3494,52,3337,105,0,0,0.0,,,0,
