@@ -409,3 +409,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 535,Japan,Oita,2021-07-09,3504,64,3419,21,0,0,0.0,,,0,
 536,Japan,Oita,2021-07-10,3504,64,3421,21,0,2,0.09523809523809523,0.0,1.0,2,
 537,Japan,Oita,2021-07-11,3504,64,3421,19,0,0,0.0,,,0,
+538,Japan,Oita,2021-07-12,3505,64,3422,20,0,1,0.05,0.0,1.0,1,

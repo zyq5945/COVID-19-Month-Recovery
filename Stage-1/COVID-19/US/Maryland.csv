@@ -455,3 +455,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 535,US,Maryland,2021-07-09,462980,9761,,,3,,,,,,
 536,US,Maryland,2021-07-10,463107,9762,,,1,,,,,,
 537,US,Maryland,2021-07-11,463186,9762,,,0,,,,,,
+538,US,Maryland,2021-07-12,463265,9761,,,-1,,,,,,
