@@ -537,3 +537,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 536,China,Beijing,2021-07-10,1078,9,1061,8,0,0,0.0,,,0,
 537,China,Beijing,2021-07-11,1078,9,1062,8,0,1,0.125,0.0,1.0,1,
 538,China,Beijing,2021-07-12,1079,9,1063,8,0,1,0.125,0.0,1.0,1,0.0
+539,China,Beijing,2021-07-13,1079,9,1063,7,0,0,0.0,,,0,

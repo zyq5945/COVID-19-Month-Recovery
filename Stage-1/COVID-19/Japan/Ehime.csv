@@ -410,3 +410,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 536,Japan,Ehime,2021-07-10,2760,74,2676,10,0,0,0.0,,,0,
 537,Japan,Ehime,2021-07-11,2762,74,2676,12,0,0,0.0,,,0,
 538,Japan,Ehime,2021-07-12,2762,74,2677,12,0,1,0.08333333333333333,0.0,1.0,1,
+539,Japan,Ehime,2021-07-13,2765,74,2678,14,0,1,0.07142857142857142,0.0,1.0,1,0.0

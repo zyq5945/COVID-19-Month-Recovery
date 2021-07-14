@@ -424,3 +424,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 536,Germany,Bremen,2021-07-10,27542,488,26930,124,0,0,0.0,,,0,
 537,Germany,Bremen,2021-07-11,27549,488,26930,131,0,0,0.0,,,0,
 538,Germany,Bremen,2021-07-12,27551,488,26940,133,0,10,0.07518796992481203,0.0,1.0,10,
+539,Germany,Bremen,2021-07-13,27576,488,26950,148,0,10,0.06756756756756757,0.0,1.0,10,0.0

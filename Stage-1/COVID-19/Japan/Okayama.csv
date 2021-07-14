@@ -410,3 +410,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 536,Japan,Okayama,2021-07-10,7613,126,7455,48,0,16,0.3333333333333333,0.0,1.0,16,
 537,Japan,Okayama,2021-07-11,7616,126,7455,35,0,0,0.0,,,0,
 538,Japan,Okayama,2021-07-12,7622,126,7455,41,0,0,0.0,,,0,
+539,Japan,Okayama,2021-07-13,7628,127,7455,47,1,0,0.02127659574468085,1.0,0.0,1,
