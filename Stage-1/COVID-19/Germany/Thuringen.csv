@@ -425,3 +425,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 537,Germany,Thuringen,2021-07-11,128855,4354,124200,301,0,0,0.0,,,0,
 538,Germany,Thuringen,2021-07-12,128863,4357,124200,309,3,0,0.009708737864077669,1.0,0.0,3,
 539,Germany,Thuringen,2021-07-13,128887,4357,124200,330,0,0,0.0,,,0,
+540,Germany,Thuringen,2021-07-14,128900,4359,124200,343,2,0,0.0058309037900874635,1.0,0.0,2,

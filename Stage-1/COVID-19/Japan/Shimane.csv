@@ -411,3 +411,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 537,Japan,Shimane,2021-07-11,573,2,552,19,0,0,0.0,,,0,
 538,Japan,Shimane,2021-07-12,574,2,551,20,0,-1,-0.05,-0.0,1.0,-1,
 539,Japan,Shimane,2021-07-13,574,2,551,21,0,0,0.0,,,0,
+540,Japan,Shimane,2021-07-14,577,2,552,24,0,1,0.041666666666666664,0.0,1.0,1,
