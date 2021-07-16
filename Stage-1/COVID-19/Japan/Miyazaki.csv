@@ -412,3 +412,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 538,Japan,Miyazaki,2021-07-12,3104,26,3048,30,0,0,0.0,,,0,
 539,Japan,Miyazaki,2021-07-13,3107,26,3057,33,0,9,0.2727272727272727,0.0,1.0,9,
 540,Japan,Miyazaki,2021-07-14,3110,26,3060,27,0,3,0.1111111111111111,0.0,1.0,3,0.0
+541,Japan,Miyazaki,2021-07-15,3111,26,3062,25,0,2,0.08,0.0,1.0,2,0.0

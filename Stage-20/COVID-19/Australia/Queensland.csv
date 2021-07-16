@@ -26,3 +26,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 25,Australia,Queensland,2021-06-04,1630,7,1597,60,0,34,0.5666666666666667,0.0,1.0,34,0.0
 26,Australia,Queensland,2021-06-24,1679,7,1621,75,0,24,0.32,0.0,1.0,24,0.0
 27,Australia,Queensland,2021-07-14,1752,7,1679,124,0,58,0.46774193548387094,0.0,1.0,58,0.0
+28,Australia,Queensland,2021-07-15,1753,7,1679,67,0,0,0.0,,,0,

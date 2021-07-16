@@ -39,8 +39,8 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 66,India,Unknown,2020-12-16,0,0,0,0,0,0,,,,0,
 67,India,Unknown,2020-12-21,0,0,0,0,0,0,,,,0,
 68,India,Unknown,2020-12-26,0,0,0,0,0,0,,,,0,
-69,India,Unknown,2020-12-31,0,0,0,0,0,0,,,,0,
-70,India,Unknown,2021-01-05,0,0,0,0,0,0,,,,0,
+69,India,Unknown,2020-12-31,20035,256,23181,20035,256,23181,1.1698028450212128,0.010922899688526689,0.9890771003114733,23437,
+70,India,Unknown,2021-01-05,0,0,0,-23437,-256,-23181,1.0,0.010922899688526689,0.9890771003114733,-23437,0.0
 71,India,Unknown,2021-01-10,0,0,0,0,0,0,,,,0,
 72,India,Unknown,2021-01-15,0,0,0,0,0,0,,,,0,
 73,India,Unknown,2021-01-20,0,0,0,0,0,0,,,,0,
@@ -79,3 +79,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 106,India,Unknown,2021-07-04,0,0,0,0,0,0,,,,0,
 107,India,Unknown,2021-07-09,0,0,0,0,0,0,,,,0,
 108,India,Unknown,2021-07-14,0,0,0,0,0,0,,,,0,
+109,India,Unknown,2021-07-15,0,0,0,0,0,0,,,,0,
