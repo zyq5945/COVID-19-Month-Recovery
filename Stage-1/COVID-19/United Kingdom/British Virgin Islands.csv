@@ -474,3 +474,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 539,United Kingdom,British Virgin Islands,2021-07-13,1147,3,312,832,0,0,0.0,,,0,
 540,United Kingdom,British Virgin Islands,2021-07-14,1286,4,312,971,1,0,0.0010298661174047373,1.0,0.0,1,
 541,United Kingdom,British Virgin Islands,2021-07-15,1602,8,312,1286,4,0,0.003110419906687403,1.0,0.0,4,0.0
+542,United Kingdom,British Virgin Islands,2021-07-16,1993,8,385,1673,0,73,0.04363419007770472,0.0,1.0,73,1.0
