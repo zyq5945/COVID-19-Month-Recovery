@@ -503,3 +503,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 540,Australia,Western Australia,2021-07-14,1036,9,1018,9,0,0,0.0,,,0,
 541,Australia,Western Australia,2021-07-15,1036,9,1019,9,0,1,0.1111111111111111,0.0,1.0,1,
 542,Australia,Western Australia,2021-07-16,1037,9,1021,9,0,2,0.2222222222222222,0.0,1.0,2,0.0
+543,Australia,Western Australia,2021-07-17,1037,9,1021,7,0,0,0.0,,,0,
