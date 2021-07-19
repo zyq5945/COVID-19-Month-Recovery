@@ -429,3 +429,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 541,Germany,Brandenburg,2021-07-15,108908,3815,104700,393,0,0,0.0,,,0,
 542,Germany,Brandenburg,2021-07-16,108927,3815,104700,412,0,0,0.0,,,0,
 543,Germany,Brandenburg,2021-07-17,108932,3815,104700,417,0,0,0.0,,,0,
+544,Germany,Brandenburg,2021-07-18,108945,3815,104800,430,0,100,0.23255813953488372,0.0,1.0,100,

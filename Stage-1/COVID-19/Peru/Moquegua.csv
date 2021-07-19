@@ -415,3 +415,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 541,Peru,Moquegua,2021-07-15,27380,1436,0,25944,0,0,0.0,,,0,
 542,Peru,Moquegua,2021-07-16,27464,1441,0,26028,5,0,0.00019210081450745352,1.0,0.0,5,
 543,Peru,Moquegua,2021-07-17,27464,1441,0,26023,0,0,0.0,,,0,
+544,Peru,Moquegua,2021-07-18,27622,1443,0,26181,2,0,7.639127611626753e-05,1.0,0.0,2,

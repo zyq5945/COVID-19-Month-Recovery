@@ -542,3 +542,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 541,China,Jiangsu,2021-07-15,750,0,738,12,0,0,0.0,,,0,
 542,China,Jiangsu,2021-07-16,750,0,738,12,0,0,0.0,,,0,
 543,China,Jiangsu,2021-07-17,751,0,738,13,0,0,0.0,,,0,
+544,China,Jiangsu,2021-07-18,751,0,739,13,0,1,0.07692307692307693,0.0,1.0,1,

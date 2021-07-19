@@ -411,3 +411,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 541,Ukraine,Ternopil Oblast,2021-07-15,70103,1203,68836,64,0,0,0.0,,,0,
 542,Ukraine,Ternopil Oblast,2021-07-16,70117,1203,68842,78,0,6,0.07692307692307693,0.0,1.0,6,
 543,Ukraine,Ternopil Oblast,2021-07-17,70119,1204,68849,74,1,7,0.10810810810810811,0.125,0.875,8,-0.125
+544,Ukraine,Ternopil Oblast,2021-07-18,70120,1204,68860,67,0,11,0.16417910447761194,0.0,1.0,11,0.125

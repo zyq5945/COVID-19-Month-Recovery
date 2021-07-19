@@ -429,3 +429,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 541,Germany,Hamburg,2021-07-15,77826,1603,75700,523,0,0,0.0,,,0,
 542,Germany,Hamburg,2021-07-16,77873,1605,75700,570,2,0,0.0035087719298245615,1.0,0.0,2,
 543,Germany,Hamburg,2021-07-17,77906,1605,75700,601,0,0,0.0,,,0,
+544,Germany,Hamburg,2021-07-18,77939,1605,75800,634,0,100,0.15772870662460567,0.0,1.0,100,

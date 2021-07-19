@@ -11,4 +11,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 16,Colombia,Unknown,2021-04-30,0,0,0,0,0,0,,,,0,
 17,Colombia,Unknown,2021-05-31,0,0,0,0,0,0,,,,0,
 18,Colombia,Unknown,2021-06-30,0,0,1,0,0,1,,0.0,1.0,1,
-19,Colombia,Unknown,2021-07-17,0,296,1,-1,296,0,-296.0,1.0,0.0,296,-1.0
+19,Colombia,Unknown,2021-07-18,18206,296,1,18205,296,0,0.01625926943147487,1.0,0.0,296,-1.0

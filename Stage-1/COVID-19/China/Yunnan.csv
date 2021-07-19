@@ -542,3 +542,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 541,China,Yunnan,2021-07-15,564,2,376,186,0,0,0.0,,,0,
 542,China,Yunnan,2021-07-16,577,2,381,199,0,5,0.02512562814070352,0.0,1.0,5,
 543,China,Yunnan,2021-07-17,589,2,381,206,0,0,0.0,,,0,
+544,China,Yunnan,2021-07-18,599,2,383,216,0,2,0.009259259259259259,0.0,1.0,2,
