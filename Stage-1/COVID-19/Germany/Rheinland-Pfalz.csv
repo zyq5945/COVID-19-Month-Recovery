@@ -430,3 +430,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 542,Germany,Rheinland-Pfalz,2021-07-16,156030,3895,151200,935,0,0,0.0,,,0,
 543,Germany,Rheinland-Pfalz,2021-07-17,156066,3895,151200,971,0,0,0.0,,,0,
 544,Germany,Rheinland-Pfalz,2021-07-18,156091,3895,151300,996,0,100,0.10040160642570281,0.0,1.0,100,
+545,Germany,Rheinland-Pfalz,2021-07-19,156176,3895,151400,981,0,100,0.1019367991845056,0.0,1.0,100,0.0

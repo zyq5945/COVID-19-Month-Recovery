@@ -462,3 +462,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 542,US,Colorado,2021-07-16,565294,6876,,,4,,,,,,
 543,US,Colorado,2021-07-17,565829,6886,,,10,,,,,,
 544,US,Colorado,2021-07-18,566289,6887,,,1,,,,,,
+545,US,Colorado,2021-07-19,566670,6886,,,-1,,,,,,
