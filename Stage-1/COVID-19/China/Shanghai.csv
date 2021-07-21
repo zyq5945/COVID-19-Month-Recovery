@@ -544,3 +544,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,China,Shanghai,2021-07-17,2267,7,2200,70,0,10,0.14285714285714285,0.0,1.0,10,0.0
 544,China,Shanghai,2021-07-18,2271,7,2201,64,0,1,0.015625,0.0,1.0,1,0.0
 545,China,Shanghai,2021-07-19,2274,7,2204,66,0,3,0.045454545454545456,0.0,1.0,3,0.0
+546,China,Shanghai,2021-07-20,2274,7,2204,63,0,0,0.0,,,0,

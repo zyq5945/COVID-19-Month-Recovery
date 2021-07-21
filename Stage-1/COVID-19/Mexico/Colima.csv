@@ -425,3 +425,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,Mexico,Colima,2021-07-17,13120,1230,0,11890,0,0,0.0,,,0,
 544,Mexico,Colima,2021-07-18,13161,1230,0,11931,0,0,0.0,,,0,
 545,Mexico,Colima,2021-07-19,13207,1233,0,11977,3,0,0.0002504800868330968,1.0,0.0,3,
+546,Mexico,Colima,2021-07-20,13385,1237,0,12152,4,0,0.0003291639236339697,1.0,0.0,4,0.0

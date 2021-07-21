@@ -413,3 +413,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,Ukraine,Luhansk Oblast,2021-07-17,26841,960,25643,245,0,7,0.02857142857142857,0.0,1.0,7,0.0
 544,Ukraine,Luhansk Oblast,2021-07-18,26842,960,25643,239,0,0,0.0,,,0,
 545,Ukraine,Luhansk Oblast,2021-07-19,26843,960,25643,240,0,0,0.0,,,0,
+546,Ukraine,Luhansk Oblast,2021-07-20,26878,961,25655,275,1,12,0.04727272727272727,0.07692307692307693,0.9230769230769231,13,

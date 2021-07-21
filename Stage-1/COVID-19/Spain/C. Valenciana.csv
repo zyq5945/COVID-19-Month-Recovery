@@ -431,3 +431,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,Spain,C. Valenciana,2021-07-17,429001,7432,9970,411599,0,0,0.0,,,0,
 544,Spain,C. Valenciana,2021-07-18,429001,7432,9970,411599,0,0,0.0,,,0,
 545,Spain,C. Valenciana,2021-07-19,434864,7429,9970,417462,-3,0,-7.186282823346796e-06,1.0,-0.0,-3,
+546,Spain,C. Valenciana,2021-07-20,436976,7432,9970,419577,3,0,7.1500582729749245e-06,1.0,0.0,3,0.0

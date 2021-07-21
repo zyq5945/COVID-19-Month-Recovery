@@ -108,3 +108,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 107,China,Beijing,2021-07-09,1078,9,1061,10,0,2,0.2,0.0,1.0,2,0.0
 108,China,Beijing,2021-07-14,1079,9,1063,9,0,2,0.2222222222222222,0.0,1.0,2,0.0
 109,China,Beijing,2021-07-19,1085,9,1064,13,0,1,0.07692307692307693,0.0,1.0,1,0.0
+110,China,Beijing,2021-07-20,1085,9,1064,12,0,0,0.0,,,0,

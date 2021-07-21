@@ -487,3 +487,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,Denmark,Greenland,2021-07-17,72,0,52,21,0,1,0.047619047619047616,0.0,1.0,1,
 544,Denmark,Greenland,2021-07-18,78,0,52,26,0,0,0.0,,,0,
 545,Denmark,Greenland,2021-07-19,81,0,52,29,0,0,0.0,,,0,
+546,Denmark,Greenland,2021-07-20,83,0,53,31,0,1,0.03225806451612903,0.0,1.0,1,

@@ -367,3 +367,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,Netherlands,Gelderland,2021-07-17,198516,2029,0,196487,0,0,0.0,,,0,
 544,Netherlands,Gelderland,2021-07-18,199836,2029,0,197807,0,0,0.0,,,0,
 545,Netherlands,Gelderland,2021-07-19,200725,2029,0,198696,0,0,0.0,,,0,
+546,Netherlands,Gelderland,2021-07-20,201329,2030,0,199300,1,0,5.017561465127948e-06,1.0,0.0,1,

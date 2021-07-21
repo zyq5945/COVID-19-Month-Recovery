@@ -413,3 +413,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 543,Ukraine,Kirovohrad Oblast,2021-07-17,20684,853,19718,125,0,12,0.096,0.0,1.0,12,0.33333333333333337
 544,Ukraine,Kirovohrad Oblast,2021-07-18,20686,853,19718,115,0,0,0.0,,,0,
 545,Ukraine,Kirovohrad Oblast,2021-07-19,20687,853,19720,116,0,2,0.017241379310344827,0.0,1.0,2,
+546,Ukraine,Kirovohrad Oblast,2021-07-20,20688,854,19723,115,1,3,0.034782608695652174,0.25,0.75,4,-0.25
