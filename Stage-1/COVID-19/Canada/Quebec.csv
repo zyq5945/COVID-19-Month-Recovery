@@ -498,3 +498,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 544,Canada,Quebec,2021-07-18,376370,11236,364033,1101,0,0,0.0,,,0,
 545,Canada,Quebec,2021-07-19,376431,11236,364033,1162,0,0,0.0,,,0,
 546,Canada,Quebec,2021-07-20,376416,11236,364033,1147,0,0,0.0,,,0,
+547,Canada,Quebec,2021-07-21,376519,11235,364033,1250,-1,0,-0.0008,1.0,-0.0,-1,

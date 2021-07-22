@@ -545,3 +545,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 544,China,Hubei,2021-07-18,68189,4512,63648,29,0,0,0.0,,,0,
 545,China,Hubei,2021-07-19,68192,4512,63648,32,0,0,0.0,,,0,
 546,China,Hubei,2021-07-20,68192,4512,63648,32,0,0,0.0,,,0,
+547,China,Hubei,2021-07-21,68192,4512,63660,32,0,12,0.375,0.0,1.0,12,
