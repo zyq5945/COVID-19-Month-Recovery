@@ -546,3 +546,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 545,China,Beijing,2021-07-19,1085,9,1064,12,0,0,0.0,,,0,
 546,China,Beijing,2021-07-20,1085,9,1064,12,0,0,0.0,,,0,
 547,China,Beijing,2021-07-21,1085,9,1065,12,0,1,0.08333333333333333,0.0,1.0,1,
+548,China,Beijing,2021-07-22,1085,9,1066,11,0,1,0.09090909090909091,0.0,1.0,1,0.0

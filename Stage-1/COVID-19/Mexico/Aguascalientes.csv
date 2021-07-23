@@ -427,3 +427,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 545,Mexico,Aguascalientes,2021-07-19,27107,2479,0,24628,0,0,0.0,,,0,
 546,Mexico,Aguascalientes,2021-07-20,27169,2482,0,24690,3,0,0.00012150668286755772,1.0,0.0,3,
 547,Mexico,Aguascalientes,2021-07-21,27255,2482,0,24773,0,0,0.0,,,0,
+548,Mexico,Aguascalientes,2021-07-22,27303,2483,0,24821,1,0,4.028846541235244e-05,1.0,0.0,1,

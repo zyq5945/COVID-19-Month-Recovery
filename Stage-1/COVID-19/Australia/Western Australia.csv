@@ -508,3 +508,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 545,Australia,Western Australia,2021-07-19,1038,9,1022,8,0,1,0.125,0.0,1.0,1,
 546,Australia,Western Australia,2021-07-20,1046,9,1022,15,0,0,0.0,,,0,
 547,Australia,Western Australia,2021-07-21,1048,9,1023,17,0,1,0.058823529411764705,0.0,1.0,1,
+548,Australia,Western Australia,2021-07-22,1048,9,1025,16,0,2,0.125,0.0,1.0,2,0.0

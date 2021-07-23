@@ -108,4 +108,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 107,China,Tianjin,2021-07-09,406,3,391,12,0,0,0.0,,,0,
 108,China,Tianjin,2021-07-14,408,3,392,14,0,1,0.07142857142857142,0.0,1.0,1,
 109,China,Tianjin,2021-07-19,415,3,395,20,0,3,0.15,0.0,1.0,3,0.0
-110,China,Tianjin,2021-07-21,415,3,395,17,0,0,0.0,,,0,
+110,China,Tianjin,2021-07-22,416,3,396,18,0,1,0.05555555555555555,0.0,1.0,1,0.0
