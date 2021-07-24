@@ -73,4 +73,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 107,Netherlands,Overijssel,2021-07-09,111567,1141,0,110426,0,0,0.0,,,0,
 108,Netherlands,Overijssel,2021-07-14,114180,1141,0,113039,0,0,0.0,,,0,
 109,Netherlands,Overijssel,2021-07-19,117246,1141,0,116105,0,0,0.0,,,0,
-110,Netherlands,Overijssel,2021-07-22,118387,1142,0,117246,1,0,8.529075618784437e-06,1.0,0.0,1,
+110,Netherlands,Overijssel,2021-07-23,118722,1143,0,117581,2,0,1.700955086280947e-05,1.0,0.0,2,

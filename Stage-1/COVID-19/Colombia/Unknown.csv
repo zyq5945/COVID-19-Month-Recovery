@@ -375,3 +375,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 546,Colombia,Unknown,2021-07-20,46283,296,1,45986,0,0,0.0,,,0,
 547,Colombia,Unknown,2021-07-21,0,296,1,-297,0,0,-0.0,,,0,
 548,Colombia,Unknown,2021-07-22,0,296,1,-297,0,0,-0.0,,,0,
+549,Colombia,Unknown,2021-07-23,13164,648,13553,12867,352,13552,1.080593767000855,0.02531645569620253,0.9746835443037974,13904,

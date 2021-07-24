@@ -409,3 +409,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 546,Colombia,Guaviare,2021-07-20,4900,87,4754,67,1,7,0.11940298507462686,0.125,0.875,8,-0.125
 547,Colombia,Guaviare,2021-07-21,4943,87,4765,102,0,11,0.10784313725490197,0.0,1.0,11,0.125
 548,Colombia,Guaviare,2021-07-22,4948,87,4774,96,0,9,0.09375,0.0,1.0,9,0.0
+549,Colombia,Guaviare,2021-07-23,4948,87,4774,87,0,0,0.0,,,0,
