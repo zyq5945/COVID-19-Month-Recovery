@@ -253,3 +253,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 547,Belgium,Unknown,2021-07-21,21557,25213,0,-3656,0,0,-0.0,,,0,
 548,Belgium,Unknown,2021-07-22,21626,25217,0,-3587,4,0,-0.001115137998327293,1.0,0.0,4,
 549,Belgium,Unknown,2021-07-23,21626,25217,0,-3591,0,0,-0.0,,,0,
+550,Belgium,Unknown,2021-07-24,21663,25220,0,-3554,3,0,-0.0008441193021947102,1.0,0.0,3,

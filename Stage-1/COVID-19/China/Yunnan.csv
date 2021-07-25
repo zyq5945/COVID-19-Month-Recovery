@@ -548,3 +548,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 547,China,Yunnan,2021-07-21,678,2,389,289,0,2,0.006920415224913495,0.0,1.0,2,
 548,China,Yunnan,2021-07-22,691,2,392,300,0,3,0.01,0.0,1.0,3,0.0
 549,China,Yunnan,2021-07-23,691,2,392,297,0,0,0.0,,,0,
+550,China,Yunnan,2021-07-24,703,2,404,309,0,12,0.038834951456310676,0.0,1.0,12,

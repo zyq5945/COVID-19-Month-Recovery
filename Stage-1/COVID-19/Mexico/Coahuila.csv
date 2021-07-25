@@ -429,3 +429,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 547,Mexico,Coahuila,2021-07-21,71153,6512,0,64643,2,0,3.093915814550686e-05,1.0,0.0,2,0.0
 548,Mexico,Coahuila,2021-07-22,71364,6515,0,64852,3,0,4.625917473632271e-05,1.0,0.0,3,0.0
 549,Mexico,Coahuila,2021-07-23,71364,6515,0,64849,0,0,0.0,,,0,
+550,Mexico,Coahuila,2021-07-24,71680,6521,0,65165,6,0,9.207396608608916e-05,1.0,0.0,6,
