@@ -549,3 +549,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 548,China,Fujian,2021-07-22,711,1,670,40,0,0,0.0,,,0,
 549,China,Fujian,2021-07-23,711,1,673,40,0,3,0.075,0.0,1.0,3,
 550,China,Fujian,2021-07-24,719,1,674,45,0,1,0.022222222222222223,0.0,1.0,1,0.0
+551,China,Fujian,2021-07-25,724,1,678,49,0,4,0.08163265306122448,0.0,1.0,4,0.0
