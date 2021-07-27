@@ -50,4 +50,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 53,Australia,Northern Territory,2021-07-04,185,0,177,11,0,3,0.2727272727272727,0.0,1.0,3,0.0
 54,Australia,Northern Territory,2021-07-14,189,0,182,12,0,5,0.4166666666666667,0.0,1.0,5,0.0
 55,Australia,Northern Territory,2021-07-24,192,0,188,10,0,6,0.6,0.0,1.0,6,0.0
-56,Australia,Northern Territory,2021-07-25,192,0,188,4,0,0,0.0,,,0,
+56,Australia,Northern Territory,2021-07-26,192,0,189,4,0,1,0.25,0.0,1.0,1,0.0

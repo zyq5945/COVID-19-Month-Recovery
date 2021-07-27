@@ -501,3 +501,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 549,United Kingdom,Gibraltar,2021-07-23,4753,94,4336,323,0,0,0.0,,,0,
 550,United Kingdom,Gibraltar,2021-07-24,4780,94,4371,350,0,35,0.1,0.0,1.0,35,
 551,United Kingdom,Gibraltar,2021-07-25,4799,94,4374,334,0,3,0.008982035928143712,0.0,1.0,3,0.0
+552,United Kingdom,Gibraltar,2021-07-26,4822,94,4393,354,0,19,0.05367231638418079,0.0,1.0,19,0.0

@@ -361,4 +361,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 548,India,Lakshadweep,2021-07-22,10100,49,9984,78,0,11,0.14102564102564102,0.0,1.0,11,0.0
 549,India,Lakshadweep,2021-07-23,10100,49,9984,67,0,0,0.0,,,0,
 550,India,Lakshadweep,2021-07-24,10127,49,9997,94,0,13,0.13829787234042554,0.0,1.0,13,
-551,India,Lakshadweep,2021-07-25,10127,49,9997,81,0,0,0.0,,,0,
+551,India,Lakshadweep,2021-07-25,10129,49,10004,83,0,7,0.08433734939759036,0.0,1.0,7,0.0
+552,India,Lakshadweep,2021-07-26,10129,49,10004,76,0,0,0.0,,,0,
