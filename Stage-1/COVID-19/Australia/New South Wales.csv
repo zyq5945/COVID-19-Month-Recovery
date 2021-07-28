@@ -546,3 +546,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 550,Australia,New South Wales,2021-07-24,7792,62,0,7732,2,0,0.0002586652871184687,1.0,0.0,2,
 551,Australia,New South Wales,2021-07-25,7943,62,0,7881,0,0,0.0,,,0,
 552,Australia,New South Wales,2021-07-26,8118,66,0,8056,4,0,0.0004965243296921549,1.0,0.0,4,
+553,Australia,New South Wales,2021-07-27,8294,65,0,8228,-1,0,-0.00012153621779290228,1.0,-0.0,-1,-0.0

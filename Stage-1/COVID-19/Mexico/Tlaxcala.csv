@@ -432,3 +432,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 550,Mexico,Tlaxcala,2021-07-24,20752,2610,0,18142,0,0,0.0,,,0,
 551,Mexico,Tlaxcala,2021-07-25,20777,2610,0,18167,0,0,0.0,,,0,
 552,Mexico,Tlaxcala,2021-07-26,20802,2611,0,18192,1,0,5.496921723834653e-05,1.0,0.0,1,
+553,Mexico,Tlaxcala,2021-07-27,20847,2612,0,18236,1,0,5.483658697082694e-05,1.0,0.0,1,0.0

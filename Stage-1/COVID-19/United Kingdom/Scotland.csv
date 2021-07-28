@@ -410,3 +410,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 550,United Kingdom,Scotland,2021-07-24,338778,7859,0,330930,11,0,3.323965793370199e-05,1.0,0.0,11,0.0
 551,United Kingdom,Scotland,2021-07-25,340015,7859,0,332156,0,0,0.0,,,0,
 552,United Kingdom,Scotland,2021-07-26,341015,7859,0,333156,0,0,0.0,,,0,
+553,United Kingdom,Scotland,2021-07-27,342059,7866,0,334200,7,0,2.0945541591861162e-05,1.0,0.0,7,
