@@ -433,3 +433,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 551,Mexico,Morelos,2021-07-25,36290,3649,0,32641,0,0,0.0,,,0,
 552,Mexico,Morelos,2021-07-26,36318,3649,0,32669,0,0,0.0,,,0,
 553,Mexico,Morelos,2021-07-27,36417,3649,0,32768,0,0,0.0,,,0,
+554,Mexico,Morelos,2021-07-28,36535,3652,0,32886,3,0,9.122422915526363e-05,1.0,0.0,3,
