@@ -422,3 +422,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 552,Russia,Jewish Autonomous Okrug,2021-07-26,5541,172,4457,912,0,0,0.0,,,0,
 553,Russia,Jewish Autonomous Okrug,2021-07-27,5578,174,4457,949,2,0,0.002107481559536354,1.0,0.0,2,
 554,Russia,Jewish Autonomous Okrug,2021-07-28,5617,174,4467,986,0,10,0.010141987829614604,0.0,1.0,10,1.0
+555,Russia,Jewish Autonomous Okrug,2021-07-29,5656,179,4467,1015,5,0,0.0049261083743842365,1.0,0.0,5,-1.0

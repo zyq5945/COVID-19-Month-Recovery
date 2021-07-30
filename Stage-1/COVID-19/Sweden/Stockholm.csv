@@ -418,3 +418,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 552,Sweden,Stockholm,2021-07-26,256995,4369,0,252626,0,0,0.0,,,0,
 553,Sweden,Stockholm,2021-07-27,257598,4369,0,253229,0,0,0.0,,,0,
 554,Sweden,Stockholm,2021-07-28,257789,4369,0,253420,0,0,0.0,,,0,
+555,Sweden,Stockholm,2021-07-29,257954,4370,0,253585,1,0,3.9434509138947494e-06,1.0,0.0,1,
