@@ -34,3 +34,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 35,San Marino,,2021-06-29,5091,90,5000,2,0,1,0.5,0.0,1.0,1,0.0
 36,San Marino,,2021-07-14,5094,90,5002,4,0,2,0.5,0.0,1.0,2,0.0
 37,San Marino,,2021-07-29,5130,90,5005,38,0,3,0.07894736842105263,0.0,1.0,3,0.0
+38,San Marino,,2021-07-30,5130,90,5005,35,0,0,0.0,,,0,

@@ -99,3 +99,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 109,Canada,Nova Scotia,2021-07-19,5873,92,5774,31,0,24,0.7741935483870968,0.0,1.0,24,0.0
 110,Canada,Nova Scotia,2021-07-24,5882,93,5777,16,1,3,0.25,0.25,0.75,4,-0.25
 111,Canada,Nova Scotia,2021-07-29,5886,93,5783,16,0,6,0.375,0.0,1.0,6,0.25
+112,Canada,Nova Scotia,2021-07-30,5887,93,5785,11,0,2,0.18181818181818182,0.0,1.0,2,0.0
