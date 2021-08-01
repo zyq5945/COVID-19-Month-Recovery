@@ -504,3 +504,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 554,France,French Polynesia,2021-07-28,19636,147,19047,500,0,58,0.116,0.0,1.0,58,1.0
 555,France,French Polynesia,2021-07-29,19875,148,19206,681,1,159,0.23494860499265785,0.00625,0.99375,160,-0.006249999999999978
 556,France,French Polynesia,2021-07-30,19875,148,19206,521,0,0,0.0,,,0,
+557,France,French Polynesia,2021-07-31,20048,149,19206,694,1,0,0.001440922190201729,1.0,0.0,1,

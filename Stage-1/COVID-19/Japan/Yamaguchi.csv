@@ -428,3 +428,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 554,Japan,Yamaguchi,2021-07-28,3240,80,3102,62,0,4,0.06451612903225806,0.0,1.0,4,0.0
 555,Japan,Yamaguchi,2021-07-29,3256,80,3111,74,0,9,0.12162162162162163,0.0,1.0,9,0.0
 556,Japan,Yamaguchi,2021-07-30,3283,80,3111,92,0,0,0.0,,,0,
+557,Japan,Yamaguchi,2021-07-31,3300,80,3109,109,0,-2,-0.01834862385321101,-0.0,1.0,-2,
