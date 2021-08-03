@@ -15,3 +15,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 17,US,Maine,2021-05-31,67787,825,,,41,,,,,,
 18,US,Maine,2021-06-30,69034,858,,,33,,,,,,
 19,US,Maine,2021-07-31,70463,900,,,42,,,,,,
+20,US,Maine,2021-08-02,70463,900,,,0,,,,,,

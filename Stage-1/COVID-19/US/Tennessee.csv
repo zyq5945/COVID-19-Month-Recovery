@@ -475,3 +475,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 555,US,Tennessee,2021-07-29,891331,12723,,,8,,,,,,
 556,US,Tennessee,2021-07-30,893554,12724,,,1,,,,,,
 557,US,Tennessee,2021-07-31,893554,12724,,,0,,,,,,
+558,US,Tennessee,2021-08-01,893554,12724,,,0,,,,,,
+559,US,Tennessee,2021-08-02,900418,12749,,,25,,,,,,

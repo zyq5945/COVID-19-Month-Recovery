@@ -475,3 +475,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 555,US,Maine,2021-07-29,70261,899,,,0,,,,,,
 556,US,Maine,2021-07-30,70372,899,,,0,,,,,,
 557,US,Maine,2021-07-31,70463,900,,,1,,,,,,
+558,US,Maine,2021-08-01,70463,900,,,0,,,,,,
+559,US,Maine,2021-08-02,70463,900,,,0,,,,,,

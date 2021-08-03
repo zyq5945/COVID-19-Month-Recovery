@@ -556,3 +556,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 555,China,Hunan,2021-07-29,1073,4,1055,16,0,2,0.125,0.0,1.0,2,
 556,China,Hunan,2021-07-30,1079,4,1064,20,0,9,0.45,0.0,1.0,9,0.0
 557,China,Hunan,2021-07-31,1083,4,1064,15,0,0,0.0,,,0,
+558,China,Hunan,2021-08-01,1090,4,1064,22,0,0,0.0,,,0,
+559,China,Hunan,2021-08-02,1096,4,1064,28,0,0,0.0,,,0,

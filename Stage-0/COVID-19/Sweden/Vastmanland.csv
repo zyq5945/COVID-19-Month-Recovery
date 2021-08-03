@@ -13,3 +13,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 17,Sweden,Vastmanland,2021-05-31,27122,347,0,26779,4,0,0.00014937077560775235,1.0,0.0,4,0.0
 18,Sweden,Vastmanland,2021-06-30,27618,350,0,27271,3,0,0.00011000696710791684,1.0,0.0,3,0.0
 19,Sweden,Vastmanland,2021-07-31,27765,353,0,27415,3,0,0.00010942914462885282,1.0,0.0,3,0.0
+20,Sweden,Vastmanland,2021-08-02,27765,353,0,27412,0,0,0.0,,,0,

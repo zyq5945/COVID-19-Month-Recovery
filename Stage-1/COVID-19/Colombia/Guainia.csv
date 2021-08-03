@@ -428,3 +428,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 555,Colombia,Guainia,2021-07-29,2213,29,2172,14,0,2,0.14285714285714285,0.0,1.0,2,
 556,Colombia,Guainia,2021-07-30,2213,29,2172,12,0,0,0.0,,,0,
 557,Colombia,Guainia,2021-07-31,2214,29,2172,13,0,0,0.0,,,0,
+558,Colombia,Guainia,2021-08-01,2214,29,2173,13,0,1,0.07692307692307693,0.0,1.0,1,
+559,Colombia,Guainia,2021-08-02,2214,29,2173,12,0,0,0.0,,,0,
