@@ -445,3 +445,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 557,Germany,Sachsen-Anhalt,2021-07-31,99593,3459,95920,224,0,10,0.044642857142857144,0.0,1.0,10,0.0
 558,Germany,Sachsen-Anhalt,2021-08-01,99598,3459,95980,219,0,60,0.273972602739726,0.0,1.0,60,0.0
 559,Germany,Sachsen-Anhalt,2021-08-02,99613,3459,95990,174,0,10,0.05747126436781609,0.0,1.0,10,0.0
+560,Germany,Sachsen-Anhalt,2021-08-03,99641,3459,95990,192,0,0,0.0,,,0,

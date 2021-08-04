@@ -445,3 +445,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 557,Germany,Sachsen,2021-07-31,286687,10135,275900,652,0,0,0.0,,,0,
 558,Germany,Sachsen,2021-08-01,286687,10135,275900,652,0,0,0.0,,,0,
 559,Germany,Sachsen,2021-08-02,286717,10135,275900,682,0,0,0.0,,,0,
+560,Germany,Sachsen,2021-08-03,286789,10137,275900,754,2,0,0.002652519893899204,1.0,0.0,2,

@@ -381,3 +381,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 557,Netherlands,Zuid-Holland,2021-07-31,442745,4302,0,438443,0,0,0.0,,,0,
 558,Netherlands,Zuid-Holland,2021-08-01,443287,4302,0,438985,0,0,0.0,,,0,
 559,Netherlands,Zuid-Holland,2021-08-02,443683,4302,0,439381,0,0,0.0,,,0,
+560,Netherlands,Zuid-Holland,2021-08-03,444189,4303,0,439887,1,0,2.273311100350772e-06,1.0,0.0,1,
