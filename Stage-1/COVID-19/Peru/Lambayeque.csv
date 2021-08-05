@@ -432,3 +432,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 558,Peru,Lambayeque,2021-08-01,58726,8470,0,50256,0,0,0.0,,,0,
 559,Peru,Lambayeque,2021-08-02,58726,8470,0,50256,0,0,0.0,,,0,
 560,Peru,Lambayeque,2021-08-03,59113,8491,0,50643,21,0,0.00041466737752502813,1.0,0.0,21,
+561,Peru,Lambayeque,2021-08-04,59496,8492,0,51005,1,0,1.9605920988138417e-05,1.0,0.0,1,0.0

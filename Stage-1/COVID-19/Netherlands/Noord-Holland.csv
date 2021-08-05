@@ -382,3 +382,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 558,Netherlands,Noord-Holland,2021-08-01,319852,2648,0,317204,0,0,0.0,,,0,
 559,Netherlands,Noord-Holland,2021-08-02,320191,2648,0,317543,0,0,0.0,,,0,
 560,Netherlands,Noord-Holland,2021-08-03,320655,2648,0,318007,0,0,0.0,,,0,
+561,Netherlands,Noord-Holland,2021-08-04,321176,2650,0,318528,2,0,6.2788828611613425e-06,1.0,0.0,2,

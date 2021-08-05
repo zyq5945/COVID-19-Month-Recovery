@@ -27,3 +27,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 26,China,Tianjin,2021-06-24,400,3,386,12,0,1,0.08333333333333333,0.0,1.0,1,0.0
 27,China,Tianjin,2021-07-14,408,3,392,19,0,6,0.3157894736842105,0.0,1.0,6,0.0
 28,China,Tianjin,2021-08-03,429,3,400,34,0,8,0.23529411764705882,0.0,1.0,8,0.0
+29,China,Tianjin,2021-08-04,429,3,400,26,0,0,0.0,,,0,

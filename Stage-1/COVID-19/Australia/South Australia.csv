@@ -549,3 +549,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 558,Australia,South Australia,2021-08-01,862,4,830,28,0,0,0.0,,,0,
 559,Australia,South Australia,2021-08-02,863,4,831,29,0,1,0.034482758620689655,0.0,1.0,1,
 560,Australia,South Australia,2021-08-03,866,4,835,31,0,4,0.12903225806451613,0.0,1.0,4,0.0
+561,Australia,South Australia,2021-08-04,866,4,841,27,0,6,0.2222222222222222,0.0,1.0,6,0.0
