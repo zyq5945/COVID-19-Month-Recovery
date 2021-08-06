@@ -560,3 +560,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,China,Fujian,2021-08-02,743,1,700,43,0,1,0.023255813953488372,0.0,1.0,1,0.0
 560,China,Fujian,2021-08-03,748,1,700,47,0,0,0.0,,,0,
 561,China,Fujian,2021-08-04,751,1,702,50,0,2,0.04,0.0,1.0,2,
+562,China,Fujian,2021-08-05,751,1,,48,0,,,,,,

@@ -429,3 +429,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,Ukraine,Chernivtsi Oblast,2021-08-02,80199,1798,78218,184,0,1,0.005434782608695652,0.0,1.0,1,0.0
 560,Ukraine,Chernivtsi Oblast,2021-08-03,80212,1798,78223,196,0,5,0.025510204081632654,0.0,1.0,5,0.0
 561,Ukraine,Chernivtsi Oblast,2021-08-04,80222,1798,78230,201,0,7,0.03482587064676617,0.0,1.0,7,0.0
+562,Ukraine,Chernivtsi Oblast,2021-08-05,80245,1798,,217,0,,,,,,

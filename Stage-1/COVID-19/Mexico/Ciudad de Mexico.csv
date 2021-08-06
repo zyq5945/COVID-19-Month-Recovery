@@ -441,3 +441,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,Mexico,Ciudad de Mexico,2021-08-02,788997,35745,0,753312,60,0,7.964827322543648e-05,1.0,0.0,60,0.0
 560,Mexico,Ciudad de Mexico,2021-08-03,793882,35813,0,758137,68,0,8.969355142935907e-05,1.0,0.0,68,0.0
 561,Mexico,Ciudad de Mexico,2021-08-04,799306,35874,0,763493,61,0,7.989595189477834e-05,1.0,0.0,61,0.0
+562,Mexico,Ciudad de Mexico,2021-08-05,804298,35964,,768424,90,,,,,,

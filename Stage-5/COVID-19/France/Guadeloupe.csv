@@ -101,4 +101,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 110,France,Guadeloupe,2021-07-24,17982,278,2250,15454,0,0,0.0,,,0,
 111,France,Guadeloupe,2021-07-29,18313,280,2250,15785,2,0,0.00012670256572695597,1.0,0.0,2,
 112,France,Guadeloupe,2021-08-03,21125,283,2250,18595,3,0,0.00016133369185264857,1.0,0.0,3,0.0
-113,France,Guadeloupe,2021-08-04,21125,283,2250,18592,0,0,0.0,,,0,
+113,France,Guadeloupe,2021-08-05,21125,283,,18592,0,,,,,,

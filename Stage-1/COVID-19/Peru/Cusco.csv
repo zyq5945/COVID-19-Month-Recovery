@@ -433,3 +433,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,Peru,Cusco,2021-08-02,70230,4602,0,65628,0,0,0.0,,,0,
 560,Peru,Cusco,2021-08-03,70487,4624,0,65885,22,0,0.00033391515519465737,1.0,0.0,22,
 561,Peru,Cusco,2021-08-04,70627,4624,0,66003,0,0,0.0,,,0,
+562,Peru,Cusco,2021-08-05,70627,4624,,66003,0,,,,,,

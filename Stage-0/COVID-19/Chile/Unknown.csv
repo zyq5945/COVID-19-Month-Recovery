@@ -14,4 +14,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 17,Chile,Unknown,2021-05-31,54,0,54,6,0,6,1.0,0.0,1.0,6,-1.0
 18,Chile,Unknown,2021-06-30,52,0,52,-2,0,-2,1.0,-0.0,1.0,-2,0.0
 19,Chile,Unknown,2021-07-31,51,0,51,-1,0,-1,1.0,-0.0,1.0,-1,0.0
-20,Chile,Unknown,2021-08-04,51,0,51,0,0,0,,,,0,
+20,Chile,Unknown,2021-08-05,51,0,,0,0,,,,,,

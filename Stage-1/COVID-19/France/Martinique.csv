@@ -500,3 +500,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,France,Martinique,2021-08-02,22439,129,104,22231,25,0,0.0011245558004588188,1.0,0.0,25,
 560,France,Martinique,2021-08-03,22439,129,104,22206,0,0,0.0,,,0,
 561,France,Martinique,2021-08-04,23667,147,104,23434,18,0,0.0007681147051292993,1.0,0.0,18,
+562,France,Martinique,2021-08-05,23667,147,,23416,0,,,,,,

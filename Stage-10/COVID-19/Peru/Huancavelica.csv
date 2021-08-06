@@ -43,4 +43,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 54,Peru,Huancavelica,2021-07-14,15441,1120,0,14340,19,0,0.0013249651324965133,1.0,0.0,19,
 55,Peru,Huancavelica,2021-07-24,15499,1125,0,14379,5,0,0.0003477293274914806,1.0,0.0,5,0.0
 56,Peru,Huancavelica,2021-08-03,15653,1125,0,14528,0,0,0.0,,,0,
-57,Peru,Huancavelica,2021-08-04,15660,1124,0,14535,-1,0,-6.879944960440316e-05,1.0,-0.0,-1,
+57,Peru,Huancavelica,2021-08-05,15660,1124,,14535,-1,,,,,,

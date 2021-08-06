@@ -503,3 +503,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,Canada,Nova Scotia,2021-08-02,5887,93,5785,9,0,0,0.0,,,0,
 560,Canada,Nova Scotia,2021-08-03,5893,93,5788,15,0,3,0.2,0.0,1.0,3,
 561,Canada,Nova Scotia,2021-08-04,5895,93,5791,14,0,3,0.21428571428571427,0.0,1.0,3,0.0
+562,Canada,Nova Scotia,2021-08-05,5899,93,,15,0,,,,,,

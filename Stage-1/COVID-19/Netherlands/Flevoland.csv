@@ -383,3 +383,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,Netherlands,Flevoland,2021-08-02,40172,244,0,39928,0,0,0.0,,,0,
 560,Netherlands,Flevoland,2021-08-03,40224,245,0,39980,1,0,2.5012506253126565e-05,1.0,0.0,1,
 561,Netherlands,Flevoland,2021-08-04,40297,245,0,40052,0,0,0.0,,,0,
+562,Netherlands,Flevoland,2021-08-05,40363,246,,40118,1,,,,,,

@@ -555,3 +555,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,Australia,Victoria,2021-08-02,20955,820,20011,139,0,15,0.1079136690647482,0.0,1.0,15,0.0
 560,Australia,Victoria,2021-08-03,20955,820,20036,124,0,25,0.20161290322580644,0.0,1.0,25,0.0
 561,Australia,Victoria,2021-08-04,20961,820,20061,105,0,25,0.23809523809523808,0.0,1.0,25,0.0
+562,Australia,Victoria,2021-08-05,20967,820,,86,0,,,,,,
