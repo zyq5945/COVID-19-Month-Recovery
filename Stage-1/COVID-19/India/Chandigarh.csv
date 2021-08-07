@@ -420,4 +420,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,India,Chandigarh,2021-08-02,61960,811,61116,36,0,3,0.08333333333333333,0.0,1.0,3,0.0
 560,India,Chandigarh,2021-08-03,61965,811,61120,38,0,4,0.10526315789473684,0.0,1.0,4,0.0
 561,India,Chandigarh,2021-08-04,61965,811,61123,34,0,3,0.08823529411764706,0.0,1.0,3,0.0
-562,India,Chandigarh,2021-08-05,61965,811,,31,0,,,,,,
+562,India,Chandigarh,2021-08-05,61966,811,,32,0,,,,,,
+563,India,Chandigarh,2021-08-06,61966,811,,,0,,,,,,

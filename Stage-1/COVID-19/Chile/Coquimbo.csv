@@ -442,3 +442,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 560,Chile,Coquimbo,2021-08-03,47718,940,46499,320,0,41,0.128125,0.0,1.0,41,0.07692307692307687
 561,Chile,Coquimbo,2021-08-04,47744,940,46546,305,0,47,0.1540983606557377,0.0,1.0,47,0.0
 562,Chile,Coquimbo,2021-08-05,47790,948,,304,8,,,,,,
+563,Chile,Coquimbo,2021-08-06,47821,952,,,4,,,,,,

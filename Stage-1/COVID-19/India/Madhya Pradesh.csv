@@ -420,4 +420,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 559,India,Madhya Pradesh,2021-08-02,791862,10513,781217,142,0,10,0.07042253521126761,0.0,1.0,10,0.0
 560,India,Madhya Pradesh,2021-08-03,791880,10513,781228,150,0,11,0.07333333333333333,0.0,1.0,11,0.0
 561,India,Madhya Pradesh,2021-08-04,791908,10513,781240,167,0,12,0.0718562874251497,0.0,1.0,12,0.0
-562,India,Madhya Pradesh,2021-08-05,791908,10513,,155,0,,,,,,
+562,India,Madhya Pradesh,2021-08-05,791919,10514,,166,1,,,,,,
+563,India,Madhya Pradesh,2021-08-06,791919,10514,,,0,,,,,,

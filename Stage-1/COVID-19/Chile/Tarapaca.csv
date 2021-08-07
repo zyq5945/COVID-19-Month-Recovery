@@ -442,3 +442,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 560,Chile,Tarapaca,2021-08-03,40393,787,39384,246,0,24,0.0975609756097561,0.0,1.0,24,0.11538461538461542
 561,Chile,Tarapaca,2021-08-04,40428,787,39435,257,0,51,0.19844357976653695,0.0,1.0,51,0.0
 562,Chile,Tarapaca,2021-08-05,40454,791,,232,4,,,,,,
+563,Chile,Tarapaca,2021-08-06,40521,792,,,1,,,,,,

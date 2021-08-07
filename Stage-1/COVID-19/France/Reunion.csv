@@ -506,3 +506,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 560,France,Reunion,2021-08-03,40245,288,35563,6076,13,1669,0.27682685977616855,0.0077288941736028535,0.9922711058263971,1682,
 561,France,Reunion,2021-08-04,40245,288,35563,4394,0,0,0.0,,,0,
 562,France,Reunion,2021-08-05,40245,288,,4394,0,,,,,,
+563,France,Reunion,2021-08-06,40245,288,,,0,,,,,,

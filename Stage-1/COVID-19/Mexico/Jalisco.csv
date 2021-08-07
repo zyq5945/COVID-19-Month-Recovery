@@ -442,3 +442,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 560,Mexico,Jalisco,2021-08-03,107973,13179,0,94838,44,0,0.0004639490499588772,1.0,0.0,44,0.0
 561,Mexico,Jalisco,2021-08-04,109128,13246,0,95949,67,0,0.0006982876319711513,1.0,0.0,67,0.0
 562,Mexico,Jalisco,2021-08-05,110504,13301,,97258,55,,,,,,
+563,Mexico,Jalisco,2021-08-06,111809,13356,,,55,,,,,,

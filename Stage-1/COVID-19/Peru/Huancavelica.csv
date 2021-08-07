@@ -434,3 +434,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 560,Peru,Huancavelica,2021-08-03,15653,1125,0,14529,1,0,6.882786151834262e-05,1.0,0.0,1,
 561,Peru,Huancavelica,2021-08-04,15660,1124,0,14535,-1,0,-6.879944960440316e-05,1.0,-0.0,-1,-0.0
 562,Peru,Huancavelica,2021-08-05,15660,1124,,14536,0,,,,,,
+563,Peru,Huancavelica,2021-08-06,15695,1131,,,7,,,,,,

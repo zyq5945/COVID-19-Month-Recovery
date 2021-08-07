@@ -512,3 +512,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 560,China,Hong Kong,2021-08-03,11994,212,11719,67,0,4,0.05970149253731343,0.0,1.0,4,
 561,China,Hong Kong,2021-08-04,11996,212,11721,65,0,2,0.03076923076923077,0.0,1.0,2,0.0
 562,China,Hong Kong,2021-08-05,12002,212,,69,0,,,,,,
+563,China,Hong Kong,2021-08-06,12004,212,,,0,,,,,,
