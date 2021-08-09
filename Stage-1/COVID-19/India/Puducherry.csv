@@ -422,4 +422,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 561,India,Puducherry,2021-08-04,121252,1798,118547,1005,3,95,0.09751243781094528,0.030612244897959183,0.9693877551020408,98,-0.030612244897959218
 562,India,Puducherry,2021-08-05,121333,1798,,988,0,,,,,,
 563,India,Puducherry,2021-08-06,121421,1799,,,1,,,,,,
-564,India,Puducherry,2021-08-07,121421,1799,,,0,,,,,,
+564,India,Puducherry,2021-08-07,121523,1800,,,1,,,,,,
+565,India,Puducherry,2021-08-08,121523,1800,,,0,,,,,,

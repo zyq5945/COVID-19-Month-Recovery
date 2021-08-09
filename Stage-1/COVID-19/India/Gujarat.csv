@@ -422,4 +422,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 561,India,Gujarat,2021-08-04,824954,10076,814665,241,0,28,0.11618257261410789,0.0,1.0,28,0.0
 562,India,Gujarat,2021-08-05,824978,10076,,237,0,,,,,,
 563,India,Gujarat,2021-08-06,825001,10077,,,1,,,,,,
-564,India,Gujarat,2021-08-07,825001,10077,,,0,,,,,,
+564,India,Gujarat,2021-08-07,825020,10077,,,0,,,,,,
+565,India,Gujarat,2021-08-08,825020,10077,,,0,,,,,,
