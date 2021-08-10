@@ -112,3 +112,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 111,China,Hunan,2021-07-29,1073,4,1055,16,0,2,0.125,0.0,1.0,2,
 112,China,Hunan,2021-08-03,1111,4,1064,52,0,9,0.17307692307692307,0.0,1.0,9,0.0
 113,China,Hunan,2021-08-08,1156,4,,88,0,,,,,,
+114,China,Hunan,2021-08-09,1162,4,,,0,,,,,,

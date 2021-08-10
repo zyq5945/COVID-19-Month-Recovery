@@ -16,4 +16,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 17,France,Mayotte,2021-05-31,19325,173,2964,16191,3,0,0.00018528812303131369,1.0,0.0,3,0.0
 18,France,Mayotte,2021-06-30,19412,174,2964,16275,1,0,6.144393241167435e-05,1.0,0.0,1,0.0
 19,France,Mayotte,2021-07-31,19494,174,2964,16356,0,0,0.0,,,0,
-20,France,Mayotte,2021-08-08,19518,174,,16380,0,,,,,,
+20,France,Mayotte,2021-08-09,19546,175,,16408,1,,,,,,

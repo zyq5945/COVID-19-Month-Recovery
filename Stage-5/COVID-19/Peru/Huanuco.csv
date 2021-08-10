@@ -87,3 +87,4 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 111,Peru,Huanuco,2021-07-29,34632,2645,0,31998,11,0,0.00034377148571785736,1.0,0.0,11,0.0
 112,Peru,Huanuco,2021-08-03,34733,2650,0,32088,5,0,0.00015582149090002492,1.0,0.0,5,0.0
 113,Peru,Huanuco,2021-08-08,34806,2654,,32156,4,,,,,,
+114,Peru,Huanuco,2021-08-09,34806,2654,,,0,,,,,,
