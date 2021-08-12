@@ -425,4 +425,5 @@ Index,Region,Subregion,Stage,Confirmed,Deaths,Recovered,Stage_Confirmed,Stage_De
 564,India,Delhi,2021-08-07,1436695,25066,,,1,,,,,,
 565,India,Delhi,2021-08-08,1436761,25066,,,0,,,,,,
 566,India,Delhi,2021-08-09,1436800,25067,,,1,,,,,,
-567,India,Delhi,2021-08-10,1436800,25067,,,0,,,,,,
+567,India,Delhi,2021-08-10,1436852,25068,,,1,,,,,,
+568,India,Delhi,2021-08-11,1436889,25068,,,0,,,,,,
